@@ -1,0 +1,13 @@
+{
+  "name": "@sheinkman/skills",
+  "version": "0.1.0",
+  "description": "Installable Claude Code skills",
+  "bin": {
+    "skills": "bin/install-skill.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheinkman/skills.git"
+  },
+  "license": "MIT"
+}
