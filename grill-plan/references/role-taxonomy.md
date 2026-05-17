@@ -180,15 +180,18 @@ For any plan with ≥3 levers, **always include Steel-manner** — empirically t
 - The specific project rule / memory entry / playbook the plan violates
 - A past incident where the same gotcha bit
 
-**Claim-examiner gotchas worth checking:**
+**Example — claim-examiner gotchas** (shown to illustrate the *shape* of project-specific knowledge a Domain Specialist should be primed with; substitute your own project's equivalents before dispatching):
+
 - Foreign-anchor count is necessary but not sufficient for suppression to fire
 - The `divergence` metric reads 84–95% uniformly and is unusable as a gate signal
-- IDLE_TIMEOUT_MS at 90s causes ADK timeouts; 210s is the validated floor
+- `IDLE_TIMEOUT_MS` at 90s causes ADK timeouts; 210s is the validated floor
 - `start-be.sh` must be used; bypassing it produces zombie workers
 - Per-claim target $ must be sourced from the authoritative examiner (never guessed)
 - Foreign-anchor + suppression-name combinations are the actual signal, not divergence
 
-**For other domains:** Before dispatching, ask the user: "What's the load-bearing gotcha in this area that a generic critic would miss?"
+Notice the shape: each gotcha is a **falsifiable rule grounded in a past incident or a specific file/metric**. Vague maxims ("be careful with prompts") don't qualify — a Domain Specialist armed with vague rules will return vague findings.
+
+**For your own project:** before dispatching, ask the user "What's the load-bearing gotcha in this area that a generic critic would miss?" and capture the answer in the same falsifiable-rule shape.
 
 ---
 

@@ -56,7 +56,7 @@ Then score **grilling viability**:
 
 **LOW-viability alternatives** (suggest whichever fits):
 - **"Just ship the small version"** — reversible cheap calls don't need adversarial review.
-- **"Get evidence first"** — if claims are unfalsifiable without a batch run, recommend `/eval-batch` (claim-examiner project) or whatever measurement the user has available.
+- **"Get evidence first"** — if claims are unfalsifiable without a batch run, recommend the user run their measurement infrastructure first (e.g. `/eval-batch` in the claim-examiner project, or whatever batch-eval / load-test / metric harness their stack has).
 - **"Pick the steel-manned opposite"** — for forced moves where the question is direction not which-lever.
 - **"Decide and move on"** — flag that grilling will produce fake objections and waste cycles.
 
@@ -181,7 +181,7 @@ When all agents return, aggregate into:
 
 **Convergence check.** If the iteration produced ≥1 new substantive challenge that changes a verdict, run a second pass with the agents most likely to find more — usually Steel-manner and Code Contradiction Hunter. State the iteration count explicitly. Stop after 3 iterations regardless; further passes produce diminishing returns.
 
-**Hand-off.** Once converged, the grill output is the input to whatever doc the user is writing — for the claim-examiner project, this becomes the Phase 3 "decision grill" section of `/wave-plan`. For other projects, paste the rejected/accepted tables into the user's planning doc.
+**Hand-off.** Once converged, paste the rejected / accepted tables into the user's planning doc — they're the load-bearing output and survive context compression better than bullet summaries. (In the claim-examiner project specifically, the table becomes the Phase 3 "decision grill" section of `/wave-plan`.)
 
 ---
 
