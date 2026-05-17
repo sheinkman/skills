@@ -19,6 +19,7 @@ npx github:sheinkman/skills grill-plan some-other-skill
 ## Skills
 
 - **grill-plan** — Adversarial planning skill that grills implementation plans for hidden assumptions, edge cases, and missing context before you commit to them.
+- **unity** — Unity 6.4 + URP skill: C# gameplay code, custom Render Graph passes, audio, AI/NavMesh, 2D/isometric, Addressables, performance, editor tooling, and shipping builds. Targets the current Supported release with Forward+.
 
 ## Add a skill
 
