@@ -1,0 +1,824 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.000 --> 00:00:04.000
+hey this is Jerry from Bliz Studio and
+in this unity tutorial we're going to
+
+00:00:04.000 --> 00:00:08.559
+look at the train tools that are built
+into unity and then also the terrain
+
+00:00:08.559 --> 00:00:12.160
+tool asset that you can download as a
+package. So if you're ready to start
+
+00:00:12.160 --> 00:00:17.600
+building 3d terrains, let's go. okay so
+here i am in unity and this tutorial is
+
+00:00:17.600 --> 00:00:21.760
+a little bit of a long one so i hope
+that you stick with me now what are we
+
+00:00:21.760 --> 00:00:27.039
+gonna cover we are covering creating
+terrain all right so to get started i've
+
+00:00:27.039 --> 00:00:31.920
+already imported a character that i
+downloaded from mixamo into my game the
+
+00:00:31.920 --> 00:00:35.960
+next thing i need to do is to go ahead
+and go over to
+
+00:00:35.960 --> 00:00:41.280
+assetstore.unity.com and i've downloaded
+three different asset packs the first
+
+00:00:41.280 --> 00:00:45.440
+one is the low poly environment nature
+pack and the one thing that you need to
+
+00:00:45.440 --> 00:00:50.960
+know with a lot of the asset packs i am
+starting a urp project and you just need
+
+00:00:50.960 --> 00:00:56.480
+to make sure that the asset packs that
+you download will work with urp a lot of
+
+00:00:56.480 --> 00:01:00.960
+them will have a
+component that you install after you
+
+00:01:00.960 --> 00:01:06.240
+download this that will then upgrade the
+materials to urp so i'm using the low
+
+00:01:06.240 --> 00:01:12.240
+poly environment nature pack which is
+free i'm also using the fantasy skybox
+
+00:01:12.240 --> 00:01:16.240
+which is free as well
+and then we are going to
+
+00:01:16.240 --> 00:01:21.600
+in unity download unity's new terrain
+tools asset pack from the package
+
+00:01:21.600 --> 00:01:28.479
+manager and then with that it has a set
+of downloads that you can extend the
+
+00:01:28.479 --> 00:01:34.400
+built-in terrain tools set
+with this sample pack as well so this is
+
+00:01:34.400 --> 00:01:40.159
+terrain sample pack asset and we'll go
+over to unity so in unity let's take a
+
+00:01:40.159 --> 00:01:44.240
+look at the package manager the option
+that you need to download is terrain
+
+00:01:44.240 --> 00:01:49.439
+tools now there is already built-in
+terrain tools in unity this just extends
+
+00:01:49.439 --> 00:01:53.600
+and adds a lot more features to it so go
+ahead and download that and then here is
+
+00:01:53.600 --> 00:01:59.200
+the link for the download asset pack
+which is this terrain sample asset pack
+
+00:01:59.200 --> 00:02:02.640
+it'll be good for you to have for this
+particular tutorial
+
+00:02:02.640 --> 00:02:06.320
+all right now with that being said let's
+go ahead and close this i've already
+
+00:02:06.320 --> 00:02:11.120
+installed all of that so let's jump
+right into the terrain so for me to go
+
+00:02:11.120 --> 00:02:15.520
+ahead and start a terrain i am going to
+go ahead to 3d object
+
+00:02:15.520 --> 00:02:20.080
+and hit terrain this creates a terrain
+that's fairly large now my character
+
+00:02:20.080 --> 00:02:23.520
+looks big is because the character is
+way up in the sky
+
+00:02:23.520 --> 00:02:29.680
+and my terrain is way down low so for us
+to go ahead and set this up we want to
+
+00:02:29.680 --> 00:02:35.440
+make sure we have our terrain selected
+and then in the terrain component window
+
+00:02:35.440 --> 00:02:39.519
+you can see that we've got a bunch of
+different buttons across the top see
+
+00:02:39.519 --> 00:02:44.319
+with our paint train tab selected we can
+go and go to set height
+
+00:02:44.319 --> 00:02:48.720
+and then down at the bottom we're going
+to change this to be 100 and then we're
+
+00:02:48.720 --> 00:02:52.239
+going to flatten tile so what that's
+going to do is bring the level of our
+
+00:02:52.239 --> 00:02:56.640
+terrain up so we can then both decrease
+and increase the height
+
+00:02:56.640 --> 00:03:00.959
+boom all of a sudden our terrain is way
+higher now we need to go ahead and
+
+00:03:00.959 --> 00:03:05.280
+instead of set height we're going to go
+back to raise and lower terrain this is
+
+00:03:05.280 --> 00:03:08.879
+where we can start to increase and
+decrease the terrain to make it look
+
+00:03:08.879 --> 00:03:14.159
+like mountains and hills and valleys
+so i'm going to go ahead and just zoom
+
+00:03:14.159 --> 00:03:17.280
+out
+so you can see the size of my character
+
+00:03:17.280 --> 00:03:20.319
+in relation to
+the terrain
+
+00:03:20.319 --> 00:03:23.840
+we have all these brushes to then be
+able to use to paint hills and valleys
+
+00:03:23.840 --> 00:03:27.599
+onto our terrain there's a couple keys
+that you want to use
+
+00:03:27.599 --> 00:03:34.720
+they're the a d s and control key if you
+hold the 8 key you can decrease and
+
+00:03:34.720 --> 00:03:39.840
+increase the strength of the brush
+if you hold the s key that changes the
+
+00:03:39.840 --> 00:03:44.480
+size so i'm just hitting the key and
+then moving my cursor left and right
+
+00:03:44.480 --> 00:03:48.959
+and then the d key allows you to rotate
+your train brush
+
+00:03:48.959 --> 00:03:53.200
+and then the control key
+inverses it so that it's decreasing the
+
+00:03:53.200 --> 00:03:56.959
+size of the train versus increasing the
+size of the train so i'm going to go
+
+00:03:56.959 --> 00:04:01.840
+ahead and just paint out a little bit of
+terrain real quick
+
+00:04:09.760 --> 00:04:13.519
+we now have some features in our terrain
+so i'm going to go ahead and go back to
+
+00:04:13.519 --> 00:04:17.120
+my player
+and now it's below the train so what i
+
+00:04:17.120 --> 00:04:22.400
+need to do is to just go ahead and move
+the character up
+
+00:04:22.400 --> 00:04:27.840
+there we go and i've also went ahead and
+i've attached the main camera to the
+
+00:04:27.840 --> 00:04:32.320
+player and so that that that way it
+gives us a place to see or how we can
+
+00:04:32.320 --> 00:04:35.600
+see the player within the environment
+i'm gonna go ahead and just rotate my
+
+00:04:35.600 --> 00:04:40.240
+player real quick
+all right so now we have this terrain
+
+00:04:40.240 --> 00:04:44.320
+with some features we need to actually
+go ahead and start coloring it the way
+
+00:04:44.320 --> 00:04:48.000
+we're going to do that is to paint
+texture so with the terrain selected i'm
+
+00:04:48.000 --> 00:04:53.040
+going to go back to my paint terrain tab
+i'm going to select paint texture and
+
+00:04:53.040 --> 00:04:56.720
+then down at the bottom we can go ahead
+and start adding layers to actually
+
+00:04:56.720 --> 00:05:00.960
+paint onto our terrain
+so i'm going to first add the layer i
+
+00:05:00.960 --> 00:05:03.759
+have some of the predefined textures
+that we can add i'm going to go ahead
+
+00:05:03.759 --> 00:05:08.639
+and just use this grass a texture
+and then boom now our terrain has some
+
+00:05:08.639 --> 00:05:12.240
+texture to it now i think the grass is
+just a little bit small so what i'm
+
+00:05:12.240 --> 00:05:17.360
+going to do is to just select the name
+right next to the tile i'm going to
+
+00:05:17.360 --> 00:05:21.759
+select that and then i can change the
+size of the grass within this
+
+00:05:21.759 --> 00:05:26.400
+environment so i'm going to go ahead and
+just increase this to maybe 20 by 20 and
+
+00:05:26.400 --> 00:05:30.560
+i think that looks a little bit better
+now the next thing i want to do is to go
+
+00:05:30.560 --> 00:05:34.720
+ahead and paint a path onto my terrain
+as well
+
+00:05:34.720 --> 00:05:38.000
+so for me to be able to do that i'm
+going to go back to my terrain and i
+
+00:05:38.000 --> 00:05:41.919
+need to add another layer so i'm going
+to go ahead and add layer
+
+00:05:41.919 --> 00:05:45.440
+and i'm going to find something that
+looks like it would be path and so i'm
+
+00:05:45.440 --> 00:05:48.880
+going to go ahead and just use this sand
+terrain
+
+00:05:48.880 --> 00:05:54.639
+and then what i can do is i can go and
+select maybe this smooth brush
+
+00:05:54.639 --> 00:06:00.240
+and let's go back to our scene view
+and i need to make it way smaller i want
+
+00:06:00.240 --> 00:06:04.960
+to zoom in to where my players at and
+then we can go ahead and start painting
+
+00:06:04.960 --> 00:06:10.080
+so with my sand selected i'm going to go
+ahead and just start painting
+
+00:06:10.080 --> 00:06:14.240
+right a path onto my terrain now i'm
+going to go ahead and just increase the
+
+00:06:14.240 --> 00:06:18.160
+strength here just a little bit and you
+can start to see how there's just a
+
+00:06:18.160 --> 00:06:24.080
+little bit of a linear aspect what this
+path looks like and we want to make sure
+
+00:06:24.080 --> 00:06:27.680
+that this has a little bit higher
+resolution so we have a nice smooth
+
+00:06:27.680 --> 00:06:32.080
+transition so to do that what we're
+going to do is go to window terrain
+
+00:06:32.080 --> 00:06:36.639
+terrain toolbox and then right here
+we've got the option of choosing a
+
+00:06:36.639 --> 00:06:40.800
+texture resolution and we're going to
+set the control texture resolution here
+
+00:06:40.800 --> 00:06:45.280
+a little bit higher so i'm going to go
+to 2048 apply to select a train now we
+
+00:06:45.280 --> 00:06:51.360
+can just close that window
+and then our path will be a lot smoother
+
+00:06:51.360 --> 00:06:56.880
+so let me go ahead and just paint out a
+path real quick and we'll be right back
+
+00:06:57.360 --> 00:07:00.800
+so i have a little bit of a path painted
+out i'm going to go ahead and just
+
+00:07:00.800 --> 00:07:04.880
+continue by adding a new layer and what
+i want to do is just i don't want the
+
+00:07:04.880 --> 00:07:09.039
+path to be right on the grass and so
+what i'm going to do is just add a
+
+00:07:09.039 --> 00:07:14.160
+little bit of a transition in between
+the path and the grass so i've got a
+
+00:07:14.160 --> 00:07:17.199
+couple different options of elements
+here i'm going to go ahead and just
+
+00:07:17.199 --> 00:07:21.520
+choose this grass soil terrain and let's
+go ahead and choose that one and then i
+
+00:07:21.520 --> 00:07:25.120
+can go ahead and paint this as well
+
+00:07:27.520 --> 00:07:32.319
+cool so there we go we now have a little
+bit of a path that our character can
+
+00:07:32.319 --> 00:07:35.360
+travel along and of course those
+mountains that are in the distance
+
+00:07:35.360 --> 00:07:38.240
+aren't gonna be covered in grass they're
+gonna be covered in rocks so let's go
+
+00:07:38.240 --> 00:07:42.800
+ahead and add a new layer and let's just
+find a nice rock terrain okay so i'm
+
+00:07:42.800 --> 00:07:46.720
+gonna go ahead and paint some of the
+mountains in the distance to have rock
+
+00:07:46.720 --> 00:07:49.039
+drain
+
+00:07:51.759 --> 00:07:55.280
+okay now that we have some rocky terrain
+let's go ahead and add a little bit of
+
+00:07:55.280 --> 00:07:59.840
+snow
+so let's add a new layer
+
+00:08:00.319 --> 00:08:04.800
+and i've got a snow terrain option
+and then i'm going to go ahead and just
+
+00:08:04.800 --> 00:08:10.160
+take the brush size way down
+so we can be very selective about where
+
+00:08:10.160 --> 00:08:13.800
+we're painting this
+
+00:08:16.080 --> 00:08:20.479
+okay so the next thing that i want to do
+is currently my path is
+
+00:08:20.479 --> 00:08:25.440
+just flat along the terrain and i want
+that path because it is a path where
+
+00:08:25.440 --> 00:08:29.440
+people have traveled i want it to be
+slightly indented so what we're going to
+
+00:08:29.440 --> 00:08:34.240
+do is go back to our terrain
+and we're going to go ahead and raise
+
+00:08:34.240 --> 00:08:37.760
+and lower i want to go ahead and indent
+that path so i'm going to take that
+
+00:08:37.760 --> 00:08:43.120
+strength way down as well so i want the
+path to be slightly indented so for me
+
+00:08:43.120 --> 00:08:46.959
+to do that i just need to hold down the
+control key
+
+00:08:46.959 --> 00:08:53.480
+and i can paint
+a dent into the path
+
+00:08:54.800 --> 00:08:59.200
+the next thing i want to do is to go
+ahead and paint on some grass so for me
+
+00:08:59.200 --> 00:09:03.680
+to do that i need to go to my
+grass tab
+
+00:09:03.680 --> 00:09:08.480
+and we can go ahead and edit details
+and i'm going to add some grass texture
+
+00:09:08.480 --> 00:09:12.320
+we can add meshes or we can add the
+texture i'm gonna go ahead and add a
+
+00:09:12.320 --> 00:09:17.760
+texture so let's go ahead and add detail
+and i'm gonna just
+
+00:09:17.760 --> 00:09:23.600
+choose my brush grass right here
+and then i have some options for how big
+
+00:09:23.600 --> 00:09:28.800
+this is in both a min and a max and then
+a height min and max and you can always
+
+00:09:28.800 --> 00:09:32.560
+go back and edit these as well so i'm
+going to go ahead and just
+
+00:09:32.560 --> 00:09:38.240
+go 0.2 and maybe point
+eight
+
+00:09:38.240 --> 00:09:42.240
+i'll do the same thing on the height
+so it'll give us just a little bit of a
+
+00:09:42.240 --> 00:09:45.680
+variety
+and i'm gonna go ahead and add that
+
+00:09:45.680 --> 00:09:49.040
+grass
+and then i can now just start painting
+
+00:09:49.040 --> 00:09:54.000
+grass onto the terrain so i've got the
+option of choosing the brush size the
+
+00:09:54.000 --> 00:09:58.240
+opacity which is how thick the grass is
+going to be as well as the target
+
+00:09:58.240 --> 00:10:02.480
+strength
+so boom you can see how easy it is just
+
+00:10:02.480 --> 00:10:07.440
+to start painting grass all over your
+terrain
+
+00:10:08.640 --> 00:10:13.120
+and if you do accidentally paint some
+grass onto your path you can easily go
+
+00:10:13.120 --> 00:10:19.360
+ahead and delete that as well so i'm
+going to just zoom into my path here
+
+00:10:19.360 --> 00:10:24.160
+take my brush size down and then i can
+just hold the ctrl key
+
+00:10:24.160 --> 00:10:29.880
+and boom now i'm just removing
+the grass
+
+00:10:32.320 --> 00:10:35.519
+now this grass doesn't really look all
+that great right now so what i want to
+
+00:10:35.519 --> 00:10:39.360
+do is i'm going to go ahead and go to my
+edit details and i'm going to edit this
+
+00:10:39.360 --> 00:10:43.360
+grass so what we can do is we can start
+playing around with the color as the
+
+00:10:43.360 --> 00:10:46.959
+grass is on the ground
+so we can change what the healthy color
+
+00:10:46.959 --> 00:10:51.200
+looks like so i'm going to just change
+this to be a little bit more
+
+00:10:51.200 --> 00:10:55.360
+in terms with the regular grass
+
+00:10:56.480 --> 00:10:59.440
+and there we go i can also add more
+details so i'm going to go ahead and
+
+00:10:59.440 --> 00:11:03.440
+just edit details and add more grass
+texture
+
+00:11:03.440 --> 00:11:08.160
+so let's find a different type of grass
+and let's maybe go ahead and add some
+
+00:11:08.160 --> 00:11:13.320
+flowers this time so i'm going to go
+ahead and add flowers
+
+00:11:14.720 --> 00:11:18.560
+now the next thing we need is some trees
+in our train okay so what i'm going to
+
+00:11:18.560 --> 00:11:23.040
+do is go to my paint trees tab
+and then with that we can go ahead and
+
+00:11:23.040 --> 00:11:28.240
+edit trees i'm going to add a tree
+so we're going to select a tree to use
+
+00:11:28.240 --> 00:11:33.279
+and even though these look pink they
+actually do paint out as regular
+
+00:11:33.279 --> 00:11:37.839
+graphics so i'm going to choose a pine
+tree go ahead and select ok and then i'm
+
+00:11:37.839 --> 00:11:41.519
+going to add that
+and then with this again i can choose
+
+00:11:41.519 --> 00:11:44.399
+the brush size
+and then how we're going to paint that
+
+00:11:44.399 --> 00:11:49.680
+tree and i can choose some randomization
+of the tree height so let's just start
+
+00:11:49.680 --> 00:11:54.079
+placing a few trees
+boom so that's pretty pretty dense
+
+00:11:54.079 --> 00:11:56.560
+there's a lot of different settings that
+you can use here but i'm going to go
+
+00:11:56.560 --> 00:12:00.240
+ahead and just undo that real quick and
+as opposed to painting all these trees
+
+00:12:00.240 --> 00:12:04.320
+in we can go ahead and use this this
+mass place trees option so i'm going to
+
+00:12:04.320 --> 00:12:07.680
+go ahead and select that
+and then with that we're going to place
+
+00:12:07.680 --> 00:12:13.760
+10 000 trees across our whole terrain
+so i'm gonna go ahead and just hit place
+
+00:12:13.760 --> 00:12:17.360
+and then boom all of a sudden now we
+have trees across our whole train then
+
+00:12:17.360 --> 00:12:22.240
+you can go back and start filling in or
+removing as you see fit so i'm gonna go
+
+00:12:22.240 --> 00:12:26.800
+ahead and just remove remove a few here
+so again hold down the control key and
+
+00:12:26.800 --> 00:12:31.600
+we can just deselect or de-paint some of
+those trees and then we can also just go
+
+00:12:31.600 --> 00:12:35.360
+back and add more trees as needed
+
+00:12:37.760 --> 00:12:40.880
+boom there we go so that's actually
+looking pretty good now the next thing i
+
+00:12:40.880 --> 00:12:46.000
+need to do is to go ahead and maybe
+paint in some some brush as well so i'm
+
+00:12:46.000 --> 00:12:50.959
+gonna some bushes so i'm gonna edit
+trees add a new tree and then we also
+
+00:12:50.959 --> 00:12:54.320
+have some options here for different
+types of bushes so i'm gonna go ahead
+
+00:12:54.320 --> 00:12:57.680
+and just add one of those and in this
+case i'm just gonna go ahead and paint
+
+00:12:57.680 --> 00:13:00.720
+down a few of these
+
+00:13:01.279 --> 00:13:05.200
+cool this is looking pretty good but we
+can make it look just a little bit
+
+00:13:05.200 --> 00:13:09.760
+better so the first thing i want to do
+is to go over to my lighting tab and if
+
+00:13:09.760 --> 00:13:13.680
+you don't have that you can go to window
+rendering lighting
+
+00:13:13.680 --> 00:13:18.720
+and we want to go ahead and use our free
+sky box that we downloaded so for us to
+
+00:13:18.720 --> 00:13:22.880
+do that let's go ahead and in the
+environment part of our lighting tab we
+
+00:13:22.880 --> 00:13:25.519
+can go ahead and click on skybox
+material
+
+00:13:25.519 --> 00:13:30.240
+and i now have all of the materials that
+are in my game i'm going to go ahead and
+
+00:13:30.240 --> 00:13:36.639
+just try out a couple of these different
+sky boxes to see what really looks good
+
+00:13:40.720 --> 00:13:45.040
+yeah that one looks actually pretty good
+so i'm going to go ahead and use that
+
+00:13:45.040 --> 00:13:49.360
+then the next thing we need to do is we
+can turn on fog still in my environment
+
+00:13:49.360 --> 00:13:52.000
+tab i'm going to go ahead and turn on
+fog
+
+00:13:52.000 --> 00:13:56.240
+and then we can choose what the fog
+color is by default this fog color is
+
+00:13:56.240 --> 00:13:59.839
+gray
+but we can change it to whatever color
+
+00:13:59.839 --> 00:14:03.279
+we want and because i have a little bit
+of red in the sky i'm going to go ahead
+
+00:14:03.279 --> 00:14:08.079
+and just choose to have this as a little
+bit red
+
+00:14:08.639 --> 00:14:12.800
+and then we can change the density so
+how thick that fog is and how far away
+
+00:14:12.800 --> 00:14:17.360
+it is so let's just maybe take that down
+to two so we can see down just a little
+
+00:14:17.360 --> 00:14:21.440
+bit further in the distance
+so the next thing that we can do is to
+
+00:14:21.440 --> 00:14:26.160
+also add some post processing because
+this started out as a urp project post
+
+00:14:26.160 --> 00:14:31.440
+processing is installed so what i can do
+is to easily go to volume
+
+00:14:31.440 --> 00:14:36.560
+create a new global volume and i'm going
+to just call this post
+
+00:14:36.560 --> 00:14:40.240
+processing
+and then with that i'm going to go ahead
+
+00:14:40.240 --> 00:14:45.040
+and in my inspector i'm going to add a
+new post-processing volume and now i
+
+00:14:45.040 --> 00:14:49.120
+have that post-processing volume
+installed now i can just select the
+
+00:14:49.120 --> 00:14:52.880
+post-processing
+and then start adding overrides so in
+
+00:14:52.880 --> 00:14:56.800
+this case we can add post-processing
+override we can add maybe just a touch
+
+00:14:56.800 --> 00:15:01.680
+of bloom
+and increase the intensity slightly
+
+00:15:01.680 --> 00:15:05.760
+and for us to be able to see that we
+need to make sure that our main camera
+
+00:15:05.760 --> 00:15:12.560
+also has rendering and post processing
+checked by default that is off so let's
+
+00:15:12.560 --> 00:15:17.000
+go back to our post-processing volume
+
+00:15:35.839 --> 00:15:41.839
+boom there we go so let's go ahead and
+hit play to see how this actually looks
+
+00:15:48.480 --> 00:15:52.720
+yeah i'm digging it so there you go
+there is the terrain tool and a little
+
+00:15:52.720 --> 00:15:58.240
+bit of the post-processing and the fog
+for our terrain hey i hope you enjoyed
+
+00:15:58.240 --> 00:16:01.600
+that tutorial and it's something you can
+use for your game don't forget to hit
+
+00:16:01.600 --> 00:16:04.720
+like subscribe and that little bell icon
+down there so you know when the next
+
+00:16:04.720 --> 00:16:09.399
+tutorial is available until next time
+

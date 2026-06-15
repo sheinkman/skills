@@ -1,0 +1,1248 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:02.330 align:start position:0%
+ 
+hello<00:00:00.719><c> everyone</c><00:00:00.900><c> my</c><00:00:01.319><c> name</c><00:00:01.439><c> is</c><00:00:01.500><c> Greg</c><00:00:01.860><c> and</c><00:00:01.979><c> I</c><00:00:02.159><c> Dev</c>
+
+00:00:02.330 --> 00:00:02.340 align:start position:0%
+hello everyone my name is Greg and I Dev
+ 
+
+00:00:02.340 --> 00:00:04.670 align:start position:0%
+hello everyone my name is Greg and I Dev
+stuff<00:00:02.580><c> welcome</c><00:00:03.240><c> to</c><00:00:03.480><c> episode</c><00:00:03.600><c> 27</c><00:00:04.259><c> of</c><00:00:04.560><c> the</c>
+
+00:00:04.670 --> 00:00:04.680 align:start position:0%
+stuff welcome to episode 27 of the
+ 
+
+00:00:04.680 --> 00:00:07.610 align:start position:0%
+stuff welcome to episode 27 of the
+tactics<00:00:05.220><c> game</c><00:00:05.640><c> in</c><00:00:05.940><c> unity</c><00:00:06.299><c> essential</c><00:00:07.140><c> scene</c>
+
+00:00:07.610 --> 00:00:07.620 align:start position:0%
+tactics game in unity essential scene
+ 
+
+00:00:07.620 --> 00:00:08.509 align:start position:0%
+tactics game in unity essential scene
+system
+
+00:00:08.509 --> 00:00:08.519 align:start position:0%
+system
+ 
+
+00:00:08.519 --> 00:00:10.549 align:start position:0%
+system
+okay<00:00:08.940><c> we</c><00:00:09.179><c> want</c><00:00:09.360><c> to</c><00:00:09.540><c> introduce</c><00:00:09.840><c> a</c><00:00:10.080><c> level</c><00:00:10.260><c> on</c>
+
+00:00:10.549 --> 00:00:10.559 align:start position:0%
+okay we want to introduce a level on
+ 
+
+00:00:10.559 --> 00:00:12.470 align:start position:0%
+okay we want to introduce a level on
+experience<00:00:11.040><c> information</c><00:00:11.280><c> to</c><00:00:12.059><c> the</c><00:00:12.300><c> status</c>
+
+00:00:12.470 --> 00:00:12.480 align:start position:0%
+experience information to the status
+ 
+
+00:00:12.480 --> 00:00:15.169 align:start position:0%
+experience information to the status
+panel<00:00:13.080><c> so</c><00:00:13.799><c> let's</c><00:00:13.920><c> make</c><00:00:14.280><c> an</c><00:00:14.519><c> experience</c><00:00:14.880><c> Bar</c>
+
+00:00:15.169 --> 00:00:15.179 align:start position:0%
+panel so let's make an experience Bar
+ 
+
+00:00:15.179 --> 00:00:36.530 align:start position:0%
+panel so let's make an experience Bar
+for<00:00:15.660><c> our</c><00:00:16.020><c> character</c><00:00:16.379><c> by</c><00:00:16.859><c> duplicating</c><00:00:17.580><c> HP</c><00:00:18.240><c> bar</c>
+
+00:00:36.530 --> 00:00:36.540 align:start position:0%
+ 
+ 
+
+00:00:36.540 --> 00:00:39.709 align:start position:0%
+ 
+let's<00:00:37.260><c> rename</c><00:00:37.860><c> them</c><00:00:38.280><c> in</c><00:00:38.640><c> the</c><00:00:38.760><c> hierarchy</c><00:00:39.360><c> and</c>
+
+00:00:39.709 --> 00:00:39.719 align:start position:0%
+let's rename them in the hierarchy and
+ 
+
+00:00:39.719 --> 00:00:41.690 align:start position:0%
+let's rename them in the hierarchy and
+add<00:00:39.899><c> some</c><00:00:40.140><c> text</c><00:00:40.320><c> to</c><00:00:40.680><c> make</c><00:00:40.800><c> it</c><00:00:40.980><c> more</c><00:00:41.100><c> clear</c><00:00:41.340><c> what</c>
+
+00:00:41.690 --> 00:00:41.700 align:start position:0%
+add some text to make it more clear what
+ 
+
+00:00:41.700 --> 00:01:03.130 align:start position:0%
+add some text to make it more clear what
+purpose<00:00:42.120><c> of</c><00:00:42.360><c> those</c><00:00:42.540><c> bars</c>
+
+00:01:03.130 --> 00:01:03.140 align:start position:0%
+ 
+ 
+
+00:01:03.140 --> 00:01:06.710 align:start position:0%
+ 
+good<00:01:04.140><c> now</c><00:01:04.739><c> in</c><00:01:04.979><c> status</c><00:01:05.159><c> panel</c><00:01:05.760><c> the</c><00:01:06.180><c> script</c><00:01:06.420><c> we</c>
+
+00:01:06.710 --> 00:01:06.720 align:start position:0%
+good now in status panel the script we
+ 
+
+00:01:06.720 --> 00:01:08.929 align:start position:0%
+good now in status panel the script we
+want<00:01:06.960><c> to</c><00:01:07.080><c> pass</c><00:01:07.320><c> the</c><00:01:07.619><c> info</c><00:01:08.159><c> about</c><00:01:08.400><c> character</c>
+
+00:01:08.929 --> 00:01:08.939 align:start position:0%
+want to pass the info about character
+ 
+
+00:01:08.939 --> 00:01:11.570 align:start position:0%
+want to pass the info about character
+level<00:01:09.360><c> to</c><00:01:09.659><c> those</c><00:01:09.900><c> new</c><00:01:10.140><c> objects</c><00:01:10.619><c> so</c><00:01:11.040><c> we</c><00:01:11.159><c> need</c><00:01:11.340><c> to</c>
+
+00:01:11.570 --> 00:01:11.580 align:start position:0%
+level to those new objects so we need to
+ 
+
+00:01:11.580 --> 00:01:13.670 align:start position:0%
+level to those new objects so we need to
+add<00:01:11.760><c> fields</c><00:01:12.240><c> for</c><00:01:12.420><c> them</c><00:01:12.600><c> so</c><00:01:13.020><c> we</c><00:01:13.200><c> will</c><00:01:13.380><c> be</c><00:01:13.500><c> able</c>
+
+00:01:13.670 --> 00:01:13.680 align:start position:0%
+add fields for them so we will be able
+ 
+
+00:01:13.680 --> 00:01:28.690 align:start position:0%
+add fields for them so we will be able
+to<00:01:13.799><c> reference</c><00:01:14.280><c> them</c>
+
+00:01:28.690 --> 00:01:28.700 align:start position:0%
+ 
+ 
+
+00:01:28.700 --> 00:01:47.870 align:start position:0%
+ 
+reference<00:01:29.700><c> them</c><00:01:29.820><c> in</c><00:01:30.000><c> the</c><00:01:30.180><c> editor</c>
+
+00:01:47.870 --> 00:01:47.880 align:start position:0%
+ 
+ 
+
+00:01:47.880 --> 00:02:37.070 align:start position:0%
+ 
+then<00:01:48.780><c> in</c><00:01:49.020><c> update</c><00:01:49.500><c> status</c><00:01:49.860><c> set</c><00:01:50.759><c> the</c><00:01:51.000><c> values</c>
+
+00:02:37.070 --> 00:02:37.080 align:start position:0%
+ 
+ 
+
+00:02:37.080 --> 00:02:39.170 align:start position:0%
+ 
+now<00:02:37.860><c> we</c><00:02:38.040><c> should</c><00:02:38.220><c> see</c><00:02:38.459><c> experience</c><00:02:38.879><c> bar</c>
+
+00:02:39.170 --> 00:02:39.180 align:start position:0%
+now we should see experience bar
+ 
+
+00:02:39.180 --> 00:02:41.509 align:start position:0%
+now we should see experience bar
+reflecting<00:02:39.780><c> character</c><00:02:40.200><c> experience</c><00:02:40.620><c> well</c><00:02:40.920><c> and</c>
+
+00:02:41.509 --> 00:02:41.519 align:start position:0%
+reflecting character experience well and
+ 
+
+00:02:41.519 --> 00:03:01.630 align:start position:0%
+reflecting character experience well and
+its<00:02:41.819><c> level</c>
+
+00:03:01.630 --> 00:03:01.640 align:start position:0%
+ 
+ 
+
+00:03:01.640 --> 00:03:04.970 align:start position:0%
+ 
+good<00:03:02.640><c> prefab</c><00:03:03.300><c> the</c><00:03:03.540><c> status</c><00:03:03.780><c> panel</c><00:03:04.379><c> because</c><00:03:04.680><c> we</c>
+
+00:03:04.970 --> 00:03:04.980 align:start position:0%
+good prefab the status panel because we
+ 
+
+00:03:04.980 --> 00:03:16.990 align:start position:0%
+good prefab the status panel because we
+will<00:03:05.160><c> be</c><00:03:05.340><c> using</c><00:03:05.640><c> it</c><00:03:05.760><c> on</c><00:03:06.000><c> other</c><00:03:06.239><c> scenes</c><00:03:06.780><c> soon</c>
+
+00:03:16.990 --> 00:03:17.000 align:start position:0%
+ 
+ 
+
+00:03:17.000 --> 00:03:29.630 align:start position:0%
+ 
+so<00:03:18.000><c> now</c><00:03:18.120><c> let's</c><00:03:18.300><c> go</c><00:03:18.599><c> back</c><00:03:18.720><c> to</c><00:03:19.080><c> our</c><00:03:19.379><c> combat</c><00:03:19.800><c> scene</c>
+
+00:03:29.630 --> 00:03:29.640 align:start position:0%
+ 
+ 
+
+00:03:29.640 --> 00:03:32.509 align:start position:0%
+ 
+and<00:03:30.300><c> we</c><00:03:30.480><c> will</c><00:03:30.659><c> want</c><00:03:30.959><c> to</c><00:03:31.080><c> replace</c><00:03:31.319><c> our</c><00:03:31.980><c> older</c>
+
+00:03:32.509 --> 00:03:32.519 align:start position:0%
+and we will want to replace our older
+ 
+
+00:03:32.519 --> 00:03:34.490 align:start position:0%
+and we will want to replace our older
+status<00:03:32.700><c> panel</c><00:03:33.300><c> with</c><00:03:33.599><c> a</c><00:03:33.780><c> new</c><00:03:33.900><c> fancy</c><00:03:34.319><c> status</c>
+
+00:03:34.490 --> 00:03:34.500 align:start position:0%
+status panel with a new fancy status
+ 
+
+00:03:34.500 --> 00:03:40.509 align:start position:0%
+status panel with a new fancy status
+panel
+
+00:03:40.509 --> 00:03:40.519 align:start position:0%
+ 
+ 
+
+00:03:40.519 --> 00:03:43.490 align:start position:0%
+ 
+before<00:03:41.519><c> we</c><00:03:41.879><c> head</c><00:03:42.480><c> the</c><00:03:42.720><c> status</c><00:03:42.959><c> panel</c>
+
+00:03:43.490 --> 00:03:43.500 align:start position:0%
+before we head the status panel
+ 
+
+00:03:43.500 --> 00:03:46.309 align:start position:0%
+before we head the status panel
+component<00:03:43.980><c> on</c><00:03:44.459><c> the</c><00:03:44.640><c> game</c><00:03:44.819><c> manager</c><00:03:45.360><c> but</c><00:03:45.959><c> now</c><00:03:46.140><c> we</c>
+
+00:03:46.309 --> 00:03:46.319 align:start position:0%
+component on the game manager but now we
+ 
+
+00:03:46.319 --> 00:03:48.410 align:start position:0%
+component on the game manager but now we
+will<00:03:46.500><c> have</c><00:03:46.739><c> status</c><00:03:46.980><c> panel</c><00:03:47.519><c> component</c><00:03:47.940><c> on</c><00:03:48.299><c> the</c>
+
+00:03:48.410 --> 00:03:48.420 align:start position:0%
+will have status panel component on the
+ 
+
+00:03:48.420 --> 00:03:51.289 align:start position:0%
+will have status panel component on the
+well<00:03:48.659><c> status</c><00:03:49.140><c> panel</c><00:03:50.159><c> so</c><00:03:50.580><c> let's</c><00:03:50.700><c> remove</c><00:03:51.000><c> the</c>
+
+00:03:51.289 --> 00:03:51.299 align:start position:0%
+well status panel so let's remove the
+ 
+
+00:03:51.299 --> 00:03:53.690 align:start position:0%
+well status panel so let's remove the
+status<00:03:51.480><c> panel</c><00:03:52.019><c> component</c><00:03:52.500><c> from</c><00:03:52.860><c> game</c><00:03:53.159><c> manager</c>
+
+00:03:53.690 --> 00:03:53.700 align:start position:0%
+status panel component from game manager
+ 
+
+00:03:53.700 --> 00:03:56.809 align:start position:0%
+status panel component from game manager
+and<00:03:54.299><c> instead</c><00:03:54.659><c> add</c><00:03:54.900><c> status</c><00:03:55.200><c> panel</c><00:03:55.739><c> manager</c><00:03:56.220><c> to</c>
+
+00:03:56.809 --> 00:03:56.819 align:start position:0%
+and instead add status panel manager to
+ 
+
+00:03:56.819 --> 00:04:18.289 align:start position:0%
+and instead add status panel manager to
+the<00:03:57.060><c> status</c><00:03:57.299><c> panel</c><00:03:57.840><c> object</c>
+
+00:04:18.289 --> 00:04:18.299 align:start position:0%
+ 
+ 
+
+00:04:18.299 --> 00:04:21.050 align:start position:0%
+ 
+and<00:04:19.079><c> that</c><00:04:19.380><c> should</c><00:04:19.620><c> be</c><00:04:19.799><c> enough</c><00:04:20.160><c> actually</c><00:04:20.459><c> let's</c>
+
+00:04:21.050 --> 00:04:21.060 align:start position:0%
+and that should be enough actually let's
+ 
+
+00:04:21.060 --> 00:04:29.090 align:start position:0%
+and that should be enough actually let's
+test<00:04:21.239><c> this</c>
+
+00:04:29.090 --> 00:04:29.100 align:start position:0%
+ 
+ 
+
+00:04:29.100 --> 00:04:33.110 align:start position:0%
+ 
+good
+
+00:04:33.110 --> 00:04:33.120 align:start position:0%
+ 
+ 
+
+00:04:33.120 --> 00:04:34.969 align:start position:0%
+ 
+this<00:04:33.960><c> episode</c><00:04:34.139><c> is</c><00:04:34.320><c> brought</c><00:04:34.560><c> to</c><00:04:34.740><c> you</c><00:04:34.860><c> by</c>
+
+00:04:34.969 --> 00:04:34.979 align:start position:0%
+this episode is brought to you by
+ 
+
+00:04:34.979 --> 00:04:36.650 align:start position:0%
+this episode is brought to you by
+General<00:04:35.160><c> support</c><00:04:35.460><c> of</c><00:04:35.699><c> people</c><00:04:35.880><c> on</c><00:04:36.060><c> patreon</c><00:04:36.479><c> and</c>
+
+00:04:36.650 --> 00:04:36.660 align:start position:0%
+General support of people on patreon and
+ 
+
+00:04:36.660 --> 00:04:38.210 align:start position:0%
+General support of people on patreon and
+members<00:04:37.020><c> on</c><00:04:37.139><c> YouTube</c><00:04:37.320><c> if</c><00:04:37.620><c> you</c><00:04:37.800><c> want</c><00:04:37.919><c> to</c><00:04:38.040><c> join</c>
+
+00:04:38.210 --> 00:04:38.220 align:start position:0%
+members on YouTube if you want to join
+ 
+
+00:04:38.220 --> 00:04:39.590 align:start position:0%
+members on YouTube if you want to join
+them<00:04:38.340><c> link</c><00:04:38.639><c> to</c><00:04:38.820><c> my</c><00:04:39.000><c> patreon</c><00:04:39.300><c> in</c><00:04:39.479><c> the</c>
+
+00:04:39.590 --> 00:04:39.600 align:start position:0%
+them link to my patreon in the
+ 
+
+00:04:39.600 --> 00:04:41.030 align:start position:0%
+them link to my patreon in the
+description<00:04:39.840><c> Android</c><00:04:40.259><c> button</c><00:04:40.860><c> available</c>
+
+00:04:41.030 --> 00:04:41.040 align:start position:0%
+description Android button available
+ 
+
+00:04:41.040 --> 00:04:43.490 align:start position:0%
+description Android button available
+right<00:04:41.520><c> now</c><00:04:41.639><c> on</c><00:04:41.940><c> YouTube</c>
+
+00:04:43.490 --> 00:04:43.500 align:start position:0%
+right now on YouTube
+ 
+
+00:04:43.500 --> 00:04:45.530 align:start position:0%
+right now on YouTube
+so<00:04:43.919><c> imagine</c><00:04:44.100><c> you</c><00:04:44.460><c> want</c><00:04:44.699><c> to</c><00:04:44.820><c> introduce</c><00:04:45.180><c> a</c><00:04:45.419><c> new</c>
+
+00:04:45.530 --> 00:04:45.540 align:start position:0%
+so imagine you want to introduce a new
+ 
+
+00:04:45.540 --> 00:04:48.290 align:start position:0%
+so imagine you want to introduce a new
+stage<00:04:45.780><c> a</c><00:04:46.259><c> new</c><00:04:46.440><c> Battlefield</c><00:04:46.919><c> each</c><00:04:47.880><c> and</c><00:04:48.060><c> every</c>
+
+00:04:48.290 --> 00:04:48.300 align:start position:0%
+stage a new Battlefield each and every
+ 
+
+00:04:48.300 --> 00:04:50.990 align:start position:0%
+stage a new Battlefield each and every
+Battlefield<00:04:48.900><c> you</c><00:04:49.380><c> shall</c><00:04:49.800><c> exactly</c><00:04:50.580><c> the</c><00:04:50.820><c> same</c>
+
+00:04:50.990 --> 00:04:51.000 align:start position:0%
+Battlefield you shall exactly the same
+ 
+
+00:04:51.000 --> 00:04:53.870 align:start position:0%
+Battlefield you shall exactly the same
+components<00:04:51.720><c> with</c><00:04:52.440><c> only</c><00:04:52.800><c> terrain</c><00:04:53.340><c> and</c><00:04:53.639><c> some</c>
+
+00:04:53.870 --> 00:04:53.880 align:start position:0%
+components with only terrain and some
+ 
+
+00:04:53.880 --> 00:04:56.170 align:start position:0%
+components with only terrain and some
+stage<00:04:54.240><c> specific</c><00:04:54.720><c> objects</c><00:04:55.380><c> being</c><00:04:55.740><c> different</c>
+
+00:04:56.170 --> 00:04:56.180 align:start position:0%
+stage specific objects being different
+ 
+
+00:04:56.180 --> 00:04:59.330 align:start position:0%
+stage specific objects being different
+each<00:04:57.180><c> Battlefield</c><00:04:57.660><c> will</c><00:04:58.139><c> have</c><00:04:58.440><c> game</c><00:04:58.800><c> manager</c>
+
+00:04:59.330 --> 00:04:59.340 align:start position:0%
+each Battlefield will have game manager
+ 
+
+00:04:59.340 --> 00:05:02.210 align:start position:0%
+each Battlefield will have game manager
+each<00:04:59.639><c> Battlefield</c><00:05:00.180><c> will</c><00:05:00.600><c> have</c><00:05:00.840><c> camera</c><00:05:01.220><c> or</c>
+
+00:05:02.210 --> 00:05:02.220 align:start position:0%
+each Battlefield will have camera or
+ 
+
+00:05:02.220 --> 00:05:04.730 align:start position:0%
+each Battlefield will have camera or
+player<00:05:02.639><c> and</c><00:05:02.940><c> opponent</c><00:05:03.419><c> forces</c><00:05:03.840><c> each</c>
+
+00:05:04.730 --> 00:05:04.740 align:start position:0%
+player and opponent forces each
+ 
+
+00:05:04.740 --> 00:05:07.070 align:start position:0%
+player and opponent forces each
+Battlefield<00:05:05.220><c> will</c><00:05:05.580><c> have</c><00:05:05.940><c> canvas</c><00:05:06.479><c> with</c><00:05:06.720><c> UI</c>
+
+00:05:07.070 --> 00:05:07.080 align:start position:0%
+Battlefield will have canvas with UI
+ 
+
+00:05:07.080 --> 00:05:08.990 align:start position:0%
+Battlefield will have canvas with UI
+shoving<00:05:07.560><c> information</c>
+
+00:05:08.990 --> 00:05:09.000 align:start position:0%
+shoving information
+ 
+
+00:05:09.000 --> 00:05:11.810 align:start position:0%
+shoving information
+so<00:05:09.540><c> each</c><00:05:09.840><c> Battlefield</c><00:05:10.320><c> will</c><00:05:10.740><c> be</c><00:05:10.979><c> sharing</c><00:05:11.400><c> some</c>
+
+00:05:11.810 --> 00:05:11.820 align:start position:0%
+so each Battlefield will be sharing some
+ 
+
+00:05:11.820 --> 00:05:14.390 align:start position:0%
+so each Battlefield will be sharing some
+essential<00:05:12.300><c> components</c><00:05:13.080><c> and</c><00:05:13.440><c> objects</c><00:05:13.979><c> for</c>
+
+00:05:14.390 --> 00:05:14.400 align:start position:0%
+essential components and objects for
+ 
+
+00:05:14.400 --> 00:05:17.629 align:start position:0%
+essential components and objects for
+combat<00:05:14.820><c> to</c><00:05:15.120><c> function</c><00:05:15.479><c> so</c><00:05:16.380><c> we</c><00:05:16.560><c> can</c><00:05:16.800><c> separate</c>
+
+00:05:17.629 --> 00:05:17.639 align:start position:0%
+combat to function so we can separate
+ 
+
+00:05:17.639 --> 00:05:20.870 align:start position:0%
+combat to function so we can separate
+essential<00:05:18.479><c> components</c><00:05:19.139><c> for</c><00:05:19.380><c> combat</c><00:05:19.860><c> into</c><00:05:20.460><c> an</c>
+
+00:05:20.870 --> 00:05:20.880 align:start position:0%
+essential components for combat into an
+ 
+
+00:05:20.880 --> 00:05:24.170 align:start position:0%
+essential components for combat into an
+essential<00:05:21.479><c> for</c><00:05:21.960><c> combat</c><00:05:22.500><c> scene</c><00:05:22.979><c> which</c><00:05:23.699><c> will</c><00:05:23.940><c> be</c>
+
+00:05:24.170 --> 00:05:24.180 align:start position:0%
+essential for combat scene which will be
+ 
+
+00:05:24.180 --> 00:05:27.370 align:start position:0%
+essential for combat scene which will be
+always<00:05:24.660><c> loaded</c><00:05:25.320><c> when</c><00:05:25.620><c> combat</c><00:05:26.160><c> is</c><00:05:26.580><c> running</c>
+
+00:05:27.370 --> 00:05:27.380 align:start position:0%
+always loaded when combat is running
+ 
+
+00:05:27.380 --> 00:05:32.570 align:start position:0%
+always loaded when combat is running
+meanwhile<00:05:28.580><c> the</c><00:05:29.580><c> terrain</c><00:05:30.240><c> and</c><00:05:30.840><c> level</c><00:05:31.380><c> or</c><00:05:31.919><c> stage</c>
+
+00:05:32.570 --> 00:05:32.580 align:start position:0%
+meanwhile the terrain and level or stage
+ 
+
+00:05:32.580 --> 00:05:34.550 align:start position:0%
+meanwhile the terrain and level or stage
+or<00:05:32.759><c> whatever</c><00:05:33.000><c> you</c><00:05:33.479><c> can</c><00:05:33.600><c> call</c><00:05:33.840><c> it</c>
+
+00:05:34.550 --> 00:05:34.560 align:start position:0%
+or whatever you can call it
+ 
+
+00:05:34.560 --> 00:05:37.550 align:start position:0%
+or whatever you can call it
+specific<00:05:35.460><c> elements</c><00:05:36.240><c> will</c><00:05:36.660><c> be</c><00:05:36.960><c> loaded</c>
+
+00:05:37.550 --> 00:05:37.560 align:start position:0%
+specific elements will be loaded
+ 
+
+00:05:37.560 --> 00:05:41.390 align:start position:0%
+specific elements will be loaded
+additively<00:05:38.340><c> to</c><00:05:39.120><c> this</c><00:05:39.419><c> scene</c><00:05:40.080><c> it</c><00:05:41.039><c> pretty</c><00:05:41.220><c> much</c>
+
+00:05:41.390 --> 00:05:41.400 align:start position:0%
+additively to this scene it pretty much
+ 
+
+00:05:41.400 --> 00:05:44.090 align:start position:0%
+additively to this scene it pretty much
+means<00:05:41.759><c> you</c><00:05:41.940><c> will</c><00:05:42.120><c> have</c><00:05:42.360><c> two</c><00:05:42.660><c> scenes</c><00:05:43.199><c> loaded</c><00:05:43.740><c> at</c>
+
+00:05:44.090 --> 00:05:44.100 align:start position:0%
+means you will have two scenes loaded at
+ 
+
+00:05:44.100 --> 00:05:46.790 align:start position:0%
+means you will have two scenes loaded at
+the<00:05:44.220><c> same</c><00:05:44.460><c> time</c><00:05:44.699><c> the</c><00:05:45.539><c> combat</c><00:05:45.900><c> essential</c><00:05:46.380><c> scene</c>
+
+00:05:46.790 --> 00:05:46.800 align:start position:0%
+the same time the combat essential scene
+ 
+
+00:05:46.800 --> 00:05:50.570 align:start position:0%
+the same time the combat essential scene
+and<00:05:47.400><c> Stage</c><00:05:47.759><c> specific</c><00:05:48.300><c> stage</c><00:05:49.199><c> scene</c>
+
+00:05:50.570 --> 00:05:50.580 align:start position:0%
+and Stage specific stage scene
+ 
+
+00:05:50.580 --> 00:05:53.990 align:start position:0%
+and Stage specific stage scene
+create<00:05:51.240><c> a</c><00:05:51.539><c> new</c><00:05:51.660><c> empty</c><00:05:52.020><c> scene</c><00:05:52.259><c> make</c><00:05:53.039><c> sure</c><00:05:53.220><c> it</c><00:05:53.820><c> is</c>
+
+00:05:53.990 --> 00:05:54.000 align:start position:0%
+create a new empty scene make sure it is
+ 
+
+00:05:54.000 --> 00:05:58.070 align:start position:0%
+create a new empty scene make sure it is
+additive
+
+00:05:58.070 --> 00:05:58.080 align:start position:0%
+ 
+ 
+
+00:05:58.080 --> 00:06:09.529 align:start position:0%
+ 
+let's<00:05:58.560><c> call</c><00:05:58.800><c> it</c><00:05:58.979><c> combat</c><00:05:59.460><c> stage</c>
+
+00:06:09.529 --> 00:06:09.539 align:start position:0%
+ 
+ 
+
+00:06:09.539 --> 00:06:12.950 align:start position:0%
+ 
+and<00:06:10.380><c> rename</c><00:06:10.740><c> the</c><00:06:10.979><c> sample</c><00:06:11.340><c> scene</c><00:06:11.580><c> with</c><00:06:11.880><c> all</c><00:06:12.600><c> our</c>
+
+00:06:12.950 --> 00:06:12.960 align:start position:0%
+and rename the sample scene with all our
+ 
+
+00:06:12.960 --> 00:06:15.890 align:start position:0%
+and rename the sample scene with all our
+combat<00:06:13.500><c> systems</c><00:06:14.039><c> into</c><00:06:14.759><c> combat</c><00:06:15.360><c> essential</c>
+
+00:06:15.890 --> 00:06:15.900 align:start position:0%
+combat systems into combat essential
+ 
+
+00:06:15.900 --> 00:06:16.969 align:start position:0%
+combat systems into combat essential
+scene
+
+00:06:16.969 --> 00:06:16.979 align:start position:0%
+scene
+ 
+
+00:06:16.979 --> 00:06:19.610 align:start position:0%
+scene
+future<00:06:17.340><c> Greg</c><00:06:17.880><c> here</c><00:06:18.060><c> if</c><00:06:18.780><c> you</c><00:06:18.960><c> created</c><00:06:19.199><c> a</c><00:06:19.440><c> scene</c>
+
+00:06:19.610 --> 00:06:19.620 align:start position:0%
+future Greg here if you created a scene
+ 
+
+00:06:19.620 --> 00:06:22.670 align:start position:0%
+future Greg here if you created a scene
+but<00:06:19.860><c> forgot</c><00:06:20.220><c> to</c><00:06:20.580><c> set</c><00:06:21.300><c> it</c><00:06:21.479><c> to</c><00:06:21.660><c> be</c><00:06:21.780><c> additive</c><00:06:22.199><c> what</c>
+
+00:06:22.670 --> 00:06:22.680 align:start position:0%
+but forgot to set it to be additive what
+ 
+
+00:06:22.680 --> 00:06:25.010 align:start position:0%
+but forgot to set it to be additive what
+you<00:06:22.800><c> need</c><00:06:22.919><c> to</c><00:06:23.039><c> do</c><00:06:23.220><c> is</c><00:06:23.580><c> to</c><00:06:23.759><c> drag</c><00:06:24.000><c> and</c><00:06:24.240><c> drop</c><00:06:24.479><c> the</c>
+
+00:06:25.010 --> 00:06:25.020 align:start position:0%
+you need to do is to drag and drop the
+ 
+
+00:06:25.020 --> 00:06:27.469 align:start position:0%
+you need to do is to drag and drop the
+essential<00:06:25.979><c> scene</c><00:06:26.340><c> which</c><00:06:26.759><c> currently</c><00:06:27.300><c> is</c>
+
+00:06:27.469 --> 00:06:27.479 align:start position:0%
+essential scene which currently is
+ 
+
+00:06:27.479 --> 00:06:30.110 align:start position:0%
+essential scene which currently is
+called<00:06:27.720><c> sample</c><00:06:28.199><c> scene</c><00:06:28.500><c> and</c><00:06:29.340><c> the</c><00:06:29.699><c> newly</c>
+
+00:06:30.110 --> 00:06:30.120 align:start position:0%
+called sample scene and the newly
+ 
+
+00:06:30.120 --> 00:06:32.390 align:start position:0%
+called sample scene and the newly
+created<00:06:30.539><c> combat</c><00:06:31.080><c> stage</c><00:06:31.440><c> scene</c><00:06:31.680><c> into</c><00:06:32.100><c> the</c>
+
+00:06:32.390 --> 00:06:32.400 align:start position:0%
+created combat stage scene into the
+ 
+
+00:06:32.400 --> 00:06:35.270 align:start position:0%
+created combat stage scene into the
+hierarchy<00:06:33.000><c> and</c><00:06:33.539><c> you</c><00:06:33.960><c> will</c><00:06:34.139><c> see</c><00:06:34.380><c> them</c><00:06:34.620><c> being</c>
+
+00:06:35.270 --> 00:06:35.280 align:start position:0%
+hierarchy and you will see them being
+ 
+
+00:06:35.280 --> 00:06:37.610 align:start position:0%
+hierarchy and you will see them being
+loaded<00:06:35.819><c> exactly</c><00:06:36.360><c> the</c><00:06:36.600><c> same</c><00:06:36.780><c> way</c><00:06:36.960><c> as</c><00:06:37.259><c> it</c><00:06:37.440><c> is</c>
+
+00:06:37.610 --> 00:06:37.620 align:start position:0%
+loaded exactly the same way as it is
+ 
+
+00:06:37.620 --> 00:06:38.510 align:start position:0%
+loaded exactly the same way as it is
+right<00:06:37.860><c> now</c>
+
+00:06:38.510 --> 00:06:38.520 align:start position:0%
+right now
+ 
+
+00:06:38.520 --> 00:06:40.249 align:start position:0%
+right now
+when<00:06:39.060><c> you</c><00:06:39.240><c> operate</c><00:06:39.600><c> in</c><00:06:39.780><c> this</c><00:06:39.960><c> kind</c><00:06:40.139><c> of</c>
+
+00:06:40.249 --> 00:06:40.259 align:start position:0%
+when you operate in this kind of
+ 
+
+00:06:40.259 --> 00:06:42.650 align:start position:0%
+when you operate in this kind of
+environment<00:06:40.800><c> you</c><00:06:41.460><c> must</c><00:06:41.580><c> make</c><00:06:41.880><c> sure</c><00:06:42.120><c> that</c><00:06:42.419><c> your</c>
+
+00:06:42.650 --> 00:06:42.660 align:start position:0%
+environment you must make sure that your
+ 
+
+00:06:42.660 --> 00:06:45.050 align:start position:0%
+environment you must make sure that your
+combat<00:06:43.080><c> essential</c><00:06:43.560><c> scene</c><00:06:43.860><c> is</c><00:06:44.460><c> an</c><00:06:44.699><c> active</c>
+
+00:06:45.050 --> 00:06:45.060 align:start position:0%
+combat essential scene is an active
+ 
+
+00:06:45.060 --> 00:06:48.350 align:start position:0%
+combat essential scene is an active
+scene<00:06:45.360><c> which</c><00:06:46.199><c> you</c><00:06:46.500><c> can</c><00:06:46.740><c> check</c><00:06:47.460><c> by</c><00:06:47.880><c> making</c><00:06:48.120><c> sure</c>
+
+00:06:48.350 --> 00:06:48.360 align:start position:0%
+scene which you can check by making sure
+ 
+
+00:06:48.360 --> 00:06:51.050 align:start position:0%
+scene which you can check by making sure
+the<00:06:48.660><c> name</c><00:06:48.840><c> of</c><00:06:49.139><c> the</c><00:06:49.319><c> scene</c><00:06:49.440><c> is</c><00:06:49.919><c> highlighted</c><00:06:50.580><c> and</c>
+
+00:06:51.050 --> 00:06:51.060 align:start position:0%
+the name of the scene is highlighted and
+ 
+
+00:06:51.060 --> 00:06:54.409 align:start position:0%
+the name of the scene is highlighted and
+written<00:06:51.600><c> in</c><00:06:51.900><c> bold</c><00:06:52.620><c> cases</c>
+
+00:06:54.409 --> 00:06:54.419 align:start position:0%
+written in bold cases
+ 
+
+00:06:54.419 --> 00:06:57.529 align:start position:0%
+written in bold cases
+and<00:06:54.960><c> if</c><00:06:55.139><c> it's</c><00:06:55.319><c> not</c><00:06:55.620><c> active</c><00:06:56.039><c> make</c><00:06:56.699><c> it</c><00:06:56.880><c> by</c>
+
+00:06:57.529 --> 00:06:57.539 align:start position:0%
+and if it's not active make it by
+ 
+
+00:06:57.539 --> 00:07:02.749 align:start position:0%
+and if it's not active make it by
+clicking<00:06:58.319><c> set</c><00:06:58.680><c> active</c><00:06:59.160><c> scene</c><00:06:59.400><c> like</c><00:07:00.300><c> this</c><00:07:00.539><c> good</c>
+
+00:07:02.749 --> 00:07:02.759 align:start position:0%
+clicking set active scene like this good
+ 
+
+00:07:02.759 --> 00:07:04.909 align:start position:0%
+clicking set active scene like this good
+so<00:07:03.120><c> now</c><00:07:03.240><c> we</c><00:07:03.419><c> want</c><00:07:03.600><c> to</c><00:07:03.720><c> move</c><00:07:03.960><c> our</c><00:07:04.500><c> stage</c>
+
+00:07:04.909 --> 00:07:04.919 align:start position:0%
+so now we want to move our stage
+ 
+
+00:07:04.919 --> 00:07:07.370 align:start position:0%
+so now we want to move our stage
+environment<00:07:05.460><c> to</c><00:07:05.819><c> the</c><00:07:06.000><c> combat</c><00:07:06.419><c> stage</c>
+
+00:07:07.370 --> 00:07:07.380 align:start position:0%
+environment to the combat stage
+ 
+
+00:07:07.380 --> 00:07:10.370 align:start position:0%
+environment to the combat stage
+don't<00:07:08.039><c> worry</c><00:07:08.280><c> about</c><00:07:08.759><c> the</c><00:07:09.060><c> errors</c><00:07:09.419><c> we</c><00:07:09.960><c> will</c><00:07:10.139><c> fix</c>
+
+00:07:10.370 --> 00:07:10.380 align:start position:0%
+don't worry about the errors we will fix
+ 
+
+00:07:10.380 --> 00:07:29.930 align:start position:0%
+don't worry about the errors we will fix
+them<00:07:10.740><c> soon</c>
+
+00:07:29.930 --> 00:07:29.940 align:start position:0%
+ 
+ 
+
+00:07:29.940 --> 00:07:32.450 align:start position:0%
+ 
+so<00:07:30.599><c> we</c><00:07:30.840><c> have</c><00:07:31.020><c> moved</c><00:07:31.440><c> terrain</c><00:07:31.800><c> and</c><00:07:32.280><c> everything</c>
+
+00:07:32.450 --> 00:07:32.460 align:start position:0%
+so we have moved terrain and everything
+ 
+
+00:07:32.460 --> 00:07:34.790 align:start position:0%
+so we have moved terrain and everything
+related<00:07:33.000><c> to</c><00:07:33.300><c> the</c><00:07:33.419><c> stage</c><00:07:33.660><c> environment</c><00:07:34.259><c> to</c><00:07:34.620><c> the</c>
+
+00:07:34.790 --> 00:07:34.800 align:start position:0%
+related to the stage environment to the
+ 
+
+00:07:34.800 --> 00:07:36.409 align:start position:0%
+related to the stage environment to the
+combat<00:07:35.160><c> stage</c>
+
+00:07:36.409 --> 00:07:36.419 align:start position:0%
+combat stage
+ 
+
+00:07:36.419 --> 00:07:39.950 align:start position:0%
+combat stage
+now<00:07:37.199><c> we</c><00:07:37.500><c> need</c><00:07:37.680><c> to</c><00:07:37.919><c> fix</c><00:07:38.099><c> all</c><00:07:38.520><c> these</c><00:07:38.759><c> errors</c><00:07:39.120><c> on</c>
+
+00:07:39.950 --> 00:07:39.960 align:start position:0%
+now we need to fix all these errors on
+ 
+
+00:07:39.960 --> 00:07:42.110 align:start position:0%
+now we need to fix all these errors on
+the<00:07:40.139><c> stage</c><00:07:40.319><c> scene</c><00:07:40.620><c> create</c><00:07:41.400><c> a</c><00:07:41.639><c> new</c><00:07:41.819><c> object</c>
+
+00:07:42.110 --> 00:07:42.120 align:start position:0%
+the stage scene create a new object
+ 
+
+00:07:42.120 --> 00:07:47.210 align:start position:0%
+the stage scene create a new object
+called<00:07:42.479><c> stage</c><00:07:42.900><c> manager</c>
+
+00:07:47.210 --> 00:07:47.220 align:start position:0%
+ 
+ 
+
+00:07:47.220 --> 00:07:49.969 align:start position:0%
+ 
+inside<00:07:48.180><c> we</c><00:07:48.599><c> will</c><00:07:48.780><c> be</c><00:07:48.960><c> storing</c><00:07:49.319><c> reference</c><00:07:49.680><c> to</c>
+
+00:07:49.969 --> 00:07:49.979 align:start position:0%
+inside we will be storing reference to
+ 
+
+00:07:49.979 --> 00:07:52.070 align:start position:0%
+inside we will be storing reference to
+everything<00:07:50.220><c> important</c><00:07:51.000><c> on</c><00:07:51.419><c> this</c><00:07:51.539><c> stage</c><00:07:51.840><c> scene</c>
+
+00:07:52.070 --> 00:07:52.080 align:start position:0%
+everything important on this stage scene
+ 
+
+00:07:52.080 --> 00:07:55.010 align:start position:0%
+everything important on this stage scene
+which<00:07:52.979><c> we</c><00:07:53.160><c> want</c><00:07:53.400><c> to</c><00:07:53.580><c> be</c><00:07:53.759><c> able</c><00:07:54.180><c> to</c><00:07:54.360><c> easily</c>
+
+00:07:55.010 --> 00:07:55.020 align:start position:0%
+which we want to be able to easily
+ 
+
+00:07:55.020 --> 00:07:58.490 align:start position:0%
+which we want to be able to easily
+reference<00:07:55.520><c> so</c><00:07:56.520><c> our</c><00:07:56.940><c> combat</c><00:07:57.479><c> works</c><00:07:57.960><c> with</c><00:07:58.259><c> the</c>
+
+00:07:58.490 --> 00:07:58.500 align:start position:0%
+reference so our combat works with the
+ 
+
+00:07:58.500 --> 00:08:01.430 align:start position:0%
+reference so our combat works with the
+Grid<00:07:58.860><c> on</c><00:07:59.520><c> the</c><00:07:59.819><c> stage</c><00:08:00.120><c> you</c><00:08:01.080><c> know</c><00:08:01.259><c> because</c>
+
+00:08:01.430 --> 00:08:01.440 align:start position:0%
+Grid on the stage you know because
+ 
+
+00:08:01.440 --> 00:08:03.710 align:start position:0%
+Grid on the stage you know because
+you're<00:08:01.740><c> moving</c><00:08:02.099><c> characters</c><00:08:02.639><c> from</c><00:08:03.120><c> this</c><00:08:03.300><c> Grid</c>
+
+00:08:03.710 --> 00:08:03.720 align:start position:0%
+you're moving characters from this Grid
+ 
+
+00:08:03.720 --> 00:08:06.710 align:start position:0%
+you're moving characters from this Grid
+or<00:08:03.960><c> attacking</c><00:08:04.800><c> objects</c><00:08:05.520><c> on</c><00:08:05.639><c> this</c><00:08:05.819><c> grid</c><00:08:06.300><c> etc</c>
+
+00:08:06.710 --> 00:08:06.720 align:start position:0%
+or attacking objects on this grid etc
+ 
+
+00:08:06.720 --> 00:08:09.589 align:start position:0%
+or attacking objects on this grid etc
+etc<00:08:06.900><c> so</c><00:08:07.860><c> create</c><00:08:08.099><c> a</c><00:08:08.400><c> field</c><00:08:08.580><c> so</c><00:08:09.240><c> we</c><00:08:09.419><c> can</c>
+
+00:08:09.589 --> 00:08:09.599 align:start position:0%
+etc so create a field so we can
+ 
+
+00:08:09.599 --> 00:08:13.909 align:start position:0%
+etc so create a field so we can
+reference<00:08:10.440><c> the</c><00:08:10.979><c> grid</c><00:08:11.280><c> of</c><00:08:11.580><c> the</c><00:08:11.940><c> stage</c><00:08:12.300><c> scene</c>
+
+00:08:13.909 --> 00:08:13.919 align:start position:0%
+reference the grid of the stage scene
+ 
+
+00:08:13.919 --> 00:08:21.409 align:start position:0%
+reference the grid of the stage scene
+reference<00:08:14.819><c> Grid</c><00:08:15.240><c> in</c><00:08:15.419><c> the</c><00:08:15.599><c> editor</c>
+
+00:08:21.409 --> 00:08:21.419 align:start position:0%
+ 
+ 
+
+00:08:21.419 --> 00:08:23.930 align:start position:0%
+ 
+move<00:08:22.379><c> character</c><00:08:22.800><c> to</c><00:08:23.099><c> the</c><00:08:23.280><c> combat</c><00:08:23.699><c> scene</c>
+
+00:08:23.930 --> 00:08:23.940 align:start position:0%
+move character to the combat scene
+ 
+
+00:08:23.940 --> 00:08:25.850 align:start position:0%
+move character to the combat scene
+dependent<00:08:24.599><c> on</c><00:08:24.780><c> the</c><00:08:24.960><c> mission</c><00:08:25.139><c> you</c><00:08:25.560><c> want</c><00:08:25.740><c> to</c>
+
+00:08:25.850 --> 00:08:25.860 align:start position:0%
+dependent on the mission you want to
+ 
+
+00:08:25.860 --> 00:08:29.510 align:start position:0%
+dependent on the mission you want to
+replace<00:08:26.220><c> some</c><00:08:26.879><c> enemies</c><00:08:27.599><c> or</c><00:08:28.020><c> your</c><00:08:28.319><c> characters</c>
+
+00:08:29.510 --> 00:08:29.520 align:start position:0%
+replace some enemies or your characters
+ 
+
+00:08:29.520 --> 00:08:32.029 align:start position:0%
+replace some enemies or your characters
+so<00:08:30.120><c> our</c><00:08:30.360><c> designer</c><00:08:31.020><c> will</c><00:08:31.259><c> be</c><00:08:31.500><c> able</c><00:08:31.620><c> to</c><00:08:31.800><c> place</c>
+
+00:08:32.029 --> 00:08:32.039 align:start position:0%
+so our designer will be able to place
+ 
+
+00:08:32.039 --> 00:08:34.610 align:start position:0%
+so our designer will be able to place
+characters<00:08:32.399><c> on</c><00:08:32.880><c> the</c><00:08:33.060><c> stage</c><00:08:33.360><c> while</c><00:08:33.959><c> designing</c>
+
+00:08:34.610 --> 00:08:34.620 align:start position:0%
+characters on the stage while designing
+ 
+
+00:08:34.620 --> 00:08:37.070 align:start position:0%
+characters on the stage while designing
+the<00:08:34.860><c> stage</c><00:08:35.099><c> and</c><00:08:35.700><c> he</c><00:08:35.940><c> doesn't</c><00:08:36.180><c> need</c><00:08:36.539><c> to</c><00:08:36.779><c> touch</c>
+
+00:08:37.070 --> 00:08:37.080 align:start position:0%
+the stage and he doesn't need to touch
+ 
+
+00:08:37.080 --> 00:08:40.010 align:start position:0%
+the stage and he doesn't need to touch
+anything<00:08:37.440><c> in</c><00:08:38.039><c> the</c><00:08:38.279><c> essential</c><00:08:38.700><c> scene</c>
+
+00:08:40.010 --> 00:08:40.020 align:start position:0%
+anything in the essential scene
+ 
+
+00:08:40.020 --> 00:08:42.050 align:start position:0%
+anything in the essential scene
+now<00:08:40.560><c> we</c><00:08:40.740><c> need</c><00:08:40.919><c> to</c><00:08:41.159><c> solve</c><00:08:41.459><c> issue</c><00:08:41.880><c> with</c>
+
+00:08:42.050 --> 00:08:42.060 align:start position:0%
+now we need to solve issue with
+ 
+
+00:08:42.060 --> 00:08:51.170 align:start position:0%
+now we need to solve issue with
+references<00:08:42.779><c> in</c><00:08:43.500><c> the</c><00:08:43.740><c> mouse</c><00:08:43.979><c> input</c>
+
+00:08:51.170 --> 00:08:51.180 align:start position:0%
+ 
+ 
+
+00:08:51.180 --> 00:09:13.550 align:start position:0%
+ 
+here's<00:08:51.779><c> a</c><00:08:51.899><c> reference</c><00:08:52.140><c> to</c><00:08:52.440><c> the</c><00:08:52.620><c> stage</c><00:08:52.860><c> grid</c>
+
+00:09:13.550 --> 00:09:13.560 align:start position:0%
+ 
+ 
+
+00:09:13.560 --> 00:09:15.889 align:start position:0%
+ 
+in<00:09:14.220><c> the</c><00:09:14.399><c> move</c><00:09:14.640><c> character</c><00:09:15.060><c> we</c><00:09:15.360><c> need</c><00:09:15.540><c> to</c><00:09:15.720><c> clear</c>
+
+00:09:15.889 --> 00:09:15.899 align:start position:0%
+in the move character we need to clear
+ 
+
+00:09:15.899 --> 00:09:40.389 align:start position:0%
+in the move character we need to clear
+the<00:09:16.140><c> reference</c><00:09:16.620><c> to</c><00:09:17.040><c> the</c><00:09:17.220><c> stage</c><00:09:17.399><c> grid</c>
+
+00:09:40.389 --> 00:09:40.399 align:start position:0%
+ 
+ 
+
+00:09:40.399 --> 00:09:43.790 align:start position:0%
+ 
+in<00:09:41.399><c> the</c><00:09:41.580><c> marker</c><00:09:42.000><c> we</c><00:09:42.720><c> need</c><00:09:42.899><c> to</c><00:09:43.080><c> Cache</c><00:09:43.440><c> reference</c>
+
+00:09:43.790 --> 00:09:43.800 align:start position:0%
+in the marker we need to Cache reference
+ 
+
+00:09:43.800 --> 00:10:09.130 align:start position:0%
+in the marker we need to Cache reference
+to<00:09:44.040><c> the</c><00:09:44.220><c> stage</c><00:09:44.459><c> grid</c>
+
+00:10:09.130 --> 00:10:09.140 align:start position:0%
+ 
+ 
+
+00:10:09.140 --> 00:10:12.350 align:start position:0%
+ 
+and<00:10:10.140><c> in</c><00:10:10.440><c> the</c><00:10:10.620><c> select</c><00:10:11.040><c> character</c><00:10:11.519><c> we</c><00:10:12.000><c> need</c><00:10:12.180><c> to</c>
+
+00:10:12.350 --> 00:10:12.360 align:start position:0%
+and in the select character we need to
+ 
+
+00:10:12.360 --> 00:10:39.470 align:start position:0%
+and in the select character we need to
+Cache<00:10:12.720><c> reference</c><00:10:13.019><c> to</c><00:10:13.260><c> the</c><00:10:13.440><c> stage</c><00:10:13.680><c> grid</c>
+
+00:10:39.470 --> 00:10:39.480 align:start position:0%
+ 
+ 
+
+00:10:39.480 --> 00:10:42.050 align:start position:0%
+ 
+then<00:10:40.440><c> we</c><00:10:40.680><c> need</c><00:10:40.800><c> to</c><00:10:40.980><c> pass</c><00:10:41.160><c> a</c><00:10:41.399><c> reference</c><00:10:41.760><c> to</c>
+
+00:10:42.050 --> 00:10:42.060 align:start position:0%
+then we need to pass a reference to
+ 
+
+00:10:42.060 --> 00:10:44.930 align:start position:0%
+then we need to pass a reference to
+highlight<00:10:42.540><c> system</c><00:10:42.839><c> so</c><00:10:43.620><c> in</c><00:10:43.920><c> the</c><00:10:44.100><c> stage</c><00:10:44.279><c> manager</c>
+
+00:10:44.930 --> 00:10:44.940 align:start position:0%
+highlight system so in the stage manager
+ 
+
+00:10:44.940 --> 00:10:47.630 align:start position:0%
+highlight system so in the stage manager
+make<00:10:45.420><c> two</c><00:10:45.660><c> public</c><00:10:45.899><c> Fields</c><00:10:46.560><c> one</c><00:10:47.040><c> for</c><00:10:47.279><c> move</c>
+
+00:10:47.630 --> 00:10:47.640 align:start position:0%
+make two public Fields one for move
+ 
+
+00:10:47.640 --> 00:11:08.110 align:start position:0%
+make two public Fields one for move
+highlight<00:10:48.180><c> and</c><00:10:48.540><c> one</c><00:10:48.779><c> for</c><00:10:48.959><c> attack</c><00:10:49.380><c> highlight</c>
+
+00:11:08.110 --> 00:11:08.120 align:start position:0%
+ 
+ 
+
+00:11:08.120 --> 00:11:12.889 align:start position:0%
+ 
+reference<00:11:09.120><c> them</c><00:11:09.360><c> in</c><00:11:09.600><c> the</c><00:11:09.779><c> editor</c>
+
+00:11:12.889 --> 00:11:12.899 align:start position:0%
+ 
+ 
+
+00:11:12.899 --> 00:11:15.230 align:start position:0%
+ 
+when<00:11:13.560><c> I</c><00:11:13.740><c> think</c><00:11:13.920><c> about</c><00:11:14.220><c> it</c><00:11:14.519><c> we</c><00:11:14.820><c> might</c><00:11:15.000><c> move</c>
+
+00:11:15.230 --> 00:11:15.240 align:start position:0%
+when I think about it we might move
+ 
+
+00:11:15.240 --> 00:11:17.269 align:start position:0%
+when I think about it we might move
+those<00:11:15.480><c> highlight</c><00:11:15.899><c> pointers</c><00:11:16.440><c> into</c><00:11:16.680><c> essential</c>
+
+00:11:17.269 --> 00:11:17.279 align:start position:0%
+those highlight pointers into essential
+ 
+
+00:11:17.279 --> 00:11:19.790 align:start position:0%
+those highlight pointers into essential
+system<00:11:17.640><c> later</c><00:11:18.000><c> on</c><00:11:18.300><c> for</c><00:11:18.959><c> now</c><00:11:19.140><c> let's</c><00:11:19.320><c> keep</c><00:11:19.560><c> them</c>
+
+00:11:19.790 --> 00:11:19.800 align:start position:0%
+system later on for now let's keep them
+ 
+
+00:11:19.800 --> 00:11:21.290 align:start position:0%
+system later on for now let's keep them
+on<00:11:19.980><c> the</c><00:11:20.100><c> grid</c><00:11:20.399><c> object</c>
+
+00:11:21.290 --> 00:11:21.300 align:start position:0%
+on the grid object
+ 
+
+00:11:21.300 --> 00:11:23.630 align:start position:0%
+on the grid object
+then<00:11:21.899><c> we</c><00:11:22.140><c> need</c><00:11:22.320><c> to</c><00:11:22.440><c> catch</c><00:11:22.800><c> reference</c><00:11:23.160><c> to</c><00:11:23.399><c> the</c>
+
+00:11:23.630 --> 00:11:23.640 align:start position:0%
+then we need to catch reference to the
+ 
+
+00:11:23.640 --> 00:12:09.530 align:start position:0%
+then we need to catch reference to the
+highlighters<00:11:24.300><c> in</c><00:11:25.019><c> the</c><00:11:25.200><c> movement</c><00:11:25.680><c> command</c>
+
+00:12:09.530 --> 00:12:09.540 align:start position:0%
+ 
+ 
+
+00:12:09.540 --> 00:12:12.590 align:start position:0%
+ 
+and<00:12:10.320><c> in</c><00:12:10.800><c> the</c><00:12:11.040><c> character</c><00:12:11.399><c> attack</c><00:12:11.760><c> we</c><00:12:12.300><c> need</c><00:12:12.480><c> to</c>
+
+00:12:12.590 --> 00:12:12.600 align:start position:0%
+and in the character attack we need to
+ 
+
+00:12:12.600 --> 00:12:14.990 align:start position:0%
+and in the character attack we need to
+catch<00:12:12.959><c> a</c><00:12:13.019><c> reference</c><00:12:13.380><c> to</c><00:12:13.860><c> the</c><00:12:14.100><c> grid</c><00:12:14.399><c> and</c><00:12:14.700><c> grid</c>
+
+00:12:14.990 --> 00:12:15.000 align:start position:0%
+catch a reference to the grid and grid
+ 
+
+00:12:15.000 --> 00:13:07.210 align:start position:0%
+catch a reference to the grid and grid
+highlight<00:12:15.360><c> for</c><00:12:15.600><c> attacks</c>
+
+00:13:07.210 --> 00:13:07.220 align:start position:0%
+ 
+ 
+
+00:13:07.220 --> 00:13:10.069 align:start position:0%
+ 
+and<00:13:08.220><c> in</c><00:13:08.399><c> the</c><00:13:08.579><c> clears</c><00:13:08.940><c> utility</c><00:13:09.300><c> we</c><00:13:09.660><c> will</c><00:13:09.839><c> need</c>
+
+00:13:10.069 --> 00:13:10.079 align:start position:0%
+and in the clears utility we will need
+ 
+
+00:13:10.079 --> 00:13:12.590 align:start position:0%
+and in the clears utility we will need
+to<00:13:10.200><c> add</c><00:13:10.440><c> field</c><00:13:10.740><c> for</c><00:13:11.040><c> pathfinding</c><00:13:11.820><c> into</c><00:13:12.180><c> Stage</c>
+
+00:13:12.590 --> 00:13:12.600 align:start position:0%
+to add field for pathfinding into Stage
+ 
+
+00:13:12.600 --> 00:14:22.009 align:start position:0%
+to add field for pathfinding into Stage
+manager
+
+00:14:22.009 --> 00:14:22.019 align:start position:0%
+ 
+ 
+
+00:14:22.019 --> 00:14:24.769 align:start position:0%
+ 
+don't<00:14:22.920><c> worry</c><00:14:23.160><c> I</c><00:14:23.700><c> understand</c><00:14:23.820><c> it</c><00:14:24.420><c> is</c><00:14:24.540><c> a</c><00:14:24.660><c> little</c>
+
+00:14:24.769 --> 00:14:24.779 align:start position:0%
+don't worry I understand it is a little
+ 
+
+00:14:24.779 --> 00:14:26.810 align:start position:0%
+don't worry I understand it is a little
+confusing<00:14:25.320><c> right</c><00:14:25.620><c> now</c><00:14:25.740><c> but</c><00:14:26.160><c> over</c><00:14:26.399><c> the</c><00:14:26.639><c> course</c>
+
+00:14:26.810 --> 00:14:26.820 align:start position:0%
+confusing right now but over the course
+ 
+
+00:14:26.820 --> 00:14:28.790 align:start position:0%
+confusing right now but over the course
+of<00:14:27.000><c> coming</c><00:14:27.240><c> episode</c><00:14:27.660><c> we</c><00:14:28.380><c> will</c><00:14:28.620><c> continue</c>
+
+00:14:28.790 --> 00:14:28.800 align:start position:0%
+of coming episode we will continue
+ 
+
+00:14:28.800 --> 00:14:31.250 align:start position:0%
+of coming episode we will continue
+refactoring<00:14:29.639><c> the</c><00:14:29.820><c> systems</c><00:14:30.420><c> and</c><00:14:30.959><c> it</c><00:14:31.079><c> will</c>
+
+00:14:31.250 --> 00:14:31.260 align:start position:0%
+refactoring the systems and it will
+ 
+
+00:14:31.260 --> 00:14:33.350 align:start position:0%
+refactoring the systems and it will
+become<00:14:31.620><c> way</c><00:14:31.920><c> more</c><00:14:32.100><c> clear</c><00:14:32.339><c> why</c><00:14:32.820><c> we</c><00:14:33.000><c> are</c><00:14:33.180><c> making</c>
+
+00:14:33.350 --> 00:14:33.360 align:start position:0%
+become way more clear why we are making
+ 
+
+00:14:33.360 --> 00:14:34.790 align:start position:0%
+become way more clear why we are making
+these<00:14:33.779><c> changes</c>
+
+00:14:34.790 --> 00:14:34.800 align:start position:0%
+these changes
+ 
+
+00:14:34.800 --> 00:14:36.829 align:start position:0%
+these changes
+good<00:14:35.160><c> this</c><00:14:35.399><c> is</c><00:14:35.519><c> it</c><00:14:35.700><c> for</c><00:14:35.880><c> this</c><00:14:36.000><c> episode</c><00:14:36.180><c> if</c><00:14:36.720><c> you</c>
+
+00:14:36.829 --> 00:14:36.839 align:start position:0%
+good this is it for this episode if you
+ 
+
+00:14:36.839 --> 00:14:38.569 align:start position:0%
+good this is it for this episode if you
+have<00:14:36.959><c> any</c><00:14:37.200><c> questions</c><00:14:37.440><c> or</c><00:14:37.920><c> any</c><00:14:38.040><c> ideas</c><00:14:38.279><c> about</c>
+
+00:14:38.569 --> 00:14:38.579 align:start position:0%
+have any questions or any ideas about
+ 
+
+00:14:38.579 --> 00:14:41.030 align:start position:0%
+have any questions or any ideas about
+code<00:14:38.940><c> please</c><00:14:39.420><c> leave</c><00:14:39.720><c> your</c><00:14:39.959><c> comment</c><00:14:40.199><c> below</c><00:14:40.560><c> if</c>
+
+00:14:41.030 --> 00:14:41.040 align:start position:0%
+code please leave your comment below if
+ 
+
+00:14:41.040 --> 00:14:42.889 align:start position:0%
+code please leave your comment below if
+you<00:14:41.100><c> want</c><00:14:41.279><c> to</c><00:14:41.399><c> support</c><00:14:41.579><c> me</c><00:14:41.940><c> link</c><00:14:42.540><c> in</c><00:14:42.779><c> the</c>
+
+00:14:42.889 --> 00:14:42.899 align:start position:0%
+you want to support me link in the
+ 
+
+00:14:42.899 --> 00:14:44.829 align:start position:0%
+you want to support me link in the
+description<00:14:43.199><c> special</c><00:14:43.920><c> thank</c><00:14:44.339><c> you</c><00:14:44.519><c> to</c>
+
+00:14:44.829 --> 00:14:44.839 align:start position:0%
+description special thank you to
+ 
+
+00:14:44.839 --> 00:14:47.569 align:start position:0%
+description special thank you to
+Stormbreaker<00:14:45.839><c> 9000</c><00:14:46.380><c> and</c><00:14:46.680><c> the</c><00:14:46.860><c> sword</c><00:14:47.040><c> has</c><00:14:47.339><c> do</c>
+
+00:14:47.569 --> 00:14:47.579 align:start position:0%
+Stormbreaker 9000 and the sword has do
+ 
+
+00:14:47.579 --> 00:14:49.850 align:start position:0%
+Stormbreaker 9000 and the sword has do
+for<00:14:48.000><c> their</c><00:14:48.240><c> generous</c><00:14:48.720><c> support</c><00:14:48.959><c> with</c><00:14:49.620><c> best</c>
+
+00:14:49.850 --> 00:14:49.860 align:start position:0%
+for their generous support with best
+ 
+
+00:14:49.860 --> 00:14:53.660 align:start position:0%
+for their generous support with best
+regards<00:14:50.399><c> see</c><00:14:50.880><c> you</c><00:14:51.060><c> in</c><00:14:51.180><c> the</c><00:14:51.240><c> next</c><00:14:51.360><c> episode</c>
+

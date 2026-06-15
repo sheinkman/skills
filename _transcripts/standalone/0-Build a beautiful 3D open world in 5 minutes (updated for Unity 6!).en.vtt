@@ -1,0 +1,1208 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.040 --> 00:00:01.309 align:start position:0%
+ 
+have<00:00:00.160><c> you</c><00:00:00.280><c> ever</c><00:00:00.440><c> wanted</c><00:00:00.640><c> to</c><00:00:00.760><c> make</c><00:00:00.919><c> an</c><00:00:01.079><c> open</c>
+
+00:00:01.309 --> 00:00:01.319 align:start position:0%
+have you ever wanted to make an open
+ 
+
+00:00:01.319 --> 00:00:03.389 align:start position:0%
+have you ever wanted to make an open
+world<00:00:01.920><c> well</c><00:00:02.120><c> today</c><00:00:02.440><c> I'll</c><00:00:02.600><c> be</c><00:00:02.720><c> showing</c><00:00:03.040><c> you</c><00:00:03.240><c> all</c>
+
+00:00:03.389 --> 00:00:03.399 align:start position:0%
+world well today I'll be showing you all
+ 
+
+00:00:03.399 --> 00:00:05.430 align:start position:0%
+world well today I'll be showing you all
+of<00:00:03.520><c> the</c><00:00:03.679><c> steps</c><00:00:04.000><c> involved</c><00:00:04.520><c> to</c><00:00:04.720><c> make</c><00:00:05.000><c> this</c><00:00:05.160><c> scene</c>
+
+00:00:05.430 --> 00:00:05.440 align:start position:0%
+of the steps involved to make this scene
+ 
+
+00:00:05.440 --> 00:00:07.349 align:start position:0%
+of the steps involved to make this scene
+you're<00:00:05.600><c> seeing</c><00:00:06.040><c> right</c><00:00:06.279><c> here</c><00:00:06.720><c> in</c><00:00:06.919><c> just</c><00:00:07.160><c> 5</c>
+
+00:00:07.349 --> 00:00:07.359 align:start position:0%
+you're seeing right here in just 5
+ 
+
+00:00:07.359 --> 00:00:10.070 align:start position:0%
+you're seeing right here in just 5
+minutes<00:00:08.000><c> and</c><00:00:08.160><c> this</c><00:00:08.360><c> is</c><00:00:08.559><c> updated</c><00:00:08.960><c> for</c><00:00:09.200><c> urp</c><00:00:09.880><c> and</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+minutes and this is updated for urp and
+ 
+
+00:00:10.080 --> 00:00:12.549 align:start position:0%
+minutes and this is updated for urp and
+unity<00:00:10.480><c> 6</c><00:00:11.000><c> so</c><00:00:11.240><c> this</c><00:00:11.440><c> tutorial</c><00:00:11.880><c> should</c><00:00:12.120><c> work</c><00:00:12.280><c> for</c>
+
+00:00:12.549 --> 00:00:12.559 align:start position:0%
+unity 6 so this tutorial should work for
+ 
+
+00:00:12.559 --> 00:00:14.230 align:start position:0%
+unity 6 so this tutorial should work for
+several<00:00:12.880><c> years</c><00:00:13.080><c> to</c><00:00:13.280><c> come</c><00:00:13.880><c> let's</c><00:00:14.040><c> start</c>
+
+00:00:14.230 --> 00:00:14.240 align:start position:0%
+several years to come let's start
+ 
+
+00:00:14.240 --> 00:00:16.430 align:start position:0%
+several years to come let's start
+totally<00:00:14.559><c> fresh</c><00:00:14.839><c> in</c><00:00:14.960><c> the</c><00:00:15.080><c> unity</c><00:00:15.480><c> Hub</c><00:00:16.000><c> click</c><00:00:16.199><c> new</c>
+
+00:00:16.430 --> 00:00:16.440 align:start position:0%
+totally fresh in the unity Hub click new
+ 
+
+00:00:16.440 --> 00:00:18.630 align:start position:0%
+totally fresh in the unity Hub click new
+project<00:00:16.920><c> and</c><00:00:17.080><c> be</c><00:00:17.400><c> absolutely</c><00:00:17.880><c> sure</c><00:00:18.199><c> to</c><00:00:18.359><c> use</c>
+
+00:00:18.630 --> 00:00:18.640 align:start position:0%
+project and be absolutely sure to use
+ 
+
+00:00:18.640 --> 00:00:21.429 align:start position:0%
+project and be absolutely sure to use
+Universal<00:00:19.359><c> 3D</c><00:00:19.880><c> for</c><00:00:20.039><c> the</c><00:00:20.199><c> template</c><00:00:21.000><c> name</c><00:00:21.199><c> your</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+Universal 3D for the template name your
+ 
+
+00:00:21.439 --> 00:00:23.390 align:start position:0%
+Universal 3D for the template name your
+project<00:00:21.800><c> and</c><00:00:22.000><c> click</c><00:00:22.279><c> create</c><00:00:22.920><c> when</c><00:00:23.039><c> you</c><00:00:23.160><c> open</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+project and click create when you open
+ 
+
+00:00:23.400 --> 00:00:25.150 align:start position:0%
+project and click create when you open
+Unity<00:00:23.880><c> it</c><00:00:24.039><c> might</c><00:00:24.240><c> look</c><00:00:24.400><c> like</c><00:00:24.640><c> this</c><00:00:24.960><c> I'm</c><00:00:25.039><c> going</c>
+
+00:00:25.150 --> 00:00:25.160 align:start position:0%
+Unity it might look like this I'm going
+ 
+
+00:00:25.160 --> 00:00:27.669 align:start position:0%
+Unity it might look like this I'm going
+to<00:00:25.279><c> choose</c><00:00:25.480><c> the</c><00:00:25.640><c> 2x3</c><00:00:26.240><c> layout</c><00:00:26.640><c> under</c><00:00:26.960><c> window</c>
+
+00:00:27.669 --> 00:00:27.679 align:start position:0%
+to choose the 2x3 layout under window
+ 
+
+00:00:27.679 --> 00:00:30.070 align:start position:0%
+to choose the 2x3 layout under window
+and<00:00:27.800><c> then</c><00:00:27.960><c> use</c><00:00:28.240><c> one</c><00:00:28.560><c> column</c><00:00:28.880><c> layout</c><00:00:29.279><c> here</c><00:00:29.679><c> and</c>
+
+00:00:30.070 --> 00:00:30.080 align:start position:0%
+and then use one column layout here and
+ 
+
+00:00:30.080 --> 00:00:31.950 align:start position:0%
+and then use one column layout here and
+hierarchy<00:00:30.840><c> right</c><00:00:31.119><c> click</c><00:00:31.359><c> and</c><00:00:31.560><c> create</c><00:00:31.800><c> a</c>
+
+00:00:31.950 --> 00:00:31.960 align:start position:0%
+hierarchy right click and create a
+ 
+
+00:00:31.960 --> 00:00:33.950 align:start position:0%
+hierarchy right click and create a
+Terrain<00:00:32.599><c> click</c><00:00:32.800><c> on</c><00:00:32.920><c> your</c><00:00:33.040><c> terrain</c><00:00:33.680><c> then</c><00:00:33.840><c> in</c>
+
+00:00:33.950 --> 00:00:33.960 align:start position:0%
+Terrain click on your terrain then in
+ 
+
+00:00:33.960 --> 00:00:36.350 align:start position:0%
+Terrain click on your terrain then in
+the<00:00:34.160><c> paint</c><00:00:34.399><c> terrain</c><00:00:34.840><c> tab</c><00:00:35.239><c> we</c><00:00:35.399><c> choose</c><00:00:35.760><c> raise</c><00:00:36.160><c> or</c>
+
+00:00:36.350 --> 00:00:36.360 align:start position:0%
+the paint terrain tab we choose raise or
+ 
+
+00:00:36.360 --> 00:00:38.069 align:start position:0%
+the paint terrain tab we choose raise or
+lower<00:00:36.719><c> terrain</c><00:00:37.320><c> I'm</c><00:00:37.399><c> going</c><00:00:37.480><c> to</c><00:00:37.559><c> use</c><00:00:37.680><c> a</c><00:00:37.760><c> brush</c>
+
+00:00:38.069 --> 00:00:38.079 align:start position:0%
+lower terrain I'm going to use a brush
+ 
+
+00:00:38.079 --> 00:00:40.430 align:start position:0%
+lower terrain I'm going to use a brush
+size<00:00:38.280><c> of</c><00:00:38.440><c> about</c><00:00:38.680><c> 400</c><00:00:39.520><c> select</c><00:00:39.879><c> this</c><00:00:40.039><c> noisy</c>
+
+00:00:40.430 --> 00:00:40.440 align:start position:0%
+size of about 400 select this noisy
+ 
+
+00:00:40.440 --> 00:00:42.750 align:start position:0%
+size of about 400 select this noisy
+brush<00:00:40.920><c> and</c><00:00:41.039><c> then</c><00:00:41.160><c> set</c><00:00:41.360><c> my</c><00:00:41.559><c> opacity</c><00:00:42.079><c> down</c><00:00:42.320><c> to</c>
+
+00:00:42.750 --> 00:00:42.760 align:start position:0%
+brush and then set my opacity down to
+ 
+
+00:00:42.760 --> 00:00:44.750 align:start position:0%
+brush and then set my opacity down to
+about<00:00:43.000><c> 10</c><00:00:43.200><c> or</c><00:00:43.440><c> 15</c><00:00:44.120><c> then</c><00:00:44.239><c> we're</c><00:00:44.360><c> going</c><00:00:44.440><c> to</c><00:00:44.559><c> do</c>
+
+00:00:44.750 --> 00:00:44.760 align:start position:0%
+about 10 or 15 then we're going to do
+ 
+
+00:00:44.760 --> 00:00:46.910 align:start position:0%
+about 10 or 15 then we're going to do
+what<00:00:44.879><c> I</c><00:00:45.000><c> like</c><00:00:45.160><c> to</c><00:00:45.280><c> call</c><00:00:45.520><c> a</c><00:00:45.640><c> three</c><00:00:46.079><c> part</c><00:00:46.320><c> pass</c>
+
+00:00:46.910 --> 00:00:46.920 align:start position:0%
+what I like to call a three part pass
+ 
+
+00:00:46.920 --> 00:00:48.869 align:start position:0%
+what I like to call a three part pass
+first<00:00:47.199><c> make</c><00:00:47.360><c> your</c><00:00:47.520><c> Coes</c><00:00:47.960><c> pass</c><00:00:48.280><c> where</c><00:00:48.440><c> we</c><00:00:48.600><c> paint</c>
+
+00:00:48.869 --> 00:00:48.879 align:start position:0%
+first make your Coes pass where we paint
+ 
+
+00:00:48.879 --> 00:00:50.869 align:start position:0%
+first make your Coes pass where we paint
+big<00:00:49.079><c> features</c><00:00:49.920><c> second</c><00:00:50.199><c> scale</c><00:00:50.559><c> down</c><00:00:50.719><c> your</c>
+
+00:00:50.869 --> 00:00:50.879 align:start position:0%
+big features second scale down your
+ 
+
+00:00:50.879 --> 00:00:53.310 align:start position:0%
+big features second scale down your
+brush<00:00:51.199><c> size</c><00:00:51.680><c> and</c><00:00:51.920><c> opacity</c><00:00:52.559><c> and</c><00:00:52.719><c> paint</c><00:00:52.920><c> in</c><00:00:53.079><c> some</c>
+
+00:00:53.310 --> 00:00:53.320 align:start position:0%
+brush size and opacity and paint in some
+ 
+
+00:00:53.320 --> 00:00:56.069 align:start position:0%
+brush size and opacity and paint in some
+smaller<00:00:53.640><c> features</c><00:00:54.359><c> all</c><00:00:54.520><c> around</c><00:00:55.280><c> third</c><00:00:55.680><c> choose</c>
+
+00:00:56.069 --> 00:00:56.079 align:start position:0%
+smaller features all around third choose
+ 
+
+00:00:56.079 --> 00:00:57.910 align:start position:0%
+smaller features all around third choose
+smooth<00:00:56.520><c> height</c><00:00:56.879><c> get</c><00:00:57.000><c> a</c><00:00:57.160><c> bigger</c><00:00:57.440><c> brush</c><00:00:57.800><c> and</c>
+
+00:00:57.910 --> 00:00:57.920 align:start position:0%
+smooth height get a bigger brush and
+ 
+
+00:00:57.920 --> 00:01:00.029 align:start position:0%
+smooth height get a bigger brush and
+then<00:00:58.120><c> smooth</c><00:00:58.480><c> your</c><00:00:58.640><c> whole</c><00:00:58.920><c> terrain</c><00:00:59.559><c> repeat</c>
+
+00:01:00.029 --> 00:01:00.039 align:start position:0%
+then smooth your whole terrain repeat
+ 
+
+00:01:00.039 --> 00:01:01.750 align:start position:0%
+then smooth your whole terrain repeat
+that<00:01:00.160><c> until</c><00:01:00.399><c> you're</c><00:01:00.600><c> happy</c><00:01:01.239><c> we</c><00:01:01.359><c> need</c><00:01:01.519><c> some</c>
+
+00:01:01.750 --> 00:01:01.760 align:start position:0%
+that until you're happy we need some
+ 
+
+00:01:01.760 --> 00:01:03.790 align:start position:0%
+that until you're happy we need some
+assets<00:01:02.199><c> so</c><00:01:02.440><c> I</c><00:01:02.559><c> drop</c><00:01:02.840><c> two</c><00:01:03.000><c> links</c><00:01:03.239><c> for</c><00:01:03.399><c> you</c><00:01:03.559><c> below</c>
+
+00:01:03.790 --> 00:01:03.800 align:start position:0%
+assets so I drop two links for you below
+ 
+
+00:01:03.800 --> 00:01:05.630 align:start position:0%
+assets so I drop two links for you below
+in<00:01:03.879><c> the</c><00:01:04.040><c> description</c><00:01:04.839><c> first</c><00:01:05.119><c> add</c><00:01:05.280><c> the</c><00:01:05.400><c> low</c>
+
+00:01:05.630 --> 00:01:05.640 align:start position:0%
+in the description first add the low
+ 
+
+00:01:05.640 --> 00:01:07.429 align:start position:0%
+in the description first add the low
+poly<00:01:05.880><c> environment</c><00:01:06.400><c> asset</c><00:01:06.799><c> from</c><00:01:07.000><c> the</c><00:01:07.159><c> asset</c>
+
+00:01:07.429 --> 00:01:07.439 align:start position:0%
+poly environment asset from the asset
+ 
+
+00:01:07.439 --> 00:01:09.990 align:start position:0%
+poly environment asset from the asset
+store<00:01:08.320><c> next</c><00:01:08.680><c> add</c><00:01:08.840><c> the</c><00:01:09.000><c> starter</c><00:01:09.479><c> assets</c>
+
+00:01:09.990 --> 00:01:10.000 align:start position:0%
+store next add the starter assets
+ 
+
+00:01:10.000 --> 00:01:12.310 align:start position:0%
+store next add the starter assets
+firstperson<00:01:10.720><c> controller</c><00:01:11.479><c> back</c><00:01:11.640><c> in</c><00:01:11.799><c> unity</c>
+
+00:01:12.310 --> 00:01:12.320 align:start position:0%
+firstperson controller back in unity
+ 
+
+00:01:12.320 --> 00:01:14.310 align:start position:0%
+firstperson controller back in unity
+open<00:01:12.520><c> the</c><00:01:12.720><c> package</c><00:01:13.000><c> manager</c><00:01:13.640><c> click</c><00:01:13.840><c> on</c><00:01:14.000><c> my</c>
+
+00:01:14.310 --> 00:01:14.320 align:start position:0%
+open the package manager click on my
+ 
+
+00:01:14.320 --> 00:01:16.789 align:start position:0%
+open the package manager click on my
+assets<00:01:14.799><c> then</c><00:01:14.960><c> search</c><00:01:15.320><c> low</c><00:01:15.640><c> poly</c><00:01:16.000><c> environment</c>
+
+00:01:16.789 --> 00:01:16.799 align:start position:0%
+assets then search low poly environment
+ 
+
+00:01:16.799 --> 00:01:18.550 align:start position:0%
+assets then search low poly environment
+click<00:01:17.080><c> import</c><00:01:17.400><c> to</c><00:01:17.600><c> project</c><00:01:18.200><c> you'll</c><00:01:18.400><c> get</c>
+
+00:01:18.550 --> 00:01:18.560 align:start position:0%
+click import to project you'll get
+ 
+
+00:01:18.560 --> 00:01:20.590 align:start position:0%
+click import to project you'll get
+another<00:01:18.880><c> popup</c><00:01:19.320><c> then</c><00:01:19.479><c> click</c><00:01:19.720><c> import</c><00:01:20.159><c> again</c>
+
+00:01:20.590 --> 00:01:20.600 align:start position:0%
+another popup then click import again
+ 
+
+00:01:20.600 --> 00:01:21.710 align:start position:0%
+another popup then click import again
+now<00:01:20.720><c> to</c><00:01:20.840><c> do</c><00:01:21.000><c> the</c><00:01:21.119><c> same</c><00:01:21.320><c> thing</c><00:01:21.479><c> for</c><00:01:21.640><c> the</c>
+
+00:01:21.710 --> 00:01:21.720 align:start position:0%
+now to do the same thing for the
+ 
+
+00:01:21.720 --> 00:01:23.630 align:start position:0%
+now to do the same thing for the
+first-person<00:01:22.280><c> controller</c><00:01:23.159><c> go</c><00:01:23.280><c> ahead</c><00:01:23.479><c> and</c>
+
+00:01:23.630 --> 00:01:23.640 align:start position:0%
+first-person controller go ahead and
+ 
+
+00:01:23.640 --> 00:01:25.390 align:start position:0%
+first-person controller go ahead and
+delete<00:01:23.960><c> your</c><00:01:24.079><c> main</c><00:01:24.360><c> camera</c><00:01:24.759><c> and</c><00:01:24.920><c> open</c><00:01:25.159><c> up</c><00:01:25.320><c> the</c>
+
+00:01:25.390 --> 00:01:25.400 align:start position:0%
+delete your main camera and open up the
+ 
+
+00:01:25.400 --> 00:01:27.429 align:start position:0%
+delete your main camera and open up the
+starter<00:01:25.799><c> assets</c><00:01:26.159><c> folder</c><00:01:26.720><c> find</c><00:01:26.920><c> the</c><00:01:27.040><c> nested</c>
+
+00:01:27.429 --> 00:01:27.439 align:start position:0%
+starter assets folder find the nested
+ 
+
+00:01:27.439 --> 00:01:29.710 align:start position:0%
+starter assets folder find the nested
+player<00:01:27.799><c> unpack</c><00:01:28.400><c> prefab</c><00:01:29.000><c> and</c><00:01:29.159><c> drag</c><00:01:29.439><c> it</c><00:01:29.560><c> into</c>
+
+00:01:29.710 --> 00:01:29.720 align:start position:0%
+player unpack prefab and drag it into
+ 
+
+00:01:29.720 --> 00:01:31.910 align:start position:0%
+player unpack prefab and drag it into
+your<00:01:29.920><c> you're</c><00:01:30.040><c> seen</c><00:01:30.640><c> it</c><00:01:30.799><c> has</c><00:01:30.920><c> this</c><00:01:31.119><c> mobile</c><00:01:31.479><c> UI</c>
+
+00:01:31.910 --> 00:01:31.920 align:start position:0%
+your you're seen it has this mobile UI
+ 
+
+00:01:31.920 --> 00:01:33.710 align:start position:0%
+your you're seen it has this mobile UI
+by<00:01:32.079><c> default</c><00:01:32.680><c> if</c><00:01:32.759><c> you</c><00:01:32.840><c> don't</c><00:01:33.040><c> need</c><00:01:33.280><c> that</c><00:01:33.560><c> I</c>
+
+00:01:33.710 --> 00:01:33.720 align:start position:0%
+by default if you don't need that I
+ 
+
+00:01:33.720 --> 00:01:35.950 align:start position:0%
+by default if you don't need that I
+suggest<00:01:34.240><c> just</c><00:01:34.399><c> deleting</c><00:01:34.799><c> the</c><00:01:34.920><c> UI</c><00:01:35.280><c> canvas</c><00:01:35.799><c> and</c>
+
+00:01:35.950 --> 00:01:35.960 align:start position:0%
+suggest just deleting the UI canvas and
+ 
+
+00:01:35.960 --> 00:01:38.670 align:start position:0%
+suggest just deleting the UI canvas and
+the<00:01:36.079><c> UI</c><00:01:36.439><c> Event</c><00:01:36.880><c> Systems</c><00:01:37.439><c> inside</c><00:01:37.880><c> the</c><00:01:37.960><c> prefab</c>
+
+00:01:38.670 --> 00:01:38.680 align:start position:0%
+the UI Event Systems inside the prefab
+ 
+
+00:01:38.680 --> 00:01:40.310 align:start position:0%
+the UI Event Systems inside the prefab
+now<00:01:38.799><c> you</c><00:01:38.880><c> can</c><00:01:39.000><c> select</c><00:01:39.240><c> the</c><00:01:39.360><c> parent</c><00:01:39.759><c> and</c><00:01:39.920><c> freely</c>
+
+00:01:40.310 --> 00:01:40.320 align:start position:0%
+now you can select the parent and freely
+ 
+
+00:01:40.320 --> 00:01:42.389 align:start position:0%
+now you can select the parent and freely
+position<00:01:40.600><c> it</c><00:01:40.759><c> on</c><00:01:40.880><c> the</c><00:01:41.000><c> terrain</c><00:01:41.399><c> surface</c><00:01:42.280><c> at</c>
+
+00:01:42.389 --> 00:01:42.399 align:start position:0%
+position it on the terrain surface at
+ 
+
+00:01:42.399 --> 00:01:43.870 align:start position:0%
+position it on the terrain surface at
+this<00:01:42.600><c> point</c><00:01:42.880><c> you</c><00:01:42.960><c> should</c><00:01:43.159><c> be</c><00:01:43.280><c> able</c><00:01:43.439><c> to</c><00:01:43.600><c> press</c>
+
+00:01:43.870 --> 00:01:43.880 align:start position:0%
+this point you should be able to press
+ 
+
+00:01:43.880 --> 00:01:46.230 align:start position:0%
+this point you should be able to press
+play<00:01:44.200><c> and</c><00:01:44.399><c> freely</c><00:01:44.840><c> walk</c><00:01:45.079><c> around</c><00:01:45.920><c> now</c><00:01:46.040><c> let's</c>
+
+00:01:46.230 --> 00:01:46.240 align:start position:0%
+play and freely walk around now let's
+ 
+
+00:01:46.240 --> 00:01:48.510 align:start position:0%
+play and freely walk around now let's
+make<00:01:46.399><c> this</c><00:01:46.560><c> terrain</c><00:01:47.040><c> a</c><00:01:47.280><c> bit</c><00:01:47.520><c> less</c><00:01:47.759><c> ugly</c><00:01:48.399><c> this</c>
+
+00:01:48.510 --> 00:01:48.520 align:start position:0%
+make this terrain a bit less ugly this
+ 
+
+00:01:48.520 --> 00:01:50.270 align:start position:0%
+make this terrain a bit less ugly this
+is<00:01:48.759><c> really</c><00:01:49.000><c> important</c><00:01:49.399><c> so</c><00:01:49.640><c> open</c><00:01:49.880><c> up</c><00:01:50.079><c> the</c>
+
+00:01:50.270 --> 00:01:50.280 align:start position:0%
+is really important so open up the
+ 
+
+00:01:50.280 --> 00:01:52.830 align:start position:0%
+is really important so open up the
+polytope<00:01:50.960><c> studio</c><00:01:51.439><c> folder</c><00:01:52.200><c> then</c><00:01:52.399><c> inside</c>
+
+00:01:52.830 --> 00:01:52.840 align:start position:0%
+polytope studio folder then inside
+ 
+
+00:01:52.840 --> 00:01:55.510 align:start position:0%
+polytope studio folder then inside
+environments<00:01:53.479><c> there's</c><00:01:53.680><c> a</c><00:01:53.880><c> folder</c><00:01:54.159><c> named</c><00:01:54.560><c> SRP</c>
+
+00:01:55.510 --> 00:01:55.520 align:start position:0%
+environments there's a folder named SRP
+ 
+
+00:01:55.520 --> 00:01:57.389 align:start position:0%
+environments there's a folder named SRP
+open<00:01:55.799><c> that</c><00:01:55.920><c> up</c><00:01:56.119><c> and</c><00:01:56.320><c> double</c><00:01:56.640><c> click</c><00:01:57.000><c> the</c><00:01:57.159><c> most</c>
+
+00:01:57.389 --> 00:01:57.399 align:start position:0%
+open that up and double click the most
+ 
+
+00:01:57.399 --> 00:02:00.069 align:start position:0%
+open that up and double click the most
+recent<00:01:57.759><c> urp</c><00:01:58.320><c> file</c><00:01:58.680><c> here</c><00:01:59.079><c> then</c><00:01:59.240><c> click</c><00:01:59.479><c> import</c>
+
+00:02:00.069 --> 00:02:00.079 align:start position:0%
+recent urp file here then click import
+ 
+
+00:02:00.079 --> 00:02:03.069 align:start position:0%
+recent urp file here then click import
+to<00:02:00.240><c> convert</c><00:02:00.799><c> to</c><00:02:01.119><c> urp</c><00:02:01.799><c> materials</c><00:02:02.799><c> click</c><00:02:02.960><c> on</c>
+
+00:02:03.069 --> 00:02:03.079 align:start position:0%
+to convert to urp materials click on
+ 
+
+00:02:03.079 --> 00:02:05.389 align:start position:0%
+to convert to urp materials click on
+your<00:02:03.240><c> terrain</c><00:02:03.719><c> then</c><00:02:03.920><c> select</c><00:02:04.280><c> paint</c><00:02:04.560><c> texture</c>
+
+00:02:05.389 --> 00:02:05.399 align:start position:0%
+your terrain then select paint texture
+ 
+
+00:02:05.399 --> 00:02:07.630 align:start position:0%
+your terrain then select paint texture
+click<00:02:05.640><c> edit</c><00:02:05.880><c> terrain</c><00:02:06.240><c> layers</c><00:02:06.840><c> add</c><00:02:07.079><c> layer</c><00:02:07.479><c> and</c>
+
+00:02:07.630 --> 00:02:07.640 align:start position:0%
+click edit terrain layers add layer and
+ 
+
+00:02:07.640 --> 00:02:10.630 align:start position:0%
+click edit terrain layers add layer and
+select<00:02:08.080><c> ground</c><00:02:08.399><c> layer</c><00:02:08.800><c> two</c><00:02:09.239><c> for</c><00:02:09.560><c> the</c><00:02:09.800><c> grass</c>
+
+00:02:10.630 --> 00:02:10.640 align:start position:0%
+select ground layer two for the grass
+ 
+
+00:02:10.640 --> 00:02:12.589 align:start position:0%
+select ground layer two for the grass
+now<00:02:10.759><c> let's</c><00:02:11.000><c> add</c><00:02:11.160><c> some</c><00:02:11.360><c> 3D</c><00:02:11.760><c> grass</c><00:02:12.239><c> go</c><00:02:12.319><c> to</c><00:02:12.440><c> your</c>
+
+00:02:12.589 --> 00:02:12.599 align:start position:0%
+now let's add some 3D grass go to your
+ 
+
+00:02:12.599 --> 00:02:14.830 align:start position:0%
+now let's add some 3D grass go to your
+paint<00:02:12.879><c> details</c><00:02:13.400><c> tab</c><00:02:13.800><c> go</c><00:02:13.959><c> into</c><00:02:14.160><c> edit</c><00:02:14.400><c> details</c>
+
+00:02:14.830 --> 00:02:14.840 align:start position:0%
+paint details tab go into edit details
+ 
+
+00:02:14.840 --> 00:02:17.190 align:start position:0%
+paint details tab go into edit details
+and<00:02:15.040><c> add</c><00:02:15.160><c> a</c><00:02:15.360><c> texture</c><00:02:16.080><c> for</c><00:02:16.200><c> the</c><00:02:16.319><c> detail</c><00:02:16.680><c> texture</c>
+
+00:02:17.190 --> 00:02:17.200 align:start position:0%
+and add a texture for the detail texture
+ 
+
+00:02:17.200 --> 00:02:20.309 align:start position:0%
+and add a texture for the detail texture
+I'm<00:02:17.319><c> going</c><00:02:17.400><c> to</c><00:02:17.519><c> choose</c><00:02:17.879><c> PT</c><00:02:18.360><c> grass</c><00:02:18.760><c> O2</c><00:02:19.680><c> add</c><00:02:20.000><c> this</c>
+
+00:02:20.309 --> 00:02:20.319 align:start position:0%
+I'm going to choose PT grass O2 add this
+ 
+
+00:02:20.319 --> 00:02:22.309 align:start position:0%
+I'm going to choose PT grass O2 add this
+then<00:02:20.519><c> get</c><00:02:20.680><c> a</c><00:02:20.840><c> big</c><00:02:21.040><c> brush</c><00:02:21.360><c> and</c><00:02:21.599><c> paint</c><00:02:21.840><c> over</c><00:02:22.120><c> the</c>
+
+00:02:22.309 --> 00:02:22.319 align:start position:0%
+then get a big brush and paint over the
+ 
+
+00:02:22.319 --> 00:02:24.550 align:start position:0%
+then get a big brush and paint over the
+entire<00:02:22.760><c> area</c><00:02:23.120><c> that</c><00:02:23.239><c> you</c><00:02:23.360><c> want</c><00:02:23.640><c> grass</c><00:02:24.319><c> but</c><00:02:24.440><c> you</c>
+
+00:02:24.550 --> 00:02:24.560 align:start position:0%
+entire area that you want grass but you
+ 
+
+00:02:24.560 --> 00:02:26.229 align:start position:0%
+entire area that you want grass but you
+might<00:02:24.720><c> notice</c><00:02:25.000><c> it</c><00:02:25.120><c> doesn't</c><00:02:25.400><c> fill</c><00:02:25.640><c> in</c><00:02:25.920><c> past</c><00:02:26.120><c> a</c>
+
+00:02:26.229 --> 00:02:26.239 align:start position:0%
+might notice it doesn't fill in past a
+ 
+
+00:02:26.239 --> 00:02:28.150 align:start position:0%
+might notice it doesn't fill in past a
+certain<00:02:26.599><c> point</c><00:02:27.000><c> so</c><00:02:27.200><c> that's</c><00:02:27.400><c> because</c><00:02:27.920><c> we</c><00:02:28.040><c> need</c>
+
+00:02:28.150 --> 00:02:28.160 align:start position:0%
+certain point so that's because we need
+ 
+
+00:02:28.160 --> 00:02:30.430 align:start position:0%
+certain point so that's because we need
+to<00:02:28.280><c> go</c><00:02:28.400><c> to</c><00:02:28.519><c> terrain</c><00:02:28.920><c> settings</c><00:02:29.360><c> in</c><00:02:29.640><c> in</c><00:02:29.920><c> increase</c>
+
+00:02:30.430 --> 00:02:30.440 align:start position:0%
+to go to terrain settings in in increase
+ 
+
+00:02:30.440 --> 00:02:32.350 align:start position:0%
+to go to terrain settings in in increase
+the<00:02:30.560><c> detailed</c><00:02:31.080><c> distance</c><00:02:31.840><c> don't</c><00:02:32.040><c> go</c><00:02:32.160><c> too</c>
+
+00:02:32.350 --> 00:02:32.360 align:start position:0%
+the detailed distance don't go too
+ 
+
+00:02:32.360 --> 00:02:35.150 align:start position:0%
+the detailed distance don't go too
+overboard<00:02:32.879><c> here</c><00:02:33.160><c> I</c><00:02:33.239><c> think</c><00:02:33.599><c> 150</c><00:02:34.319><c> to</c><00:02:34.680><c> 200</c><00:02:34.920><c> is</c>
+
+00:02:35.150 --> 00:02:35.160 align:start position:0%
+overboard here I think 150 to 200 is
+ 
+
+00:02:35.160 --> 00:02:37.229 align:start position:0%
+overboard here I think 150 to 200 is
+okay<00:02:35.360><c> so</c><00:02:35.519><c> we</c><00:02:35.599><c> don't</c><00:02:35.840><c> kill</c><00:02:36.160><c> performance</c><00:02:36.959><c> click</c>
+
+00:02:37.229 --> 00:02:37.239 align:start position:0%
+okay so we don't kill performance click
+ 
+
+00:02:37.239 --> 00:02:39.229 align:start position:0%
+okay so we don't kill performance click
+back<00:02:37.360><c> on</c><00:02:37.480><c> our</c><00:02:37.640><c> grass</c><00:02:37.959><c> and</c><00:02:38.120><c> edit</c><00:02:38.360><c> details</c><00:02:39.040><c> make</c>
+
+00:02:39.229 --> 00:02:39.239 align:start position:0%
+back on our grass and edit details make
+ 
+
+00:02:39.239 --> 00:02:41.550 align:start position:0%
+back on our grass and edit details make
+the<00:02:39.360><c> Min</c><00:02:39.519><c> and</c><00:02:39.680><c> Max</c><00:02:40.000><c> width</c><00:02:40.560><c> and</c><00:02:40.879><c> the</c><00:02:41.120><c> height</c><00:02:41.440><c> a</c>
+
+00:02:41.550 --> 00:02:41.560 align:start position:0%
+the Min and Max width and the height a
+ 
+
+00:02:41.560 --> 00:02:43.509 align:start position:0%
+the Min and Max width and the height a
+little<00:02:41.720><c> bit</c><00:02:41.920><c> smaller</c><00:02:42.680><c> we</c><00:02:42.800><c> can</c><00:02:42.920><c> also</c><00:02:43.120><c> slide</c><00:02:43.400><c> up</c>
+
+00:02:43.509 --> 00:02:43.519 align:start position:0%
+little bit smaller we can also slide up
+ 
+
+00:02:43.519 --> 00:02:45.270 align:start position:0%
+little bit smaller we can also slide up
+our<00:02:43.640><c> detail</c><00:02:44.000><c> density</c><00:02:44.400><c> here</c><00:02:44.560><c> until</c><00:02:44.840><c> it</c><00:02:44.959><c> looks</c>
+
+00:02:45.270 --> 00:02:45.280 align:start position:0%
+our detail density here until it looks
+ 
+
+00:02:45.280 --> 00:02:48.270 align:start position:0%
+our detail density here until it looks
+nice<00:02:45.480><c> and</c><00:02:45.640><c> full</c><00:02:46.280><c> maybe</c><00:02:46.599><c> somewhere</c><00:02:46.920><c> around</c><00:02:47.280><c> 2.5</c>
+
+00:02:48.270 --> 00:02:48.280 align:start position:0%
+nice and full maybe somewhere around 2.5
+ 
+
+00:02:48.280 --> 00:02:49.910 align:start position:0%
+nice and full maybe somewhere around 2.5
+then<00:02:48.440><c> choose</c><00:02:48.640><c> a</c><00:02:48.840><c> light</c><00:02:49.040><c> and</c><00:02:49.239><c> dark</c><00:02:49.519><c> color</c><00:02:49.760><c> for</c>
+
+00:02:49.910 --> 00:02:49.920 align:start position:0%
+then choose a light and dark color for
+ 
+
+00:02:49.920 --> 00:02:52.149 align:start position:0%
+then choose a light and dark color for
+your<00:02:50.120><c> grass</c><00:02:50.440><c> to</c><00:02:50.560><c> fit</c><00:02:50.760><c> your</c><00:02:51.000><c> project</c><00:02:51.800><c> now</c><00:02:51.959><c> if</c><00:02:52.040><c> I</c>
+
+00:02:52.149 --> 00:02:52.159 align:start position:0%
+your grass to fit your project now if I
+ 
+
+00:02:52.159 --> 00:02:54.350 align:start position:0%
+your grass to fit your project now if I
+go<00:02:52.239><c> into</c><00:02:52.440><c> play</c><00:02:52.640><c> mode</c><00:02:53.159><c> our</c><00:02:53.560><c> ground</c><00:02:54.000><c> color</c>
+
+00:02:54.350 --> 00:02:54.360 align:start position:0%
+go into play mode our ground color
+ 
+
+00:02:54.360 --> 00:02:56.630 align:start position:0%
+go into play mode our ground color
+doesn't<00:02:54.640><c> really</c><00:02:54.879><c> match</c><00:02:55.159><c> our</c><00:02:55.440><c> grass</c><00:02:56.159><c> so</c><00:02:56.319><c> we</c><00:02:56.440><c> can</c>
+
+00:02:56.630 --> 00:02:56.640 align:start position:0%
+doesn't really match our grass so we can
+ 
+
+00:02:56.640 --> 00:02:58.790 align:start position:0%
+doesn't really match our grass so we can
+fix<00:02:56.959><c> this</c><00:02:57.280><c> by</c><00:02:57.480><c> going</c><00:02:57.680><c> to</c><00:02:57.920><c> our</c><00:02:58.120><c> paint</c><00:02:58.360><c> terrain</c>
+
+00:02:58.790 --> 00:02:58.800 align:start position:0%
+fix this by going to our paint terrain
+ 
+
+00:02:58.800 --> 00:03:00.750 align:start position:0%
+fix this by going to our paint terrain
+tab<00:02:59.239><c> selecting</c><00:02:59.599><c> our</c><00:02:59.959><c> grass</c><00:03:00.200><c> layer</c><00:03:00.599><c> than</c>
+
+00:03:00.750 --> 00:03:00.760 align:start position:0%
+tab selecting our grass layer than
+ 
+
+00:03:00.760 --> 00:03:03.270 align:start position:0%
+tab selecting our grass layer than
+choosing<00:03:01.159><c> a</c><00:03:01.319><c> color</c><00:03:01.640><c> tint</c><00:03:02.360><c> drag</c><00:03:02.640><c> around</c><00:03:02.879><c> colors</c>
+
+00:03:03.270 --> 00:03:03.280 align:start position:0%
+choosing a color tint drag around colors
+ 
+
+00:03:03.280 --> 00:03:05.149 align:start position:0%
+choosing a color tint drag around colors
+until<00:03:03.519><c> it</c><00:03:03.720><c> visually</c><00:03:04.200><c> matches</c><00:03:04.640><c> the</c><00:03:04.799><c> bottom</c><00:03:05.040><c> of</c>
+
+00:03:05.149 --> 00:03:05.159 align:start position:0%
+until it visually matches the bottom of
+ 
+
+00:03:05.159 --> 00:03:07.270 align:start position:0%
+until it visually matches the bottom of
+your<00:03:05.360><c> grass</c><00:03:06.239><c> next</c><00:03:06.440><c> let's</c><00:03:06.599><c> go</c><00:03:06.720><c> into</c><00:03:06.920><c> the</c><00:03:07.040><c> paint</c>
+
+00:03:07.270 --> 00:03:07.280 align:start position:0%
+your grass next let's go into the paint
+ 
+
+00:03:07.280 --> 00:03:09.750 align:start position:0%
+your grass next let's go into the paint
+trees<00:03:07.640><c> tab</c><00:03:08.200><c> click</c><00:03:08.440><c> edit</c><00:03:08.720><c> trees</c><00:03:09.239><c> and</c><00:03:09.480><c> add</c><00:03:09.640><c> a</c>
+
+00:03:09.750 --> 00:03:09.760 align:start position:0%
+trees tab click edit trees and add a
+ 
+
+00:03:09.760 --> 00:03:11.670 align:start position:0%
+trees tab click edit trees and add a
+tree<00:03:10.280><c> for</c><00:03:10.400><c> the</c><00:03:10.480><c> tree</c><00:03:10.720><c> prefab</c><00:03:11.400><c> I'm</c><00:03:11.480><c> going</c><00:03:11.599><c> to</c>
+
+00:03:11.670 --> 00:03:11.680 align:start position:0%
+tree for the tree prefab I'm going to
+ 
+
+00:03:11.680 --> 00:03:15.070 align:start position:0%
+tree for the tree prefab I'm going to
+use<00:03:11.799><c> the</c><00:03:11.959><c> PT</c><00:03:12.400><c> Pine</c><00:03:12.680><c> tree3</c><00:03:13.560><c> Green</c><00:03:14.400><c> and</c><00:03:14.560><c> be</c><00:03:14.760><c> very</c>
+
+00:03:15.070 --> 00:03:15.080 align:start position:0%
+use the PT Pine tree3 Green and be very
+ 
+
+00:03:15.080 --> 00:03:17.390 align:start position:0%
+use the PT Pine tree3 Green and be very
+careful<00:03:15.440><c> to</c><00:03:15.640><c> select</c><00:03:16.040><c> the</c><00:03:16.200><c> prefab</c><00:03:17.000><c> with</c><00:03:17.200><c> the</c>
+
+00:03:17.390 --> 00:03:17.400 align:start position:0%
+careful to select the prefab with the
+ 
+
+00:03:17.400 --> 00:03:19.990 align:start position:0%
+careful to select the prefab with the
+solid<00:03:17.840><c> blue</c><00:03:18.159><c> box</c><00:03:18.560><c> icon</c><00:03:18.920><c> next</c><00:03:19.120><c> to</c><00:03:19.280><c> it</c><00:03:19.760><c> now</c><00:03:19.879><c> we</c>
+
+00:03:19.990 --> 00:03:20.000 align:start position:0%
+solid blue box icon next to it now we
+ 
+
+00:03:20.000 --> 00:03:21.670 align:start position:0%
+solid blue box icon next to it now we
+can<00:03:20.120><c> use</c><00:03:20.319><c> this</c><00:03:20.519><c> awesome</c><00:03:20.840><c> terrain</c><00:03:21.239><c> feature</c>
+
+00:03:21.670 --> 00:03:21.680 align:start position:0%
+can use this awesome terrain feature
+ 
+
+00:03:21.680 --> 00:03:23.949 align:start position:0%
+can use this awesome terrain feature
+named<00:03:22.080><c> Mass</c><00:03:22.519><c> Place</c><00:03:22.840><c> trees</c><00:03:23.560><c> I'm</c><00:03:23.680><c> going</c><00:03:23.799><c> to</c>
+
+00:03:23.949 --> 00:03:23.959 align:start position:0%
+named Mass Place trees I'm going to
+ 
+
+00:03:23.959 --> 00:03:26.710 align:start position:0%
+named Mass Place trees I'm going to
+choose<00:03:24.400><c> 10,000</c><00:03:24.959><c> trees</c><00:03:25.400><c> then</c><00:03:25.560><c> click</c><00:03:25.879><c> place</c><00:03:26.599><c> and</c>
+
+00:03:26.710 --> 00:03:26.720 align:start position:0%
+choose 10,000 trees then click place and
+ 
+
+00:03:26.720 --> 00:03:28.429 align:start position:0%
+choose 10,000 trees then click place and
+you'll<00:03:27.000><c> randomly</c><00:03:27.519><c> distribute</c><00:03:28.000><c> a</c><00:03:28.120><c> ton</c><00:03:28.280><c> of</c>
+
+00:03:28.429 --> 00:03:28.439 align:start position:0%
+you'll randomly distribute a ton of
+ 
+
+00:03:28.439 --> 00:03:30.670 align:start position:0%
+you'll randomly distribute a ton of
+trees<00:03:28.920><c> all</c><00:03:29.120><c> across</c><00:03:29.360><c> your</c><00:03:29.519><c> tur</c><00:03:29.799><c> brain</c><00:03:30.480><c> now</c><00:03:30.599><c> I</c>
+
+00:03:30.670 --> 00:03:30.680 align:start position:0%
+trees all across your tur brain now I
+ 
+
+00:03:30.680 --> 00:03:32.750 align:start position:0%
+trees all across your tur brain now I
+don't<00:03:30.879><c> think</c><00:03:31.120><c> our</c><00:03:31.280><c> trees</c><00:03:31.760><c> match</c><00:03:32.080><c> our</c><00:03:32.360><c> color</c>
+
+00:03:32.750 --> 00:03:32.760 align:start position:0%
+don't think our trees match our color
+ 
+
+00:03:32.760 --> 00:03:34.589 align:start position:0%
+don't think our trees match our color
+palette<00:03:33.360><c> so</c><00:03:33.599><c> I'm</c><00:03:33.720><c> going</c><00:03:33.799><c> to</c><00:03:33.959><c> edit</c><00:03:34.159><c> the</c><00:03:34.280><c> tree</c>
+
+00:03:34.589 --> 00:03:34.599 align:start position:0%
+palette so I'm going to edit the tree
+ 
+
+00:03:34.599 --> 00:03:36.710 align:start position:0%
+palette so I'm going to edit the tree
+prefab<00:03:35.400><c> double</c><00:03:35.680><c> click</c><00:03:35.840><c> the</c><00:03:35.959><c> prefab</c><00:03:36.400><c> to</c><00:03:36.519><c> open</c>
+
+00:03:36.710 --> 00:03:36.720 align:start position:0%
+prefab double click the prefab to open
+ 
+
+00:03:36.720 --> 00:03:38.630 align:start position:0%
+prefab double click the prefab to open
+it<00:03:36.920><c> up</c><00:03:37.080><c> in</c><00:03:37.200><c> the</c><00:03:37.280><c> scene</c><00:03:37.560><c> view</c><00:03:38.159><c> then</c><00:03:38.319><c> click</c><00:03:38.519><c> on</c>
+
+00:03:38.630 --> 00:03:38.640 align:start position:0%
+it up in the scene view then click on
+ 
+
+00:03:38.640 --> 00:03:40.550 align:start position:0%
+it up in the scene view then click on
+the<00:03:38.760><c> game</c><00:03:39.120><c> object</c><00:03:39.480><c> ending</c><00:03:39.840><c> with</c>
+
+00:03:40.550 --> 00:03:40.560 align:start position:0%
+the game object ending with
+ 
+
+00:03:40.560 --> 00:03:43.429 align:start position:0%
+the game object ending with
+lod0<00:03:41.560><c> then</c><00:03:41.760><c> open</c><00:03:42.159><c> up</c><00:03:42.480><c> the</c><00:03:42.640><c> Shader</c><00:03:43.120><c> in</c><00:03:43.280><c> the</c>
+
+00:03:43.429 --> 00:03:43.439 align:start position:0%
+lod0 then open up the Shader in the
+ 
+
+00:03:43.439 --> 00:03:45.390 align:start position:0%
+lod0 then open up the Shader in the
+inspector<00:03:44.280><c> here</c><00:03:44.400><c> we</c><00:03:44.519><c> can</c><00:03:44.720><c> customize</c><00:03:45.280><c> the</c>
+
+00:03:45.390 --> 00:03:45.400 align:start position:0%
+inspector here we can customize the
+ 
+
+00:03:45.400 --> 00:03:47.509 align:start position:0%
+inspector here we can customize the
+color<00:03:45.680><c> of</c><00:03:45.840><c> our</c><00:03:46.000><c> tree</c><00:03:46.560><c> to</c><00:03:46.720><c> match</c><00:03:46.879><c> our</c><00:03:47.040><c> scene</c><00:03:47.439><c> I</c>
+
+00:03:47.509 --> 00:03:47.519 align:start position:0%
+color of our tree to match our scene I
+ 
+
+00:03:47.519 --> 00:03:49.509 align:start position:0%
+color of our tree to match our scene I
+use<00:03:47.720><c> the</c><00:03:47.840><c> Color</c><00:03:48.159><c> Picker</c><00:03:48.640><c> and</c><00:03:48.760><c> choose</c><00:03:49.159><c> a</c><00:03:49.319><c> light</c>
+
+00:03:49.509 --> 00:03:49.519 align:start position:0%
+use the Color Picker and choose a light
+ 
+
+00:03:49.519 --> 00:03:51.550 align:start position:0%
+use the Color Picker and choose a light
+and<00:03:49.760><c> dark</c><00:03:50.040><c> part</c><00:03:50.200><c> of</c><00:03:50.319><c> the</c><00:03:50.480><c> grass</c><00:03:50.920><c> for</c><00:03:51.120><c> our</c><00:03:51.360><c> top</c>
+
+00:03:51.550 --> 00:03:51.560 align:start position:0%
+and dark part of the grass for our top
+ 
+
+00:03:51.560 --> 00:03:53.830 align:start position:0%
+and dark part of the grass for our top
+and<00:03:51.720><c> bottom</c><00:03:52.040><c> color</c><00:03:52.959><c> while</c><00:03:53.159><c> we're</c><00:03:53.360><c> here</c><00:03:53.560><c> let's</c>
+
+00:03:53.830 --> 00:03:53.840 align:start position:0%
+and bottom color while we're here let's
+ 
+
+00:03:53.840 --> 00:03:55.910 align:start position:0%
+and bottom color while we're here let's
+also<00:03:54.040><c> add</c><00:03:54.200><c> a</c><00:03:54.360><c> capsule</c><00:03:54.720><c> collider</c><00:03:55.159><c> component</c><00:03:55.680><c> so</c>
+
+00:03:55.910 --> 00:03:55.920 align:start position:0%
+also add a capsule collider component so
+ 
+
+00:03:55.920 --> 00:03:57.910 align:start position:0%
+also add a capsule collider component so
+that<00:03:56.040><c> we</c><00:03:56.239><c> can't</c><00:03:56.519><c> run</c><00:03:56.879><c> through</c><00:03:57.120><c> the</c><00:03:57.239><c> trees</c><00:03:57.840><c> you</c>
+
+00:03:57.910 --> 00:03:57.920 align:start position:0%
+that we can't run through the trees you
+ 
+
+00:03:57.920 --> 00:03:59.830 align:start position:0%
+that we can't run through the trees you
+can<00:03:58.120><c> slide</c><00:03:58.519><c> down</c><00:03:58.720><c> the</c><00:03:58.879><c> radius</c><00:03:59.280><c> so</c><00:03:59.439><c> that</c><00:03:59.560><c> it's</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+can slide down the radius so that it's
+ 
+
+00:03:59.840 --> 00:04:01.470 align:start position:0%
+can slide down the radius so that it's
+only<00:04:00.079><c> around</c><00:04:00.280><c> the</c><00:04:00.400><c> trunk</c><00:04:00.680><c> to</c><00:04:00.799><c> give</c><00:04:00.920><c> it</c><00:04:01.000><c> a</c><00:04:01.120><c> good</c>
+
+00:04:01.470 --> 00:04:01.480 align:start position:0%
+only around the trunk to give it a good
+ 
+
+00:04:01.480 --> 00:04:03.910 align:start position:0%
+only around the trunk to give it a good
+hitbox<00:04:02.480><c> to</c><00:04:02.640><c> improve</c><00:04:03.000><c> performance</c><00:04:03.599><c> click</c><00:04:03.799><c> on</c>
+
+00:04:03.910 --> 00:04:03.920 align:start position:0%
+hitbox to improve performance click on
+ 
+
+00:04:03.920 --> 00:04:06.149 align:start position:0%
+hitbox to improve performance click on
+the<00:04:04.040><c> parent</c><00:04:04.519><c> object</c><00:04:04.920><c> here</c><00:04:05.360><c> and</c><00:04:05.560><c> Slide</c><00:04:05.959><c> the</c>
+
+00:04:06.149 --> 00:04:06.159 align:start position:0%
+the parent object here and Slide the
+ 
+
+00:04:06.159 --> 00:04:08.630 align:start position:0%
+the parent object here and Slide the
+cold<00:04:06.560><c> LOD</c><00:04:07.159><c> group</c><00:04:07.480><c> to</c><00:04:07.760><c> the</c><00:04:07.920><c> left</c><00:04:08.400><c> I</c><00:04:08.480><c> would</c>
+
+00:04:08.630 --> 00:04:08.640 align:start position:0%
+cold LOD group to the left I would
+ 
+
+00:04:08.640 --> 00:04:10.990 align:start position:0%
+cold LOD group to the left I would
+recommend<00:04:08.959><c> setting</c><00:04:09.239><c> this</c><00:04:09.400><c> to</c><00:04:09.640><c> around</c><00:04:09.920><c> 6</c><00:04:10.200><c> or</c><00:04:10.360><c> 7%</c>
+
+00:04:10.990 --> 00:04:11.000 align:start position:0%
+recommend setting this to around 6 or 7%
+ 
+
+00:04:11.000 --> 00:04:13.190 align:start position:0%
+recommend setting this to around 6 or 7%
+for<00:04:11.239><c> good</c><00:04:11.439><c> performance</c><00:04:12.360><c> next</c><00:04:12.560><c> go</c><00:04:12.680><c> to</c><00:04:12.799><c> window</c>
+
+00:04:13.190 --> 00:04:13.200 align:start position:0%
+for good performance next go to window
+ 
+
+00:04:13.200 --> 00:04:15.550 align:start position:0%
+for good performance next go to window
+rendering<00:04:13.840><c> and</c><00:04:14.120><c> dock</c><00:04:14.400><c> your</c><00:04:14.560><c> lighting</c><00:04:14.959><c> panel</c>
+
+00:04:15.550 --> 00:04:15.560 align:start position:0%
+rendering and dock your lighting panel
+ 
+
+00:04:15.560 --> 00:04:17.310 align:start position:0%
+rendering and dock your lighting panel
+and<00:04:15.760><c> under</c><00:04:16.000><c> environment</c><00:04:16.759><c> I'll</c><00:04:16.919><c> choose</c><00:04:17.160><c> the</c>
+
+00:04:17.310 --> 00:04:17.320 align:start position:0%
+and under environment I'll choose the
+ 
+
+00:04:17.320 --> 00:04:20.349 align:start position:0%
+and under environment I'll choose the
+Skybox<00:04:17.959><c> named</c><00:04:18.280><c> PT</c><00:04:18.799><c> Skybox</c><00:04:19.440><c> mat</c><00:04:20.079><c> then</c><00:04:20.199><c> I'll</c>
+
+00:04:20.349 --> 00:04:20.359 align:start position:0%
+Skybox named PT Skybox mat then I'll
+ 
+
+00:04:20.359 --> 00:04:22.950 align:start position:0%
+Skybox named PT Skybox mat then I'll
+check<00:04:20.639><c> fog</c><00:04:21.280><c> and</c><00:04:21.400><c> for</c><00:04:21.600><c> the</c><00:04:21.759><c> color</c><00:04:22.199><c> a</c><00:04:22.400><c> tip</c><00:04:22.680><c> here</c>
+
+00:04:22.950 --> 00:04:22.960 align:start position:0%
+check fog and for the color a tip here
+ 
+
+00:04:22.960 --> 00:04:24.830 align:start position:0%
+check fog and for the color a tip here
+is<00:04:23.040><c> to</c><00:04:23.199><c> use</c><00:04:23.360><c> the</c><00:04:23.520><c> Color</c><00:04:23.800><c> Picker</c><00:04:24.199><c> again</c><00:04:24.720><c> and</c>
+
+00:04:24.830 --> 00:04:24.840 align:start position:0%
+is to use the Color Picker again and
+ 
+
+00:04:24.840 --> 00:04:27.189 align:start position:0%
+is to use the Color Picker again and
+choose<00:04:25.160><c> a</c><00:04:25.320><c> color</c><00:04:25.680><c> low</c><00:04:26.080><c> on</c><00:04:26.240><c> the</c><00:04:26.400><c> horizon</c><00:04:26.960><c> to</c>
+
+00:04:27.189 --> 00:04:27.199 align:start position:0%
+choose a color low on the horizon to
+ 
+
+00:04:27.199 --> 00:04:29.310 align:start position:0%
+choose a color low on the horizon to
+match<00:04:27.479><c> the</c><00:04:27.600><c> color</c><00:04:28.000><c> palette</c><00:04:28.360><c> of</c><00:04:28.479><c> your</c><00:04:28.759><c> project</c>
+
+00:04:29.310 --> 00:04:29.320 align:start position:0%
+match the color palette of your project
+ 
+
+00:04:29.320 --> 00:04:30.830 align:start position:0%
+match the color palette of your project
+I'm<00:04:29.400><c> going</c><00:04:29.520><c> to</c><00:04:29.720><c> dial</c><00:04:30.000><c> down</c><00:04:30.199><c> the</c><00:04:30.320><c> intensity</c>
+
+00:04:30.830 --> 00:04:30.840 align:start position:0%
+I'm going to dial down the intensity
+ 
+
+00:04:30.840 --> 00:04:32.590 align:start position:0%
+I'm going to dial down the intensity
+just<00:04:30.960><c> a</c><00:04:31.120><c> bit</c><00:04:31.280><c> to</c><00:04:31.520><c> about</c>
+
+00:04:32.590 --> 00:04:32.600 align:start position:0%
+just a bit to about
+ 
+
+00:04:32.600 --> 00:04:35.189 align:start position:0%
+just a bit to about
+0.2<00:04:33.600><c> and</c><00:04:33.759><c> that's</c><00:04:33.919><c> looking</c><00:04:34.199><c> pretty</c><00:04:34.440><c> good</c><00:04:35.080><c> at</c>
+
+00:04:35.189 --> 00:04:35.199 align:start position:0%
+0.2 and that's looking pretty good at
+ 
+
+00:04:35.199 --> 00:04:36.670 align:start position:0%
+0.2 and that's looking pretty good at
+this<00:04:35.360><c> point</c><00:04:35.639><c> I'm</c><00:04:35.720><c> going</c><00:04:35.840><c> to</c><00:04:35.960><c> add</c><00:04:36.120><c> a</c><00:04:36.199><c> few</c><00:04:36.360><c> more</c>
+
+00:04:36.670 --> 00:04:36.680 align:start position:0%
+this point I'm going to add a few more
+ 
+
+00:04:36.680 --> 00:04:39.150 align:start position:0%
+this point I'm going to add a few more
+objects<00:04:37.199><c> in</c><00:04:37.360><c> our</c><00:04:37.680><c> paint</c><00:04:38.039><c> tree</c><00:04:38.479><c> panel</c><00:04:38.960><c> like</c>
+
+00:04:39.150 --> 00:04:39.160 align:start position:0%
+objects in our paint tree panel like
+ 
+
+00:04:39.160 --> 00:04:41.830 align:start position:0%
+objects in our paint tree panel like
+rocks<00:04:39.800><c> mushrooms</c><00:04:40.360><c> and</c><00:04:40.560><c> poppies</c><00:04:41.320><c> and</c><00:04:41.479><c> using</c><00:04:41.720><c> a</c>
+
+00:04:41.830 --> 00:04:41.840 align:start position:0%
+rocks mushrooms and poppies and using a
+ 
+
+00:04:41.840 --> 00:04:44.230 align:start position:0%
+rocks mushrooms and poppies and using a
+brush<00:04:42.160><c> size</c><00:04:42.360><c> of</c><00:04:42.560><c> about</c><00:04:43.000><c> 200</c><00:04:43.240><c> or</c><00:04:43.400><c> so</c><00:04:43.919><c> you</c><00:04:44.039><c> can</c>
+
+00:04:44.230 --> 00:04:44.240 align:start position:0%
+brush size of about 200 or so you can
+ 
+
+00:04:44.240 --> 00:04:46.310 align:start position:0%
+brush size of about 200 or so you can
+click<00:04:44.720><c> to</c><00:04:45.000><c> paint</c><00:04:45.280><c> on</c><00:04:45.479><c> some</c><00:04:45.680><c> of</c><00:04:45.800><c> these</c><00:04:46.000><c> objects</c>
+
+00:04:46.310 --> 00:04:46.320 align:start position:0%
+click to paint on some of these objects
+ 
+
+00:04:46.320 --> 00:04:48.189 align:start position:0%
+click to paint on some of these objects
+around<00:04:46.520><c> your</c><00:04:46.680><c> player</c><00:04:47.680><c> I'm</c><00:04:47.800><c> also</c><00:04:47.960><c> going</c><00:04:48.080><c> to</c>
+
+00:04:48.189 --> 00:04:48.199 align:start position:0%
+around your player I'm also going to
+ 
+
+00:04:48.199 --> 00:04:50.189 align:start position:0%
+around your player I'm also going to
+pull<00:04:48.560><c> this</c><00:04:48.680><c> glowing</c><00:04:49.080><c> ruined</c><00:04:49.520><c> rock</c><00:04:49.840><c> into</c><00:04:50.080><c> our</c>
+
+00:04:50.189 --> 00:04:50.199 align:start position:0%
+pull this glowing ruined rock into our
+ 
+
+00:04:50.199 --> 00:04:52.469 align:start position:0%
+pull this glowing ruined rock into our
+scene<00:04:50.759><c> and</c><00:04:50.840><c> to</c><00:04:51.000><c> Showcase</c><00:04:51.600><c> this</c><00:04:51.960><c> let's</c><00:04:52.160><c> make</c>
+
+00:04:52.469 --> 00:04:52.479 align:start position:0%
+scene and to Showcase this let's make
+ 
+
+00:04:52.479 --> 00:04:54.510 align:start position:0%
+scene and to Showcase this let's make
+one<00:04:52.840><c> last</c><00:04:53.199><c> amazing</c><00:04:53.680><c> change</c><00:04:53.919><c> to</c><00:04:54.080><c> finish</c><00:04:54.320><c> out</c>
+
+00:04:54.510 --> 00:04:54.520 align:start position:0%
+one last amazing change to finish out
+ 
+
+00:04:54.520 --> 00:04:56.909 align:start position:0%
+one last amazing change to finish out
+the<00:04:54.680><c> scene</c><00:04:55.440><c> click</c><00:04:55.680><c> your</c><00:04:55.800><c> main</c><00:04:56.199><c> camera</c><00:04:56.759><c> then</c>
+
+00:04:56.909 --> 00:04:56.919 align:start position:0%
+the scene click your main camera then
+ 
+
+00:04:56.919 --> 00:04:59.029 align:start position:0%
+the scene click your main camera then
+check<00:04:57.320><c> postprocessing</c><00:04:58.320><c> and</c><00:04:58.479><c> your</c><00:04:58.639><c> Global</c>
+
+00:04:59.029 --> 00:04:59.039 align:start position:0%
+check postprocessing and your Global
+ 
+
+00:04:59.039 --> 00:05:01.670 align:start position:0%
+check postprocessing and your Global
+volume<00:04:59.720><c> select</c><00:05:00.080><c> Aces</c><00:05:00.479><c> for</c><00:05:00.639><c> tone</c><00:05:00.919><c> mapping</c><00:05:01.520><c> then</c>
+
+00:05:01.670 --> 00:05:01.680 align:start position:0%
+volume select Aces for tone mapping then
+ 
+
+00:05:01.680 --> 00:05:04.150 align:start position:0%
+volume select Aces for tone mapping then
+set<00:05:01.840><c> your</c><00:05:02.000><c> Bloom</c><00:05:02.360><c> threshold</c><00:05:02.800><c> to</c><00:05:02.960><c> 1.3</c><00:05:03.960><c> and</c>
+
+00:05:04.150 --> 00:05:04.160 align:start position:0%
+set your Bloom threshold to 1.3 and
+ 
+
+00:05:04.160 --> 00:05:06.590 align:start position:0%
+set your Bloom threshold to 1.3 and
+intensity<00:05:04.639><c> to</c><00:05:04.840><c> around</c><00:05:05.120><c> three</c><00:05:06.120><c> next</c><00:05:06.320><c> add</c><00:05:06.479><c> a</c>
+
+00:05:06.590 --> 00:05:06.600 align:start position:0%
+intensity to around three next add a
+ 
+
+00:05:06.600 --> 00:05:08.909 align:start position:0%
+intensity to around three next add a
+color<00:05:06.919><c> adjustment</c><00:05:07.479><c> postprocessing</c><00:05:08.400><c> effect</c>
+
+00:05:08.909 --> 00:05:08.919 align:start position:0%
+color adjustment postprocessing effect
+ 
+
+00:05:08.919 --> 00:05:10.830 align:start position:0%
+color adjustment postprocessing effect
+I'm<00:05:09.039><c> going</c><00:05:09.120><c> to</c><00:05:09.240><c> check</c><00:05:09.600><c> this</c><00:05:09.880><c> post</c><00:05:10.240><c> exposure</c>
+
+00:05:10.830 --> 00:05:10.840 align:start position:0%
+I'm going to check this post exposure
+ 
+
+00:05:10.840 --> 00:05:12.790 align:start position:0%
+I'm going to check this post exposure
+and<00:05:11.039><c> turn</c><00:05:11.240><c> it</c><00:05:11.440><c> up</c><00:05:11.600><c> a</c><00:05:11.720><c> bit</c><00:05:11.880><c> to</c><00:05:12.120><c> brighten</c><00:05:12.520><c> up</c><00:05:12.639><c> our</c>
+
+00:05:12.790 --> 00:05:12.800 align:start position:0%
+and turn it up a bit to brighten up our
+ 
+
+00:05:12.800 --> 00:05:15.070 align:start position:0%
+and turn it up a bit to brighten up our
+scene<00:05:13.400><c> and</c><00:05:13.560><c> at</c><00:05:13.720><c> this</c><00:05:13.880><c> point</c><00:05:14.240><c> we're</c><00:05:14.440><c> done</c><00:05:14.919><c> let's</c>
+
+00:05:15.070 --> 00:05:15.080 align:start position:0%
+scene and at this point we're done let's
+ 
+
+00:05:15.080 --> 00:05:16.870 align:start position:0%
+scene and at this point we're done let's
+check<00:05:15.280><c> out</c><00:05:15.440><c> our</c><00:05:15.720><c> final</c><00:05:16.080><c> demo</c><00:05:16.440><c> for</c><00:05:16.680><c> this</c>
+
+00:05:16.870 --> 00:05:16.880 align:start position:0%
+check out our final demo for this
+ 
+
+00:05:16.880 --> 00:05:25.309 align:start position:0%
+check out our final demo for this
+beautiful<00:05:17.280><c> open</c><00:05:17.560><c> world</c><00:05:17.840><c> nature</c>
+
+00:05:25.309 --> 00:05:25.319 align:start position:0%
+ 
+ 
+
+00:05:25.319 --> 00:05:27.790 align:start position:0%
+ 
+scene<00:05:26.319><c> remember</c><00:05:26.639><c> to</c><00:05:26.840><c> subscribe</c><00:05:27.400><c> like</c><00:05:27.600><c> and</c>
+
+00:05:27.790 --> 00:05:27.800 align:start position:0%
+scene remember to subscribe like and
+ 
+
+00:05:27.800 --> 00:05:29.950 align:start position:0%
+scene remember to subscribe like and
+comment<00:05:28.160><c> to</c><00:05:28.360><c> boost</c><00:05:28.639><c> me</c><00:05:28.840><c> into</c><00:05:29.039><c> the</c><00:05:29.160><c> good</c><00:05:29.319><c> algor</c>
+
+00:05:29.950 --> 00:05:29.960 align:start position:0%
+comment to boost me into the good algor
+ 
+
+00:05:29.960 --> 00:05:32.270 align:start position:0%
+comment to boost me into the good algor
+universe<00:05:30.680><c> and</c><00:05:30.840><c> I'll</c><00:05:30.960><c> see</c><00:05:31.080><c> you</c><00:05:31.199><c> all</c><00:05:31.400><c> next</c><00:05:31.600><c> time</c>
+
+00:05:32.270 --> 00:05:32.280 align:start position:0%
+universe and I'll see you all next time
+ 
+
+00:05:32.280 --> 00:05:35.280 align:start position:0%
+universe and I'll see you all next time
+peace
+

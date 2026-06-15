@@ -1,0 +1,1128 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.240 --> 00:00:04.230 align:start position:0%
+ 
+hello<00:00:02.560><c> everyone</c><00:00:02.960><c> my</c><00:00:03.120><c> name</c><00:00:03.280><c> is</c><00:00:03.439><c> greg</c><00:00:03.760><c> and</c><00:00:03.919><c> i</c><00:00:04.000><c> def</c>
+
+00:00:04.230 --> 00:00:04.240 align:start position:0%
+hello everyone my name is greg and i def
+ 
+
+00:00:04.240 --> 00:00:06.710 align:start position:0%
+hello everyone my name is greg and i def
+staff<00:00:04.640><c> welcome</c><00:00:05.040><c> everyone</c><00:00:05.440><c> to</c><00:00:05.600><c> episode</c><00:00:06.080><c> 12</c><00:00:06.560><c> of</c>
+
+00:00:06.710 --> 00:00:06.720 align:start position:0%
+staff welcome everyone to episode 12 of
+ 
+
+00:00:06.720 --> 00:00:09.589 align:start position:0%
+staff welcome everyone to episode 12 of
+the<00:00:06.960><c> tactics</c><00:00:07.359><c> game</c><00:00:07.680><c> in</c><00:00:07.759><c> unity</c><00:00:08.800><c> refactoring</c>
+
+00:00:09.589 --> 00:00:09.599 align:start position:0%
+the tactics game in unity refactoring
+ 
+
+00:00:09.599 --> 00:00:11.350 align:start position:0%
+the tactics game in unity refactoring
+mouse<00:00:09.920><c> controls</c>
+
+00:00:11.350 --> 00:00:11.360 align:start position:0%
+mouse controls
+ 
+
+00:00:11.360 --> 00:00:14.709 align:start position:0%
+mouse controls
+today<00:00:11.920><c> we</c><00:00:12.080><c> will</c><00:00:12.400><c> refactor</c><00:00:13.040><c> our</c><00:00:13.440><c> mouse</c><00:00:13.759><c> control</c>
+
+00:00:14.709 --> 00:00:14.719 align:start position:0%
+today we will refactor our mouse control
+ 
+
+00:00:14.719 --> 00:00:17.590 align:start position:0%
+today we will refactor our mouse control
+to<00:00:14.880><c> remove</c><00:00:15.280><c> the</c><00:00:15.679><c> repeated</c><00:00:16.240><c> code</c><00:00:16.800><c> about</c><00:00:17.199><c> mouse</c>
+
+00:00:17.590 --> 00:00:17.600 align:start position:0%
+to remove the repeated code about mouse
+ 
+
+00:00:17.600 --> 00:00:20.070 align:start position:0%
+to remove the repeated code about mouse
+control<00:00:18.480><c> which</c><00:00:18.720><c> will</c><00:00:18.960><c> allow</c><00:00:19.279><c> us</c><00:00:19.439><c> to</c><00:00:19.600><c> create</c>
+
+00:00:20.070 --> 00:00:20.080 align:start position:0%
+control which will allow us to create
+ 
+
+00:00:20.080 --> 00:00:22.070 align:start position:0%
+control which will allow us to create
+nice<00:00:20.400><c> interface</c><00:00:20.960><c> between</c><00:00:21.359><c> player</c><00:00:21.840><c> and</c>
+
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+nice interface between player and
+ 
+
+00:00:22.080 --> 00:00:23.509 align:start position:0%
+nice interface between player and
+gameplay
+
+00:00:23.509 --> 00:00:23.519 align:start position:0%
+gameplay
+ 
+
+00:00:23.519 --> 00:00:25.990 align:start position:0%
+gameplay
+create<00:00:23.920><c> a</c><00:00:24.000><c> new</c><00:00:24.240><c> object</c><00:00:24.720><c> called</c><00:00:25.039><c> game</c><00:00:25.279><c> manager</c>
+
+00:00:25.990 --> 00:00:26.000 align:start position:0%
+create a new object called game manager
+ 
+
+00:00:26.000 --> 00:00:51.350 align:start position:0%
+create a new object called game manager
+set<00:00:26.240><c> position</c><00:00:26.800><c> to</c><00:00:27.039><c> zero</c>
+
+00:00:51.350 --> 00:00:51.360 align:start position:0%
+ 
+ 
+
+00:00:51.360 --> 00:00:54.150 align:start position:0%
+ 
+we<00:00:51.520><c> want</c><00:00:51.760><c> to</c><00:00:51.920><c> decouple</c><00:00:52.399><c> the</c><00:00:52.559><c> mouse</c><00:00:52.960><c> input</c><00:00:53.360><c> from</c>
+
+00:00:54.150 --> 00:00:54.160 align:start position:0%
+we want to decouple the mouse input from
+ 
+
+00:00:54.160 --> 00:00:56.950 align:start position:0%
+we want to decouple the mouse input from
+systems<00:00:54.719><c> we</c><00:00:55.039><c> already</c><00:00:55.440><c> have</c><00:00:55.680><c> implemented</c><00:00:56.719><c> like</c>
+
+00:00:56.950 --> 00:00:56.960 align:start position:0%
+systems we already have implemented like
+ 
+
+00:00:56.960 --> 00:00:58.549 align:start position:0%
+systems we already have implemented like
+move<00:00:57.280><c> character</c><00:00:57.199><c> character</c>
+
+00:00:58.549 --> 00:00:58.559 align:start position:0%
+move character character
+ 
+
+00:00:58.559 --> 00:01:01.750 align:start position:0%
+move character character
+attack<00:00:59.120><c> etc</c><00:00:59.600><c> etc</c><00:01:00.559><c> instead</c><00:01:01.039><c> we</c><00:01:01.199><c> will</c><00:01:01.440><c> create</c>
+
+00:01:01.750 --> 00:01:01.760 align:start position:0%
+attack etc etc instead we will create
+ 
+
+00:01:01.760 --> 00:01:04.070 align:start position:0%
+attack etc etc instead we will create
+script<00:01:02.239><c> called</c><00:01:02.559><c> mouse</c><00:01:03.039><c> input</c><00:01:03.440><c> which</c><00:01:03.760><c> will</c>
+
+00:01:04.070 --> 00:01:04.080 align:start position:0%
+script called mouse input which will
+ 
+
+00:01:04.080 --> 00:01:06.950 align:start position:0%
+script called mouse input which will
+manage<00:01:04.640><c> all</c><00:01:04.879><c> of</c><00:01:05.040><c> the</c><00:01:05.360><c> mouse</c><00:01:05.760><c> input</c><00:01:06.479><c> it</c><00:01:06.640><c> will</c>
+
+00:01:06.950 --> 00:01:06.960 align:start position:0%
+manage all of the mouse input it will
+ 
+
+00:01:06.960 --> 00:01:08.789 align:start position:0%
+manage all of the mouse input it will
+centralize<00:01:07.680><c> all</c><00:01:08.000><c> the</c>
+
+00:01:08.789 --> 00:01:08.799 align:start position:0%
+centralize all the
+ 
+
+00:01:08.799 --> 00:01:10.630 align:start position:0%
+centralize all the
+interaction<00:01:09.360><c> with</c><00:01:09.680><c> mouse</c>
+
+00:01:10.630 --> 00:01:10.640 align:start position:0%
+interaction with mouse
+ 
+
+00:01:10.640 --> 00:01:13.910 align:start position:0%
+interaction with mouse
+in<00:01:10.799><c> one</c><00:01:11.040><c> place</c><00:01:11.680><c> and</c><00:01:11.920><c> everyone</c><00:01:12.720><c> who</c><00:01:13.200><c> needs</c><00:01:13.520><c> a</c>
+
+00:01:13.910 --> 00:01:13.920 align:start position:0%
+in one place and everyone who needs a
+ 
+
+00:01:13.920 --> 00:01:16.710 align:start position:0%
+in one place and everyone who needs a
+mouse<00:01:14.479><c> input</c><00:01:15.040><c> data</c><00:01:15.680><c> will</c><00:01:16.000><c> reference</c><00:01:16.479><c> the</c>
+
+00:01:16.710 --> 00:01:16.720 align:start position:0%
+mouse input data will reference the
+ 
+
+00:01:16.720 --> 00:01:18.310 align:start position:0%
+mouse input data will reference the
+script
+
+00:01:18.310 --> 00:01:18.320 align:start position:0%
+script
+ 
+
+00:01:18.320 --> 00:01:20.710 align:start position:0%
+script
+inside<00:01:18.720><c> we</c><00:01:18.880><c> need</c><00:01:19.040><c> to</c><00:01:19.119><c> make</c><00:01:19.520><c> a</c><00:01:19.759><c> field</c><00:01:20.240><c> for</c><00:01:20.560><c> the</c>
+
+00:01:20.710 --> 00:01:20.720 align:start position:0%
+inside we need to make a field for the
+ 
+
+00:01:20.720 --> 00:01:23.510 align:start position:0%
+inside we need to make a field for the
+camera<00:01:21.280><c> we</c><00:01:21.439><c> will</c><00:01:21.600><c> be</c><00:01:21.840><c> using</c><00:01:22.640><c> so</c><00:01:22.880><c> in</c><00:01:23.040><c> case</c><00:01:23.360><c> you</c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+camera we will be using so in case you
+ 
+
+00:01:23.520 --> 00:01:25.590 align:start position:0%
+camera we will be using so in case you
+will<00:01:23.759><c> be</c><00:01:23.920><c> having</c><00:01:24.320><c> multiple</c><00:01:24.799><c> cameras</c><00:01:25.280><c> on</c><00:01:25.439><c> the</c>
+
+00:01:25.590 --> 00:01:25.600 align:start position:0%
+will be having multiple cameras on the
+ 
+
+00:01:25.600 --> 00:01:27.990 align:start position:0%
+will be having multiple cameras on the
+scene<00:01:26.159><c> you</c><00:01:26.320><c> will</c><00:01:26.640><c> be</c><00:01:26.799><c> able</c><00:01:27.040><c> to</c><00:01:27.119><c> specify</c><00:01:27.759><c> which</c>
+
+00:01:27.990 --> 00:01:28.000 align:start position:0%
+scene you will be able to specify which
+ 
+
+00:01:28.000 --> 00:01:33.109 align:start position:0%
+scene you will be able to specify which
+camera<00:01:28.479><c> to</c><00:01:28.640><c> use</c><00:01:29.439><c> for</c><00:01:29.680><c> your</c><00:01:30.000><c> control</c><00:01:30.479><c> scheme</c>
+
+00:01:33.109 --> 00:01:33.119 align:start position:0%
+ 
+ 
+
+00:01:33.119 --> 00:01:38.149 align:start position:0%
+ 
+set<00:01:33.439><c> the</c><00:01:33.600><c> camera</c><00:01:34.159><c> in</c><00:01:34.320><c> the</c><00:01:34.479><c> editor</c>
+
+00:01:38.149 --> 00:01:38.159 align:start position:0%
+ 
+ 
+
+00:01:38.159 --> 00:01:40.550 align:start position:0%
+ 
+while<00:01:38.479><c> we</c><00:01:38.799><c> here</c><00:01:39.280><c> let's</c><00:01:39.520><c> turn</c><00:01:39.840><c> off</c><00:01:40.159><c> all</c><00:01:40.400><c> the</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+while we here let's turn off all the
+ 
+
+00:01:40.560 --> 00:01:49.830 align:start position:0%
+while we here let's turn off all the
+components<00:01:41.280><c> on</c><00:01:41.520><c> the</c><00:01:41.759><c> camera</c>
+
+00:01:49.830 --> 00:01:49.840 align:start position:0%
+ 
+ 
+
+00:01:49.840 --> 00:01:52.310 align:start position:0%
+ 
+we<00:01:50.000><c> need</c><00:01:50.159><c> to</c><00:01:50.399><c> add</c><00:01:50.640><c> target</c><00:01:51.119><c> grid</c><00:01:51.520><c> and</c><00:01:51.759><c> terrain</c>
+
+00:01:52.310 --> 00:01:52.320 align:start position:0%
+we need to add target grid and terrain
+ 
+
+00:01:52.320 --> 00:01:53.590 align:start position:0%
+we need to add target grid and terrain
+layer<00:01:52.720><c> mask</c>
+
+00:01:53.590 --> 00:01:53.600 align:start position:0%
+layer mask
+ 
+
+00:01:53.600 --> 00:01:55.670 align:start position:0%
+layer mask
+so<00:01:53.759><c> we</c><00:01:53.920><c> will</c><00:01:54.079><c> be</c><00:01:54.320><c> able</c><00:01:54.560><c> to</c><00:01:54.799><c> interact</c><00:01:55.280><c> with</c><00:01:55.520><c> the</c>
+
+00:01:55.670 --> 00:01:55.680 align:start position:0%
+so we will be able to interact with the
+ 
+
+00:01:55.680 --> 00:01:58.389 align:start position:0%
+so we will be able to interact with the
+grid<00:01:56.079><c> and</c><00:01:56.159><c> specify</c><00:01:56.880><c> a</c><00:01:57.040><c> physical</c><00:01:57.600><c> layer</c><00:01:58.159><c> where</c>
+
+00:01:58.389 --> 00:01:58.399 align:start position:0%
+grid and specify a physical layer where
+ 
+
+00:01:58.399 --> 00:02:11.029 align:start position:0%
+grid and specify a physical layer where
+this<00:01:58.640><c> grid</c><00:01:59.040><c> is</c><00:01:59.200><c> placed</c>
+
+00:02:11.029 --> 00:02:11.039 align:start position:0%
+ 
+ 
+
+00:02:11.039 --> 00:02:25.670 align:start position:0%
+ 
+set<00:02:11.280><c> them</c><00:02:11.520><c> in</c><00:02:11.599><c> the</c><00:02:11.840><c> editor</c>
+
+00:02:25.670 --> 00:02:25.680 align:start position:0%
+ 
+ 
+
+00:02:25.680 --> 00:02:28.070 align:start position:0%
+ 
+now<00:02:26.000><c> in</c><00:02:26.080><c> the</c><00:02:26.239><c> update</c><00:02:26.959><c> shoot</c><00:02:27.200><c> the</c><00:02:27.360><c> ray</c><00:02:27.760><c> out</c><00:02:28.000><c> of</c>
+
+00:02:28.070 --> 00:02:28.080 align:start position:0%
+now in the update shoot the ray out of
+ 
+
+00:02:28.080 --> 00:02:30.949 align:start position:0%
+now in the update shoot the ray out of
+the<00:02:28.239><c> mouse</c><00:02:28.640><c> position</c><00:02:29.599><c> on</c><00:02:29.840><c> the</c><00:02:30.000><c> screen</c><00:02:30.640><c> from</c>
+
+00:02:30.949 --> 00:02:30.959 align:start position:0%
+the mouse position on the screen from
+ 
+
+00:02:30.959 --> 00:02:45.270 align:start position:0%
+the mouse position on the screen from
+the<00:02:31.120><c> main</c><00:02:31.519><c> camera</c>
+
+00:02:45.270 --> 00:02:45.280 align:start position:0%
+ 
+ 
+
+00:02:45.280 --> 00:03:05.910 align:start position:0%
+ 
+then<00:02:45.519><c> cut</c><00:02:45.840><c> the</c><00:02:46.000><c> raycast</c>
+
+00:03:05.910 --> 00:03:05.920 align:start position:0%
+ 
+ 
+
+00:03:05.920 --> 00:03:08.309 align:start position:0%
+ 
+good<00:03:06.720><c> so</c><00:03:06.879><c> now</c><00:03:07.120><c> let's</c><00:03:07.360><c> introduce</c><00:03:07.840><c> a</c><00:03:07.920><c> public</c>
+
+00:03:08.309 --> 00:03:08.319 align:start position:0%
+good so now let's introduce a public
+ 
+
+00:03:08.319 --> 00:03:10.550 align:start position:0%
+good so now let's introduce a public
+variable<00:03:08.879><c> called</c><00:03:09.120><c> position</c><00:03:09.680><c> on</c><00:03:09.920><c> grid</c><00:03:10.319><c> which</c>
+
+00:03:10.550 --> 00:03:10.560 align:start position:0%
+variable called position on grid which
+ 
+
+00:03:10.560 --> 00:03:12.710 align:start position:0%
+variable called position on grid which
+will<00:03:10.800><c> store</c><00:03:11.040><c> the</c><00:03:11.280><c> position</c><00:03:11.920><c> our</c><00:03:12.239><c> mouse</c><00:03:12.640><c> is</c>
+
+00:03:12.710 --> 00:03:12.720 align:start position:0%
+will store the position our mouse is
+ 
+
+00:03:12.720 --> 00:03:21.670 align:start position:0%
+will store the position our mouse is
+currently<00:03:13.360><c> over</c>
+
+00:03:21.670 --> 00:03:21.680 align:start position:0%
+ 
+ 
+
+00:03:21.680 --> 00:03:24.309 align:start position:0%
+ 
+we<00:03:22.000><c> hit</c><00:03:22.239><c> the</c><00:03:22.400><c> terrain</c><00:03:22.879><c> with</c><00:03:23.120><c> this</c><00:03:23.360><c> raycast</c>
+
+00:03:24.309 --> 00:03:24.319 align:start position:0%
+we hit the terrain with this raycast
+ 
+
+00:03:24.319 --> 00:03:26.630 align:start position:0%
+we hit the terrain with this raycast
+convert<00:03:24.879><c> the</c><00:03:25.120><c> hit</c><00:03:25.440><c> point</c><00:03:25.920><c> into</c><00:03:26.159><c> the</c><00:03:26.319><c> grid</c>
+
+00:03:26.630 --> 00:03:26.640 align:start position:0%
+convert the hit point into the grid
+ 
+
+00:03:26.640 --> 00:03:48.229 align:start position:0%
+convert the hit point into the grid
+position
+
+00:03:48.229 --> 00:03:48.239 align:start position:0%
+ 
+ 
+
+00:03:48.239 --> 00:03:50.470 align:start position:0%
+ 
+then<00:03:48.480><c> compare</c><00:03:48.959><c> the</c><00:03:49.200><c> hover</c><00:03:49.599><c> over</c><00:03:49.840><c> position</c><00:03:50.319><c> to</c>
+
+00:03:50.470 --> 00:03:50.480 align:start position:0%
+then compare the hover over position to
+ 
+
+00:03:50.480 --> 00:03:53.190 align:start position:0%
+then compare the hover over position to
+the<00:03:50.640><c> grid</c><00:03:50.879><c> position</c><00:03:51.760><c> in</c><00:03:51.920><c> the</c><00:03:52.080><c> update</c><00:03:52.799><c> if</c><00:03:53.040><c> it's</c>
+
+00:03:53.190 --> 00:03:53.200 align:start position:0%
+the grid position in the update if it's
+ 
+
+00:03:53.200 --> 00:03:56.149 align:start position:0%
+the grid position in the update if it's
+not<00:03:53.439><c> equals</c><00:03:54.000><c> that</c><00:03:54.239><c> means</c><00:03:54.720><c> our</c><00:03:55.040><c> mouse</c><00:03:55.519><c> moved</c>
+
+00:03:56.149 --> 00:03:56.159 align:start position:0%
+not equals that means our mouse moved
+ 
+
+00:03:56.159 --> 00:03:58.630 align:start position:0%
+not equals that means our mouse moved
+and<00:03:56.400><c> change</c><00:03:56.720><c> the</c><00:03:56.879><c> position</c><00:03:57.680><c> and</c><00:03:57.840><c> we</c><00:03:58.080><c> need</c><00:03:58.400><c> to</c>
+
+00:03:58.630 --> 00:03:58.640 align:start position:0%
+and change the position and we need to
+ 
+
+00:03:58.640 --> 00:04:05.030 align:start position:0%
+and change the position and we need to
+update<00:03:59.200><c> position</c><00:03:59.760><c> on</c><00:04:00.000><c> grid</c>
+
+00:04:05.030 --> 00:04:05.040 align:start position:0%
+ 
+ 
+
+00:04:05.040 --> 00:04:06.470 align:start position:0%
+ 
+this<00:04:05.280><c> episode</c><00:04:05.680><c> is</c><00:04:05.760><c> brought</c><00:04:06.000><c> to</c><00:04:06.159><c> you</c><00:04:06.239><c> by</c>
+
+00:04:06.470 --> 00:04:06.480 align:start position:0%
+this episode is brought to you by
+ 
+
+00:04:06.480 --> 00:04:08.710 align:start position:0%
+this episode is brought to you by
+generous<00:04:06.799><c> support</c><00:04:07.200><c> of</c><00:04:07.360><c> people</c><00:04:07.680><c> on</c><00:04:07.840><c> patreon</c>
+
+00:04:08.710 --> 00:04:08.720 align:start position:0%
+generous support of people on patreon
+ 
+
+00:04:08.720 --> 00:04:10.949 align:start position:0%
+generous support of people on patreon
+and<00:04:08.959><c> members</c><00:04:09.439><c> on</c><00:04:09.680><c> youtube</c><00:04:10.319><c> if</c><00:04:10.480><c> you</c><00:04:10.560><c> want</c><00:04:10.799><c> to</c>
+
+00:04:10.949 --> 00:04:10.959 align:start position:0%
+and members on youtube if you want to
+ 
+
+00:04:10.959 --> 00:04:13.110 align:start position:0%
+and members on youtube if you want to
+join<00:04:11.280><c> them</c><00:04:11.680><c> link</c><00:04:11.840><c> to</c><00:04:12.000><c> my</c><00:04:12.239><c> patreon</c><00:04:12.879><c> in</c><00:04:12.959><c> the</c>
+
+00:04:13.110 --> 00:04:13.120 align:start position:0%
+join them link to my patreon in the
+ 
+
+00:04:13.120 --> 00:04:15.990 align:start position:0%
+join them link to my patreon in the
+description<00:04:14.080><c> and</c><00:04:14.239><c> join</c><00:04:14.640><c> button</c><00:04:15.280><c> available</c>
+
+00:04:15.990 --> 00:04:16.000 align:start position:0%
+description and join button available
+ 
+
+00:04:16.000 --> 00:04:20.229 align:start position:0%
+description and join button available
+right<00:04:16.239><c> now</c><00:04:16.639><c> on</c><00:04:16.880><c> youtube</c>
+
+00:04:20.229 --> 00:04:20.239 align:start position:0%
+ 
+ 
+
+00:04:20.239 --> 00:04:22.710 align:start position:0%
+ 
+with<00:04:20.479><c> this</c><00:04:21.120><c> mouse</c><00:04:21.600><c> input</c><00:04:21.840><c> script</c><00:04:22.320><c> we</c><00:04:22.479><c> have</c>
+
+00:04:22.710 --> 00:04:22.720 align:start position:0%
+with this mouse input script we have
+ 
+
+00:04:22.720 --> 00:04:24.469 align:start position:0%
+with this mouse input script we have
+decoupled<00:04:23.440><c> mouse</c>
+
+00:04:24.469 --> 00:04:24.479 align:start position:0%
+decoupled mouse
+ 
+
+00:04:24.479 --> 00:04:27.350 align:start position:0%
+decoupled mouse
+and<00:04:24.880><c> from</c><00:04:25.199><c> now</c><00:04:25.440><c> on</c><00:04:25.840><c> if</c><00:04:26.000><c> you</c><00:04:26.160><c> need</c><00:04:26.320><c> to</c><00:04:26.479><c> read</c>
+
+00:04:27.350 --> 00:04:27.360 align:start position:0%
+and from now on if you need to read
+ 
+
+00:04:27.360 --> 00:04:29.830 align:start position:0%
+and from now on if you need to read
+position<00:04:28.080><c> of</c><00:04:28.240><c> the</c><00:04:28.400><c> mouse</c><00:04:28.880><c> just</c><00:04:29.199><c> read</c><00:04:29.440><c> it</c><00:04:29.600><c> off</c>
+
+00:04:29.830 --> 00:04:29.840 align:start position:0%
+position of the mouse just read it off
+ 
+
+00:04:29.840 --> 00:04:31.990 align:start position:0%
+position of the mouse just read it off
+the<00:04:30.080><c> mouse</c><00:04:30.400><c> input</c><00:04:30.720><c> script</c>
+
+00:04:31.990 --> 00:04:32.000 align:start position:0%
+the mouse input script
+ 
+
+00:04:32.000 --> 00:04:34.310 align:start position:0%
+the mouse input script
+we<00:04:32.240><c> will</c><00:04:32.880><c> migrate</c><00:04:33.520><c> the</c>
+
+00:04:34.310 --> 00:04:34.320 align:start position:0%
+we will migrate the
+ 
+
+00:04:34.320 --> 00:04:37.030 align:start position:0%
+we will migrate the
+move<00:04:34.720><c> character</c><00:04:35.360><c> attacking</c><00:04:35.840><c> script</c><00:04:36.720><c> in</c><00:04:36.880><c> the</c>
+
+00:04:37.030 --> 00:04:37.040 align:start position:0%
+move character attacking script in the
+ 
+
+00:04:37.040 --> 00:04:39.110 align:start position:0%
+move character attacking script in the
+next<00:04:37.360><c> episodes</c><00:04:38.160><c> when</c><00:04:38.400><c> we</c><00:04:38.560><c> will</c><00:04:38.800><c> start</c>
+
+00:04:39.110 --> 00:04:39.120 align:start position:0%
+next episodes when we will start
+ 
+
+00:04:39.120 --> 00:04:42.070 align:start position:0%
+next episodes when we will start
+introducing<00:04:39.759><c> command</c><00:04:40.160><c> patterns</c>
+
+00:04:42.070 --> 00:04:42.080 align:start position:0%
+introducing command patterns
+ 
+
+00:04:42.080 --> 00:04:44.550 align:start position:0%
+introducing command patterns
+now<00:04:42.320><c> let's</c><00:04:42.560><c> introduce</c><00:04:43.040><c> a</c><00:04:43.120><c> marker</c><00:04:43.680><c> on</c><00:04:43.919><c> the</c><00:04:44.080><c> map</c>
+
+00:04:44.550 --> 00:04:44.560 align:start position:0%
+now let's introduce a marker on the map
+ 
+
+00:04:44.560 --> 00:04:45.830 align:start position:0%
+now let's introduce a marker on the map
+to<00:04:44.720><c> make</c><00:04:44.960><c> it</c>
+
+00:04:45.830 --> 00:04:45.840 align:start position:0%
+to make it
+ 
+
+00:04:45.840 --> 00:04:48.790 align:start position:0%
+to make it
+more<00:04:46.240><c> clear</c><00:04:46.800><c> where</c><00:04:47.199><c> our</c><00:04:47.600><c> player</c><00:04:48.000><c> is</c><00:04:48.240><c> pointing</c>
+
+00:04:48.790 --> 00:04:48.800 align:start position:0%
+more clear where our player is pointing
+ 
+
+00:04:48.800 --> 00:04:50.790 align:start position:0%
+more clear where our player is pointing
+at<00:04:49.280><c> with</c><00:04:49.520><c> his</c><00:04:49.840><c> mouse</c>
+
+00:04:50.790 --> 00:04:50.800 align:start position:0%
+at with his mouse
+ 
+
+00:04:50.800 --> 00:04:52.870 align:start position:0%
+at with his mouse
+and<00:04:50.960><c> this</c><00:04:51.199><c> will</c><00:04:51.440><c> allow</c><00:04:51.840><c> us</c><00:04:52.000><c> to</c><00:04:52.240><c> demonstrate</c>
+
+00:04:52.870 --> 00:04:52.880 align:start position:0%
+and this will allow us to demonstrate
+ 
+
+00:04:52.880 --> 00:04:55.749 align:start position:0%
+and this will allow us to demonstrate
+how<00:04:53.120><c> mouse</c><00:04:53.440><c> input</c><00:04:53.840><c> works</c><00:04:54.400><c> in</c><00:04:54.560><c> this</c><00:04:54.840><c> episode</c>
+
+00:04:55.749 --> 00:04:55.759 align:start position:0%
+how mouse input works in this episode
+ 
+
+00:04:55.759 --> 00:04:58.310 align:start position:0%
+how mouse input works in this episode
+create<00:04:56.080><c> another</c><00:04:56.560><c> new</c><00:04:56.720><c> script</c><00:04:57.120><c> called</c><00:04:57.440><c> marker</c>
+
+00:04:58.310 --> 00:04:58.320 align:start position:0%
+create another new script called marker
+ 
+
+00:04:58.320 --> 00:04:59.909 align:start position:0%
+create another new script called marker
+open<00:04:58.560><c> the</c><00:04:58.720><c> script</c>
+
+00:04:59.909 --> 00:04:59.919 align:start position:0%
+open the script
+ 
+
+00:04:59.919 --> 00:05:01.830 align:start position:0%
+open the script
+and<00:05:00.080><c> here</c><00:05:00.320><c> we</c><00:05:00.479><c> need</c><00:05:00.720><c> to</c><00:05:00.800><c> create</c><00:05:01.199><c> a</c><00:05:01.280><c> reference</c>
+
+00:05:01.830 --> 00:05:01.840 align:start position:0%
+and here we need to create a reference
+ 
+
+00:05:01.840 --> 00:05:22.150 align:start position:0%
+and here we need to create a reference
+to<00:05:02.000><c> the</c><00:05:02.240><c> transform</c><00:05:03.039><c> of</c><00:05:03.360><c> our</c><00:05:03.840><c> marker</c><00:05:04.639><c> object</c>
+
+00:05:22.150 --> 00:05:22.160 align:start position:0%
+ 
+ 
+
+00:05:22.160 --> 00:06:07.510 align:start position:0%
+ 
+create<00:05:22.639><c> a</c><00:05:22.720><c> marker</c><00:05:23.440><c> object</c>
+
+00:06:07.510 --> 00:06:07.520 align:start position:0%
+ 
+ 
+
+00:06:07.520 --> 00:06:10.150 align:start position:0%
+ 
+reference<00:06:08.080><c> marker</c><00:06:08.639><c> object</c><00:06:09.120><c> in</c><00:06:09.280><c> the</c><00:06:09.680><c> marker</c>
+
+00:06:10.150 --> 00:06:10.160 align:start position:0%
+reference marker object in the marker
+ 
+
+00:06:10.160 --> 00:06:15.749 align:start position:0%
+reference marker object in the marker
+script
+
+00:06:15.749 --> 00:06:15.759 align:start position:0%
+ 
+ 
+
+00:06:15.759 --> 00:06:18.469 align:start position:0%
+ 
+cache<00:06:16.160><c> the</c><00:06:16.400><c> mouse</c><00:06:16.800><c> input</c><00:06:17.280><c> so</c><00:06:17.600><c> we</c><00:06:17.840><c> will</c><00:06:18.080><c> be</c><00:06:18.240><c> able</c>
+
+00:06:18.469 --> 00:06:18.479 align:start position:0%
+cache the mouse input so we will be able
+ 
+
+00:06:18.479 --> 00:06:34.550 align:start position:0%
+cache the mouse input so we will be able
+to<00:06:18.639><c> read</c><00:06:18.880><c> the</c><00:06:19.039><c> mouse</c><00:06:19.520><c> input</c><00:06:19.919><c> in</c><00:06:20.080><c> the</c><00:06:20.240><c> marker</c>
+
+00:06:34.550 --> 00:06:34.560 align:start position:0%
+ 
+ 
+
+00:06:34.560 --> 00:06:36.710 align:start position:0%
+ 
+create<00:06:34.960><c> current</c><00:06:35.280><c> position</c><00:06:35.759><c> variable</c><00:06:36.560><c> and</c>
+
+00:06:36.710 --> 00:06:36.720 align:start position:0%
+create current position variable and
+ 
+
+00:06:36.720 --> 00:06:54.710 align:start position:0%
+create current position variable and
+target<00:06:37.199><c> grid</c><00:06:37.520><c> serialized</c><00:06:38.160><c> variables</c>
+
+00:06:54.710 --> 00:06:54.720 align:start position:0%
+ 
+ 
+
+00:06:54.720 --> 00:06:57.029 align:start position:0%
+ 
+to<00:06:54.880><c> update</c><00:06:55.280><c> marker</c><00:06:55.680><c> position</c><00:06:56.319><c> only</c><00:06:56.720><c> every</c>
+
+00:06:57.029 --> 00:06:57.039 align:start position:0%
+to update marker position only every
+ 
+
+00:06:57.039 --> 00:06:59.270 align:start position:0%
+to update marker position only every
+time<00:06:57.440><c> your</c><00:06:57.680><c> mouse</c><00:06:58.000><c> changes</c><00:06:58.319><c> the</c><00:06:58.479><c> position</c><00:06:59.120><c> on</c>
+
+00:06:59.270 --> 00:06:59.280 align:start position:0%
+time your mouse changes the position on
+ 
+
+00:06:59.280 --> 00:07:02.469 align:start position:0%
+time your mouse changes the position on
+the<00:06:59.440><c> grid</c><00:07:00.240><c> compare</c><00:07:00.639><c> the</c><00:07:00.880><c> current</c><00:07:01.280><c> position</c>
+
+00:07:02.469 --> 00:07:02.479 align:start position:0%
+the grid compare the current position
+ 
+
+00:07:02.479 --> 00:07:04.790 align:start position:0%
+the grid compare the current position
+in<00:07:02.720><c> case</c><00:07:02.960><c> they</c><00:07:03.120><c> are</c><00:07:03.280><c> not</c><00:07:03.599><c> equal</c><00:07:04.080><c> it</c><00:07:04.319><c> means</c><00:07:04.560><c> the</c>
+
+00:07:04.790 --> 00:07:04.800 align:start position:0%
+in case they are not equal it means the
+ 
+
+00:07:04.800 --> 00:07:07.510 align:start position:0%
+in case they are not equal it means the
+mouse<00:07:05.360><c> moved</c><00:07:05.840><c> on</c><00:07:06.000><c> the</c><00:07:06.160><c> grid</c><00:07:06.880><c> and</c><00:07:07.039><c> we</c><00:07:07.199><c> need</c><00:07:07.360><c> to</c>
+
+00:07:07.510 --> 00:07:07.520 align:start position:0%
+mouse moved on the grid and we need to
+ 
+
+00:07:07.520 --> 00:07:24.629 align:start position:0%
+mouse moved on the grid and we need to
+update<00:07:08.000><c> our</c><00:07:08.319><c> marker</c><00:07:08.800><c> position</c>
+
+00:07:24.629 --> 00:07:24.639 align:start position:0%
+ 
+ 
+
+00:07:24.639 --> 00:07:27.430 align:start position:0%
+ 
+by<00:07:24.880><c> getting</c><00:07:25.280><c> the</c><00:07:25.840><c> world</c><00:07:26.160><c> position</c><00:07:27.039><c> on</c><00:07:27.280><c> the</c>
+
+00:07:27.430 --> 00:07:27.440 align:start position:0%
+by getting the world position on the
+ 
+
+00:07:27.440 --> 00:08:08.950 align:start position:0%
+by getting the world position on the
+node<00:07:28.080><c> from</c><00:07:28.319><c> the</c><00:07:28.479><c> target</c><00:07:28.960><c> grid</c>
+
+00:08:08.950 --> 00:08:08.960 align:start position:0%
+ 
+ 
+
+00:08:08.960 --> 00:08:11.670 align:start position:0%
+ 
+set<00:08:09.280><c> the</c><00:08:09.440><c> target</c><00:08:09.840><c> grid</c><00:08:10.240><c> and</c><00:08:10.400><c> let's</c><00:08:10.720><c> test</c><00:08:10.960><c> this</c>
+
+00:08:11.670 --> 00:08:11.680 align:start position:0%
+set the target grid and let's test this
+ 
+
+00:08:11.680 --> 00:08:15.270 align:start position:0%
+set the target grid and let's test this
+it<00:08:12.000><c> works</c><00:08:12.800><c> but</c><00:08:13.120><c> our</c><00:08:13.520><c> marker</c><00:08:14.000><c> is</c><00:08:14.160><c> too</c><00:08:14.400><c> small</c><00:08:15.039><c> and</c>
+
+00:08:15.270 --> 00:08:15.280 align:start position:0%
+it works but our marker is too small and
+ 
+
+00:08:15.280 --> 00:08:49.430 align:start position:0%
+it works but our marker is too small and
+heats<00:08:15.759><c> underground</c>
+
+00:08:49.430 --> 00:08:49.440 align:start position:0%
+ 
+ 
+
+00:08:49.440 --> 00:08:53.750 align:start position:0%
+ 
+so<00:08:49.680><c> we</c><00:08:49.839><c> need</c><00:08:50.000><c> to</c><00:08:50.160><c> introduce</c><00:08:50.720><c> an</c><00:08:50.959><c> elevation</c>
+
+00:08:53.750 --> 00:08:53.760 align:start position:0%
+ 
+ 
+
+00:08:53.760 --> 00:09:53.670 align:start position:0%
+ 
+add<00:08:54.000><c> the</c><00:08:54.080><c> elevation</c><00:08:54.640><c> to</c><00:08:54.959><c> y</c><00:08:55.200><c> position</c>
+
+00:09:53.670 --> 00:09:53.680 align:start position:0%
+ 
+ 
+
+00:09:53.680 --> 00:09:56.790 align:start position:0%
+ 
+now<00:09:53.920><c> when</c><00:09:54.320><c> our</c><00:09:54.560><c> mouse</c><00:09:55.040><c> input</c><00:09:55.680><c> is</c><00:09:55.920><c> not</c><00:09:56.240><c> hovering</c>
+
+00:09:56.790 --> 00:09:56.800 align:start position:0%
+now when our mouse input is not hovering
+ 
+
+00:09:56.800 --> 00:09:59.350 align:start position:0%
+now when our mouse input is not hovering
+over<00:09:57.120><c> the</c><00:09:57.279><c> ground</c><00:09:58.080><c> we</c><00:09:58.240><c> want</c><00:09:58.480><c> to</c><00:09:58.720><c> hide</c><00:09:59.040><c> our</c>
+
+00:09:59.350 --> 00:09:59.360 align:start position:0%
+over the ground we want to hide our
+ 
+
+00:09:59.360 --> 00:10:00.389 align:start position:0%
+over the ground we want to hide our
+marker
+
+00:10:00.389 --> 00:10:00.399 align:start position:0%
+marker
+ 
+
+00:10:00.399 --> 00:10:03.110 align:start position:0%
+marker
+in<00:10:00.560><c> the</c><00:10:00.800><c> mouse</c><00:10:01.200><c> input</c><00:10:01.680><c> if</c><00:10:01.839><c> we</c><00:10:02.000><c> hit</c><00:10:02.320><c> something</c>
+
+00:10:03.110 --> 00:10:03.120 align:start position:0%
+in the mouse input if we hit something
+ 
+
+00:10:03.120 --> 00:10:05.829 align:start position:0%
+in the mouse input if we hit something
+let's<00:10:03.600><c> set</c><00:10:04.000><c> public</c><00:10:04.480><c> ballarable</c><00:10:05.360><c> called</c>
+
+00:10:05.829 --> 00:10:05.839 align:start position:0%
+let's set public ballarable called
+ 
+
+00:10:05.839 --> 00:10:09.350 align:start position:0%
+let's set public ballarable called
+active<00:10:06.320><c> to</c><00:10:06.480><c> true</c><00:10:07.200><c> otherwise</c><00:10:08.240><c> in</c><00:10:08.480><c> else</c><00:10:08.959><c> set</c><00:10:09.200><c> it</c>
+
+00:10:09.350 --> 00:10:09.360 align:start position:0%
+active to true otherwise in else set it
+ 
+
+00:10:09.360 --> 00:10:12.069 align:start position:0%
+active to true otherwise in else set it
+to<00:10:09.680><c> false</c>
+
+00:10:12.069 --> 00:10:12.079 align:start position:0%
+to false
+ 
+
+00:10:12.079 --> 00:10:14.389 align:start position:0%
+to false
+that<00:10:12.320><c> means</c><00:10:12.640><c> if</c><00:10:12.880><c> our</c><00:10:13.519><c> raycast</c><00:10:14.079><c> doesn't</c>
+
+00:10:14.389 --> 00:10:14.399 align:start position:0%
+that means if our raycast doesn't
+ 
+
+00:10:14.399 --> 00:10:17.030 align:start position:0%
+that means if our raycast doesn't
+collide<00:10:14.880><c> with</c><00:10:15.040><c> the</c><00:10:15.200><c> ground</c><00:10:15.839><c> it</c><00:10:16.000><c> means</c><00:10:16.320><c> it's</c>
+
+00:10:17.030 --> 00:10:17.040 align:start position:0%
+collide with the ground it means it's
+ 
+
+00:10:17.040 --> 00:10:19.829 align:start position:0%
+collide with the ground it means it's
+hovering<00:10:17.519><c> over</c><00:10:17.839><c> something</c><00:10:18.240><c> else</c><00:10:18.720><c> like</c>
+
+00:10:19.829 --> 00:10:19.839 align:start position:0%
+hovering over something else like
+ 
+
+00:10:19.839 --> 00:10:22.790 align:start position:0%
+hovering over something else like
+outside<00:10:20.320><c> of</c><00:10:20.480><c> the</c><00:10:20.640><c> boundaries</c><00:10:21.279><c> for</c><00:10:21.440><c> example</c>
+
+00:10:22.790 --> 00:10:22.800 align:start position:0%
+outside of the boundaries for example
+ 
+
+00:10:22.800 --> 00:10:26.389 align:start position:0%
+outside of the boundaries for example
+and<00:10:23.600><c> we</c><00:10:23.920><c> should</c><00:10:24.240><c> not</c><00:10:24.560><c> try</c><00:10:24.880><c> to</c><00:10:25.279><c> show</c><00:10:25.519><c> the</c><00:10:25.760><c> marker</c>
+
+00:10:26.389 --> 00:10:26.399 align:start position:0%
+and we should not try to show the marker
+ 
+
+00:10:26.399 --> 00:10:30.150 align:start position:0%
+and we should not try to show the marker
+when<00:10:26.880><c> we</c><00:10:27.040><c> are</c><00:10:27.120><c> not</c><00:10:27.360><c> hitting</c><00:10:27.760><c> our</c><00:10:28.079><c> terrain</c>
+
+00:10:30.150 --> 00:10:30.160 align:start position:0%
+when we are not hitting our terrain
+ 
+
+00:10:30.160 --> 00:10:32.230 align:start position:0%
+when we are not hitting our terrain
+in<00:10:30.320><c> the</c><00:10:30.480><c> marker</c><00:10:31.120><c> create</c><00:10:31.440><c> a</c><00:10:31.519><c> new</c><00:10:31.680><c> variable</c>
+
+00:10:32.230 --> 00:10:32.240 align:start position:0%
+in the marker create a new variable
+ 
+
+00:10:32.240 --> 00:10:34.630 align:start position:0%
+in the marker create a new variable
+called<00:10:32.720><c> active</c><00:10:33.360><c> which</c><00:10:33.600><c> will</c><00:10:33.839><c> store</c><00:10:34.160><c> the</c><00:10:34.320><c> state</c>
+
+00:10:34.630 --> 00:10:34.640 align:start position:0%
+called active which will store the state
+ 
+
+00:10:34.640 --> 00:10:36.389 align:start position:0%
+called active which will store the state
+of<00:10:34.880><c> our</c><00:10:35.200><c> marker</c>
+
+00:10:36.389 --> 00:10:36.399 align:start position:0%
+of our marker
+ 
+
+00:10:36.399 --> 00:10:39.829 align:start position:0%
+of our marker
+is<00:10:36.640><c> it</c><00:10:36.880><c> active</c><00:10:37.440><c> on</c><00:10:37.600><c> the</c><00:10:37.839><c> scene</c><00:10:38.399><c> or</c><00:10:38.640><c> not</c><00:10:39.360><c> in</c><00:10:39.519><c> case</c>
+
+00:10:39.829 --> 00:10:39.839 align:start position:0%
+is it active on the scene or not in case
+ 
+
+00:10:39.839 --> 00:10:42.150 align:start position:0%
+is it active on the scene or not in case
+our<00:10:40.160><c> mouse</c><00:10:40.560><c> input</c><00:10:40.880><c> is</c><00:10:41.040><c> not</c><00:10:41.279><c> active</c><00:10:41.680><c> we</c><00:10:41.839><c> want</c><00:10:42.000><c> to</c>
+
+00:10:42.150 --> 00:10:42.160 align:start position:0%
+our mouse input is not active we want to
+ 
+
+00:10:42.160 --> 00:10:45.110 align:start position:0%
+our mouse input is not active we want to
+disable<00:10:42.800><c> our</c><00:10:43.120><c> marker</c><00:10:44.000><c> and</c><00:10:44.240><c> if</c><00:10:44.399><c> it</c><00:10:44.560><c> is</c><00:10:44.720><c> active</c>
+
+00:10:45.110 --> 00:10:45.120 align:start position:0%
+disable our marker and if it is active
+ 
+
+00:10:45.120 --> 00:10:47.430 align:start position:0%
+disable our marker and if it is active
+then<00:10:45.279><c> we</c><00:10:45.440><c> want</c><00:10:45.680><c> to</c><00:10:45.839><c> enable</c><00:10:46.320><c> our</c><00:10:46.560><c> marker</c><00:10:47.200><c> to</c>
+
+00:10:47.430 --> 00:10:47.440 align:start position:0%
+then we want to enable our marker to
+ 
+
+00:10:47.440 --> 00:11:08.310 align:start position:0%
+then we want to enable our marker to
+show<00:10:47.680><c> it</c><00:10:47.760><c> to</c><00:10:48.000><c> our</c><00:10:48.240><c> player</c>
+
+00:11:08.310 --> 00:11:08.320 align:start position:0%
+ 
+ 
+
+00:11:08.320 --> 00:11:10.310 align:start position:0%
+ 
+if<00:11:08.560><c> our</c><00:11:08.800><c> marker</c><00:11:09.200><c> is</c><00:11:09.360><c> inactive</c><00:11:09.839><c> we</c><00:11:09.920><c> don't</c><00:11:10.160><c> need</c>
+
+00:11:10.310 --> 00:11:10.320 align:start position:0%
+if our marker is inactive we don't need
+ 
+
+00:11:10.320 --> 00:11:12.630 align:start position:0%
+if our marker is inactive we don't need
+to<00:11:10.480><c> update</c><00:11:10.880><c> the</c><00:11:11.040><c> marker</c><00:11:11.440><c> position</c>
+
+00:11:12.630 --> 00:11:12.640 align:start position:0%
+to update the marker position
+ 
+
+00:11:12.640 --> 00:11:14.949 align:start position:0%
+to update the marker position
+so<00:11:12.880><c> add</c><00:11:13.200><c> exit</c><00:11:13.600><c> gate</c><00:11:14.000><c> here</c>
+
+00:11:14.949 --> 00:11:14.959 align:start position:0%
+so add exit gate here
+ 
+
+00:11:14.959 --> 00:11:18.069 align:start position:0%
+so add exit gate here
+and<00:11:15.440><c> make</c><00:11:15.760><c> sure</c><00:11:16.240><c> you</c><00:11:16.480><c> move</c><00:11:16.800><c> the</c><00:11:17.279><c> active</c><00:11:17.680><c> check</c>
+
+00:11:18.069 --> 00:11:18.079 align:start position:0%
+and make sure you move the active check
+ 
+
+00:11:18.079 --> 00:11:35.750 align:start position:0%
+and make sure you move the active check
+above<00:11:18.399><c> the</c><00:11:18.560><c> exit</c><00:11:18.959><c> gate</c>
+
+00:11:35.750 --> 00:11:35.760 align:start position:0%
+ 
+ 
+
+00:11:35.760 --> 00:11:43.509 align:start position:0%
+ 
+look<00:11:36.240><c> it</c><00:11:36.480><c> works</c>
+
+00:11:43.509 --> 00:11:43.519 align:start position:0%
+ 
+ 
+
+00:11:43.519 --> 00:11:45.990 align:start position:0%
+ 
+but<00:11:43.760><c> occasionally</c><00:11:44.480><c> throws</c><00:11:44.800><c> an</c><00:11:45.040><c> error</c><00:11:45.680><c> this</c><00:11:45.839><c> is</c>
+
+00:11:45.990 --> 00:11:46.000 align:start position:0%
+but occasionally throws an error this is
+ 
+
+00:11:46.000 --> 00:11:47.750 align:start position:0%
+but occasionally throws an error this is
+happening<00:11:46.480><c> because</c><00:11:46.800><c> we</c><00:11:46.959><c> are</c><00:11:47.120><c> trying</c><00:11:47.440><c> to</c><00:11:47.600><c> get</c>
+
+00:11:47.750 --> 00:11:47.760 align:start position:0%
+happening because we are trying to get
+ 
+
+00:11:47.760 --> 00:11:56.949 align:start position:0%
+happening because we are trying to get
+the<00:11:47.920><c> position</c><00:11:48.560><c> outside</c><00:11:49.040><c> the</c><00:11:49.120><c> boundaries</c>
+
+00:11:56.949 --> 00:11:56.959 align:start position:0%
+ 
+ 
+
+00:11:56.959 --> 00:11:58.790 align:start position:0%
+ 
+so<00:11:57.120><c> add</c><00:11:57.360><c> an</c><00:11:57.519><c> exit</c><00:11:57.920><c> gate</c>
+
+00:11:58.790 --> 00:11:58.800 align:start position:0%
+so add an exit gate
+ 
+
+00:11:58.800 --> 00:12:00.550 align:start position:0%
+so add an exit gate
+based<00:11:59.200><c> on</c><00:11:59.360><c> the</c><00:11:59.600><c> check</c>
+
+00:12:00.550 --> 00:12:00.560 align:start position:0%
+based on the check
+ 
+
+00:12:00.560 --> 00:12:29.990 align:start position:0%
+based on the check
+boundary
+
+00:12:29.990 --> 00:12:30.000 align:start position:0%
+ 
+ 
+
+00:12:30.000 --> 00:12:32.069 align:start position:0%
+ 
+good<00:12:30.480><c> this</c><00:12:30.720><c> is</c><00:12:30.880><c> it</c><00:12:30.959><c> for</c><00:12:31.120><c> this</c><00:12:31.360><c> episode</c><00:12:31.839><c> if</c><00:12:32.000><c> you</c>
+
+00:12:32.069 --> 00:12:32.079 align:start position:0%
+good this is it for this episode if you
+ 
+
+00:12:32.079 --> 00:12:34.150 align:start position:0%
+good this is it for this episode if you
+have<00:12:32.320><c> any</c><00:12:32.480><c> questions</c><00:12:32.880><c> or</c><00:12:33.120><c> any</c><00:12:33.360><c> ideas</c><00:12:33.760><c> about</c>
+
+00:12:34.150 --> 00:12:34.160 align:start position:0%
+have any questions or any ideas about
+ 
+
+00:12:34.160 --> 00:12:36.550 align:start position:0%
+have any questions or any ideas about
+code<00:12:34.639><c> please</c><00:12:34.959><c> leave</c><00:12:35.200><c> your</c><00:12:35.440><c> comment</c><00:12:35.760><c> below</c><00:12:36.399><c> if</c>
+
+00:12:36.550 --> 00:12:36.560 align:start position:0%
+code please leave your comment below if
+ 
+
+00:12:36.560 --> 00:12:38.150 align:start position:0%
+code please leave your comment below if
+you're<00:12:36.720><c> interested</c><00:12:37.279><c> in</c><00:12:37.360><c> seeing</c><00:12:37.600><c> what</c><00:12:37.920><c> will</c>
+
+00:12:38.150 --> 00:12:38.160 align:start position:0%
+you're interested in seeing what will
+ 
+
+00:12:38.160 --> 00:12:40.629 align:start position:0%
+you're interested in seeing what will
+come<00:12:38.399><c> out</c><00:12:38.560><c> of</c><00:12:38.720><c> this</c><00:12:39.040><c> please</c><00:12:39.360><c> subscribe</c><00:12:40.320><c> if</c><00:12:40.480><c> you</c>
+
+00:12:40.629 --> 00:12:40.639 align:start position:0%
+come out of this please subscribe if you
+ 
+
+00:12:40.639 --> 00:12:43.030 align:start position:0%
+come out of this please subscribe if you
+want<00:12:40.800><c> to</c><00:12:41.200><c> support</c><00:12:41.680><c> further</c><00:12:42.240><c> you</c><00:12:42.399><c> can</c><00:12:42.639><c> find</c><00:12:42.880><c> my</c>
+
+00:12:43.030 --> 00:12:43.040 align:start position:0%
+want to support further you can find my
+ 
+
+00:12:43.040 --> 00:12:45.750 align:start position:0%
+want to support further you can find my
+patreon<00:12:43.839><c> in</c><00:12:44.000><c> the</c><00:12:44.079><c> description</c><00:12:45.040><c> special</c><00:12:45.519><c> thank</c>
+
+00:12:45.750 --> 00:12:45.760 align:start position:0%
+patreon in the description special thank
+ 
+
+00:12:45.760 --> 00:12:48.629 align:start position:0%
+patreon in the description special thank
+you<00:12:46.000><c> to</c><00:12:46.639><c> andrew</c><00:12:47.120><c> v</c><00:12:47.360><c> long</c><00:12:47.760><c> and</c><00:12:47.920><c> the</c><00:12:48.079><c> salt</c><00:12:48.399><c> hush</c>
+
+00:12:48.629 --> 00:12:48.639 align:start position:0%
+you to andrew v long and the salt hush
+ 
+
+00:12:48.639 --> 00:12:51.269 align:start position:0%
+you to andrew v long and the salt hush
+do<00:12:49.120><c> for</c><00:12:49.360><c> their</c><00:12:49.600><c> generous</c><00:12:50.000><c> support</c><00:12:50.800><c> with</c><00:12:51.040><c> best</c>
+
+00:12:51.269 --> 00:12:51.279 align:start position:0%
+do for their generous support with best
+ 
+
+00:12:51.279 --> 00:13:29.190 align:start position:0%
+do for their generous support with best
+regards<00:12:52.079><c> see</c><00:12:52.240><c> you</c><00:12:52.399><c> in</c><00:12:52.480><c> the</c><00:12:52.639><c> next</c><00:12:53.040><c> episode</c>
+
+00:13:29.190 --> 00:13:29.200 align:start position:0%
+ 
+ 
+
+00:13:29.200 --> 00:13:31.279 align:start position:0%
+ 
+you
+

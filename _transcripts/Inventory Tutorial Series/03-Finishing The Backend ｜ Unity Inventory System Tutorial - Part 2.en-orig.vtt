@@ -1,0 +1,3912 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.170 --> 00:00:06.869 align:start position:0%
+ 
+[Music]
+
+00:00:06.869 --> 00:00:06.879 align:start position:0%
+ 
+ 
+
+00:00:06.879 --> 00:00:09.509 align:start position:0%
+ 
+okay<00:00:07.200><c> so</c><00:00:07.440><c> welcome</c><00:00:07.839><c> to</c><00:00:08.080><c> episode</c><00:00:08.639><c> two</c><00:00:09.040><c> of</c><00:00:09.280><c> our</c>
+
+00:00:09.509 --> 00:00:09.519 align:start position:0%
+okay so welcome to episode two of our
+ 
+
+00:00:09.519 --> 00:00:12.070 align:start position:0%
+okay so welcome to episode two of our
+inventory<00:00:10.000><c> system</c><00:00:10.480><c> tutorial</c><00:00:11.040><c> series</c><00:00:11.679><c> uh</c><00:00:11.920><c> in</c>
+
+00:00:12.070 --> 00:00:12.080 align:start position:0%
+inventory system tutorial series uh in
+ 
+
+00:00:12.080 --> 00:00:14.870 align:start position:0%
+inventory system tutorial series uh in
+the<00:00:12.400><c> last</c><00:00:12.880><c> episode</c><00:00:13.360><c> we</c><00:00:13.599><c> left</c><00:00:13.920><c> it</c><00:00:14.160><c> where</c><00:00:14.639><c> we've</c>
+
+00:00:14.870 --> 00:00:14.880 align:start position:0%
+the last episode we left it where we've
+ 
+
+00:00:14.880 --> 00:00:16.950 align:start position:0%
+the last episode we left it where we've
+got<00:00:15.040><c> our</c><00:00:15.200><c> test</c><00:00:15.519><c> item</c><00:00:15.759><c> here</c><00:00:16.000><c> we</c><00:00:16.240><c> have</c><00:00:16.400><c> a</c><00:00:16.480><c> player</c>
+
+00:00:16.950 --> 00:00:16.960 align:start position:0%
+got our test item here we have a player
+ 
+
+00:00:16.960 --> 00:00:19.349 align:start position:0%
+got our test item here we have a player
+we<00:00:17.119><c> can</c><00:00:17.279><c> move</c><00:00:17.440><c> the</c><00:00:17.600><c> player</c><00:00:17.920><c> over</c><00:00:18.160><c> the</c><00:00:18.240><c> item</c>
+
+00:00:19.349 --> 00:00:19.359 align:start position:0%
+we can move the player over the item
+ 
+
+00:00:19.359 --> 00:00:21.429 align:start position:0%
+we can move the player over the item
+we<00:00:19.520><c> can</c><00:00:19.680><c> move</c><00:00:19.840><c> the</c><00:00:19.920><c> player</c><00:00:20.160><c> over</c><00:00:20.400><c> the</c><00:00:20.560><c> item</c><00:00:21.279><c> and</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+we can move the player over the item and
+ 
+
+00:00:21.439 --> 00:00:23.509 align:start position:0%
+we can move the player over the item and
+the<00:00:21.600><c> item</c><00:00:21.920><c> data</c><00:00:22.400><c> gets</c><00:00:22.720><c> added</c><00:00:23.199><c> to</c><00:00:23.359><c> our</c>
+
+00:00:23.509 --> 00:00:23.519 align:start position:0%
+the item data gets added to our
+ 
+
+00:00:23.519 --> 00:00:25.670 align:start position:0%
+the item data gets added to our
+inventory<00:00:24.160><c> and</c><00:00:24.400><c> we've</c><00:00:24.560><c> got</c><00:00:24.720><c> a</c><00:00:24.800><c> stack</c><00:00:25.039><c> size</c><00:00:25.439><c> of</c>
+
+00:00:25.670 --> 00:00:25.680 align:start position:0%
+inventory and we've got a stack size of
+ 
+
+00:00:25.680 --> 00:00:26.470 align:start position:0%
+inventory and we've got a stack size of
+one
+
+00:00:26.470 --> 00:00:26.480 align:start position:0%
+one
+ 
+
+00:00:26.480 --> 00:00:30.710 align:start position:0%
+one
+but<00:00:26.960><c> i</c><00:00:27.439><c> hard</c><00:00:27.760><c> coded</c><00:00:28.160><c> it</c><00:00:28.560><c> um</c><00:00:29.119><c> to</c><00:00:29.679><c> just</c><00:00:30.000><c> directly</c>
+
+00:00:30.710 --> 00:00:30.720 align:start position:0%
+but i hard coded it um to just directly
+ 
+
+00:00:30.720 --> 00:00:33.750 align:start position:0%
+but i hard coded it um to just directly
+add<00:00:30.960><c> itself</c><00:00:31.439><c> to</c><00:00:31.840><c> inventory</c><00:00:32.320><c> slot</c><00:00:32.719><c> zero</c><00:00:33.280><c> and</c>
+
+00:00:33.750 --> 00:00:33.760 align:start position:0%
+add itself to inventory slot zero and
+ 
+
+00:00:33.760 --> 00:00:36.150 align:start position:0%
+add itself to inventory slot zero and
+this<00:00:34.000><c> isn't</c><00:00:34.640><c> the</c><00:00:34.880><c> correct</c><00:00:35.360><c> implementation</c>
+
+00:00:36.150 --> 00:00:36.160 align:start position:0%
+this isn't the correct implementation
+ 
+
+00:00:36.160 --> 00:00:37.910 align:start position:0%
+this isn't the correct implementation
+this<00:00:36.399><c> was</c><00:00:36.559><c> just</c><00:00:36.719><c> so</c><00:00:36.880><c> we</c><00:00:36.960><c> could</c><00:00:37.120><c> see</c><00:00:37.280><c> it</c><00:00:37.360><c> working</c>
+
+00:00:37.910 --> 00:00:37.920 align:start position:0%
+this was just so we could see it working
+ 
+
+00:00:37.920 --> 00:00:39.350 align:start position:0%
+this was just so we could see it working
+so<00:00:38.160><c> in</c><00:00:38.320><c> this</c><00:00:38.480><c> video</c><00:00:38.800><c> we're</c><00:00:38.960><c> going</c><00:00:39.120><c> to</c><00:00:39.200><c> be</c>
+
+00:00:39.350 --> 00:00:39.360 align:start position:0%
+so in this video we're going to be
+ 
+
+00:00:39.360 --> 00:00:42.830 align:start position:0%
+so in this video we're going to be
+working<00:00:40.000><c> on</c><00:00:40.480><c> um</c><00:00:41.280><c> checking</c><00:00:41.760><c> whether</c><00:00:42.079><c> we</c>
+
+00:00:42.830 --> 00:00:42.840 align:start position:0%
+working on um checking whether we
+ 
+
+00:00:42.840 --> 00:00:45.190 align:start position:0%
+working on um checking whether we
+can<00:00:43.760><c> the</c><00:00:43.920><c> inventory</c><00:00:44.320><c> already</c><00:00:44.559><c> contains</c><00:00:45.039><c> the</c>
+
+00:00:45.190 --> 00:00:45.200 align:start position:0%
+can the inventory already contains the
+ 
+
+00:00:45.200 --> 00:00:47.830 align:start position:0%
+can the inventory already contains the
+item<00:00:45.600><c> if</c><00:00:45.760><c> it</c><00:00:45.840><c> does</c><00:00:46.079><c> add</c><00:00:46.320><c> itself</c><00:00:46.800><c> to</c><00:00:47.039><c> the</c><00:00:47.200><c> stack</c>
+
+00:00:47.830 --> 00:00:47.840 align:start position:0%
+item if it does add itself to the stack
+ 
+
+00:00:47.840 --> 00:00:49.670 align:start position:0%
+item if it does add itself to the stack
+of<00:00:48.000><c> the</c><00:00:48.160><c> item</c><00:00:48.559><c> it</c><00:00:48.640><c> doesn't</c><00:00:48.879><c> it'll</c><00:00:49.120><c> search</c><00:00:49.440><c> for</c>
+
+00:00:49.670 --> 00:00:49.680 align:start position:0%
+of the item it doesn't it'll search for
+ 
+
+00:00:49.680 --> 00:00:51.430 align:start position:0%
+of the item it doesn't it'll search for
+a<00:00:49.760><c> free</c><00:00:50.079><c> slot</c><00:00:50.399><c> in</c><00:00:50.480><c> the</c><00:00:50.559><c> inventory</c><00:00:51.120><c> and</c><00:00:51.280><c> add</c>
+
+00:00:51.430 --> 00:00:51.440 align:start position:0%
+a free slot in the inventory and add
+ 
+
+00:00:51.440 --> 00:00:53.270 align:start position:0%
+a free slot in the inventory and add
+itself<00:00:51.840><c> there</c><00:00:52.239><c> and</c><00:00:52.399><c> if</c><00:00:52.559><c> it</c><00:00:52.640><c> can't</c><00:00:52.879><c> do</c><00:00:53.120><c> that</c>
+
+00:00:53.270 --> 00:00:53.280 align:start position:0%
+itself there and if it can't do that
+ 
+
+00:00:53.280 --> 00:00:55.510 align:start position:0%
+itself there and if it can't do that
+then<00:00:53.520><c> obviously</c><00:00:53.840><c> the</c><00:00:53.920><c> backpack's</c><00:00:54.559><c> full</c>
+
+00:00:55.510 --> 00:00:55.520 align:start position:0%
+then obviously the backpack's full
+ 
+
+00:00:55.520 --> 00:00:57.990 align:start position:0%
+then obviously the backpack's full
+so<00:00:55.840><c> it</c><00:00:56.000><c> will</c><00:00:56.239><c> return</c><00:00:56.719><c> false</c><00:00:57.199><c> and</c><00:00:57.520><c> nothing</c><00:00:57.840><c> will</c>
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+so it will return false and nothing will
+ 
+
+00:00:58.000 --> 00:00:59.910 align:start position:0%
+so it will return false and nothing will
+happen<00:00:58.320><c> the</c><00:00:58.480><c> item</c><00:00:58.719><c> will</c><00:00:59.199><c> stay</c><00:00:59.440><c> on</c><00:00:59.600><c> the</c><00:00:59.680><c> ground</c>
+
+00:00:59.910 --> 00:00:59.920 align:start position:0%
+happen the item will stay on the ground
+ 
+
+00:00:59.920 --> 00:01:01.430 align:start position:0%
+happen the item will stay on the ground
+and<00:01:00.079><c> it</c><00:01:00.160><c> won't</c><00:01:00.399><c> destroy</c><00:01:00.719><c> itself</c><00:01:01.120><c> because</c><00:01:01.280><c> this</c>
+
+00:01:01.430 --> 00:01:01.440 align:start position:0%
+and it won't destroy itself because this
+ 
+
+00:01:01.440 --> 00:01:03.029 align:start position:0%
+and it won't destroy itself because this
+only<00:01:01.680><c> happens</c>
+
+00:01:03.029 --> 00:01:03.039 align:start position:0%
+only happens
+ 
+
+00:01:03.039 --> 00:01:04.070 align:start position:0%
+only happens
+if
+
+00:01:04.070 --> 00:01:04.080 align:start position:0%
+if
+ 
+
+00:01:04.080 --> 00:01:06.310 align:start position:0%
+if
+we<00:01:04.239><c> return</c><00:01:04.720><c> true</c><00:01:05.119><c> in</c><00:01:05.199><c> our</c><00:01:05.360><c> add</c><00:01:05.600><c> to</c><00:01:05.840><c> inventory</c>
+
+00:01:06.310 --> 00:01:06.320 align:start position:0%
+we return true in our add to inventory
+ 
+
+00:01:06.320 --> 00:01:07.910 align:start position:0%
+we return true in our add to inventory
+script<00:01:06.640><c> so</c><00:01:06.880><c> in</c><00:01:07.040><c> our</c><00:01:07.200><c> item</c><00:01:07.360><c> pickup</c><00:01:07.760><c> we're</c>
+
+00:01:07.910 --> 00:01:07.920 align:start position:0%
+script so in our item pickup we're
+ 
+
+00:01:07.920 --> 00:01:09.429 align:start position:0%
+script so in our item pickup we're
+saying<00:01:08.320><c> if</c>
+
+00:01:09.429 --> 00:01:09.439 align:start position:0%
+saying if
+ 
+
+00:01:09.439 --> 00:01:11.670 align:start position:0%
+saying if
+the<00:01:09.680><c> add</c><00:01:09.920><c> to</c><00:01:10.159><c> inventory</c><00:01:10.560><c> was</c><00:01:10.720><c> successful</c><00:01:11.439><c> then</c>
+
+00:01:11.670 --> 00:01:11.680 align:start position:0%
+the add to inventory was successful then
+ 
+
+00:01:11.680 --> 00:01:13.830 align:start position:0%
+the add to inventory was successful then
+destroy<00:01:12.080><c> the</c><00:01:12.240><c> object</c><00:01:12.640><c> from</c><00:01:12.799><c> the</c><00:01:12.960><c> world</c>
+
+00:01:13.830 --> 00:01:13.840 align:start position:0%
+destroy the object from the world
+ 
+
+00:01:13.840 --> 00:01:16.550 align:start position:0%
+destroy the object from the world
+if<00:01:14.000><c> it</c><00:01:14.080><c> wasn't</c><00:01:14.880><c> just</c><00:01:15.200><c> do</c><00:01:15.439><c> nothing</c><00:01:15.920><c> so</c><00:01:16.159><c> let's</c><00:01:16.400><c> go</c>
+
+00:01:16.550 --> 00:01:16.560 align:start position:0%
+if it wasn't just do nothing so let's go
+ 
+
+00:01:16.560 --> 00:01:19.030 align:start position:0%
+if it wasn't just do nothing so let's go
+back<00:01:16.720><c> over</c><00:01:16.960><c> to</c><00:01:17.200><c> our</c><00:01:17.439><c> inventory</c><00:01:17.960><c> system.cs</c>
+
+00:01:19.030 --> 00:01:19.040 align:start position:0%
+back over to our inventory system.cs
+ 
+
+00:01:19.040 --> 00:01:20.789 align:start position:0%
+back over to our inventory system.cs
+file<00:01:19.360><c> so</c><00:01:19.520><c> the</c><00:01:19.680><c> two</c><00:01:19.840><c> functions</c><00:01:20.400><c> that</c><00:01:20.560><c> we've</c>
+
+00:01:20.789 --> 00:01:20.799 align:start position:0%
+file so the two functions that we've
+ 
+
+00:01:20.799 --> 00:01:22.789 align:start position:0%
+file so the two functions that we've
+kind<00:01:21.040><c> of</c><00:01:21.200><c> i've</c><00:01:21.360><c> mentioned</c><00:01:21.840><c> so</c><00:01:22.000><c> far</c><00:01:22.400><c> we</c><00:01:22.560><c> need</c><00:01:22.720><c> to</c>
+
+00:01:22.789 --> 00:01:22.799 align:start position:0%
+kind of i've mentioned so far we need to
+ 
+
+00:01:22.799 --> 00:01:25.190 align:start position:0%
+kind of i've mentioned so far we need to
+check<00:01:23.040><c> whether</c><00:01:23.680><c> our</c><00:01:24.000><c> inventory</c><00:01:24.560><c> contained</c><00:01:25.040><c> an</c>
+
+00:01:25.190 --> 00:01:25.200 align:start position:0%
+check whether our inventory contained an
+ 
+
+00:01:25.200 --> 00:01:28.230 align:start position:0%
+check whether our inventory contained an
+item<00:01:26.320><c> and</c><00:01:26.560><c> if</c><00:01:26.720><c> it</c><00:01:26.880><c> does</c><00:01:27.200><c> we</c><00:01:27.360><c> need</c><00:01:27.680><c> to</c><00:01:27.840><c> add</c><00:01:28.000><c> it</c><00:01:28.080><c> to</c>
+
+00:01:28.230 --> 00:01:28.240 align:start position:0%
+item and if it does we need to add it to
+ 
+
+00:01:28.240 --> 00:01:29.990 align:start position:0%
+item and if it does we need to add it to
+that<00:01:28.400><c> stack</c><00:01:28.720><c> and</c><00:01:28.880><c> if</c><00:01:29.040><c> not</c><00:01:29.200><c> we</c><00:01:29.360><c> need</c><00:01:29.520><c> to</c><00:01:29.759><c> see</c>
+
+00:01:29.990 --> 00:01:30.000 align:start position:0%
+that stack and if not we need to see
+ 
+
+00:01:30.000 --> 00:01:31.990 align:start position:0%
+that stack and if not we need to see
+whether<00:01:30.320><c> there's</c><00:01:30.479><c> a</c><00:01:30.560><c> free</c><00:01:30.880><c> slot</c><00:01:31.280><c> so</c><00:01:31.600><c> the</c><00:01:31.759><c> first</c>
+
+00:01:31.990 --> 00:01:32.000 align:start position:0%
+whether there's a free slot so the first
+ 
+
+00:01:32.000 --> 00:01:33.270 align:start position:0%
+whether there's a free slot so the first
+thing<00:01:32.159><c> we</c><00:01:32.320><c> want</c><00:01:32.479><c> we're</c><00:01:32.640><c> going</c><00:01:32.720><c> to</c><00:01:32.799><c> do</c><00:01:33.040><c> is</c><00:01:33.119><c> we're</c>
+
+00:01:33.270 --> 00:01:33.280 align:start position:0%
+thing we want we're going to do is we're
+ 
+
+00:01:33.280 --> 00:01:35.670 align:start position:0%
+thing we want we're going to do is we're
+going<00:01:33.360><c> to</c><00:01:33.439><c> make</c><00:01:33.600><c> a</c><00:01:33.680><c> public</c>
+
+00:01:35.670 --> 00:01:35.680 align:start position:0%
+going to make a public
+ 
+
+00:01:35.680 --> 00:01:37.510 align:start position:0%
+going to make a public
+void
+
+00:01:37.510 --> 00:01:37.520 align:start position:0%
+void
+ 
+
+00:01:37.520 --> 00:01:39.190 align:start position:0%
+void
+sorry<00:01:37.759><c> we're</c><00:01:37.920><c> going</c><00:01:38.000><c> to</c><00:01:38.079><c> make</c><00:01:38.159><c> a</c><00:01:38.240><c> public</c><00:01:38.640><c> bull</c>
+
+00:01:39.190 --> 00:01:39.200 align:start position:0%
+sorry we're going to make a public bull
+ 
+
+00:01:39.200 --> 00:01:42.310 align:start position:0%
+sorry we're going to make a public bull
+called<00:01:39.600><c> contains</c><00:01:40.720><c> item</c>
+
+00:01:42.310 --> 00:01:42.320 align:start position:0%
+called contains item
+ 
+
+00:01:42.320 --> 00:01:44.230 align:start position:0%
+called contains item
+and<00:01:42.479><c> this</c><00:01:42.720><c> is</c><00:01:42.799><c> going</c><00:01:42.880><c> to</c><00:01:43.040><c> take</c><00:01:43.360><c> in</c>
+
+00:01:44.230 --> 00:01:44.240 align:start position:0%
+and this is going to take in
+ 
+
+00:01:44.240 --> 00:01:50.069 align:start position:0%
+and this is going to take in
+the<00:01:44.720><c> inven</c>
+
+00:01:50.069 --> 00:01:50.079 align:start position:0%
+ 
+ 
+
+00:01:50.079 --> 00:01:52.069 align:start position:0%
+ 
+and<00:01:50.159><c> this</c><00:01:50.320><c> is</c><00:01:50.399><c> going</c><00:01:50.479><c> to</c><00:01:50.560><c> take</c><00:01:50.799><c> in</c><00:01:51.040><c> some</c>
+
+00:01:52.069 --> 00:01:52.079 align:start position:0%
+and this is going to take in some
+ 
+
+00:01:52.079 --> 00:01:56.389 align:start position:0%
+and this is going to take in some
+inventory<00:01:53.439><c> item</c><00:01:53.840><c> data</c><00:01:54.399><c> which</c><00:01:54.640><c> is</c><00:01:54.799><c> the</c><00:01:55.119><c> uh</c><00:01:55.680><c> item</c>
+
+00:01:56.389 --> 00:01:56.399 align:start position:0%
+inventory item data which is the uh item
+ 
+
+00:01:56.399 --> 00:01:58.950 align:start position:0%
+inventory item data which is the uh item
+to<00:01:56.719><c> add</c><00:01:57.200><c> and</c><00:01:57.360><c> it's</c><00:01:57.520><c> going</c><00:01:57.680><c> to</c><00:01:57.759><c> pass</c><00:01:58.079><c> back</c><00:01:58.399><c> out</c>
+
+00:01:58.950 --> 00:01:58.960 align:start position:0%
+to add and it's going to pass back out
+ 
+
+00:01:58.960 --> 00:02:01.990 align:start position:0%
+to add and it's going to pass back out
+an<00:01:59.200><c> inventory</c><00:01:59.840><c> slot</c><00:02:00.320><c> if</c><00:02:00.880><c> if</c><00:02:01.280><c> one</c><00:02:01.520><c> exists</c><00:02:01.920><c> it's</c>
+
+00:02:01.990 --> 00:02:02.000 align:start position:0%
+an inventory slot if if one exists it's
+ 
+
+00:02:02.000 --> 00:02:03.910 align:start position:0%
+an inventory slot if if one exists it's
+going<00:02:02.079><c> to</c><00:02:02.159><c> pass</c><00:02:02.399><c> back</c><00:02:02.640><c> out</c><00:02:02.799><c> the</c><00:02:03.040><c> slot</c><00:02:03.520><c> that</c><00:02:03.680><c> the</c>
+
+00:02:03.910 --> 00:02:03.920 align:start position:0%
+going to pass back out the slot that the
+ 
+
+00:02:03.920 --> 00:02:06.950 align:start position:0%
+going to pass back out the slot that the
+item<00:02:04.719><c> is</c><00:02:04.960><c> contained</c><00:02:05.439><c> within</c><00:02:05.920><c> if</c>
+
+00:02:06.950 --> 00:02:06.960 align:start position:0%
+item is contained within if
+ 
+
+00:02:06.960 --> 00:02:09.350 align:start position:0%
+item is contained within if
+we<00:02:07.119><c> do</c><00:02:07.360><c> actually</c><00:02:07.600><c> contain</c><00:02:08.080><c> the</c><00:02:08.239><c> item</c>
+
+00:02:09.350 --> 00:02:09.360 align:start position:0%
+we do actually contain the item
+ 
+
+00:02:09.360 --> 00:02:10.550 align:start position:0%
+we do actually contain the item
+so<00:02:09.520><c> i'm</c><00:02:09.599><c> just</c><00:02:09.759><c> gonna</c>
+
+00:02:10.550 --> 00:02:10.560 align:start position:0%
+so i'm just gonna
+ 
+
+00:02:10.560 --> 00:02:12.869 align:start position:0%
+so i'm just gonna
+at<00:02:10.720><c> the</c><00:02:10.879><c> moment</c><00:02:11.440><c> just</c><00:02:11.680><c> to</c><00:02:11.840><c> get</c><00:02:12.000><c> rid</c><00:02:12.160><c> of</c><00:02:12.319><c> the</c><00:02:12.640><c> red</c>
+
+00:02:12.869 --> 00:02:12.879 align:start position:0%
+at the moment just to get rid of the red
+ 
+
+00:02:12.879 --> 00:02:14.229 align:start position:0%
+at the moment just to get rid of the red
+squiggly<00:02:13.360><c> line</c><00:02:13.599><c> i'm</c><00:02:13.680><c> just</c><00:02:13.760><c> gonna</c><00:02:14.000><c> set</c>
+
+00:02:14.229 --> 00:02:14.239 align:start position:0%
+squiggly line i'm just gonna set
+ 
+
+00:02:14.239 --> 00:02:17.430 align:start position:0%
+squiggly line i'm just gonna set
+inventory<00:02:14.879><c> slot</c><00:02:15.120><c> to</c><00:02:15.360><c> null</c><00:02:15.920><c> and</c><00:02:16.080><c> return</c>
+
+00:02:17.430 --> 00:02:17.440 align:start position:0%
+inventory slot to null and return
+ 
+
+00:02:17.440 --> 00:02:18.470 align:start position:0%
+inventory slot to null and return
+false
+
+00:02:18.470 --> 00:02:18.480 align:start position:0%
+false
+ 
+
+00:02:18.480 --> 00:02:20.070 align:start position:0%
+false
+and<00:02:18.560><c> this</c><00:02:18.720><c> is</c><00:02:18.800><c> what</c><00:02:18.959><c> we'll</c><00:02:19.040><c> do</c><00:02:19.200><c> at</c><00:02:19.280><c> the</c><00:02:19.440><c> end</c><00:02:19.760><c> of</c>
+
+00:02:20.070 --> 00:02:20.080 align:start position:0%
+and this is what we'll do at the end of
+ 
+
+00:02:20.080 --> 00:02:21.670 align:start position:0%
+and this is what we'll do at the end of
+the
+
+00:02:21.670 --> 00:02:21.680 align:start position:0%
+the
+ 
+
+00:02:21.680 --> 00:02:24.869 align:start position:0%
+the
+function<00:02:22.239><c> anyway</c><00:02:22.959><c> and</c><00:02:23.360><c> the</c><00:02:23.599><c> so</c><00:02:23.760><c> the</c><00:02:23.920><c> next</c>
+
+00:02:24.869 --> 00:02:24.879 align:start position:0%
+function anyway and the so the next
+ 
+
+00:02:24.879 --> 00:02:28.550 align:start position:0%
+function anyway and the so the next
+method<00:02:25.200><c> we</c><00:02:25.360><c> need</c><00:02:25.520><c> to</c><00:02:25.599><c> make</c><00:02:25.840><c> is</c><00:02:26.000><c> a</c><00:02:26.080><c> public</c><00:02:26.640><c> bull</c>
+
+00:02:28.550 --> 00:02:28.560 align:start position:0%
+method we need to make is a public bull
+ 
+
+00:02:28.560 --> 00:02:29.510 align:start position:0%
+method we need to make is a public bull
+has
+
+00:02:29.510 --> 00:02:29.520 align:start position:0%
+has
+ 
+
+00:02:29.520 --> 00:02:32.150 align:start position:0%
+has
+free<00:02:30.080><c> slot</c>
+
+00:02:32.150 --> 00:02:32.160 align:start position:0%
+free slot
+ 
+
+00:02:32.160 --> 00:02:34.070 align:start position:0%
+free slot
+and<00:02:32.319><c> this</c><00:02:32.480><c> is</c><00:02:32.560><c> just</c><00:02:32.800><c> going</c><00:02:32.879><c> to</c><00:02:32.959><c> pass</c><00:02:33.280><c> back</c><00:02:33.519><c> out</c>
+
+00:02:34.070 --> 00:02:34.080 align:start position:0%
+and this is just going to pass back out
+ 
+
+00:02:34.080 --> 00:02:36.150 align:start position:0%
+and this is just going to pass back out
+the<00:02:34.239><c> very</c><00:02:34.560><c> first</c><00:02:35.040><c> free</c><00:02:35.280><c> slot</c><00:02:35.599><c> that</c><00:02:35.760><c> it</c><00:02:35.840><c> comes</c>
+
+00:02:36.150 --> 00:02:36.160 align:start position:0%
+the very first free slot that it comes
+ 
+
+00:02:36.160 --> 00:02:39.910 align:start position:0%
+the very first free slot that it comes
+across<00:02:36.560><c> so</c><00:02:37.040><c> uh</c><00:02:37.680><c> out</c><00:02:38.160><c> inventory</c><00:02:38.560><c> slot</c><00:02:39.200><c> free</c>
+
+00:02:39.910 --> 00:02:39.920 align:start position:0%
+across so uh out inventory slot free
+ 
+
+00:02:39.920 --> 00:02:42.229 align:start position:0%
+across so uh out inventory slot free
+slot
+
+00:02:42.229 --> 00:02:42.239 align:start position:0%
+slot
+ 
+
+00:02:42.239 --> 00:02:43.910 align:start position:0%
+slot
+and<00:02:42.319><c> again</c><00:02:42.560><c> if</c><00:02:42.720><c> it</c><00:02:42.800><c> can't</c><00:02:43.040><c> find</c><00:02:43.280><c> a</c><00:02:43.360><c> free</c><00:02:43.599><c> slot</c>
+
+00:02:43.910 --> 00:02:43.920 align:start position:0%
+and again if it can't find a free slot
+ 
+
+00:02:43.920 --> 00:02:46.550 align:start position:0%
+and again if it can't find a free slot
+then<00:02:44.160><c> we'll</c><00:02:44.319><c> just</c><00:02:44.800><c> um</c>
+
+00:02:46.550 --> 00:02:46.560 align:start position:0%
+then we'll just um
+ 
+
+00:02:46.560 --> 00:02:48.630 align:start position:0%
+then we'll just um
+we'll<00:02:47.040><c> null</c><00:02:47.280><c> out</c><00:02:47.519><c> the</c><00:02:47.760><c> inventory</c><00:02:48.239><c> slot</c><00:02:48.560><c> and</c>
+
+00:02:48.630 --> 00:02:48.640 align:start position:0%
+we'll null out the inventory slot and
+ 
+
+00:02:48.640 --> 00:02:51.430 align:start position:0%
+we'll null out the inventory slot and
+we'll<00:02:48.800><c> return</c><00:02:49.680><c> false</c><00:02:50.239><c> and</c><00:02:50.640><c> we'll</c><00:02:51.040><c> implement</c>
+
+00:02:51.430 --> 00:02:51.440 align:start position:0%
+we'll return false and we'll implement
+ 
+
+00:02:51.440 --> 00:02:53.270 align:start position:0%
+we'll return false and we'll implement
+these<00:02:51.680><c> properly</c><00:02:52.080><c> in</c><00:02:52.160><c> just</c><00:02:52.400><c> a</c><00:02:52.480><c> second</c><00:02:52.959><c> let's</c><00:02:53.120><c> go</c>
+
+00:02:53.270 --> 00:02:53.280 align:start position:0%
+these properly in just a second let's go
+ 
+
+00:02:53.280 --> 00:02:55.750 align:start position:0%
+these properly in just a second let's go
+back<00:02:53.519><c> to</c><00:02:53.760><c> our</c><00:02:53.920><c> add</c><00:02:54.160><c> to</c><00:02:54.480><c> inventory</c><00:02:55.120><c> script</c>
+
+00:02:55.750 --> 00:02:55.760 align:start position:0%
+back to our add to inventory script
+ 
+
+00:02:55.760 --> 00:02:57.910 align:start position:0%
+back to our add to inventory script
+we're<00:02:56.000><c> going</c><00:02:56.080><c> to</c><00:02:56.239><c> say</c><00:02:56.560><c> here</c>
+
+00:02:57.910 --> 00:02:57.920 align:start position:0%
+we're going to say here
+ 
+
+00:02:57.920 --> 00:03:00.149 align:start position:0%
+we're going to say here
+if
+
+00:03:00.149 --> 00:03:00.159 align:start position:0%
+if
+ 
+
+00:03:00.159 --> 00:03:02.630 align:start position:0%
+if
+contains<00:03:00.720><c> item</c><00:03:01.680><c> and</c><00:03:01.760><c> we're</c><00:03:01.920><c> going</c><00:03:02.000><c> to</c><00:03:02.080><c> pass</c><00:03:02.400><c> in</c>
+
+00:03:02.630 --> 00:03:02.640 align:start position:0%
+contains item and we're going to pass in
+ 
+
+00:03:02.640 --> 00:03:03.509 align:start position:0%
+contains item and we're going to pass in
+the
+
+00:03:03.509 --> 00:03:03.519 align:start position:0%
+the
+ 
+
+00:03:03.519 --> 00:03:05.509 align:start position:0%
+the
+the<00:03:03.760><c> item</c><00:03:04.239><c> to</c><00:03:04.480><c> add</c>
+
+00:03:05.509 --> 00:03:05.519 align:start position:0%
+the item to add
+ 
+
+00:03:05.519 --> 00:03:08.229 align:start position:0%
+the item to add
+i'm<00:03:05.680><c> going</c><00:03:05.840><c> to</c><00:03:05.920><c> get</c><00:03:06.080><c> back</c><00:03:06.400><c> out</c>
+
+00:03:08.229 --> 00:03:08.239 align:start position:0%
+i'm going to get back out
+ 
+
+00:03:08.239 --> 00:03:10.390 align:start position:0%
+i'm going to get back out
+the<00:03:08.879><c> inventory</c>
+
+00:03:10.390 --> 00:03:10.400 align:start position:0%
+the inventory
+ 
+
+00:03:10.400 --> 00:03:13.509 align:start position:0%
+the inventory
+slot<00:03:11.040><c> that</c><00:03:11.280><c> the</c><00:03:11.440><c> item</c><00:03:11.760><c> is</c><00:03:11.920><c> contained</c><00:03:12.480><c> in</c><00:03:12.879><c> if</c><00:03:13.360><c> if</c>
+
+00:03:13.509 --> 00:03:13.519 align:start position:0%
+slot that the item is contained in if if
+ 
+
+00:03:13.519 --> 00:03:17.990 align:start position:0%
+slot that the item is contained in if if
+it<00:03:13.599><c> does</c><00:03:13.760><c> contain</c><00:03:14.159><c> the</c><00:03:14.319><c> item</c>
+
+00:03:17.990 --> 00:03:18.000 align:start position:0%
+ 
+ 
+
+00:03:18.000 --> 00:03:20.070 align:start position:0%
+ 
+so<00:03:18.239><c> if</c><00:03:18.400><c> it</c><00:03:18.480><c> contains</c><00:03:18.879><c> the</c><00:03:19.040><c> item</c>
+
+00:03:20.070 --> 00:03:20.080 align:start position:0%
+so if it contains the item
+ 
+
+00:03:20.080 --> 00:03:22.710 align:start position:0%
+so if it contains the item
+we're<00:03:20.239><c> going</c><00:03:20.560><c> to</c><00:03:21.040><c> add</c><00:03:21.360><c> to</c><00:03:21.519><c> the</c><00:03:21.680><c> stack</c><00:03:22.239><c> of</c><00:03:22.480><c> that</c>
+
+00:03:22.710 --> 00:03:22.720 align:start position:0%
+we're going to add to the stack of that
+ 
+
+00:03:22.720 --> 00:03:24.869 align:start position:0%
+we're going to add to the stack of that
+slot<00:03:23.120><c> so</c><00:03:23.360><c> add</c><00:03:23.599><c> to</c><00:03:23.760><c> stack</c>
+
+00:03:24.869 --> 00:03:24.879 align:start position:0%
+slot so add to stack
+ 
+
+00:03:24.879 --> 00:03:29.110 align:start position:0%
+slot so add to stack
+uh<00:03:25.280><c> amount</c>
+
+00:03:29.110 --> 00:03:29.120 align:start position:0%
+ 
+ 
+
+00:03:29.120 --> 00:03:31.430 align:start position:0%
+ 
+well<00:03:29.519><c> amount</c><00:03:29.920><c> to</c><00:03:30.159><c> add</c><00:03:30.480><c> i've</c><00:03:30.640><c> called</c><00:03:30.959><c> it</c><00:03:31.200><c> so</c>
+
+00:03:31.430 --> 00:03:31.440 align:start position:0%
+well amount to add i've called it so
+ 
+
+00:03:31.440 --> 00:03:33.110 align:start position:0%
+well amount to add i've called it so
+amount<00:03:31.680><c> to</c><00:03:31.920><c> add</c>
+
+00:03:33.110 --> 00:03:33.120 align:start position:0%
+amount to add
+ 
+
+00:03:33.120 --> 00:03:34.550 align:start position:0%
+amount to add
+and<00:03:33.200><c> then</c><00:03:33.360><c> we're</c><00:03:33.440><c> going</c><00:03:33.519><c> to</c><00:03:33.680><c> say</c><00:03:33.920><c> hey</c><00:03:34.239><c> the</c>
+
+00:03:34.550 --> 00:03:34.560 align:start position:0%
+and then we're going to say hey the
+ 
+
+00:03:34.560 --> 00:03:37.509 align:start position:0%
+and then we're going to say hey the
+inventory<00:03:35.680><c> slot</c><00:03:36.159><c> has</c><00:03:36.400><c> been</c><00:03:36.640><c> changed</c><00:03:37.040><c> so</c><00:03:37.280><c> on</c>
+
+00:03:37.509 --> 00:03:37.519 align:start position:0%
+inventory slot has been changed so on
+ 
+
+00:03:37.519 --> 00:03:39.910 align:start position:0%
+inventory slot has been changed so on
+inventory<00:03:38.000><c> slot</c><00:03:38.400><c> changed</c>
+
+00:03:39.910 --> 00:03:39.920 align:start position:0%
+inventory slot changed
+ 
+
+00:03:39.920 --> 00:03:42.309 align:start position:0%
+inventory slot changed
+and<00:03:40.239><c> we're</c><00:03:40.400><c> going</c><00:03:40.480><c> to</c><00:03:40.560><c> say</c><00:03:40.799><c> if</c><00:03:40.879><c> that's</c>
+
+00:03:42.309 --> 00:03:42.319 align:start position:0%
+and we're going to say if that's
+ 
+
+00:03:42.319 --> 00:03:44.149 align:start position:0%
+and we're going to say if that's
+if<00:03:42.480><c> that's</c><00:03:42.879><c> been</c><00:03:43.280><c> subscribed</c><00:03:43.760><c> to</c><00:03:43.920><c> if</c><00:03:44.000><c> there's</c>
+
+00:03:44.149 --> 00:03:44.159 align:start position:0%
+if that's been subscribed to if there's
+ 
+
+00:03:44.159 --> 00:03:46.550 align:start position:0%
+if that's been subscribed to if there's
+listeners<00:03:44.640><c> of</c><00:03:44.799><c> that</c><00:03:44.959><c> event</c><00:03:45.840><c> if</c>
+
+00:03:46.550 --> 00:03:46.560 align:start position:0%
+listeners of that event if
+ 
+
+00:03:46.560 --> 00:03:48.309 align:start position:0%
+listeners of that event if
+if<00:03:46.799><c> it's</c><00:03:46.879><c> not</c><00:03:47.120><c> null</c><00:03:47.599><c> then</c>
+
+00:03:48.309 --> 00:03:48.319 align:start position:0%
+if it's not null then
+ 
+
+00:03:48.319 --> 00:03:50.309 align:start position:0%
+if it's not null then
+invoke<00:03:48.640><c> it</c><00:03:48.879><c> and</c><00:03:48.959><c> pass</c><00:03:49.280><c> through</c><00:03:49.519><c> the</c><00:03:49.760><c> inventory</c>
+
+00:03:50.309 --> 00:03:50.319 align:start position:0%
+invoke it and pass through the inventory
+ 
+
+00:03:50.319 --> 00:03:52.550 align:start position:0%
+invoke it and pass through the inventory
+slot<00:03:50.640><c> that</c><00:03:50.799><c> has</c><00:03:50.959><c> changed</c>
+
+00:03:52.550 --> 00:03:52.560 align:start position:0%
+slot that has changed
+ 
+
+00:03:52.560 --> 00:03:55.270 align:start position:0%
+slot that has changed
+and<00:03:52.720><c> then</c><00:03:52.959><c> in</c><00:03:53.120><c> our</c><00:03:53.360><c> ui</c><00:03:53.920><c> we</c><00:03:54.080><c> can</c><00:03:54.319><c> find</c><00:03:54.640><c> the</c>
+
+00:03:55.270 --> 00:03:55.280 align:start position:0%
+and then in our ui we can find the
+ 
+
+00:03:55.280 --> 00:03:59.190 align:start position:0%
+and then in our ui we can find the
+corresponding<00:03:56.480><c> actual</c><00:03:57.040><c> like</c><00:03:57.599><c> square</c><00:03:58.480><c> slot</c><00:03:59.040><c> of</c>
+
+00:03:59.190 --> 00:03:59.200 align:start position:0%
+corresponding actual like square slot of
+ 
+
+00:03:59.200 --> 00:04:01.509 align:start position:0%
+corresponding actual like square slot of
+the<00:03:59.360><c> ui</c><00:03:59.840><c> and</c><00:03:59.920><c> we</c><00:04:00.080><c> can</c><00:04:00.159><c> update</c><00:04:00.560><c> just</c><00:04:00.799><c> that</c><00:04:00.959><c> slot</c>
+
+00:04:01.509 --> 00:04:01.519 align:start position:0%
+the ui and we can update just that slot
+ 
+
+00:04:01.519 --> 00:04:03.910 align:start position:0%
+the ui and we can update just that slot
+and<00:04:01.599><c> then</c><00:04:01.760><c> we</c><00:04:01.840><c> just</c><00:04:02.000><c> want</c><00:04:02.080><c> to</c><00:04:02.159><c> return</c><00:04:02.959><c> true</c><00:04:03.599><c> now</c>
+
+00:04:03.910 --> 00:04:03.920 align:start position:0%
+and then we just want to return true now
+ 
+
+00:04:03.920 --> 00:04:05.750 align:start position:0%
+and then we just want to return true now
+if<00:04:04.080><c> it</c><00:04:04.159><c> doesn't</c><00:04:04.560><c> contain</c>
+
+00:04:05.750 --> 00:04:05.760 align:start position:0%
+if it doesn't contain
+ 
+
+00:04:05.760 --> 00:04:07.030 align:start position:0%
+if it doesn't contain
+the<00:04:05.920><c> item</c>
+
+00:04:07.030 --> 00:04:07.040 align:start position:0%
+the item
+ 
+
+00:04:07.040 --> 00:04:08.710 align:start position:0%
+the item
+we're<00:04:07.200><c> going</c><00:04:07.280><c> to</c><00:04:07.360><c> want</c><00:04:07.599><c> to</c><00:04:07.760><c> check</c><00:04:08.239><c> whether</c>
+
+00:04:08.710 --> 00:04:08.720 align:start position:0%
+we're going to want to check whether
+ 
+
+00:04:08.720 --> 00:04:11.509 align:start position:0%
+we're going to want to check whether
+it's<00:04:08.879><c> got</c><00:04:09.120><c> a</c><00:04:09.200><c> free</c><00:04:09.439><c> slot</c><00:04:09.760><c> so</c><00:04:10.080><c> else</c><00:04:10.480><c> if</c>
+
+00:04:11.509 --> 00:04:11.519 align:start position:0%
+it's got a free slot so else if
+ 
+
+00:04:11.519 --> 00:04:19.749 align:start position:0%
+it's got a free slot so else if
+has<00:04:12.239><c> free</c><00:04:12.799><c> slot</c>
+
+00:04:19.749 --> 00:04:19.759 align:start position:0%
+ 
+ 
+
+00:04:19.759 --> 00:04:21.430 align:start position:0%
+ 
+and<00:04:20.000><c> it's</c><00:04:20.160><c> going</c><00:04:20.239><c> to</c><00:04:20.320><c> pass</c><00:04:20.560><c> back</c><00:04:20.880><c> out</c><00:04:21.199><c> an</c>
+
+00:04:21.430 --> 00:04:21.440 align:start position:0%
+and it's going to pass back out an
+ 
+
+00:04:21.440 --> 00:04:23.510 align:start position:0%
+and it's going to pass back out an
+inventory
+
+00:04:23.510 --> 00:04:23.520 align:start position:0%
+inventory
+ 
+
+00:04:23.520 --> 00:04:25.909 align:start position:0%
+inventory
+slot
+
+00:04:25.909 --> 00:04:25.919 align:start position:0%
+slot
+ 
+
+00:04:25.919 --> 00:04:32.950 align:start position:0%
+slot
+which<00:04:26.160><c> will</c><00:04:26.320><c> be</c><00:04:26.560><c> our</c><00:04:27.040><c> free</c><00:04:27.600><c> slot</c>
+
+00:04:32.950 --> 00:04:32.960 align:start position:0%
+ 
+ 
+
+00:04:32.960 --> 00:04:34.310 align:start position:0%
+ 
+so<00:04:33.120><c> i'm</c><00:04:33.199><c> just</c><00:04:33.360><c> going</c><00:04:33.360><c> to</c><00:04:33.440><c> put</c><00:04:33.600><c> a</c><00:04:33.680><c> note</c><00:04:33.840><c> here</c><00:04:34.080><c> so</c>
+
+00:04:34.310 --> 00:04:34.320 align:start position:0%
+so i'm just going to put a note here so
+ 
+
+00:04:34.320 --> 00:04:36.469 align:start position:0%
+so i'm just going to put a note here so
+check<00:04:34.960><c> whether</c>
+
+00:04:36.469 --> 00:04:36.479 align:start position:0%
+check whether
+ 
+
+00:04:36.479 --> 00:04:39.350 align:start position:0%
+check whether
+item<00:04:37.040><c> exists</c>
+
+00:04:39.350 --> 00:04:39.360 align:start position:0%
+item exists
+ 
+
+00:04:39.360 --> 00:04:46.150 align:start position:0%
+item exists
+in<00:04:39.759><c> inventory</c>
+
+00:04:46.150 --> 00:04:46.160 align:start position:0%
+ 
+ 
+
+00:04:46.160 --> 00:04:48.870 align:start position:0%
+ 
+gets<00:04:46.960><c> the</c><00:04:47.520><c> first</c>
+
+00:04:48.870 --> 00:04:48.880 align:start position:0%
+gets the first
+ 
+
+00:04:48.880 --> 00:04:51.270 align:start position:0%
+gets the first
+available
+
+00:04:51.270 --> 00:04:51.280 align:start position:0%
+available
+ 
+
+00:04:51.280 --> 00:04:56.469 align:start position:0%
+available
+slot
+
+00:04:56.469 --> 00:04:56.479 align:start position:0%
+ 
+ 
+
+00:04:56.479 --> 00:05:02.150 align:start position:0%
+ 
+so<00:04:56.720><c> here</c><00:04:56.880><c> we</c><00:04:57.040><c> can</c><00:04:57.120><c> say</c><00:04:57.440><c> free</c><00:04:57.680><c> slot</c>
+
+00:05:02.150 --> 00:05:02.160 align:start position:0%
+ 
+ 
+
+00:05:02.160 --> 00:05:06.070 align:start position:0%
+ 
+is<00:05:02.560><c> equal</c><00:05:03.039><c> to</c><00:05:03.600><c> new</c><00:05:04.400><c> slot</c><00:05:05.039><c> inventory</c><00:05:05.680><c> slot</c><00:05:06.000><c> and</c>
+
+00:05:06.070 --> 00:05:06.080 align:start position:0%
+is equal to new slot inventory slot and
+ 
+
+00:05:06.080 --> 00:05:07.670 align:start position:0%
+is equal to new slot inventory slot and
+then<00:05:06.160><c> we</c><00:05:06.320><c> can</c><00:05:06.479><c> pass</c><00:05:06.800><c> in</c>
+
+00:05:07.670 --> 00:05:07.680 align:start position:0%
+then we can pass in
+ 
+
+00:05:07.680 --> 00:05:08.710 align:start position:0%
+then we can pass in
+the
+
+00:05:08.710 --> 00:05:08.720 align:start position:0%
+the
+ 
+
+00:05:08.720 --> 00:05:12.390 align:start position:0%
+the
+item<00:05:09.280><c> to</c><00:05:09.600><c> add</c><00:05:10.320><c> and</c><00:05:10.720><c> the</c><00:05:10.880><c> amount</c><00:05:11.440><c> to</c><00:05:11.840><c> add</c><00:05:12.240><c> as</c>
+
+00:05:12.390 --> 00:05:12.400 align:start position:0%
+item to add and the amount to add as
+ 
+
+00:05:12.400 --> 00:05:14.469 align:start position:0%
+item to add and the amount to add as
+well
+
+00:05:14.469 --> 00:05:14.479 align:start position:0%
+well
+ 
+
+00:05:14.479 --> 00:05:16.310 align:start position:0%
+well
+and<00:05:14.560><c> then</c><00:05:14.720><c> we</c><00:05:14.800><c> could</c><00:05:14.960><c> just</c><00:05:15.120><c> say</c><00:05:15.440><c> on</c><00:05:15.759><c> inventory</c>
+
+00:05:16.310 --> 00:05:16.320 align:start position:0%
+and then we could just say on inventory
+ 
+
+00:05:16.320 --> 00:05:18.950 align:start position:0%
+and then we could just say on inventory
+slot<00:05:16.720><c> changed</c>
+
+00:05:18.950 --> 00:05:18.960 align:start position:0%
+slot changed
+ 
+
+00:05:18.960 --> 00:05:21.430 align:start position:0%
+slot changed
+dot<00:05:19.360><c> invoke</c>
+
+00:05:21.430 --> 00:05:21.440 align:start position:0%
+dot invoke
+ 
+
+00:05:21.440 --> 00:05:22.830 align:start position:0%
+dot invoke
+pass<00:05:21.759><c> in</c><00:05:21.919><c> our</c>
+
+00:05:22.830 --> 00:05:22.840 align:start position:0%
+pass in our
+ 
+
+00:05:22.840 --> 00:05:24.629 align:start position:0%
+pass in our
+free
+
+00:05:24.629 --> 00:05:24.639 align:start position:0%
+free
+ 
+
+00:05:24.639 --> 00:05:26.629 align:start position:0%
+free
+slot
+
+00:05:26.629 --> 00:05:26.639 align:start position:0%
+slot
+ 
+
+00:05:26.639 --> 00:05:29.270 align:start position:0%
+slot
+and<00:05:26.800><c> actually</c><00:05:27.120><c> so</c><00:05:27.360><c> instead</c><00:05:27.600><c> of</c><00:05:27.759><c> making</c><00:05:28.479><c> a</c><00:05:28.960><c> new</c>
+
+00:05:29.270 --> 00:05:29.280 align:start position:0%
+and actually so instead of making a new
+ 
+
+00:05:29.280 --> 00:05:30.950 align:start position:0%
+and actually so instead of making a new
+slot<00:05:29.600><c> here</c><00:05:29.759><c> which</c><00:05:30.000><c> we</c><00:05:30.160><c> can</c><00:05:30.240><c> just</c><00:05:30.400><c> manipulate</c>
+
+00:05:30.950 --> 00:05:30.960 align:start position:0%
+slot here which we can just manipulate
+ 
+
+00:05:30.960 --> 00:05:33.430 align:start position:0%
+slot here which we can just manipulate
+the<00:05:31.120><c> free</c><00:05:31.440><c> slot</c><00:05:32.160><c> itself</c><00:05:32.720><c> directly</c><00:05:33.199><c> so</c><00:05:33.280><c> let's</c>
+
+00:05:33.430 --> 00:05:33.440 align:start position:0%
+the free slot itself directly so let's
+ 
+
+00:05:33.440 --> 00:05:36.390 align:start position:0%
+the free slot itself directly so let's
+go<00:05:33.600><c> over</c><00:05:33.840><c> to</c><00:05:34.080><c> our</c><00:05:34.880><c> inventory</c><00:05:35.440><c> slot</c>
+
+00:05:36.390 --> 00:05:36.400 align:start position:0%
+go over to our inventory slot
+ 
+
+00:05:36.400 --> 00:05:43.029 align:start position:0%
+go over to our inventory slot
+and<00:05:36.479><c> let's</c><00:05:36.720><c> actually</c><00:05:37.120><c> make</c><00:05:37.440><c> a</c><00:05:37.919><c> public</c><00:05:38.800><c> void</c>
+
+00:05:43.029 --> 00:05:43.039 align:start position:0%
+ 
+ 
+
+00:05:43.039 --> 00:05:45.909 align:start position:0%
+ 
+update<00:05:43.759><c> inventory</c><00:05:44.720><c> slot</c><00:05:45.120><c> and</c><00:05:45.199><c> this</c><00:05:45.440><c> can</c><00:05:45.600><c> take</c>
+
+00:05:45.909 --> 00:05:45.919 align:start position:0%
+update inventory slot and this can take
+ 
+
+00:05:45.919 --> 00:05:48.550 align:start position:0%
+update inventory slot and this can take
+in<00:05:46.400><c> an</c><00:05:46.639><c> inventory</c>
+
+00:05:48.550 --> 00:05:48.560 align:start position:0%
+in an inventory
+ 
+
+00:05:48.560 --> 00:05:50.830 align:start position:0%
+in an inventory
+item<00:05:49.039><c> data</c><00:05:49.600><c> called</c>
+
+00:05:50.830 --> 00:05:50.840 align:start position:0%
+item data called
+ 
+
+00:05:50.840 --> 00:05:57.430 align:start position:0%
+item data called
+data<00:05:51.840><c> and</c><00:05:52.160><c> an</c><00:05:52.400><c> amount</c>
+
+00:05:57.430 --> 00:05:57.440 align:start position:0%
+ 
+ 
+
+00:05:57.440 --> 00:05:59.430 align:start position:0%
+ 
+here<00:05:57.600><c> we</c><00:05:57.680><c> can</c><00:05:57.759><c> just</c><00:05:57.919><c> say</c><00:05:58.160><c> item</c><00:05:58.479><c> data</c><00:05:58.960><c> is</c><00:05:59.120><c> equal</c>
+
+00:05:59.430 --> 00:05:59.440 align:start position:0%
+here we can just say item data is equal
+ 
+
+00:05:59.440 --> 00:06:01.029 align:start position:0%
+here we can just say item data is equal
+to<00:05:59.759><c> data</c>
+
+00:06:01.029 --> 00:06:01.039 align:start position:0%
+to data
+ 
+
+00:06:01.039 --> 00:06:04.629 align:start position:0%
+to data
+and<00:06:01.600><c> stack</c><00:06:02.080><c> size</c>
+
+00:06:04.629 --> 00:06:04.639 align:start position:0%
+ 
+ 
+
+00:06:04.639 --> 00:06:09.189 align:start position:0%
+ 
+is<00:06:05.039><c> equal</c><00:06:05.600><c> to</c><00:06:06.080><c> amount</c><00:06:06.560><c> so</c><00:06:06.880><c> that</c><00:06:07.120><c> way</c>
+
+00:06:09.189 --> 00:06:09.199 align:start position:0%
+is equal to amount so that way
+ 
+
+00:06:09.199 --> 00:06:10.950 align:start position:0%
+is equal to amount so that way
+we<00:06:09.360><c> don't</c><00:06:09.520><c> have</c><00:06:09.759><c> to</c>
+
+00:06:10.950 --> 00:06:10.960 align:start position:0%
+we don't have to
+ 
+
+00:06:10.960 --> 00:06:12.870 align:start position:0%
+we don't have to
+destroy<00:06:11.440><c> and</c><00:06:11.520><c> make</c><00:06:11.759><c> a</c><00:06:11.840><c> new</c><00:06:12.000><c> inventory</c><00:06:12.400><c> slot</c><00:06:12.720><c> we</c>
+
+00:06:12.870 --> 00:06:12.880 align:start position:0%
+destroy and make a new inventory slot we
+ 
+
+00:06:12.880 --> 00:06:14.710 align:start position:0%
+destroy and make a new inventory slot we
+can<00:06:13.039><c> just</c>
+
+00:06:14.710 --> 00:06:14.720 align:start position:0%
+can just
+ 
+
+00:06:14.720 --> 00:06:17.430 align:start position:0%
+can just
+call<00:06:14.960><c> free</c><00:06:15.199><c> slot</c><00:06:15.600><c> dot</c><00:06:15.919><c> update</c><00:06:16.400><c> inventory</c><00:06:16.960><c> slot</c>
+
+00:06:17.430 --> 00:06:17.440 align:start position:0%
+call free slot dot update inventory slot
+ 
+
+00:06:17.440 --> 00:06:20.550 align:start position:0%
+call free slot dot update inventory slot
+and<00:06:17.520><c> we</c><00:06:17.680><c> can</c><00:06:17.840><c> pass</c><00:06:18.160><c> in</c><00:06:18.479><c> the</c><00:06:18.800><c> item</c><00:06:19.280><c> to</c><00:06:19.520><c> add</c>
+
+00:06:20.550 --> 00:06:20.560 align:start position:0%
+and we can pass in the item to add
+ 
+
+00:06:20.560 --> 00:06:24.390 align:start position:0%
+and we can pass in the item to add
+and<00:06:20.800><c> the</c><00:06:20.960><c> amount</c><00:06:21.360><c> to</c><00:06:21.520><c> add</c><00:06:21.759><c> as</c><00:06:21.840><c> well</c>
+
+00:06:24.390 --> 00:06:24.400 align:start position:0%
+ 
+ 
+
+00:06:24.400 --> 00:06:26.950 align:start position:0%
+ 
+then<00:06:24.560><c> again</c><00:06:24.960><c> we</c><00:06:25.199><c> can</c><00:06:25.840><c> check</c><00:06:26.160><c> whether</c><00:06:26.560><c> our</c>
+
+00:06:26.950 --> 00:06:26.960 align:start position:0%
+then again we can check whether our
+ 
+
+00:06:26.960 --> 00:06:29.510 align:start position:0%
+then again we can check whether our
+inventory<00:06:27.440><c> slot</c><00:06:28.000><c> changed</c><00:06:28.880><c> event</c><00:06:29.280><c> has</c>
+
+00:06:29.510 --> 00:06:29.520 align:start position:0%
+inventory slot changed event has
+ 
+
+00:06:29.520 --> 00:06:31.029 align:start position:0%
+inventory slot changed event has
+anything<00:06:29.919><c> subscribed</c><00:06:30.319><c> to</c><00:06:30.479><c> it</c><00:06:30.560><c> and</c><00:06:30.639><c> if</c><00:06:30.800><c> it</c><00:06:30.880><c> does</c>
+
+00:06:31.029 --> 00:06:31.039 align:start position:0%
+anything subscribed to it and if it does
+ 
+
+00:06:31.039 --> 00:06:32.870 align:start position:0%
+anything subscribed to it and if it does
+we<00:06:31.199><c> can</c><00:06:31.360><c> invoke</c><00:06:31.840><c> that</c><00:06:32.000><c> event</c>
+
+00:06:32.870 --> 00:06:32.880 align:start position:0%
+we can invoke that event
+ 
+
+00:06:32.880 --> 00:06:35.029 align:start position:0%
+we can invoke that event
+and<00:06:33.120><c> we</c><00:06:33.199><c> can</c><00:06:33.360><c> just</c><00:06:33.520><c> return</c><00:06:34.000><c> true</c><00:06:34.400><c> because</c>
+
+00:06:35.029 --> 00:06:35.039 align:start position:0%
+and we can just return true because
+ 
+
+00:06:35.039 --> 00:06:37.350 align:start position:0%
+and we can just return true because
+again<00:06:35.440><c> we</c><00:06:35.600><c> were</c><00:06:35.759><c> successful</c><00:06:36.639><c> adding</c><00:06:37.039><c> it</c><00:06:37.120><c> to</c>
+
+00:06:37.350 --> 00:06:37.360 align:start position:0%
+again we were successful adding it to
+ 
+
+00:06:37.360 --> 00:06:40.710 align:start position:0%
+again we were successful adding it to
+our<00:06:37.600><c> inventory</c><00:06:38.720><c> and</c><00:06:38.880><c> then</c><00:06:39.520><c> if</c>
+
+00:06:40.710 --> 00:06:40.720 align:start position:0%
+our inventory and then if
+ 
+
+00:06:40.720 --> 00:06:42.870 align:start position:0%
+our inventory and then if
+we<00:06:40.960><c> it</c><00:06:41.120><c> doesn't</c><00:06:41.280><c> contain</c><00:06:41.680><c> the</c><00:06:41.759><c> item</c><00:06:42.240><c> and</c><00:06:42.800><c> it</c>
+
+00:06:42.870 --> 00:06:42.880 align:start position:0%
+we it doesn't contain the item and it
+ 
+
+00:06:42.880 --> 00:06:44.790 align:start position:0%
+we it doesn't contain the item and it
+doesn't<00:06:43.120><c> have</c><00:06:43.280><c> a</c><00:06:43.360><c> free</c><00:06:43.600><c> slot</c><00:06:44.080><c> then</c><00:06:44.400><c> we</c><00:06:44.560><c> just</c>
+
+00:06:44.790 --> 00:06:44.800 align:start position:0%
+doesn't have a free slot then we just
+ 
+
+00:06:44.800 --> 00:06:46.830 align:start position:0%
+doesn't have a free slot then we just
+return
+
+00:06:46.830 --> 00:06:46.840 align:start position:0%
+return
+ 
+
+00:06:46.840 --> 00:06:49.830 align:start position:0%
+return
+false<00:06:47.840><c> and</c><00:06:48.080><c> actually</c><00:06:48.400><c> after</c><00:06:48.639><c> we</c><00:06:49.280><c> so</c><00:06:49.440><c> if</c><00:06:49.599><c> we</c><00:06:49.680><c> go</c>
+
+00:06:49.830 --> 00:06:49.840 align:start position:0%
+false and actually after we so if we go
+ 
+
+00:06:49.840 --> 00:06:51.510 align:start position:0%
+false and actually after we so if we go
+back<00:06:50.000><c> to</c><00:06:50.160><c> our</c><00:06:50.240><c> contains</c><00:06:50.720><c> item</c><00:06:51.039><c> script</c><00:06:51.440><c> we</c>
+
+00:06:51.510 --> 00:06:51.520 align:start position:0%
+back to our contains item script we
+ 
+
+00:06:51.520 --> 00:06:55.510 align:start position:0%
+back to our contains item script we
+don't<00:06:51.680><c> want</c><00:06:51.759><c> to</c><00:06:51.840><c> just</c><00:06:52.160><c> get</c><00:06:52.639><c> the</c><00:06:53.360><c> um</c><00:06:54.160><c> slot</c>
+
+00:06:55.510 --> 00:06:55.520 align:start position:0%
+don't want to just get the um slot
+ 
+
+00:06:55.520 --> 00:06:56.870 align:start position:0%
+don't want to just get the um slot
+that<00:06:55.919><c> um</c>
+
+00:06:56.870 --> 00:06:56.880 align:start position:0%
+that um
+ 
+
+00:06:56.880 --> 00:06:58.629 align:start position:0%
+that um
+has<00:06:57.120><c> the</c><00:06:57.280><c> item</c><00:06:57.599><c> we</c><00:06:57.680><c> want</c><00:06:57.840><c> to</c><00:06:57.919><c> get</c><00:06:58.000><c> a</c><00:06:58.160><c> list</c><00:06:58.400><c> of</c>
+
+00:06:58.629 --> 00:06:58.639 align:start position:0%
+has the item we want to get a list of
+ 
+
+00:06:58.639 --> 00:06:59.830 align:start position:0%
+has the item we want to get a list of
+slots
+
+00:06:59.830 --> 00:06:59.840 align:start position:0%
+slots
+ 
+
+00:06:59.840 --> 00:07:01.990 align:start position:0%
+slots
+so<00:07:00.000><c> we</c><00:07:00.080><c> just</c><00:07:00.240><c> want</c><00:07:00.319><c> to</c><00:07:00.400><c> type</c><00:07:00.639><c> in</c><00:07:00.960><c> uh</c><00:07:01.360><c> list</c><00:07:01.919><c> and</c>
+
+00:07:01.990 --> 00:07:02.000 align:start position:0%
+so we just want to type in uh list and
+ 
+
+00:07:02.000 --> 00:07:03.749 align:start position:0%
+so we just want to type in uh list and
+then<00:07:02.400><c> we're</c><00:07:02.639><c> going</c><00:07:02.800><c> to</c><00:07:02.880><c> get</c><00:07:03.039><c> back</c><00:07:03.360><c> out</c><00:07:03.520><c> and</c>
+
+00:07:03.749 --> 00:07:03.759 align:start position:0%
+then we're going to get back out and
+ 
+
+00:07:03.759 --> 00:07:06.309 align:start position:0%
+then we're going to get back out and
+inventory<00:07:04.160><c> slot</c><00:07:04.560><c> list</c>
+
+00:07:06.309 --> 00:07:06.319 align:start position:0%
+inventory slot list
+ 
+
+00:07:06.319 --> 00:07:09.749 align:start position:0%
+inventory slot list
+i'm<00:07:06.560><c> going</c><00:07:06.639><c> to</c><00:07:06.720><c> copy</c><00:07:07.039><c> this</c><00:07:07.440><c> i'm</c><00:07:07.599><c> just</c><00:07:07.759><c> going</c><00:07:07.840><c> to</c>
+
+00:07:09.749 --> 00:07:09.759 align:start position:0%
+i'm going to copy this i'm just going to
+ 
+
+00:07:09.759 --> 00:07:11.430 align:start position:0%
+i'm going to copy this i'm just going to
+put<00:07:09.919><c> that</c><00:07:10.160><c> here</c><00:07:10.479><c> as</c><00:07:10.639><c> well</c>
+
+00:07:11.430 --> 00:07:11.440 align:start position:0%
+put that here as well
+ 
+
+00:07:11.440 --> 00:07:14.390 align:start position:0%
+put that here as well
+because<00:07:11.840><c> in</c><00:07:12.000><c> this</c><00:07:12.560><c> contains</c><00:07:13.120><c> item</c><00:07:13.599><c> method</c><00:07:14.160><c> i'm</c>
+
+00:07:14.390 --> 00:07:14.400 align:start position:0%
+because in this contains item method i'm
+ 
+
+00:07:14.400 --> 00:07:16.550 align:start position:0%
+because in this contains item method i'm
+actually<00:07:14.639><c> going</c><00:07:14.720><c> to</c><00:07:14.880><c> use</c><00:07:15.199><c> a</c><00:07:15.680><c> link</c><00:07:16.000><c> function</c><00:07:16.400><c> so</c>
+
+00:07:16.550 --> 00:07:16.560 align:start position:0%
+actually going to use a link function so
+ 
+
+00:07:16.560 --> 00:07:19.270 align:start position:0%
+actually going to use a link function so
+we're<00:07:16.720><c> going</c><00:07:16.800><c> to</c><00:07:16.880><c> say</c><00:07:17.039><c> that</c><00:07:17.360><c> in</c><00:07:17.680><c> slot</c><00:07:18.319><c> is</c><00:07:18.479><c> equal</c>
+
+00:07:19.270 --> 00:07:19.280 align:start position:0%
+we're going to say that in slot is equal
+ 
+
+00:07:19.280 --> 00:07:20.150 align:start position:0%
+we're going to say that in slot is equal
+to
+
+00:07:20.150 --> 00:07:20.160 align:start position:0%
+to
+ 
+
+00:07:20.160 --> 00:07:24.230 align:start position:0%
+to
+inventory
+
+00:07:24.230 --> 00:07:24.240 align:start position:0%
+ 
+ 
+
+00:07:24.240 --> 00:07:25.909 align:start position:0%
+ 
+slots
+
+00:07:25.909 --> 00:07:25.919 align:start position:0%
+slots
+ 
+
+00:07:25.919 --> 00:07:28.230 align:start position:0%
+slots
+where
+
+00:07:28.230 --> 00:07:28.240 align:start position:0%
+where
+ 
+
+00:07:28.240 --> 00:07:29.589 align:start position:0%
+where
+and<00:07:28.400><c> we'll</c><00:07:28.560><c> open</c><00:07:28.800><c> up</c><00:07:28.880><c> some</c><00:07:29.039><c> brackets</c><00:07:29.520><c> and</c>
+
+00:07:29.589 --> 00:07:29.599 align:start position:0%
+and we'll open up some brackets and
+ 
+
+00:07:29.599 --> 00:07:30.390 align:start position:0%
+and we'll open up some brackets and
+we'll<00:07:29.680><c> say</c>
+
+00:07:30.390 --> 00:07:30.400 align:start position:0%
+we'll say
+ 
+
+00:07:30.400 --> 00:07:33.430 align:start position:0%
+we'll say
+i<00:07:31.039><c> so</c><00:07:31.360><c> for</c><00:07:31.599><c> item</c>
+
+00:07:33.430 --> 00:07:33.440 align:start position:0%
+i so for item
+ 
+
+00:07:33.440 --> 00:07:37.270 align:start position:0%
+i so for item
+i<00:07:33.759><c> dot</c><00:07:34.000><c> data</c>
+
+00:07:37.270 --> 00:07:37.280 align:start position:0%
+ 
+ 
+
+00:07:37.280 --> 00:07:40.710 align:start position:0%
+ 
+is<00:07:37.520><c> equal</c><00:07:38.240><c> to</c><00:07:38.639><c> our</c><00:07:39.039><c> item</c><00:07:39.520><c> to</c><00:07:39.759><c> add</c>
+
+00:07:40.710 --> 00:07:40.720 align:start position:0%
+is equal to our item to add
+ 
+
+00:07:40.720 --> 00:07:45.189 align:start position:0%
+is equal to our item to add
+and<00:07:40.800><c> then</c><00:07:41.120><c> we</c><00:07:41.280><c> can</c><00:07:41.520><c> send</c><00:07:41.840><c> that</c><00:07:42.400><c> to</c><00:07:42.639><c> a</c><00:07:42.800><c> list</c>
+
+00:07:45.189 --> 00:07:45.199 align:start position:0%
+and then we can send that to a list
+ 
+
+00:07:45.199 --> 00:07:48.309 align:start position:0%
+and then we can send that to a list
+so<00:07:45.360><c> if</c><00:07:45.520><c> you</c><00:07:45.599><c> haven't</c><00:07:45.840><c> used</c><00:07:46.400><c> um</c>
+
+00:07:48.309 --> 00:07:48.319 align:start position:0%
+so if you haven't used um
+ 
+
+00:07:48.319 --> 00:07:52.230 align:start position:0%
+so if you haven't used um
+the<00:07:48.720><c> system.link</c><00:07:49.680><c> namespace</c><00:07:50.479><c> before</c>
+
+00:07:52.230 --> 00:07:52.240 align:start position:0%
+the system.link namespace before
+ 
+
+00:07:52.240 --> 00:07:53.909 align:start position:0%
+the system.link namespace before
+there's<00:07:52.400><c> a</c><00:07:52.479><c> lot</c><00:07:52.639><c> of</c><00:07:52.720><c> helpful</c><00:07:53.280><c> stuff</c><00:07:53.599><c> you</c><00:07:53.680><c> can</c>
+
+00:07:53.909 --> 00:07:53.919 align:start position:0%
+there's a lot of helpful stuff you can
+ 
+
+00:07:53.919 --> 00:07:57.350 align:start position:0%
+there's a lot of helpful stuff you can
+do<00:07:54.240><c> in</c><00:07:54.720><c> inventory</c><00:07:55.280><c> slots</c><00:07:56.240><c> with</c><00:07:56.560><c> system.link</c>
+
+00:07:57.350 --> 00:07:57.360 align:start position:0%
+do in inventory slots with system.link
+ 
+
+00:07:57.360 --> 00:07:59.350 align:start position:0%
+do in inventory slots with system.link
+so<00:07:57.520><c> for</c><00:07:57.680><c> example</c><00:07:58.240><c> we</c><00:07:58.319><c> could</c><00:07:58.479><c> get</c><00:07:58.800><c> inventory</c>
+
+00:07:59.350 --> 00:07:59.360 align:start position:0%
+so for example we could get inventory
+ 
+
+00:07:59.360 --> 00:08:01.510 align:start position:0%
+so for example we could get inventory
+slots<00:08:00.160><c> first</c>
+
+00:08:01.510 --> 00:08:01.520 align:start position:0%
+slots first
+ 
+
+00:08:01.520 --> 00:08:04.150 align:start position:0%
+slots first
+and<00:08:01.680><c> we</c><00:08:01.759><c> could</c><00:08:01.919><c> save</c><00:08:02.160><c> the</c><00:08:02.400><c> first</c>
+
+00:08:04.150 --> 00:08:04.160 align:start position:0%
+and we could save the first
+ 
+
+00:08:04.160 --> 00:08:05.749 align:start position:0%
+and we could save the first
+slot
+
+00:08:05.749 --> 00:08:05.759 align:start position:0%
+slot
+ 
+
+00:08:05.759 --> 00:08:07.909 align:start position:0%
+slot
+so<00:08:06.160><c> i</c><00:08:06.400><c> could</c><00:08:06.560><c> be</c><00:08:06.720><c> anything</c><00:08:07.120><c> so</c><00:08:07.280><c> we</c><00:08:07.440><c> could</c><00:08:07.680><c> we</c>
+
+00:08:07.909 --> 00:08:07.919 align:start position:0%
+so i could be anything so we could we
+ 
+
+00:08:07.919 --> 00:08:10.230 align:start position:0%
+so i could be anything so we could we
+could<00:08:08.400><c> say</c><00:08:08.720><c> slot</c><00:08:09.039><c> so</c><00:08:09.199><c> we</c><00:08:09.280><c> could</c><00:08:09.440><c> say</c><00:08:09.759><c> first</c>
+
+00:08:10.230 --> 00:08:10.240 align:start position:0%
+could say slot so we could say first
+ 
+
+00:08:10.240 --> 00:08:11.510 align:start position:0%
+could say slot so we could say first
+slot
+
+00:08:11.510 --> 00:08:11.520 align:start position:0%
+slot
+ 
+
+00:08:11.520 --> 00:08:15.990 align:start position:0%
+slot
+where<00:08:11.840><c> the</c><00:08:12.160><c> slot</c><00:08:12.800><c> dot</c><00:08:13.280><c> item</c><00:08:13.680><c> data</c>
+
+00:08:15.990 --> 00:08:16.000 align:start position:0%
+where the slot dot item data
+ 
+
+00:08:16.000 --> 00:08:17.189 align:start position:0%
+where the slot dot item data
+dot
+
+00:08:17.189 --> 00:08:17.199 align:start position:0%
+dot
+ 
+
+00:08:17.199 --> 00:08:20.950 align:start position:0%
+dot
+max<00:08:17.599><c> stack</c><00:08:17.919><c> size</c><00:08:18.479><c> is</c><00:08:18.639><c> greater</c><00:08:19.039><c> than</c><00:08:19.599><c> 5</c>
+
+00:08:20.950 --> 00:08:20.960 align:start position:0%
+max stack size is greater than 5
+ 
+
+00:08:20.960 --> 00:08:22.550 align:start position:0%
+max stack size is greater than 5
+as<00:08:21.120><c> an</c><00:08:21.280><c> example</c><00:08:21.840><c> so</c>
+
+00:08:22.550 --> 00:08:22.560 align:start position:0%
+as an example so
+ 
+
+00:08:22.560 --> 00:08:24.230 align:start position:0%
+as an example so
+there's<00:08:22.800><c> a</c><00:08:22.800><c> lot</c><00:08:22.960><c> of</c><00:08:23.120><c> stuff</c><00:08:23.360><c> you</c><00:08:23.440><c> can</c><00:08:23.599><c> do</c><00:08:23.840><c> with</c>
+
+00:08:24.230 --> 00:08:24.240 align:start position:0%
+there's a lot of stuff you can do with
+ 
+
+00:08:24.240 --> 00:08:26.150 align:start position:0%
+there's a lot of stuff you can do with
+system.link<00:08:25.039><c> i</c><00:08:25.199><c> highly</c><00:08:25.440><c> recommend</c><00:08:25.919><c> looking</c>
+
+00:08:26.150 --> 00:08:26.160 align:start position:0%
+system.link i highly recommend looking
+ 
+
+00:08:26.160 --> 00:08:27.670 align:start position:0%
+system.link i highly recommend looking
+more<00:08:26.400><c> into</c><00:08:26.560><c> it</c><00:08:26.720><c> if</c><00:08:26.800><c> you</c><00:08:26.960><c> haven't</c><00:08:27.199><c> come</c><00:08:27.360><c> across</c>
+
+00:08:27.670 --> 00:08:27.680 align:start position:0%
+more into it if you haven't come across
+ 
+
+00:08:27.680 --> 00:08:29.430 align:start position:0%
+more into it if you haven't come across
+it<00:08:27.840><c> before</c><00:08:28.400><c> so</c><00:08:28.560><c> just</c><00:08:28.720><c> to</c><00:08:28.800><c> make</c><00:08:28.960><c> this</c><00:08:29.199><c> more</c>
+
+00:08:29.430 --> 00:08:29.440 align:start position:0%
+it before so just to make this more
+ 
+
+00:08:29.440 --> 00:08:31.110 align:start position:0%
+it before so just to make this more
+human<00:08:29.840><c> readable</c><00:08:30.319><c> so</c>
+
+00:08:31.110 --> 00:08:31.120 align:start position:0%
+human readable so
+ 
+
+00:08:31.120 --> 00:08:33.110 align:start position:0%
+human readable so
+we've<00:08:31.280><c> got</c><00:08:31.520><c> inventory</c><00:08:32.000><c> slots</c>
+
+00:08:33.110 --> 00:08:33.120 align:start position:0%
+we've got inventory slots
+ 
+
+00:08:33.120 --> 00:08:34.550 align:start position:0%
+we've got inventory slots
+dot<00:08:33.440><c> where</c><00:08:33.680><c> so</c><00:08:33.839><c> this</c><00:08:34.000><c> is</c><00:08:34.080><c> going</c><00:08:34.159><c> to</c><00:08:34.240><c> check</c><00:08:34.479><c> all</c>
+
+00:08:34.550 --> 00:08:34.560 align:start position:0%
+dot where so this is going to check all
+ 
+
+00:08:34.560 --> 00:08:36.709 align:start position:0%
+dot where so this is going to check all
+of<00:08:34.719><c> our</c><00:08:34.880><c> inventory</c><00:08:35.279><c> slots</c>
+
+00:08:36.709 --> 00:08:36.719 align:start position:0%
+of our inventory slots
+ 
+
+00:08:36.719 --> 00:08:38.870 align:start position:0%
+of our inventory slots
+and<00:08:36.880><c> it's</c><00:08:37.039><c> going</c><00:08:37.200><c> to</c><00:08:37.279><c> create</c><00:08:37.680><c> a</c><00:08:37.760><c> list</c>
+
+00:08:38.870 --> 00:08:38.880 align:start position:0%
+and it's going to create a list
+ 
+
+00:08:38.880 --> 00:08:42.469 align:start position:0%
+and it's going to create a list
+of<00:08:39.120><c> inventory</c><00:08:39.519><c> slots</c><00:08:39.919><c> and</c><00:08:40.080><c> fill</c><00:08:40.320><c> it</c>
+
+00:08:42.469 --> 00:08:42.479 align:start position:0%
+of inventory slots and fill it
+ 
+
+00:08:42.479 --> 00:08:45.030 align:start position:0%
+of inventory slots and fill it
+where<00:08:43.039><c> the</c><00:08:43.360><c> item</c>
+
+00:08:45.030 --> 00:08:45.040 align:start position:0%
+where the item
+ 
+
+00:08:45.040 --> 00:08:47.990 align:start position:0%
+where the item
+or<00:08:45.360><c> i</c><00:08:45.680><c> slot</c><00:08:46.080><c> this</c><00:08:46.240><c> could</c><00:08:46.399><c> be</c><00:08:46.880><c> anything</c><00:08:47.360><c> so</c><00:08:47.839><c> so</c>
+
+00:08:47.990 --> 00:08:48.000 align:start position:0%
+or i slot this could be anything so so
+ 
+
+00:08:48.000 --> 00:08:51.030 align:start position:0%
+or i slot this could be anything so so
+where<00:08:48.399><c> our</c><00:08:48.720><c> inventory</c><00:08:49.200><c> slots</c><00:08:49.760><c> item</c><00:08:50.160><c> data</c><00:08:50.800><c> is</c>
+
+00:08:51.030 --> 00:08:51.040 align:start position:0%
+where our inventory slots item data is
+ 
+
+00:08:51.040 --> 00:08:53.670 align:start position:0%
+where our inventory slots item data is
+equal<00:08:51.440><c> to</c><00:08:51.600><c> the</c><00:08:51.680><c> item</c><00:08:52.000><c> that</c><00:08:52.080><c> we</c><00:08:52.160><c> want</c><00:08:52.320><c> to</c><00:08:52.480><c> add</c>
+
+00:08:53.670 --> 00:08:53.680 align:start position:0%
+equal to the item that we want to add
+ 
+
+00:08:53.680 --> 00:08:56.630 align:start position:0%
+equal to the item that we want to add
+then<00:08:53.920><c> just</c><00:08:54.160><c> put</c><00:08:54.399><c> that</c><00:08:54.800><c> in</c><00:08:54.959><c> a</c><00:08:55.120><c> list</c><00:08:55.760><c> so</c><00:08:56.399><c> and</c><00:08:56.480><c> this</c>
+
+00:08:56.630 --> 00:08:56.640 align:start position:0%
+then just put that in a list so and this
+ 
+
+00:08:56.640 --> 00:09:00.790 align:start position:0%
+then just put that in a list so and this
+is<00:08:56.720><c> going</c><00:08:56.800><c> to</c><00:08:56.880><c> be</c><00:08:57.040><c> our</c><00:08:57.440><c> outlist</c><00:08:58.080><c> here</c>
+
+00:09:00.790 --> 00:09:00.800 align:start position:0%
+ 
+ 
+
+00:09:00.800 --> 00:09:02.310 align:start position:0%
+ 
+and<00:09:00.959><c> then</c><00:09:01.279><c> when</c><00:09:01.440><c> we're</c><00:09:01.600><c> checking</c><00:09:01.920><c> whether</c><00:09:02.160><c> it</c>
+
+00:09:02.310 --> 00:09:02.320 align:start position:0%
+and then when we're checking whether it
+ 
+
+00:09:02.320 --> 00:09:05.350 align:start position:0%
+and then when we're checking whether it
+contains<00:09:02.800><c> the</c><00:09:02.959><c> item</c>
+
+00:09:05.350 --> 00:09:05.360 align:start position:0%
+contains the item
+ 
+
+00:09:05.360 --> 00:09:11.829 align:start position:0%
+contains the item
+we<00:09:05.519><c> can</c><00:09:05.760><c> say</c><00:09:06.480><c> um</c><00:09:06.959><c> return</c>
+
+00:09:11.829 --> 00:09:11.839 align:start position:0%
+ 
+ 
+
+00:09:11.839 --> 00:09:13.350 align:start position:0%
+ 
+and<00:09:12.000><c> then</c><00:09:12.080><c> we</c><00:09:12.240><c> can</c><00:09:12.320><c> say</c><00:09:12.560><c> that</c><00:09:12.720><c> does</c><00:09:13.120><c> the</c>
+
+00:09:13.350 --> 00:09:13.360 align:start position:0%
+and then we can say that does the
+ 
+
+00:09:13.360 --> 00:09:16.550 align:start position:0%
+and then we can say that does the
+inventory<00:09:14.000><c> slot</c><00:09:14.560><c> dot</c><00:09:15.040><c> count</c><00:09:15.519><c> or</c><00:09:15.760><c> is</c><00:09:15.920><c> it</c><00:09:16.240><c> is</c><00:09:16.399><c> the</c>
+
+00:09:16.550 --> 00:09:16.560 align:start position:0%
+inventory slot dot count or is it is the
+ 
+
+00:09:16.560 --> 00:09:19.110 align:start position:0%
+inventory slot dot count or is it is the
+count<00:09:17.120><c> greater</c><00:09:17.760><c> than</c><00:09:18.000><c> one</c>
+
+00:09:19.110 --> 00:09:19.120 align:start position:0%
+count greater than one
+ 
+
+00:09:19.120 --> 00:09:21.750 align:start position:0%
+count greater than one
+if<00:09:19.279><c> the</c><00:09:19.519><c> inventory</c><00:09:20.000><c> slot</c><00:09:20.399><c> dot</c><00:09:20.640><c> count</c><00:09:21.519><c> is</c>
+
+00:09:21.750 --> 00:09:21.760 align:start position:0%
+if the inventory slot dot count is
+ 
+
+00:09:21.760 --> 00:09:23.509 align:start position:0%
+if the inventory slot dot count is
+greater<00:09:22.000><c> than</c><00:09:22.240><c> one</c>
+
+00:09:23.509 --> 00:09:23.519 align:start position:0%
+greater than one
+ 
+
+00:09:23.519 --> 00:09:25.110 align:start position:0%
+greater than one
+then<00:09:23.839><c> we</c><00:09:24.000><c> can</c><00:09:24.160><c> return</c><00:09:24.560><c> true</c><00:09:24.880><c> because</c><00:09:25.040><c> it</c>
+
+00:09:25.110 --> 00:09:25.120 align:start position:0%
+then we can return true because it
+ 
+
+00:09:25.120 --> 00:09:28.710 align:start position:0%
+then we can return true because it
+obviously<00:09:25.519><c> contains</c><00:09:26.080><c> the</c><00:09:26.399><c> item</c>
+
+00:09:28.710 --> 00:09:28.720 align:start position:0%
+obviously contains the item
+ 
+
+00:09:28.720 --> 00:09:31.030 align:start position:0%
+obviously contains the item
+and<00:09:29.040><c> if</c><00:09:29.200><c> it's</c><00:09:29.360><c> less</c><00:09:29.600><c> than</c><00:09:29.839><c> one</c><00:09:30.240><c> we</c><00:09:30.399><c> can</c><00:09:30.560><c> return</c>
+
+00:09:31.030 --> 00:09:31.040 align:start position:0%
+and if it's less than one we can return
+ 
+
+00:09:31.040 --> 00:09:32.949 align:start position:0%
+and if it's less than one we can return
+false<00:09:31.519><c> because</c><00:09:32.000><c> it</c><00:09:32.240><c> doesn't</c><00:09:32.480><c> contain</c><00:09:32.800><c> the</c>
+
+00:09:32.949 --> 00:09:32.959 align:start position:0%
+false because it doesn't contain the
+ 
+
+00:09:32.959 --> 00:09:37.030 align:start position:0%
+false because it doesn't contain the
+item<00:09:33.360><c> the</c><00:09:33.680><c> item</c><00:09:34.160><c> count</c><00:09:34.480><c> size</c><00:09:34.959><c> would</c><00:09:35.200><c> be</c><00:09:35.440><c> zero</c>
+
+00:09:37.030 --> 00:09:37.040 align:start position:0%
+item the item count size would be zero
+ 
+
+00:09:37.040 --> 00:09:38.790 align:start position:0%
+item the item count size would be zero
+so<00:09:37.200><c> now</c><00:09:37.360><c> we're</c><00:09:37.440><c> getting</c><00:09:37.680><c> a</c><00:09:37.760><c> list</c><00:09:38.160><c> back</c><00:09:38.399><c> out</c><00:09:38.640><c> not</c>
+
+00:09:38.790 --> 00:09:38.800 align:start position:0%
+so now we're getting a list back out not
+ 
+
+00:09:38.800 --> 00:09:40.949 align:start position:0%
+so now we're getting a list back out not
+an<00:09:39.040><c> individual</c><00:09:39.680><c> slot</c><00:09:40.080><c> so</c><00:09:40.240><c> now</c><00:09:40.399><c> we</c><00:09:40.560><c> need</c><00:09:40.720><c> to</c>
+
+00:09:40.949 --> 00:09:40.959 align:start position:0%
+an individual slot so now we need to
+ 
+
+00:09:40.959 --> 00:09:44.389 align:start position:0%
+an individual slot so now we need to
+check<00:09:41.440><c> those</c><00:09:42.000><c> slots</c><00:09:42.959><c> to</c><00:09:43.200><c> see</c><00:09:43.440><c> whether</c><00:09:44.160><c> there</c>
+
+00:09:44.389 --> 00:09:44.399 align:start position:0%
+check those slots to see whether there
+ 
+
+00:09:44.399 --> 00:09:46.949 align:start position:0%
+check those slots to see whether there
+is<00:09:44.560><c> room</c><00:09:45.040><c> left</c><00:09:45.440><c> in</c><00:09:45.519><c> the</c><00:09:45.680><c> stack</c>
+
+00:09:46.949 --> 00:09:46.959 align:start position:0%
+is room left in the stack
+ 
+
+00:09:46.959 --> 00:09:48.550 align:start position:0%
+is room left in the stack
+which<00:09:47.200><c> is</c><00:09:47.360><c> that</c><00:09:47.519><c> method</c><00:09:47.920><c> that</c><00:09:48.080><c> we</c><00:09:48.240><c> made</c>
+
+00:09:48.550 --> 00:09:48.560 align:start position:0%
+which is that method that we made
+ 
+
+00:09:48.560 --> 00:09:50.790 align:start position:0%
+which is that method that we made
+earlier<00:09:48.959><c> on</c><00:09:49.120><c> our</c><00:09:49.279><c> inventory</c><00:09:49.760><c> slot</c><00:09:50.160><c> so</c><00:09:50.320><c> like</c><00:09:50.640><c> we</c>
+
+00:09:50.790 --> 00:09:50.800 align:start position:0%
+earlier on our inventory slot so like we
+ 
+
+00:09:50.800 --> 00:09:52.310 align:start position:0%
+earlier on our inventory slot so like we
+can<00:09:50.959><c> now</c><00:09:51.279><c> say</c>
+
+00:09:52.310 --> 00:09:52.320 align:start position:0%
+can now say
+ 
+
+00:09:52.320 --> 00:09:54.790 align:start position:0%
+can now say
+for<00:09:52.640><c> each</c>
+
+00:09:54.790 --> 00:09:54.800 align:start position:0%
+for each
+ 
+
+00:09:54.800 --> 00:09:56.389 align:start position:0%
+for each
+variable<00:09:55.440><c> slot</c>
+
+00:09:56.389 --> 00:09:56.399 align:start position:0%
+variable slot
+ 
+
+00:09:56.399 --> 00:09:57.750 align:start position:0%
+variable slot
+in
+
+00:09:57.750 --> 00:09:57.760 align:start position:0%
+in
+ 
+
+00:09:57.760 --> 00:10:03.350 align:start position:0%
+in
+this<00:09:58.240><c> in</c><00:09:58.800><c> slot</c><00:09:59.200><c> list</c>
+
+00:10:03.350 --> 00:10:03.360 align:start position:0%
+ 
+ 
+
+00:10:03.360 --> 00:10:05.990 align:start position:0%
+ 
+we're<00:10:03.519><c> going</c><00:10:03.600><c> to</c><00:10:03.680><c> check</c><00:10:04.320><c> does</c><00:10:04.640><c> that</c><00:10:04.959><c> slot</c><00:10:05.680><c> have</c>
+
+00:10:05.990 --> 00:10:06.000 align:start position:0%
+we're going to check does that slot have
+ 
+
+00:10:06.000 --> 00:10:08.870 align:start position:0%
+we're going to check does that slot have
+room<00:10:06.320><c> left</c><00:10:06.720><c> in</c><00:10:06.880><c> its</c><00:10:07.120><c> slot</c>
+
+00:10:08.870 --> 00:10:08.880 align:start position:0%
+room left in its slot
+ 
+
+00:10:08.880 --> 00:10:10.310 align:start position:0%
+room left in its slot
+i'm<00:10:08.959><c> going</c><00:10:09.120><c> to</c><00:10:09.200><c> check</c><00:10:09.360><c> does</c><00:10:09.600><c> that</c><00:10:09.760><c> slot</c><00:10:10.079><c> have</c>
+
+00:10:10.310 --> 00:10:10.320 align:start position:0%
+i'm going to check does that slot have
+ 
+
+00:10:10.320 --> 00:10:12.389 align:start position:0%
+i'm going to check does that slot have
+room<00:10:10.560><c> left</c><00:10:10.880><c> in</c><00:10:11.040><c> stack</c><00:10:11.279><c> so</c><00:10:11.519><c> we</c><00:10:11.600><c> say</c><00:10:11.920><c> room</c><00:10:12.160><c> left</c>
+
+00:10:12.389 --> 00:10:12.399 align:start position:0%
+room left in stack so we say room left
+ 
+
+00:10:12.399 --> 00:10:13.670 align:start position:0%
+room left in stack so we say room left
+in<00:10:12.560><c> stack</c>
+
+00:10:13.670 --> 00:10:13.680 align:start position:0%
+in stack
+ 
+
+00:10:13.680 --> 00:10:15.110 align:start position:0%
+in stack
+and<00:10:13.839><c> you</c><00:10:13.920><c> can</c><00:10:14.000><c> see</c><00:10:14.240><c> we've</c><00:10:14.320><c> got</c><00:10:14.480><c> one</c><00:10:14.720><c> of</c><00:10:14.880><c> two</c>
+
+00:10:15.110 --> 00:10:15.120 align:start position:0%
+and you can see we've got one of two
+ 
+
+00:10:15.120 --> 00:10:16.949 align:start position:0%
+and you can see we've got one of two
+here<00:10:15.360><c> these</c><00:10:15.600><c> are</c><00:10:15.680><c> the</c><00:10:15.839><c> two</c><00:10:16.240><c> overloaded</c>
+
+00:10:16.949 --> 00:10:16.959 align:start position:0%
+here these are the two overloaded
+ 
+
+00:10:16.959 --> 00:10:18.870 align:start position:0%
+here these are the two overloaded
+methods<00:10:17.440><c> that</c><00:10:17.600><c> we've</c><00:10:17.760><c> made</c>
+
+00:10:18.870 --> 00:10:18.880 align:start position:0%
+methods that we've made
+ 
+
+00:10:18.880 --> 00:10:20.310 align:start position:0%
+methods that we've made
+we<00:10:19.040><c> don't</c><00:10:19.200><c> need</c><00:10:19.360><c> to</c><00:10:19.440><c> know</c><00:10:19.600><c> how</c><00:10:19.839><c> many</c><00:10:20.160><c> are</c>
+
+00:10:20.310 --> 00:10:20.320 align:start position:0%
+we don't need to know how many are
+ 
+
+00:10:20.320 --> 00:10:22.069 align:start position:0%
+we don't need to know how many are
+remaining
+
+00:10:22.069 --> 00:10:22.079 align:start position:0%
+remaining
+ 
+
+00:10:22.079 --> 00:10:23.990 align:start position:0%
+remaining
+we<00:10:22.240><c> just</c><00:10:22.480><c> need</c><00:10:22.640><c> to</c><00:10:22.800><c> know</c><00:10:23.040><c> if</c><00:10:23.200><c> we</c><00:10:23.440><c> add</c><00:10:23.760><c> this</c>
+
+00:10:23.990 --> 00:10:24.000 align:start position:0%
+we just need to know if we add this
+ 
+
+00:10:24.000 --> 00:10:26.949 align:start position:0%
+we just need to know if we add this
+amount<00:10:24.560><c> to</c><00:10:24.880><c> the</c><00:10:25.040><c> stack</c><00:10:25.440><c> will</c><00:10:25.680><c> it</c><00:10:25.839><c> fit</c>
+
+00:10:26.949 --> 00:10:26.959 align:start position:0%
+amount to the stack will it fit
+ 
+
+00:10:26.959 --> 00:10:28.790 align:start position:0%
+amount to the stack will it fit
+this<00:10:27.200><c> amount</c><00:10:27.440><c> to</c><00:10:27.600><c> add</c><00:10:27.839><c> here</c><00:10:28.079><c> so</c>
+
+00:10:28.790 --> 00:10:28.800 align:start position:0%
+this amount to add here so
+ 
+
+00:10:28.800 --> 00:10:30.870 align:start position:0%
+this amount to add here so
+say<00:10:29.040><c> amount</c><00:10:29.360><c> to</c><00:10:29.600><c> add</c>
+
+00:10:30.870 --> 00:10:30.880 align:start position:0%
+say amount to add
+ 
+
+00:10:30.880 --> 00:10:33.750 align:start position:0%
+say amount to add
+if<00:10:31.120><c> there</c><00:10:31.360><c> is</c><00:10:31.600><c> room</c><00:10:31.920><c> left</c><00:10:32.160><c> in</c><00:10:32.240><c> the</c><00:10:32.399><c> stack</c>
+
+00:10:33.750 --> 00:10:33.760 align:start position:0%
+if there is room left in the stack
+ 
+
+00:10:33.760 --> 00:10:35.990 align:start position:0%
+if there is room left in the stack
+then
+
+00:10:35.990 --> 00:10:36.000 align:start position:0%
+then
+ 
+
+00:10:36.000 --> 00:10:37.590 align:start position:0%
+then
+we're<00:10:36.160><c> gonna</c><00:10:36.480><c> get</c><00:10:36.720><c> this</c>
+
+00:10:37.590 --> 00:10:37.600 align:start position:0%
+we're gonna get this
+ 
+
+00:10:37.600 --> 00:10:39.509 align:start position:0%
+we're gonna get this
+i'm<00:10:37.760><c> gonna</c><00:10:38.000><c> pop</c><00:10:38.240><c> it</c><00:10:38.399><c> in</c><00:10:38.480><c> here</c><00:10:39.120><c> but</c><00:10:39.279><c> this</c><00:10:39.440><c> is</c>
+
+00:10:39.509 --> 00:10:39.519 align:start position:0%
+i'm gonna pop it in here but this is
+ 
+
+00:10:39.519 --> 00:10:41.430 align:start position:0%
+i'm gonna pop it in here but this is
+gonna<00:10:39.680><c> be</c><00:10:39.760><c> called</c><00:10:40.000><c> slot</c><00:10:40.720><c> so</c><00:10:41.040><c> it's</c><00:10:41.200><c> gonna</c><00:10:41.360><c> be</c>
+
+00:10:41.430 --> 00:10:41.440 align:start position:0%
+gonna be called slot so it's gonna be
+ 
+
+00:10:41.440 --> 00:10:42.949 align:start position:0%
+gonna be called slot so it's gonna be
+the<00:10:41.600><c> slot</c><00:10:41.920><c> that</c><00:10:42.000><c> we're</c><00:10:42.160><c> looking</c><00:10:42.480><c> at</c><00:10:42.640><c> in</c><00:10:42.800><c> our</c>
+
+00:10:42.949 --> 00:10:42.959 align:start position:0%
+the slot that we're looking at in our
+ 
+
+00:10:42.959 --> 00:10:45.110 align:start position:0%
+the slot that we're looking at in our
+inventory<00:10:43.440><c> slot</c><00:10:43.920><c> list</c><00:10:44.320><c> which</c><00:10:44.560><c> we've</c><00:10:44.720><c> got</c><00:10:44.880><c> from</c>
+
+00:10:45.110 --> 00:10:45.120 align:start position:0%
+inventory slot list which we've got from
+ 
+
+00:10:45.120 --> 00:10:49.670 align:start position:0%
+inventory slot list which we've got from
+our<00:10:45.279><c> contains</c><00:10:45.760><c> item</c>
+
+00:10:49.670 --> 00:10:49.680 align:start position:0%
+ 
+ 
+
+00:10:49.680 --> 00:10:51.670 align:start position:0%
+ 
+so<00:10:49.920><c> our</c><00:10:50.160><c> item</c><00:10:50.560><c> pickup</c><00:10:50.959><c> is</c><00:10:51.120><c> going</c><00:10:51.200><c> to</c><00:10:51.279><c> get</c><00:10:51.440><c> hit</c>
+
+00:10:51.670 --> 00:10:51.680 align:start position:0%
+so our item pickup is going to get hit
+ 
+
+00:10:51.680 --> 00:10:53.110 align:start position:0%
+so our item pickup is going to get hit
+by<00:10:51.839><c> our</c><00:10:52.000><c> player</c><00:10:52.399><c> and</c><00:10:52.560><c> we're</c><00:10:52.640><c> going</c><00:10:52.800><c> to</c><00:10:52.880><c> try</c><00:10:53.040><c> and</c>
+
+00:10:53.110 --> 00:10:53.120 align:start position:0%
+by our player and we're going to try and
+ 
+
+00:10:53.120 --> 00:10:55.430 align:start position:0%
+by our player and we're going to try and
+add<00:10:53.360><c> itself</c><00:10:53.920><c> to</c><00:10:54.160><c> the</c><00:10:54.320><c> inventory</c><00:10:55.040><c> in</c><00:10:55.200><c> our</c><00:10:55.279><c> add</c>
+
+00:10:55.430 --> 00:10:55.440 align:start position:0%
+add itself to the inventory in our add
+ 
+
+00:10:55.440 --> 00:10:57.110 align:start position:0%
+add itself to the inventory in our add
+to<00:10:55.600><c> inventory</c><00:10:56.079><c> script</c><00:10:56.480><c> we're</c><00:10:56.560><c> going</c><00:10:56.720><c> to</c><00:10:56.800><c> pass</c>
+
+00:10:57.110 --> 00:10:57.120 align:start position:0%
+to inventory script we're going to pass
+ 
+
+00:10:57.120 --> 00:10:58.710 align:start position:0%
+to inventory script we're going to pass
+through<00:10:57.360><c> the</c><00:10:57.519><c> data</c><00:10:57.839><c> that</c><00:10:58.000><c> we</c><00:10:58.079><c> want</c><00:10:58.240><c> to</c><00:10:58.320><c> add</c><00:10:58.560><c> to</c>
+
+00:10:58.710 --> 00:10:58.720 align:start position:0%
+through the data that we want to add to
+ 
+
+00:10:58.720 --> 00:11:00.310 align:start position:0%
+through the data that we want to add to
+our<00:10:58.959><c> inventory</c><00:10:59.360><c> and</c><00:10:59.440><c> the</c><00:10:59.519><c> amount</c><00:10:59.920><c> of</c><00:11:00.079><c> that</c>
+
+00:11:00.310 --> 00:11:00.320 align:start position:0%
+our inventory and the amount of that
+ 
+
+00:11:00.320 --> 00:11:02.389 align:start position:0%
+our inventory and the amount of that
+data<00:11:00.880><c> the</c><00:11:00.959><c> amount</c><00:11:01.200><c> of</c><00:11:01.360><c> the</c><00:11:01.519><c> item</c><00:11:01.920><c> that</c><00:11:02.079><c> we</c><00:11:02.160><c> want</c>
+
+00:11:02.389 --> 00:11:02.399 align:start position:0%
+data the amount of the item that we want
+ 
+
+00:11:02.399 --> 00:11:03.590 align:start position:0%
+data the amount of the item that we want
+to<00:11:02.480><c> add</c>
+
+00:11:03.590 --> 00:11:03.600 align:start position:0%
+to add
+ 
+
+00:11:03.600 --> 00:11:05.190 align:start position:0%
+to add
+we're<00:11:03.760><c> going</c><00:11:03.839><c> to</c><00:11:04.000><c> check</c><00:11:04.240><c> with</c><00:11:04.480><c> our</c><00:11:04.880><c> whether</c>
+
+00:11:05.190 --> 00:11:05.200 align:start position:0%
+we're going to check with our whether
+ 
+
+00:11:05.200 --> 00:11:10.710 align:start position:0%
+we're going to check with our whether
+the<00:11:05.440><c> inventory</c><00:11:05.920><c> system</c><00:11:06.560><c> contains</c><00:11:07.440><c> this</c><00:11:07.680><c> item</c>
+
+00:11:10.710 --> 00:11:10.720 align:start position:0%
+ 
+ 
+
+00:11:10.720 --> 00:11:12.310 align:start position:0%
+ 
+and<00:11:10.880><c> if</c><00:11:11.040><c> it</c><00:11:11.120><c> does</c><00:11:11.279><c> contain</c><00:11:11.760><c> it</c><00:11:12.000><c> then</c><00:11:12.160><c> we're</c>
+
+00:11:12.310 --> 00:11:12.320 align:start position:0%
+and if it does contain it then we're
+ 
+
+00:11:12.320 --> 00:11:14.310 align:start position:0%
+and if it does contain it then we're
+going<00:11:12.480><c> to</c><00:11:12.560><c> get</c><00:11:12.959><c> a</c><00:11:13.120><c> list</c><00:11:13.440><c> of</c><00:11:13.519><c> all</c><00:11:13.680><c> of</c><00:11:13.839><c> the</c><00:11:13.920><c> slots</c>
+
+00:11:14.310 --> 00:11:14.320 align:start position:0%
+going to get a list of all of the slots
+ 
+
+00:11:14.320 --> 00:11:17.030 align:start position:0%
+going to get a list of all of the slots
+that<00:11:14.480><c> have</c><00:11:14.720><c> the</c><00:11:14.880><c> item</c><00:11:15.360><c> in</c><00:11:15.600><c> it</c>
+
+00:11:17.030 --> 00:11:17.040 align:start position:0%
+that have the item in it
+ 
+
+00:11:17.040 --> 00:11:19.110 align:start position:0%
+that have the item in it
+and<00:11:17.120><c> then</c><00:11:17.279><c> we're</c><00:11:17.360><c> going</c><00:11:17.440><c> to</c><00:11:17.600><c> check</c><00:11:17.839><c> that</c><00:11:18.160><c> list</c>
+
+00:11:19.110 --> 00:11:19.120 align:start position:0%
+and then we're going to check that list
+ 
+
+00:11:19.120 --> 00:11:20.710 align:start position:0%
+and then we're going to check that list
+and<00:11:19.200><c> we're</c><00:11:19.360><c> going</c><00:11:19.440><c> to</c><00:11:19.600><c> check</c><00:11:19.839><c> for</c><00:11:20.000><c> a</c><00:11:20.160><c> slot</c><00:11:20.560><c> that</c>
+
+00:11:20.710 --> 00:11:20.720 align:start position:0%
+and we're going to check for a slot that
+ 
+
+00:11:20.720 --> 00:11:22.550 align:start position:0%
+and we're going to check for a slot that
+actually<00:11:21.120><c> has</c><00:11:21.440><c> room</c><00:11:21.680><c> left</c><00:11:21.920><c> in</c><00:11:22.000><c> the</c><00:11:22.320><c> in</c><00:11:22.399><c> the</c>
+
+00:11:22.550 --> 00:11:22.560 align:start position:0%
+actually has room left in the in the
+ 
+
+00:11:22.560 --> 00:11:25.190 align:start position:0%
+actually has room left in the in the
+stack
+
+00:11:25.190 --> 00:11:25.200 align:start position:0%
+ 
+ 
+
+00:11:25.200 --> 00:11:26.790 align:start position:0%
+ 
+if<00:11:25.440><c> the</c><00:11:25.600><c> stack's</c><00:11:26.000><c> full</c><00:11:26.320><c> or</c><00:11:26.480><c> there's</c><00:11:26.640><c> not</c>
+
+00:11:26.790 --> 00:11:26.800 align:start position:0%
+if the stack's full or there's not
+ 
+
+00:11:26.800 --> 00:11:29.190 align:start position:0%
+if the stack's full or there's not
+enough<00:11:27.120><c> room</c><00:11:27.519><c> to</c><00:11:27.760><c> add</c><00:11:28.000><c> so</c><00:11:28.160><c> if</c><00:11:28.560><c> say</c><00:11:28.720><c> the</c><00:11:28.800><c> maximum</c>
+
+00:11:29.190 --> 00:11:29.200 align:start position:0%
+enough room to add so if say the maximum
+ 
+
+00:11:29.200 --> 00:11:33.030 align:start position:0%
+enough room to add so if say the maximum
+stack<00:11:29.519><c> size</c><00:11:29.839><c> was</c><00:11:30.079><c> five</c><00:11:30.480><c> we</c><00:11:30.640><c> had</c><00:11:31.360><c> four</c>
+
+00:11:33.030 --> 00:11:33.040 align:start position:0%
+stack size was five we had four
+ 
+
+00:11:33.040 --> 00:11:34.710 align:start position:0%
+stack size was five we had four
+in<00:11:33.200><c> the</c><00:11:33.360><c> stack</c><00:11:33.760><c> already</c><00:11:34.240><c> and</c><00:11:34.320><c> we</c><00:11:34.399><c> were</c><00:11:34.560><c> trying</c>
+
+00:11:34.710 --> 00:11:34.720 align:start position:0%
+in the stack already and we were trying
+ 
+
+00:11:34.720 --> 00:11:37.110 align:start position:0%
+in the stack already and we were trying
+to<00:11:34.800><c> add</c><00:11:35.120><c> two</c><00:11:35.519><c> there</c><00:11:35.680><c> wouldn't</c><00:11:35.920><c> be</c><00:11:36.079><c> enough</c><00:11:36.320><c> room</c>
+
+00:11:37.110 --> 00:11:37.120 align:start position:0%
+to add two there wouldn't be enough room
+ 
+
+00:11:37.120 --> 00:11:39.990 align:start position:0%
+to add two there wouldn't be enough room
+for<00:11:37.839><c> the</c><00:11:38.000><c> two</c><00:11:38.240><c> to</c><00:11:38.399><c> go</c><00:11:38.560><c> into</c><00:11:38.800><c> the</c><00:11:38.880><c> stack</c><00:11:39.680><c> so</c><00:11:39.839><c> we'd</c>
+
+00:11:39.990 --> 00:11:40.000 align:start position:0%
+for the two to go into the stack so we'd
+ 
+
+00:11:40.000 --> 00:11:41.509 align:start position:0%
+for the two to go into the stack so we'd
+check<00:11:40.240><c> the</c><00:11:40.399><c> next</c><00:11:40.560><c> slot</c><00:11:40.880><c> and</c><00:11:40.959><c> the</c><00:11:41.040><c> next</c><00:11:41.279><c> to</c><00:11:41.440><c> the</c>
+
+00:11:41.509 --> 00:11:41.519 align:start position:0%
+check the next slot and the next to the
+ 
+
+00:11:41.519 --> 00:11:43.350 align:start position:0%
+check the next slot and the next to the
+next<00:11:41.760><c> and</c><00:11:41.839><c> we</c><00:11:42.000><c> need</c><00:11:42.079><c> to</c><00:11:42.160><c> get</c><00:11:42.320><c> rid</c><00:11:42.399><c> of</c><00:11:42.560><c> the</c><00:11:42.880><c> else</c>
+
+00:11:43.350 --> 00:11:43.360 align:start position:0%
+next and we need to get rid of the else
+ 
+
+00:11:43.360 --> 00:11:45.030 align:start position:0%
+next and we need to get rid of the else
+if<00:11:43.760><c> here</c><00:11:43.920><c> because</c><00:11:44.160><c> i</c><00:11:44.240><c> found</c><00:11:44.480><c> that</c><00:11:44.640><c> it</c><00:11:44.720><c> didn't</c>
+
+00:11:45.030 --> 00:11:45.040 align:start position:0%
+if here because i found that it didn't
+ 
+
+00:11:45.040 --> 00:11:46.230 align:start position:0%
+if here because i found that it didn't
+work
+
+00:11:46.230 --> 00:11:46.240 align:start position:0%
+work
+ 
+
+00:11:46.240 --> 00:11:48.230 align:start position:0%
+work
+as<00:11:46.480><c> intended</c>
+
+00:11:48.230 --> 00:11:48.240 align:start position:0%
+as intended
+ 
+
+00:11:48.240 --> 00:11:51.269 align:start position:0%
+as intended
+when<00:11:48.480><c> it</c><00:11:48.560><c> was</c><00:11:48.640><c> an</c><00:11:48.800><c> elsiv</c>
+
+00:11:51.269 --> 00:11:51.279 align:start position:0%
+ 
+ 
+
+00:11:51.279 --> 00:11:52.470 align:start position:0%
+ 
+so<00:11:51.519><c> we're</c><00:11:51.680><c> going</c><00:11:51.839><c> to</c><00:11:51.920><c> see</c><00:11:52.079><c> whether</c><00:11:52.320><c> we'll</c>
+
+00:11:52.470 --> 00:11:52.480 align:start position:0%
+so we're going to see whether we'll
+ 
+
+00:11:52.480 --> 00:11:54.069 align:start position:0%
+so we're going to see whether we'll
+contain<00:11:52.800><c> the</c><00:11:52.880><c> item</c><00:11:53.360><c> if</c><00:11:53.519><c> it</c><00:11:53.600><c> doesn't</c><00:11:53.920><c> it'll</c>
+
+00:11:54.069 --> 00:11:54.079 align:start position:0%
+contain the item if it doesn't it'll
+ 
+
+00:11:54.079 --> 00:11:55.750 align:start position:0%
+contain the item if it doesn't it'll
+move<00:11:54.320><c> on</c><00:11:54.480><c> anyway</c><00:11:54.959><c> and</c><00:11:55.120><c> it'll</c><00:11:55.279><c> check</c><00:11:55.519><c> do</c><00:11:55.680><c> we</c>
+
+00:11:55.750 --> 00:11:55.760 align:start position:0%
+move on anyway and it'll check do we
+ 
+
+00:11:55.760 --> 00:11:57.829 align:start position:0%
+move on anyway and it'll check do we
+have<00:11:55.920><c> a</c><00:11:56.000><c> free</c><00:11:56.240><c> slot</c><00:11:56.880><c> if</c><00:11:57.040><c> it</c><00:11:57.120><c> does</c><00:11:57.360><c> contain</c><00:11:57.760><c> the</c>
+
+00:11:57.829 --> 00:11:57.839 align:start position:0%
+have a free slot if it does contain the
+ 
+
+00:11:57.839 --> 00:12:00.150 align:start position:0%
+have a free slot if it does contain the
+item<00:11:58.399><c> it's</c><00:11:58.560><c> gonna</c><00:11:59.120><c> look</c><00:11:59.440><c> for</c><00:11:59.600><c> the</c><00:11:59.680><c> item</c><00:12:00.079><c> and</c>
+
+00:12:00.150 --> 00:12:00.160 align:start position:0%
+item it's gonna look for the item and
+ 
+
+00:12:00.160 --> 00:12:02.629 align:start position:0%
+item it's gonna look for the item and
+see<00:12:00.320><c> whether</c><00:12:00.639><c> one</c><00:12:00.800><c> of</c><00:12:00.880><c> the</c><00:12:01.040><c> slots</c>
+
+00:12:02.629 --> 00:12:02.639 align:start position:0%
+see whether one of the slots
+ 
+
+00:12:02.639 --> 00:12:04.629 align:start position:0%
+see whether one of the slots
+can<00:12:02.880><c> take</c><00:12:03.279><c> the</c><00:12:03.440><c> amount</c><00:12:03.920><c> if</c><00:12:04.079><c> it</c><00:12:04.160><c> can</c><00:12:04.399><c> it'll</c>
+
+00:12:04.629 --> 00:12:04.639 align:start position:0%
+can take the amount if it can it'll
+ 
+
+00:12:04.639 --> 00:12:06.470 align:start position:0%
+can take the amount if it can it'll
+return<00:12:04.959><c> true</c><00:12:05.200><c> and</c><00:12:05.360><c> call</c><00:12:05.600><c> our</c><00:12:05.760><c> inventory</c><00:12:06.160><c> slot</c>
+
+00:12:06.470 --> 00:12:06.480 align:start position:0%
+return true and call our inventory slot
+ 
+
+00:12:06.480 --> 00:12:09.590 align:start position:0%
+return true and call our inventory slot
+changed<00:12:06.959><c> dot</c><00:12:07.200><c> invoke</c><00:12:08.160><c> if</c><00:12:08.399><c> it</c><00:12:08.480><c> can't</c>
+
+00:12:09.590 --> 00:12:09.600 align:start position:0%
+changed dot invoke if it can't
+ 
+
+00:12:09.600 --> 00:12:11.910 align:start position:0%
+changed dot invoke if it can't
+then<00:12:10.000><c> that's</c><00:12:10.320><c> fine</c><00:12:10.800><c> it'll</c><00:12:11.120><c> move</c><00:12:11.360><c> on</c><00:12:11.600><c> and</c><00:12:11.680><c> it'll</c>
+
+00:12:11.910 --> 00:12:11.920 align:start position:0%
+then that's fine it'll move on and it'll
+ 
+
+00:12:11.920 --> 00:12:15.990 align:start position:0%
+then that's fine it'll move on and it'll
+check<00:12:12.240><c> for</c><00:12:12.480><c> a</c><00:12:12.560><c> free</c><00:12:12.880><c> slot</c>
+
+00:12:15.990 --> 00:12:16.000 align:start position:0%
+ 
+ 
+
+00:12:16.000 --> 00:12:18.629 align:start position:0%
+ 
+so<00:12:16.240><c> this</c><00:12:16.399><c> should</c><00:12:16.720><c> be</c><00:12:17.200><c> uh</c><00:12:17.839><c> all</c><00:12:18.079><c> working</c><00:12:18.480><c> let's</c>
+
+00:12:18.629 --> 00:12:18.639 align:start position:0%
+so this should be uh all working let's
+ 
+
+00:12:18.639 --> 00:12:21.910 align:start position:0%
+so this should be uh all working let's
+go<00:12:18.800><c> back</c><00:12:19.120><c> to</c><00:12:19.600><c> the</c><00:12:20.240><c> editor</c><00:12:20.800><c> and</c>
+
+00:12:21.910 --> 00:12:21.920 align:start position:0%
+go back to the editor and
+ 
+
+00:12:21.920 --> 00:12:23.910 align:start position:0%
+go back to the editor and
+check<00:12:22.160><c> it</c><00:12:22.320><c> works</c><00:12:22.880><c> and</c><00:12:23.040><c> if</c><00:12:23.200><c> it</c><00:12:23.279><c> doesn't</c><00:12:23.519><c> work</c>
+
+00:12:23.910 --> 00:12:23.920 align:start position:0%
+check it works and if it doesn't work
+ 
+
+00:12:23.920 --> 00:12:25.990 align:start position:0%
+check it works and if it doesn't work
+let's<00:12:24.160><c> debug</c><00:12:24.560><c> it</c><00:12:24.800><c> so</c><00:12:24.959><c> i'm</c><00:12:25.200><c> just</c><00:12:25.360><c> gonna</c><00:12:25.760><c> come</c>
+
+00:12:25.990 --> 00:12:26.000 align:start position:0%
+let's debug it so i'm just gonna come
+ 
+
+00:12:26.000 --> 00:12:28.310 align:start position:0%
+let's debug it so i'm just gonna come
+back<00:12:26.320><c> to</c><00:12:26.800><c> play</c><00:12:27.279><c> here</c>
+
+00:12:28.310 --> 00:12:28.320 align:start position:0%
+back to play here
+ 
+
+00:12:28.320 --> 00:12:29.990 align:start position:0%
+back to play here
+um<00:12:28.639><c> i've</c><00:12:28.800><c> got</c><00:12:29.040><c> a</c><00:12:29.120><c> test</c><00:12:29.360><c> item</c><00:12:29.680><c> i'm</c><00:12:29.760><c> just</c><00:12:29.920><c> gonna</c>
+
+00:12:29.990 --> 00:12:30.000 align:start position:0%
+um i've got a test item i'm just gonna
+ 
+
+00:12:30.000 --> 00:12:35.269 align:start position:0%
+um i've got a test item i'm just gonna
+make<00:12:30.160><c> multiples</c><00:12:31.040><c> of</c><00:12:31.200><c> this</c><00:12:31.760><c> test</c><00:12:32.320><c> item</c><00:12:32.880><c> now</c>
+
+00:12:35.269 --> 00:12:35.279 align:start position:0%
+ 
+ 
+
+00:12:35.279 --> 00:12:38.629 align:start position:0%
+ 
+we've<00:12:35.440><c> got</c><00:12:35.680><c> three</c><00:12:36.160><c> four</c><00:12:36.560><c> five</c><00:12:37.360><c> six</c><00:12:37.920><c> i</c><00:12:38.079><c> believe</c>
+
+00:12:38.629 --> 00:12:38.639 align:start position:0%
+we've got three four five six i believe
+ 
+
+00:12:38.639 --> 00:12:41.670 align:start position:0%
+we've got three four five six i believe
+we<00:12:39.120><c> had</c><00:12:39.440><c> test</c><00:12:39.760><c> item</c><00:12:40.160><c> so</c><00:12:40.320><c> a</c><00:12:40.399><c> max</c><00:12:40.720><c> stack</c><00:12:40.959><c> size</c><00:12:41.360><c> of</c>
+
+00:12:41.670 --> 00:12:41.680 align:start position:0%
+we had test item so a max stack size of
+ 
+
+00:12:41.680 --> 00:12:43.990 align:start position:0%
+we had test item so a max stack size of
+five<00:12:41.920><c> so</c><00:12:42.079><c> if</c><00:12:42.240><c> we</c><00:12:42.399><c> click</c><00:12:42.560><c> on</c><00:12:42.639><c> our</c><00:12:42.800><c> play</c><00:12:43.120><c> here</c><00:12:43.839><c> and</c>
+
+00:12:43.990 --> 00:12:44.000 align:start position:0%
+five so if we click on our play here and
+ 
+
+00:12:44.000 --> 00:12:46.150 align:start position:0%
+five so if we click on our play here and
+we<00:12:44.079><c> keep</c><00:12:44.320><c> a</c><00:12:44.399><c> track</c><00:12:44.800><c> on</c><00:12:45.360><c> of</c><00:12:45.440><c> the</c><00:12:45.680><c> inventory</c>
+
+00:12:46.150 --> 00:12:46.160 align:start position:0%
+we keep a track on of the inventory
+ 
+
+00:12:46.160 --> 00:12:48.069 align:start position:0%
+we keep a track on of the inventory
+system<00:12:46.639><c> over</c><00:12:46.880><c> here</c>
+
+00:12:48.069 --> 00:12:48.079 align:start position:0%
+system over here
+ 
+
+00:12:48.079 --> 00:12:52.069 align:start position:0%
+system over here
+and<00:12:48.240><c> we</c><00:12:48.320><c> hit</c><00:12:48.560><c> play</c>
+
+00:12:52.069 --> 00:12:52.079 align:start position:0%
+ 
+ 
+
+00:12:52.079 --> 00:12:53.509 align:start position:0%
+ 
+so<00:12:52.240><c> we're</c><00:12:52.399><c> going</c><00:12:52.480><c> to</c><00:12:52.560><c> go</c><00:12:52.720><c> over</c><00:12:52.959><c> this</c><00:12:53.200><c> first</c>
+
+00:12:53.509 --> 00:12:53.519 align:start position:0%
+so we're going to go over this first
+ 
+
+00:12:53.519 --> 00:12:57.110 align:start position:0%
+so we're going to go over this first
+item
+
+00:12:57.110 --> 00:12:57.120 align:start position:0%
+ 
+ 
+
+00:12:57.120 --> 00:13:00.629 align:start position:0%
+ 
+and<00:12:57.200><c> nothing</c><00:12:57.600><c> happens</c>
+
+00:13:00.629 --> 00:13:00.639 align:start position:0%
+ 
+ 
+
+00:13:00.639 --> 00:13:04.150 align:start position:0%
+ 
+why<00:13:00.800><c> would</c><00:13:00.959><c> it</c><00:13:01.040><c> work</c><00:13:01.279><c> first</c><00:13:01.519><c> time</c>
+
+00:13:04.150 --> 00:13:04.160 align:start position:0%
+ 
+ 
+
+00:13:04.160 --> 00:13:08.710 align:start position:0%
+ 
+let's<00:13:04.320><c> see</c><00:13:04.480><c> what</c><00:13:04.720><c> the</c><00:13:04.880><c> problem</c><00:13:05.440><c> is</c><00:13:05.839><c> here</c>
+
+00:13:08.710 --> 00:13:08.720 align:start position:0%
+ 
+ 
+
+00:13:08.720 --> 00:13:10.230 align:start position:0%
+ 
+i<00:13:08.880><c> feel</c><00:13:09.040><c> like</c><00:13:09.279><c> it</c><00:13:09.360><c> might</c><00:13:09.519><c> be</c>
+
+00:13:10.230 --> 00:13:10.240 align:start position:0%
+i feel like it might be
+ 
+
+00:13:10.240 --> 00:13:12.230 align:start position:0%
+i feel like it might be
+this
+
+00:13:12.230 --> 00:13:12.240 align:start position:0%
+this
+ 
+
+00:13:12.240 --> 00:13:14.069 align:start position:0%
+this
+issue<00:13:12.480><c> we're</c><00:13:12.639><c> having</c><00:13:13.040><c> here</c><00:13:13.519><c> i</c><00:13:13.600><c> feel</c><00:13:13.839><c> like</c><00:13:13.920><c> it</c>
+
+00:13:14.069 --> 00:13:14.079 align:start position:0%
+issue we're having here i feel like it
+ 
+
+00:13:14.079 --> 00:13:17.190 align:start position:0%
+issue we're having here i feel like it
+might<00:13:14.240><c> be</c><00:13:14.399><c> this</c><00:13:14.959><c> here</c><00:13:15.200><c> this</c><00:13:15.440><c> condition</c><00:13:16.320><c> um</c>
+
+00:13:17.190 --> 00:13:17.200 align:start position:0%
+might be this here this condition um
+ 
+
+00:13:17.200 --> 00:13:21.750 align:start position:0%
+might be this here this condition um
+so<00:13:17.360><c> let's</c><00:13:17.519><c> just</c><00:13:17.760><c> debug</c><00:13:18.720><c> dot</c><00:13:19.440><c> log</c>
+
+00:13:21.750 --> 00:13:21.760 align:start position:0%
+so let's just debug dot log
+ 
+
+00:13:21.760 --> 00:13:27.350 align:start position:0%
+so let's just debug dot log
+in<00:13:22.079><c> slot</c><00:13:22.560><c> dot</c><00:13:22.880><c> count</c>
+
+00:13:27.350 --> 00:13:27.360 align:start position:0%
+ 
+ 
+
+00:13:27.360 --> 00:13:29.670 align:start position:0%
+ 
+i<00:13:27.600><c> feel</c><00:13:27.760><c> like</c><00:13:28.000><c> it</c><00:13:28.079><c> might</c><00:13:28.320><c> be</c><00:13:28.480><c> because</c><00:13:29.360><c> if</c><00:13:29.519><c> there</c>
+
+00:13:29.670 --> 00:13:29.680 align:start position:0%
+i feel like it might be because if there
+ 
+
+00:13:29.680 --> 00:13:31.110 align:start position:0%
+i feel like it might be because if there
+isn't<00:13:29.920><c> anything</c><00:13:30.240><c> in</c><00:13:30.399><c> it</c><00:13:30.480><c> the</c><00:13:30.639><c> count</c><00:13:30.800><c> would</c><00:13:30.959><c> be</c>
+
+00:13:31.110 --> 00:13:31.120 align:start position:0%
+isn't anything in it the count would be
+ 
+
+00:13:31.120 --> 00:13:32.949 align:start position:0%
+isn't anything in it the count would be
+zero<00:13:32.079><c> uh</c>
+
+00:13:32.949 --> 00:13:32.959 align:start position:0%
+zero uh
+ 
+
+00:13:32.959 --> 00:13:34.470 align:start position:0%
+zero uh
+then<00:13:33.200><c> that</c><00:13:33.680><c> list</c><00:13:34.000><c> isn't</c><00:13:34.160><c> gonna</c><00:13:34.320><c> be</c>
+
+00:13:34.470 --> 00:13:34.480 align:start position:0%
+then that list isn't gonna be
+ 
+
+00:13:34.480 --> 00:13:39.910 align:start position:0%
+then that list isn't gonna be
+initialized
+
+00:13:39.910 --> 00:13:39.920 align:start position:0%
+ 
+ 
+
+00:13:39.920 --> 00:13:42.310 align:start position:0%
+ 
+okay<00:13:40.160><c> so</c><00:13:40.240><c> we're</c><00:13:40.399><c> getting</c>
+
+00:13:42.310 --> 00:13:42.320 align:start position:0%
+okay so we're getting
+ 
+
+00:13:42.320 --> 00:13:45.670 align:start position:0%
+okay so we're getting
+count<00:13:42.639><c> as</c><00:13:42.880><c> zero</c><00:13:43.279><c> back</c><00:13:43.600><c> out</c>
+
+00:13:45.670 --> 00:13:45.680 align:start position:0%
+count as zero back out
+ 
+
+00:13:45.680 --> 00:13:47.670 align:start position:0%
+count as zero back out
+what<00:13:45.839><c> we</c><00:13:46.000><c> could</c><00:13:46.160><c> do</c><00:13:46.399><c> instead</c><00:13:46.800><c> let's</c>
+
+00:13:47.670 --> 00:13:47.680 align:start position:0%
+what we could do instead let's
+ 
+
+00:13:47.680 --> 00:13:50.710 align:start position:0%
+what we could do instead let's
+check<00:13:48.000><c> whether</c><00:13:48.320><c> this</c><00:13:48.720><c> is</c><00:13:49.360><c> null</c><00:13:49.760><c> so</c>
+
+00:13:50.710 --> 00:13:50.720 align:start position:0%
+check whether this is null so
+ 
+
+00:13:50.720 --> 00:13:53.030 align:start position:0%
+check whether this is null so
+is<00:13:51.040><c> our</c><00:13:51.360><c> inventory</c><00:13:52.079><c> slot</c>
+
+00:13:53.030 --> 00:13:53.040 align:start position:0%
+is our inventory slot
+ 
+
+00:13:53.040 --> 00:13:59.110 align:start position:0%
+is our inventory slot
+list<00:13:53.600><c> null</c>
+
+00:13:59.110 --> 00:13:59.120 align:start position:0%
+ 
+ 
+
+00:13:59.120 --> 00:14:02.069 align:start position:0%
+ 
+if<00:13:59.279><c> it</c><00:13:59.440><c> is</c><00:13:59.600><c> null</c><00:14:00.000><c> then</c><00:14:00.160><c> it'll</c><00:14:00.320><c> be</c><00:14:00.839><c> false</c><00:14:01.920><c> we're</c>
+
+00:14:02.069 --> 00:14:02.079 align:start position:0%
+if it is null then it'll be false we're
+ 
+
+00:14:02.079 --> 00:14:03.750 align:start position:0%
+if it is null then it'll be false we're
+going<00:14:02.160><c> to</c><00:14:02.240><c> return</c><00:14:02.639><c> false</c><00:14:03.040><c> because</c><00:14:03.360><c> we</c><00:14:03.519><c> haven't</c>
+
+00:14:03.750 --> 00:14:03.760 align:start position:0%
+going to return false because we haven't
+ 
+
+00:14:03.760 --> 00:14:05.110 align:start position:0%
+going to return false because we haven't
+found<00:14:04.079><c> anything</c>
+
+00:14:05.110 --> 00:14:05.120 align:start position:0%
+found anything
+ 
+
+00:14:05.120 --> 00:14:06.389 align:start position:0%
+found anything
+and<00:14:05.519><c> if</c>
+
+00:14:06.389 --> 00:14:06.399 align:start position:0%
+and if
+ 
+
+00:14:06.399 --> 00:14:09.110 align:start position:0%
+and if
+it<00:14:06.560><c> isn't</c><00:14:06.880><c> false</c>
+
+00:14:09.110 --> 00:14:09.120 align:start position:0%
+it isn't false
+ 
+
+00:14:09.120 --> 00:14:12.710 align:start position:0%
+it isn't false
+and<00:14:09.279><c> if</c><00:14:09.440><c> it</c><00:14:09.519><c> has</c><00:14:09.839><c> found</c><00:14:10.240><c> something</c><00:14:11.120><c> um</c><00:14:11.839><c> some</c>
+
+00:14:12.710 --> 00:14:12.720 align:start position:0%
+and if it has found something um some
+ 
+
+00:14:12.720 --> 00:14:14.389 align:start position:0%
+and if it has found something um some
+data<00:14:13.040><c> in</c><00:14:13.199><c> our</c><00:14:13.360><c> inventory</c><00:14:13.680><c> that</c><00:14:13.839><c> equals</c><00:14:14.240><c> this</c>
+
+00:14:14.389 --> 00:14:14.399 align:start position:0%
+data in our inventory that equals this
+ 
+
+00:14:14.399 --> 00:14:16.230 align:start position:0%
+data in our inventory that equals this
+item<00:14:14.720><c> then</c><00:14:14.880><c> it</c><00:14:14.959><c> will</c><00:14:15.120><c> return</c><00:14:15.600><c> true</c><00:14:16.000><c> because</c>
+
+00:14:16.230 --> 00:14:16.240 align:start position:0%
+item then it will return true because
+ 
+
+00:14:16.240 --> 00:14:17.990 align:start position:0%
+item then it will return true because
+this<00:14:16.399><c> won't</c><00:14:16.639><c> be</c><00:14:17.120><c> null</c>
+
+00:14:17.990 --> 00:14:18.000 align:start position:0%
+this won't be null
+ 
+
+00:14:18.000 --> 00:14:19.990 align:start position:0%
+this won't be null
+so<00:14:18.160><c> let's</c><00:14:18.320><c> just</c><00:14:18.480><c> leave</c><00:14:18.639><c> that</c><00:14:18.800><c> debug.log</c><00:14:19.839><c> in</c>
+
+00:14:19.990 --> 00:14:20.000 align:start position:0%
+so let's just leave that debug.log in
+ 
+
+00:14:20.000 --> 00:14:23.750 align:start position:0%
+so let's just leave that debug.log in
+for<00:14:20.160><c> now</c><00:14:20.320><c> let's</c><00:14:20.480><c> just</c><00:14:20.639><c> see</c><00:14:20.800><c> if</c><00:14:20.959><c> this</c><00:14:21.279><c> works</c>
+
+00:14:23.750 --> 00:14:23.760 align:start position:0%
+ 
+ 
+
+00:14:23.760 --> 00:14:26.069 align:start position:0%
+ 
+and<00:14:24.000><c> then</c><00:14:24.079><c> we'll</c><00:14:24.240><c> hit</c><00:14:24.480><c> play</c>
+
+00:14:26.069 --> 00:14:26.079 align:start position:0%
+and then we'll hit play
+ 
+
+00:14:26.079 --> 00:14:31.829 align:start position:0%
+and then we'll hit play
+and<00:14:26.240><c> we'll</c><00:14:26.399><c> drag</c><00:14:26.720><c> our</c><00:14:27.120><c> player</c><00:14:27.600><c> over</c>
+
+00:14:31.829 --> 00:14:31.839 align:start position:0%
+ 
+ 
+
+00:14:31.839 --> 00:14:33.590 align:start position:0%
+ 
+oh<00:14:32.160><c> you</c><00:14:32.240><c> know</c><00:14:32.399><c> what</c><00:14:32.639><c> our</c><00:14:32.800><c> mistake</c><00:14:33.199><c> is</c><00:14:33.440><c> we</c>
+
+00:14:33.590 --> 00:14:33.600 align:start position:0%
+oh you know what our mistake is we
+ 
+
+00:14:33.600 --> 00:14:35.829 align:start position:0%
+oh you know what our mistake is we
+haven't<00:14:34.000><c> set</c><00:14:34.240><c> up</c><00:14:34.399><c> the</c><00:14:34.560><c> free</c><00:14:34.880><c> slot</c><00:14:35.360><c> method</c>
+
+00:14:35.829 --> 00:14:35.839 align:start position:0%
+haven't set up the free slot method
+ 
+
+00:14:35.839 --> 00:14:38.150 align:start position:0%
+haven't set up the free slot method
+that's<00:14:36.160><c> why</c><00:14:36.639><c> well</c><00:14:36.880><c> we're</c><00:14:37.040><c> always</c><00:14:37.440><c> returning</c>
+
+00:14:38.150 --> 00:14:38.160 align:start position:0%
+that's why well we're always returning
+ 
+
+00:14:38.160 --> 00:14:40.550 align:start position:0%
+that's why well we're always returning
+false<00:14:39.040><c> so</c><00:14:39.199><c> we</c><00:14:39.279><c> can't</c><00:14:39.519><c> find</c><00:14:39.760><c> a</c><00:14:39.839><c> free</c><00:14:40.079><c> slot</c><00:14:40.320><c> to</c>
+
+00:14:40.550 --> 00:14:40.560 align:start position:0%
+false so we can't find a free slot to
+ 
+
+00:14:40.560 --> 00:14:43.990 align:start position:0%
+false so we can't find a free slot to
+add<00:14:40.720><c> it</c><00:14:40.880><c> to</c>
+
+00:14:43.990 --> 00:14:44.000 align:start position:0%
+ 
+ 
+
+00:14:44.000 --> 00:14:47.030 align:start position:0%
+ 
+was<00:14:44.160><c> my</c><00:14:44.399><c> mistake</c><00:14:45.279><c> so</c><00:14:45.600><c> let's</c><00:14:45.839><c> just</c><00:14:46.240><c> finish</c><00:14:46.639><c> this</c>
+
+00:14:47.030 --> 00:14:47.040 align:start position:0%
+was my mistake so let's just finish this
+ 
+
+00:14:47.040 --> 00:14:48.870 align:start position:0%
+was my mistake so let's just finish this
+method<00:14:47.360><c> before</c><00:14:47.600><c> we</c><00:14:47.760><c> get</c><00:14:47.839><c> ahead</c><00:14:48.079><c> of</c><00:14:48.240><c> ourselves</c>
+
+00:14:48.870 --> 00:14:48.880 align:start position:0%
+method before we get ahead of ourselves
+ 
+
+00:14:48.880 --> 00:14:50.870 align:start position:0%
+method before we get ahead of ourselves
+so<00:14:49.120><c> here</c><00:14:49.519><c> we're</c><00:14:49.680><c> going</c><00:14:49.839><c> to</c><00:14:49.920><c> say</c><00:14:50.240><c> free</c><00:14:50.480><c> slot</c>
+
+00:14:50.870 --> 00:14:50.880 align:start position:0%
+so here we're going to say free slot
+ 
+
+00:14:50.880 --> 00:14:53.110 align:start position:0%
+so here we're going to say free slot
+equals
+
+00:14:53.110 --> 00:14:53.120 align:start position:0%
+equals
+ 
+
+00:14:53.120 --> 00:14:55.509 align:start position:0%
+equals
+uh<00:14:53.760><c> inventory</c><00:14:54.639><c> slot</c>
+
+00:14:55.509 --> 00:14:55.519 align:start position:0%
+uh inventory slot
+ 
+
+00:14:55.519 --> 00:14:57.350 align:start position:0%
+uh inventory slot
+dot
+
+00:14:57.350 --> 00:14:57.360 align:start position:0%
+dot
+ 
+
+00:14:57.360 --> 00:14:58.870 align:start position:0%
+dot
+slots
+
+00:14:58.870 --> 00:14:58.880 align:start position:0%
+slots
+ 
+
+00:14:58.880 --> 00:15:01.269 align:start position:0%
+slots
+dot<00:14:59.440><c> first</c><00:15:00.000><c> or</c><00:15:00.240><c> default</c><00:15:00.639><c> which</c><00:15:00.800><c> is</c><00:15:00.959><c> another</c>
+
+00:15:01.269 --> 00:15:01.279 align:start position:0%
+dot first or default which is another
+ 
+
+00:15:01.279 --> 00:15:03.110 align:start position:0%
+dot first or default which is another
+system<00:15:01.680><c> link</c><00:15:02.160><c> um</c>
+
+00:15:03.110 --> 00:15:03.120 align:start position:0%
+system link um
+ 
+
+00:15:03.120 --> 00:15:08.230 align:start position:0%
+system link um
+method
+
+00:15:08.230 --> 00:15:08.240 align:start position:0%
+ 
+ 
+
+00:15:08.240 --> 00:15:09.910 align:start position:0%
+ 
+and<00:15:08.320><c> we're</c><00:15:08.480><c> just</c><00:15:08.639><c> going</c><00:15:08.720><c> to</c><00:15:08.880><c> say</c><00:15:09.279><c> the</c><00:15:09.519><c> first</c>
+
+00:15:09.910 --> 00:15:09.920 align:start position:0%
+and we're just going to say the first
+ 
+
+00:15:09.920 --> 00:15:13.430 align:start position:0%
+and we're just going to say the first
+inventory<00:15:10.560><c> slot</c><00:15:10.959><c> i</c>
+
+00:15:13.430 --> 00:15:13.440 align:start position:0%
+inventory slot i
+ 
+
+00:15:13.440 --> 00:15:16.949 align:start position:0%
+inventory slot i
+where<00:15:13.839><c> the</c><00:15:14.160><c> data</c><00:15:14.800><c> in</c><00:15:14.959><c> that</c><00:15:15.279><c> slot</c><00:15:15.839><c> is</c><00:15:16.160><c> null</c><00:15:16.639><c> so</c>
+
+00:15:16.949 --> 00:15:16.959 align:start position:0%
+where the data in that slot is null so
+ 
+
+00:15:16.959 --> 00:15:19.269 align:start position:0%
+where the data in that slot is null so
+if<00:15:17.199><c> it's</c><00:15:17.360><c> null</c>
+
+00:15:19.269 --> 00:15:19.279 align:start position:0%
+if it's null
+ 
+
+00:15:19.279 --> 00:15:21.110 align:start position:0%
+if it's null
+that<00:15:19.440><c> inventory</c><00:15:19.839><c> slot</c><00:15:20.079><c> is</c><00:15:20.160><c> obviously</c><00:15:20.560><c> empty</c>
+
+00:15:21.110 --> 00:15:21.120 align:start position:0%
+that inventory slot is obviously empty
+ 
+
+00:15:21.120 --> 00:15:22.870 align:start position:0%
+that inventory slot is obviously empty
+and<00:15:21.199><c> we're</c><00:15:21.440><c> going</c><00:15:21.519><c> to</c><00:15:21.600><c> get</c><00:15:21.760><c> the</c><00:15:21.839><c> first</c><00:15:22.320><c> slot</c>
+
+00:15:22.870 --> 00:15:22.880 align:start position:0%
+and we're going to get the first slot
+ 
+
+00:15:22.880 --> 00:15:23.750 align:start position:0%
+and we're going to get the first slot
+that
+
+00:15:23.750 --> 00:15:23.760 align:start position:0%
+that
+ 
+
+00:15:23.760 --> 00:15:26.230 align:start position:0%
+that
+meets<00:15:24.079><c> this</c><00:15:24.240><c> criteria</c><00:15:25.040><c> here</c><00:15:25.519><c> and</c><00:15:25.600><c> then</c><00:15:26.000><c> just</c>
+
+00:15:26.230 --> 00:15:26.240 align:start position:0%
+meets this criteria here and then just
+ 
+
+00:15:26.240 --> 00:15:29.829 align:start position:0%
+meets this criteria here and then just
+like<00:15:26.480><c> our</c><00:15:26.720><c> contains</c><00:15:27.519><c> item</c><00:15:28.160><c> we</c><00:15:28.320><c> can</c><00:15:28.480><c> do</c>
+
+00:15:29.829 --> 00:15:29.839 align:start position:0%
+like our contains item we can do
+ 
+
+00:15:29.839 --> 00:15:32.310 align:start position:0%
+like our contains item we can do
+we<00:15:30.000><c> can</c><00:15:30.079><c> just</c><00:15:30.240><c> return</c><00:15:31.040><c> free</c><00:15:31.360><c> slot</c>
+
+00:15:32.310 --> 00:15:32.320 align:start position:0%
+we can just return free slot
+ 
+
+00:15:32.320 --> 00:15:35.350 align:start position:0%
+we can just return free slot
+it's<00:15:32.480><c> free</c><00:15:32.720><c> slot</c><00:15:33.040><c> null</c>
+
+00:15:35.350 --> 00:15:35.360 align:start position:0%
+it's free slot null
+ 
+
+00:15:35.360 --> 00:15:37.910 align:start position:0%
+it's free slot null
+so<00:15:35.759><c> has</c><00:15:36.000><c> it</c><00:15:36.160><c> found</c><00:15:36.639><c> a</c>
+
+00:15:37.910 --> 00:15:37.920 align:start position:0%
+so has it found a
+ 
+
+00:15:37.920 --> 00:15:40.470 align:start position:0%
+so has it found a
+empty<00:15:38.320><c> slot</c>
+
+00:15:40.470 --> 00:15:40.480 align:start position:0%
+empty slot
+ 
+
+00:15:40.480 --> 00:15:42.629 align:start position:0%
+empty slot
+if<00:15:40.720><c> it</c><00:15:40.800><c> has</c><00:15:41.040><c> found</c><00:15:41.279><c> an</c><00:15:41.440><c> empty</c><00:15:41.759><c> slot</c>
+
+00:15:42.629 --> 00:15:42.639 align:start position:0%
+if it has found an empty slot
+ 
+
+00:15:42.639 --> 00:15:44.230 align:start position:0%
+if it has found an empty slot
+free<00:15:42.880><c> slot</c><00:15:43.199><c> would</c><00:15:43.360><c> not</c><00:15:43.519><c> be</c><00:15:43.680><c> null</c><00:15:43.920><c> so</c><00:15:44.079><c> it</c><00:15:44.160><c> would</c>
+
+00:15:44.230 --> 00:15:44.240 align:start position:0%
+free slot would not be null so it would
+ 
+
+00:15:44.240 --> 00:15:46.470 align:start position:0%
+free slot would not be null so it would
+be<00:15:44.399><c> true</c><00:15:44.880><c> if</c><00:15:45.120><c> it</c><00:15:45.199><c> hasn't</c><00:15:45.519><c> found</c><00:15:45.839><c> one</c><00:15:46.000><c> then</c><00:15:46.240><c> free</c>
+
+00:15:46.470 --> 00:15:46.480 align:start position:0%
+be true if it hasn't found one then free
+ 
+
+00:15:46.480 --> 00:15:47.990 align:start position:0%
+be true if it hasn't found one then free
+slot<00:15:46.800><c> would</c><00:15:46.959><c> be</c><00:15:47.199><c> null</c>
+
+00:15:47.990 --> 00:15:48.000 align:start position:0%
+slot would be null
+ 
+
+00:15:48.000 --> 00:15:49.430 align:start position:0%
+slot would be null
+so<00:15:48.160><c> it</c><00:15:48.240><c> would</c><00:15:48.320><c> be</c><00:15:48.480><c> false</c><00:15:48.959><c> and</c><00:15:49.040><c> we</c><00:15:49.199><c> wouldn't</c>
+
+00:15:49.430 --> 00:15:49.440 align:start position:0%
+so it would be false and we wouldn't
+ 
+
+00:15:49.440 --> 00:15:51.189 align:start position:0%
+so it would be false and we wouldn't
+have<00:15:49.519><c> found</c><00:15:49.759><c> a</c><00:15:49.839><c> free</c><00:15:50.079><c> slot</c><00:15:50.399><c> so</c>
+
+00:15:51.189 --> 00:15:51.199 align:start position:0%
+have found a free slot so
+ 
+
+00:15:51.199 --> 00:15:53.030 align:start position:0%
+have found a free slot so
+let's<00:15:51.440><c> go</c><00:15:51.600><c> back</c><00:15:51.920><c> over</c><00:15:52.240><c> to</c>
+
+00:15:53.030 --> 00:15:53.040 align:start position:0%
+let's go back over to
+ 
+
+00:15:53.040 --> 00:15:55.350 align:start position:0%
+let's go back over to
+unity<00:15:53.440><c> and</c><00:15:53.519><c> try</c><00:15:53.759><c> this</c><00:15:54.000><c> now</c><00:15:54.399><c> go</c><00:15:54.560><c> we</c><00:15:54.720><c> can</c><00:15:54.880><c> add</c><00:15:55.120><c> our</c>
+
+00:15:55.350 --> 00:15:55.360 align:start position:0%
+unity and try this now go we can add our
+ 
+
+00:15:55.360 --> 00:15:57.110 align:start position:0%
+unity and try this now go we can add our
+items<00:15:55.759><c> as</c><00:15:55.839><c> we</c><00:15:56.000><c> drag</c><00:15:56.240><c> our</c><00:15:56.399><c> player</c><00:15:56.800><c> we</c><00:15:56.880><c> can</c><00:15:57.040><c> see</c>
+
+00:15:57.110 --> 00:15:57.120 align:start position:0%
+items as we drag our player we can see
+ 
+
+00:15:57.120 --> 00:16:00.069 align:start position:0%
+items as we drag our player we can see
+the<00:15:57.360><c> stack</c><00:15:57.680><c> size</c><00:15:58.000><c> four</c><00:15:58.399><c> stack</c><00:15:58.720><c> size</c><00:15:59.120><c> five</c>
+
+00:16:00.069 --> 00:16:00.079 align:start position:0%
+the stack size four stack size five
+ 
+
+00:16:00.079 --> 00:16:02.790 align:start position:0%
+the stack size four stack size five
+so<00:16:00.320><c> our</c><00:16:00.480><c> maximum</c><00:16:00.959><c> stack</c><00:16:01.279><c> size</c><00:16:01.680><c> is</c><00:16:02.000><c> five</c><00:16:02.480><c> as</c><00:16:02.639><c> we</c>
+
+00:16:02.790 --> 00:16:02.800 align:start position:0%
+so our maximum stack size is five as we
+ 
+
+00:16:02.800 --> 00:16:05.509 align:start position:0%
+so our maximum stack size is five as we
+go<00:16:02.959><c> over</c><00:16:03.199><c> this</c><00:16:03.519><c> next</c><00:16:04.000><c> item</c><00:16:04.480><c> we</c><00:16:04.720><c> should</c><00:16:05.120><c> go</c><00:16:05.360><c> to</c>
+
+00:16:05.509 --> 00:16:05.519 align:start position:0%
+go over this next item we should go to
+ 
+
+00:16:05.519 --> 00:16:07.749 align:start position:0%
+go over this next item we should go to
+the<00:16:05.680><c> next</c><00:16:06.240><c> free</c><00:16:06.639><c> slot</c><00:16:06.959><c> which</c><00:16:07.199><c> is</c><00:16:07.279><c> this</c><00:16:07.519><c> one</c>
+
+00:16:07.749 --> 00:16:07.759 align:start position:0%
+the next free slot which is this one
+ 
+
+00:16:07.759 --> 00:16:09.430 align:start position:0%
+the next free slot which is this one
+here
+
+00:16:09.430 --> 00:16:09.440 align:start position:0%
+here
+ 
+
+00:16:09.440 --> 00:16:12.470 align:start position:0%
+here
+and<00:16:09.519><c> there</c><00:16:09.680><c> you</c><00:16:09.839><c> go</c><00:16:10.160><c> so</c><00:16:10.720><c> stack</c><00:16:11.120><c> size</c><00:16:11.759><c> one</c><00:16:12.240><c> this</c>
+
+00:16:12.470 --> 00:16:12.480 align:start position:0%
+and there you go so stack size one this
+ 
+
+00:16:12.480 --> 00:16:14.230 align:start position:0%
+and there you go so stack size one this
+is<00:16:12.639><c> our</c><00:16:12.880><c> new</c><00:16:13.199><c> slot</c>
+
+00:16:14.230 --> 00:16:14.240 align:start position:0%
+is our new slot
+ 
+
+00:16:14.240 --> 00:16:18.470 align:start position:0%
+is our new slot
+if<00:16:14.639><c> we</c><00:16:14.800><c> made</c><00:16:15.360><c> a</c><00:16:16.000><c> another</c><00:16:16.560><c> copy</c><00:16:17.199><c> of</c><00:16:17.519><c> this</c><00:16:18.079><c> item</c>
+
+00:16:18.470 --> 00:16:18.480 align:start position:0%
+if we made a another copy of this item
+ 
+
+00:16:18.480 --> 00:16:20.069 align:start position:0%
+if we made a another copy of this item
+here
+
+00:16:20.069 --> 00:16:20.079 align:start position:0%
+here
+ 
+
+00:16:20.079 --> 00:16:23.110 align:start position:0%
+here
+but<00:16:20.320><c> instead</c><00:16:20.639><c> we</c><00:16:20.800><c> called</c><00:16:21.360><c> this</c><00:16:22.000><c> test</c>
+
+00:16:23.110 --> 00:16:23.120 align:start position:0%
+but instead we called this test
+ 
+
+00:16:23.120 --> 00:16:24.310 align:start position:0%
+but instead we called this test
+item
+
+00:16:24.310 --> 00:16:24.320 align:start position:0%
+item
+ 
+
+00:16:24.320 --> 00:16:25.910 align:start position:0%
+item
+two
+
+00:16:25.910 --> 00:16:25.920 align:start position:0%
+two
+ 
+
+00:16:25.920 --> 00:16:28.790 align:start position:0%
+two
+and<00:16:26.079><c> let's</c><00:16:26.240><c> just</c><00:16:26.480><c> make</c><00:16:26.880><c> this</c><00:16:27.600><c> um</c><00:16:28.399><c> let's</c><00:16:28.639><c> make</c>
+
+00:16:28.790 --> 00:16:28.800 align:start position:0%
+and let's just make this um let's make
+ 
+
+00:16:28.800 --> 00:16:30.470 align:start position:0%
+and let's just make this um let's make
+another
+
+00:16:30.470 --> 00:16:30.480 align:start position:0%
+another
+ 
+
+00:16:30.480 --> 00:16:33.030 align:start position:0%
+another
+material<00:16:31.279><c> and</c><00:16:31.360><c> we'll</c><00:16:31.519><c> just</c><00:16:31.680><c> call</c><00:16:31.920><c> this</c><00:16:32.320><c> uh</c>
+
+00:16:33.030 --> 00:16:33.040 align:start position:0%
+material and we'll just call this uh
+ 
+
+00:16:33.040 --> 00:16:36.230 align:start position:0%
+material and we'll just call this uh
+green
+
+00:16:36.230 --> 00:16:36.240 align:start position:0%
+ 
+ 
+
+00:16:36.240 --> 00:16:42.949 align:start position:0%
+ 
+set<00:16:36.399><c> it</c><00:16:36.480><c> to</c><00:16:36.720><c> a</c><00:16:36.800><c> green</c><00:16:37.120><c> color</c><00:16:37.680><c> assign</c><00:16:38.079><c> that</c><00:16:38.320><c> here</c>
+
+00:16:42.949 --> 00:16:42.959 align:start position:0%
+ 
+ 
+
+00:16:42.959 --> 00:16:45.509 align:start position:0%
+ 
+i'm<00:16:43.120><c> just</c><00:16:43.279><c> going</c><00:16:43.360><c> to</c><00:16:43.440><c> swap</c><00:16:43.839><c> these</c><00:16:44.560><c> places</c>
+
+00:16:45.509 --> 00:16:45.519 align:start position:0%
+i'm just going to swap these places
+ 
+
+00:16:45.519 --> 00:16:49.269 align:start position:0%
+i'm just going to swap these places
+round
+
+00:16:49.269 --> 00:16:49.279 align:start position:0%
+ 
+ 
+
+00:16:49.279 --> 00:16:51.910 align:start position:0%
+ 
+so<00:16:49.600><c> our</c><00:16:50.240><c> test</c><00:16:50.560><c> item</c><00:16:50.880><c> two</c><00:16:51.120><c> here</c><00:16:51.279><c> this</c><00:16:51.440><c> green</c><00:16:51.759><c> one</c>
+
+00:16:51.910 --> 00:16:51.920 align:start position:0%
+so our test item two here this green one
+ 
+
+00:16:51.920 --> 00:16:58.790 align:start position:0%
+so our test item two here this green one
+let's<00:16:52.160><c> set</c><00:16:52.399><c> that</c><00:16:52.720><c> to</c><00:16:53.040><c> test</c><00:16:53.360><c> item</c><00:16:53.680><c> two</c>
+
+00:16:58.790 --> 00:16:58.800 align:start position:0%
+ 
+ 
+
+00:16:58.800 --> 00:17:00.629 align:start position:0%
+ 
+i'm<00:16:59.040><c> just</c><00:16:59.199><c> gonna</c><00:16:59.279><c> make</c><00:16:59.440><c> another</c><00:16:59.759><c> copy</c><00:17:00.240><c> of</c><00:17:00.399><c> it</c>
+
+00:17:00.629 --> 00:17:00.639 align:start position:0%
+i'm just gonna make another copy of it
+ 
+
+00:17:00.639 --> 00:17:01.590 align:start position:0%
+i'm just gonna make another copy of it
+here
+
+00:17:01.590 --> 00:17:01.600 align:start position:0%
+here
+ 
+
+00:17:01.600 --> 00:17:04.150 align:start position:0%
+here
+and<00:17:02.000><c> in</c><00:17:02.160><c> our</c><00:17:02.320><c> test</c><00:17:02.560><c> item</c><00:17:02.800><c> two</c><00:17:03.040><c> we</c><00:17:03.199><c> set</c><00:17:03.440><c> the</c><00:17:03.600><c> data</c>
+
+00:17:04.150 --> 00:17:04.160 align:start position:0%
+and in our test item two we set the data
+ 
+
+00:17:04.160 --> 00:17:06.710 align:start position:0%
+and in our test item two we set the data
+the<00:17:04.319><c> max</c><00:17:04.559><c> stack</c><00:17:04.880><c> size</c><00:17:05.199><c> to</c><00:17:05.439><c> one</c>
+
+00:17:06.710 --> 00:17:06.720 align:start position:0%
+the max stack size to one
+ 
+
+00:17:06.720 --> 00:17:09.029 align:start position:0%
+the max stack size to one
+so<00:17:07.120><c> as</c><00:17:07.360><c> our</c><00:17:07.600><c> player</c><00:17:07.919><c> goes</c><00:17:08.160><c> over</c><00:17:08.480><c> we're</c><00:17:08.640><c> gonna</c>
+
+00:17:09.029 --> 00:17:09.039 align:start position:0%
+so as our player goes over we're gonna
+ 
+
+00:17:09.039 --> 00:17:10.870 align:start position:0%
+so as our player goes over we're gonna
+pick<00:17:09.280><c> up</c><00:17:09.520><c> five</c><00:17:10.079><c> then</c><00:17:10.240><c> we're</c><00:17:10.400><c> gonna</c><00:17:10.559><c> pick</c><00:17:10.720><c> up</c>
+
+00:17:10.870 --> 00:17:10.880 align:start position:0%
+pick up five then we're gonna pick up
+ 
+
+00:17:10.880 --> 00:17:12.710 align:start position:0%
+pick up five then we're gonna pick up
+one<00:17:11.039><c> of</c><00:17:11.199><c> our</c><00:17:11.360><c> test</c><00:17:11.600><c> item</c><00:17:11.919><c> two</c>
+
+00:17:12.710 --> 00:17:12.720 align:start position:0%
+one of our test item two
+ 
+
+00:17:12.720 --> 00:17:15.029 align:start position:0%
+one of our test item two
+and<00:17:12.880><c> then</c><00:17:13.039><c> we're</c><00:17:13.199><c> gonna</c><00:17:13.760><c> check</c><00:17:14.079><c> our</c><00:17:14.319><c> inventory</c>
+
+00:17:15.029 --> 00:17:15.039 align:start position:0%
+and then we're gonna check our inventory
+ 
+
+00:17:15.039 --> 00:17:17.110 align:start position:0%
+and then we're gonna check our inventory
+for<00:17:15.280><c> this</c><00:17:15.839><c> see</c><00:17:16.079><c> that</c><00:17:16.319><c> we're</c><00:17:16.480><c> at</c><00:17:16.559><c> the</c><00:17:16.720><c> maximum</c>
+
+00:17:17.110 --> 00:17:17.120 align:start position:0%
+for this see that we're at the maximum
+ 
+
+00:17:17.120 --> 00:17:21.350 align:start position:0%
+for this see that we're at the maximum
+stack<00:17:17.439><c> so</c><00:17:17.600><c> we'll</c><00:17:17.679><c> get</c><00:17:17.839><c> the</c><00:17:17.919><c> next</c><00:17:18.240><c> free</c><00:17:18.559><c> slot</c>
+
+00:17:21.350 --> 00:17:21.360 align:start position:0%
+ 
+ 
+
+00:17:21.360 --> 00:17:23.590 align:start position:0%
+ 
+which<00:17:21.600><c> won't</c><00:17:21.919><c> be</c><00:17:22.319><c> slot</c><00:17:22.720><c> two</c><00:17:22.959><c> because</c><00:17:23.280><c> this</c><00:17:23.439><c> is</c>
+
+00:17:23.590 --> 00:17:23.600 align:start position:0%
+which won't be slot two because this is
+ 
+
+00:17:23.600 --> 00:17:25.189 align:start position:0%
+which won't be slot two because this is
+going<00:17:23.679><c> to</c><00:17:23.760><c> be</c><00:17:23.839><c> in</c><00:17:24.000><c> it</c><00:17:24.240><c> so</c><00:17:24.480><c> we'll</c><00:17:24.640><c> get</c><00:17:24.799><c> the</c><00:17:24.880><c> next</c>
+
+00:17:25.189 --> 00:17:25.199 align:start position:0%
+going to be in it so we'll get the next
+ 
+
+00:17:25.199 --> 00:17:27.029 align:start position:0%
+going to be in it so we'll get the next
+one<00:17:25.439><c> after</c><00:17:25.760><c> that</c><00:17:26.000><c> so</c><00:17:26.240><c> let's</c><00:17:26.400><c> hit</c><00:17:26.640><c> play</c><00:17:26.799><c> and</c><00:17:26.880><c> we</c>
+
+00:17:27.029 --> 00:17:27.039 align:start position:0%
+one after that so let's hit play and we
+ 
+
+00:17:27.039 --> 00:17:29.590 align:start position:0%
+one after that so let's hit play and we
+can<00:17:27.120><c> see</c><00:17:27.280><c> that</c><00:17:27.520><c> all</c><00:17:27.760><c> working</c>
+
+00:17:29.590 --> 00:17:29.600 align:start position:0%
+can see that all working
+ 
+
+00:17:29.600 --> 00:17:31.270 align:start position:0%
+can see that all working
+so<00:17:29.760><c> let's</c><00:17:30.000><c> drag</c><00:17:30.320><c> our</c><00:17:30.480><c> player</c><00:17:30.720><c> forward</c><00:17:31.120><c> so</c>
+
+00:17:31.270 --> 00:17:31.280 align:start position:0%
+so let's drag our player forward so
+ 
+
+00:17:31.280 --> 00:17:34.789 align:start position:0%
+so let's drag our player forward so
+we've<00:17:31.440><c> got</c><00:17:31.600><c> our</c><00:17:31.840><c> five</c><00:17:32.559><c> test</c><00:17:32.880><c> item</c><00:17:33.120><c> ones</c>
+
+00:17:34.789 --> 00:17:34.799 align:start position:0%
+we've got our five test item ones
+ 
+
+00:17:34.799 --> 00:17:37.270 align:start position:0%
+we've got our five test item ones
+test<00:17:35.120><c> item</c><00:17:35.360><c> two</c><00:17:35.840><c> goes</c><00:17:36.160><c> into</c><00:17:36.400><c> the</c><00:17:36.480><c> first</c><00:17:37.039><c> free</c>
+
+00:17:37.270 --> 00:17:37.280 align:start position:0%
+test item two goes into the first free
+ 
+
+00:17:37.280 --> 00:17:39.110 align:start position:0%
+test item two goes into the first free
+slot<00:17:37.600><c> that</c><00:17:37.760><c> it</c><00:17:37.919><c> found</c>
+
+00:17:39.110 --> 00:17:39.120 align:start position:0%
+slot that it found
+ 
+
+00:17:39.120 --> 00:17:42.549 align:start position:0%
+slot that it found
+test<00:17:39.520><c> item</c><00:17:40.240><c> one</c><00:17:40.480><c> again</c><00:17:41.039><c> but</c><00:17:41.440><c> our</c><00:17:41.760><c> stack</c><00:17:42.160><c> size</c>
+
+00:17:42.549 --> 00:17:42.559 align:start position:0%
+test item one again but our stack size
+ 
+
+00:17:42.559 --> 00:17:44.310 align:start position:0%
+test item one again but our stack size
+is<00:17:42.799><c> full</c><00:17:43.200><c> so</c><00:17:43.440><c> it's</c><00:17:43.600><c> going</c><00:17:43.679><c> to</c><00:17:43.760><c> go</c><00:17:43.919><c> into</c><00:17:44.160><c> the</c>
+
+00:17:44.310 --> 00:17:44.320 align:start position:0%
+is full so it's going to go into the
+ 
+
+00:17:44.320 --> 00:17:46.710 align:start position:0%
+is full so it's going to go into the
+next<00:17:44.799><c> free</c><00:17:45.120><c> slot</c><00:17:45.360><c> that</c><00:17:45.520><c> was</c><00:17:45.760><c> available</c><00:17:46.559><c> it</c>
+
+00:17:46.710 --> 00:17:46.720 align:start position:0%
+next free slot that was available it
+ 
+
+00:17:46.720 --> 00:17:48.310 align:start position:0%
+next free slot that was available it
+won't<00:17:46.880><c> go</c><00:17:47.120><c> over</c><00:17:47.280><c> this</c><00:17:47.440><c> one</c><00:17:47.679><c> or</c><00:17:47.760><c> overwrite</c><00:17:48.160><c> that</c>
+
+00:17:48.310 --> 00:17:48.320 align:start position:0%
+won't go over this one or overwrite that
+ 
+
+00:17:48.320 --> 00:17:50.870 align:start position:0%
+won't go over this one or overwrite that
+one<00:17:49.039><c> and</c><00:17:49.200><c> then</c><00:17:49.360><c> as</c><00:17:49.440><c> we</c><00:17:49.600><c> go</c><00:17:49.679><c> over</c><00:17:49.919><c> this</c><00:17:50.559><c> so</c><00:17:50.720><c> the</c>
+
+00:17:50.870 --> 00:17:50.880 align:start position:0%
+one and then as we go over this so the
+ 
+
+00:17:50.880 --> 00:17:53.029 align:start position:0%
+one and then as we go over this so the
+stack<00:17:51.280><c> size</c><00:17:51.679><c> was</c><00:17:51.919><c> one</c><00:17:52.160><c> that's</c><00:17:52.400><c> the</c><00:17:52.559><c> maximum</c>
+
+00:17:53.029 --> 00:17:53.039 align:start position:0%
+stack size was one that's the maximum
+ 
+
+00:17:53.039 --> 00:17:54.950 align:start position:0%
+stack size was one that's the maximum
+for<00:17:53.200><c> test</c><00:17:53.440><c> item</c><00:17:53.679><c> two</c><00:17:54.000><c> so</c><00:17:54.160><c> we've</c><00:17:54.320><c> gone</c><00:17:54.559><c> into</c><00:17:54.799><c> the</c>
+
+00:17:54.950 --> 00:17:54.960 align:start position:0%
+for test item two so we've gone into the
+ 
+
+00:17:54.960 --> 00:17:57.750 align:start position:0%
+for test item two so we've gone into the
+next<00:17:55.360><c> free</c><00:17:55.600><c> slot</c><00:17:56.320><c> so</c><00:17:56.559><c> if</c><00:17:56.720><c> i</c><00:17:56.880><c> copy</c>
+
+00:17:57.750 --> 00:17:57.760 align:start position:0%
+next free slot so if i copy
+ 
+
+00:17:57.760 --> 00:18:04.789 align:start position:0%
+next free slot so if i copy
+these<00:17:58.400><c> and</c><00:17:58.960><c> we</c><00:18:00.000><c> make</c><00:18:00.240><c> another</c><00:18:00.640><c> row</c>
+
+00:18:04.789 --> 00:18:04.799 align:start position:0%
+ 
+ 
+
+00:18:04.799 --> 00:18:07.909 align:start position:0%
+ 
+if<00:18:04.960><c> i</c><00:18:05.039><c> get</c><00:18:05.200><c> a</c><00:18:05.440><c> player</c><00:18:06.320><c> and</c><00:18:06.799><c> fill</c><00:18:07.039><c> up</c><00:18:07.280><c> our</c>
+
+00:18:07.909 --> 00:18:07.919 align:start position:0%
+if i get a player and fill up our
+ 
+
+00:18:07.919 --> 00:18:11.909 align:start position:0%
+if i get a player and fill up our
+inventory
+
+00:18:11.909 --> 00:18:11.919 align:start position:0%
+ 
+ 
+
+00:18:11.919 --> 00:18:14.470 align:start position:0%
+ 
+well<00:18:12.080><c> that</c><00:18:12.400><c> filled</c><00:18:12.720><c> up</c><00:18:12.880><c> the</c><00:18:12.960><c> inventory</c>
+
+00:18:14.470 --> 00:18:14.480 align:start position:0%
+well that filled up the inventory
+ 
+
+00:18:14.480 --> 00:18:15.350 align:start position:0%
+well that filled up the inventory
+no
+
+00:18:15.350 --> 00:18:15.360 align:start position:0%
+no
+ 
+
+00:18:15.360 --> 00:18:18.310 align:start position:0%
+no
+let's<00:18:15.840><c> um</c><00:18:16.559><c> let's</c><00:18:16.720><c> just</c><00:18:16.960><c> set</c><00:18:17.200><c> the</c><00:18:17.360><c> stack</c><00:18:17.840><c> size</c>
+
+00:18:18.310 --> 00:18:18.320 align:start position:0%
+let's um let's just set the stack size
+ 
+
+00:18:18.320 --> 00:18:19.190 align:start position:0%
+let's um let's just set the stack size
+of
+
+00:18:19.190 --> 00:18:19.200 align:start position:0%
+of
+ 
+
+00:18:19.200 --> 00:18:25.350 align:start position:0%
+of
+test<00:18:19.520><c> item</c><00:18:19.840><c> one</c><00:18:20.240><c> to</c><00:18:20.480><c> one</c><00:18:20.799><c> also</c>
+
+00:18:25.350 --> 00:18:25.360 align:start position:0%
+ 
+ 
+
+00:18:25.360 --> 00:18:28.470 align:start position:0%
+ 
+as<00:18:25.520><c> we</c><00:18:25.679><c> pick</c><00:18:25.919><c> up</c><00:18:26.000><c> these</c><00:18:26.320><c> items</c>
+
+00:18:28.470 --> 00:18:28.480 align:start position:0%
+as we pick up these items
+ 
+
+00:18:28.480 --> 00:18:30.390 align:start position:0%
+as we pick up these items
+so<00:18:28.720><c> our</c><00:18:29.039><c> inventory</c><00:18:29.360><c> is</c><00:18:29.520><c> full</c><00:18:29.679><c> now</c><00:18:29.919><c> when</c><00:18:30.080><c> we</c><00:18:30.240><c> go</c>
+
+00:18:30.390 --> 00:18:30.400 align:start position:0%
+so our inventory is full now when we go
+ 
+
+00:18:30.400 --> 00:18:32.310 align:start position:0%
+so our inventory is full now when we go
+over<00:18:30.720><c> these</c><00:18:30.960><c> items</c><00:18:31.280><c> our</c><00:18:31.440><c> inventory</c><00:18:31.919><c> will</c><00:18:32.080><c> be</c>
+
+00:18:32.310 --> 00:18:32.320 align:start position:0%
+over these items our inventory will be
+ 
+
+00:18:32.320 --> 00:18:34.390 align:start position:0%
+over these items our inventory will be
+full<00:18:32.880><c> we</c><00:18:33.039><c> won't</c><00:18:33.360><c> successfully</c><00:18:33.919><c> add</c><00:18:34.000><c> it</c><00:18:34.080><c> to</c><00:18:34.240><c> our</c>
+
+00:18:34.390 --> 00:18:34.400 align:start position:0%
+full we won't successfully add it to our
+ 
+
+00:18:34.400 --> 00:18:36.390 align:start position:0%
+full we won't successfully add it to our
+inventory<00:18:34.720><c> so</c><00:18:34.880><c> they</c><00:18:34.960><c> won't</c><00:18:35.280><c> delete</c>
+
+00:18:36.390 --> 00:18:36.400 align:start position:0%
+inventory so they won't delete
+ 
+
+00:18:36.400 --> 00:18:39.270 align:start position:0%
+inventory so they won't delete
+so<00:18:36.559><c> you</c><00:18:36.640><c> see</c><00:18:36.799><c> that</c><00:18:36.960><c> as</c><00:18:37.120><c> we</c><00:18:37.280><c> go</c><00:18:37.520><c> through</c><00:18:37.760><c> them</c>
+
+00:18:39.270 --> 00:18:39.280 align:start position:0%
+so you see that as we go through them
+ 
+
+00:18:39.280 --> 00:18:40.630 align:start position:0%
+so you see that as we go through them
+they're<00:18:39.440><c> not</c><00:18:39.600><c> coming</c><00:18:39.840><c> up</c><00:18:40.000><c> off</c><00:18:40.160><c> the</c><00:18:40.240><c> ground</c>
+
+00:18:40.630 --> 00:18:40.640 align:start position:0%
+they're not coming up off the ground
+ 
+
+00:18:40.640 --> 00:18:42.230 align:start position:0%
+they're not coming up off the ground
+because<00:18:40.880><c> they</c><00:18:41.039><c> can't</c><00:18:41.280><c> successfully</c><00:18:42.000><c> add</c>
+
+00:18:42.230 --> 00:18:42.240 align:start position:0%
+because they can't successfully add
+ 
+
+00:18:42.240 --> 00:18:44.870 align:start position:0%
+because they can't successfully add
+themselves<00:18:42.799><c> to</c><00:18:43.120><c> our</c><00:18:43.440><c> inventory</c><00:18:44.480><c> if</c><00:18:44.720><c> we</c>
+
+00:18:44.870 --> 00:18:44.880 align:start position:0%
+themselves to our inventory if we
+ 
+
+00:18:44.880 --> 00:18:48.230 align:start position:0%
+themselves to our inventory if we
+deleted<00:18:45.760><c> um</c><00:18:46.559><c> an</c><00:18:46.720><c> item</c><00:18:47.440><c> and</c>
+
+00:18:48.230 --> 00:18:48.240 align:start position:0%
+deleted um an item and
+ 
+
+00:18:48.240 --> 00:18:50.310 align:start position:0%
+deleted um an item and
+made<00:18:48.480><c> it</c><00:18:48.559><c> back</c><00:18:48.799><c> to</c><00:18:48.960><c> its</c><00:18:49.120><c> null</c><00:18:49.440><c> state</c><00:18:50.000><c> we</c><00:18:50.160><c> could</c>
+
+00:18:50.310 --> 00:18:50.320 align:start position:0%
+made it back to its null state we could
+ 
+
+00:18:50.320 --> 00:18:51.909 align:start position:0%
+made it back to its null state we could
+add<00:18:50.640><c> another</c><00:18:51.039><c> item</c><00:18:51.200><c> to</c><00:18:51.360><c> our</c><00:18:51.520><c> inventory</c><00:18:51.840><c> and</c>
+
+00:18:51.909 --> 00:18:51.919 align:start position:0%
+add another item to our inventory and
+ 
+
+00:18:51.919 --> 00:18:53.830 align:start position:0%
+add another item to our inventory and
+it'd<00:18:52.080><c> go</c><00:18:52.240><c> into</c><00:18:52.400><c> that</c><00:18:52.559><c> free</c><00:18:52.799><c> slot</c><00:18:53.440><c> okay</c><00:18:53.679><c> so</c>
+
+00:18:53.830 --> 00:18:53.840 align:start position:0%
+it'd go into that free slot okay so
+ 
+
+00:18:53.840 --> 00:18:56.390 align:start position:0%
+it'd go into that free slot okay so
+that's<00:18:54.080><c> part</c><00:18:54.400><c> two</c><00:18:54.960><c> done</c><00:18:55.280><c> of</c><00:18:55.520><c> our</c><00:18:55.760><c> inventory</c>
+
+00:18:56.390 --> 00:18:56.400 align:start position:0%
+that's part two done of our inventory
+ 
+
+00:18:56.400 --> 00:18:58.230 align:start position:0%
+that's part two done of our inventory
+system<00:18:56.880><c> it</c><00:18:57.039><c> was</c><00:18:57.120><c> a</c><00:18:57.200><c> bit</c><00:18:57.360><c> shorter</c><00:18:57.679><c> than</c><00:18:57.919><c> part</c>
+
+00:18:58.230 --> 00:18:58.240 align:start position:0%
+system it was a bit shorter than part
+ 
+
+00:18:58.240 --> 00:18:59.029 align:start position:0%
+system it was a bit shorter than part
+one
+
+00:18:59.029 --> 00:18:59.039 align:start position:0%
+one
+ 
+
+00:18:59.039 --> 00:19:01.669 align:start position:0%
+one
+um<00:18:59.679><c> but</c><00:18:59.919><c> we</c><00:19:00.160><c> had</c><00:19:00.559><c> kind</c><00:19:00.720><c> of</c><00:19:00.960><c> you</c><00:19:01.120><c> know</c><00:19:01.280><c> we'd</c><00:19:01.520><c> set</c>
+
+00:19:01.669 --> 00:19:01.679 align:start position:0%
+um but we had kind of you know we'd set
+ 
+
+00:19:01.679 --> 00:19:03.830 align:start position:0%
+um but we had kind of you know we'd set
+up<00:19:01.840><c> a</c><00:19:02.000><c> quite</c><00:19:02.160><c> a</c><00:19:02.240><c> good</c><00:19:02.400><c> framework</c><00:19:03.039><c> in</c><00:19:03.200><c> the</c><00:19:03.280><c> first</c>
+
+00:19:03.830 --> 00:19:03.840 align:start position:0%
+up a quite a good framework in the first
+ 
+
+00:19:03.840 --> 00:19:06.150 align:start position:0%
+up a quite a good framework in the first
+video<00:19:04.400><c> to</c><00:19:04.559><c> just</c><00:19:04.799><c> build</c><00:19:05.039><c> upon</c><00:19:05.360><c> in</c><00:19:05.440><c> this</c><00:19:05.760><c> second</c>
+
+00:19:06.150 --> 00:19:06.160 align:start position:0%
+video to just build upon in this second
+ 
+
+00:19:06.160 --> 00:19:08.230 align:start position:0%
+video to just build upon in this second
+one<00:19:06.720><c> you</c><00:19:06.880><c> can</c><00:19:06.960><c> see</c><00:19:07.120><c> that</c><00:19:07.280><c> the</c><00:19:07.360><c> functionality</c>
+
+00:19:08.230 --> 00:19:08.240 align:start position:0%
+one you can see that the functionality
+ 
+
+00:19:08.240 --> 00:19:10.470 align:start position:0%
+one you can see that the functionality
+is<00:19:08.400><c> kind</c><00:19:08.640><c> of</c><00:19:08.799><c> now</c><00:19:09.360><c> working</c><00:19:09.919><c> as</c><00:19:10.160><c> you</c><00:19:10.240><c> would</c>
+
+00:19:10.470 --> 00:19:10.480 align:start position:0%
+is kind of now working as you would
+ 
+
+00:19:10.480 --> 00:19:12.230 align:start position:0%
+is kind of now working as you would
+expect<00:19:11.440><c> so</c>
+
+00:19:12.230 --> 00:19:12.240 align:start position:0%
+expect so
+ 
+
+00:19:12.240 --> 00:19:14.230 align:start position:0%
+expect so
+going<00:19:12.559><c> forward</c><00:19:13.280><c> we</c><00:19:13.440><c> are</c><00:19:13.520><c> going</c><00:19:13.679><c> to</c><00:19:13.760><c> build</c><00:19:14.000><c> on</c>
+
+00:19:14.230 --> 00:19:14.240 align:start position:0%
+going forward we are going to build on
+ 
+
+00:19:14.240 --> 00:19:15.750 align:start position:0%
+going forward we are going to build on
+the<00:19:14.400><c> system</c><00:19:14.799><c> a</c><00:19:14.880><c> little</c><00:19:15.039><c> bit</c><00:19:15.200><c> in</c><00:19:15.280><c> the</c><00:19:15.360><c> back</c><00:19:15.600><c> end</c>
+
+00:19:15.750 --> 00:19:15.760 align:start position:0%
+the system a little bit in the back end
+ 
+
+00:19:15.760 --> 00:19:17.350 align:start position:0%
+the system a little bit in the back end
+but<00:19:15.919><c> we're</c><00:19:16.080><c> going</c><00:19:16.160><c> to</c><00:19:16.320><c> start</c><00:19:16.640><c> putting</c><00:19:16.960><c> the</c><00:19:17.039><c> ui</c>
+
+00:19:17.350 --> 00:19:17.360 align:start position:0%
+but we're going to start putting the ui
+ 
+
+00:19:17.360 --> 00:19:19.029 align:start position:0%
+but we're going to start putting the ui
+elements<00:19:17.760><c> together</c><00:19:18.080><c> and</c><00:19:18.240><c> showing</c><00:19:18.559><c> how</c><00:19:18.720><c> we</c><00:19:18.880><c> can</c>
+
+00:19:19.029 --> 00:19:19.039 align:start position:0%
+elements together and showing how we can
+ 
+
+00:19:19.039 --> 00:19:21.110 align:start position:0%
+elements together and showing how we can
+update<00:19:19.360><c> the</c><00:19:19.520><c> ui</c><00:19:19.919><c> based</c><00:19:20.240><c> on</c><00:19:20.400><c> what</c><00:19:20.559><c> is</c><00:19:20.720><c> actually</c>
+
+00:19:21.110 --> 00:19:21.120 align:start position:0%
+update the ui based on what is actually
+ 
+
+00:19:21.120 --> 00:19:23.590 align:start position:0%
+update the ui based on what is actually
+in<00:19:21.280><c> our</c><00:19:21.520><c> inventory</c><00:19:22.400><c> again</c><00:19:22.720><c> i</c><00:19:22.799><c> hope</c><00:19:23.039><c> this</c><00:19:23.280><c> is</c>
+
+00:19:23.590 --> 00:19:23.600 align:start position:0%
+in our inventory again i hope this is
+ 
+
+00:19:23.600 --> 00:19:26.470 align:start position:0%
+in our inventory again i hope this is
+all<00:19:23.840><c> making</c><00:19:24.240><c> sense</c><00:19:24.799><c> so</c><00:19:25.039><c> far</c><00:19:25.360><c> if</c><00:19:25.520><c> it's</c><00:19:25.679><c> not</c><00:19:26.240><c> or</c>
+
+00:19:26.470 --> 00:19:26.480 align:start position:0%
+all making sense so far if it's not or
+ 
+
+00:19:26.480 --> 00:19:28.150 align:start position:0%
+all making sense so far if it's not or
+you'd<00:19:26.640><c> like</c><00:19:26.880><c> anything</c><00:19:27.200><c> kind</c><00:19:27.360><c> of</c><00:19:27.440><c> clarified</c>
+
+00:19:28.150 --> 00:19:28.160 align:start position:0%
+you'd like anything kind of clarified
+ 
+
+00:19:28.160 --> 00:19:29.830 align:start position:0%
+you'd like anything kind of clarified
+feel<00:19:28.400><c> free</c><00:19:28.640><c> to</c><00:19:28.720><c> join</c><00:19:28.960><c> the</c><00:19:29.039><c> discord</c><00:19:29.520><c> server</c>
+
+00:19:29.830 --> 00:19:29.840 align:start position:0%
+feel free to join the discord server
+ 
+
+00:19:29.840 --> 00:19:31.270 align:start position:0%
+feel free to join the discord server
+which<00:19:30.000><c> is</c><00:19:30.080><c> linked</c><00:19:30.320><c> in</c><00:19:30.400><c> the</c><00:19:30.480><c> description</c><00:19:31.039><c> or</c>
+
+00:19:31.270 --> 00:19:31.280 align:start position:0%
+which is linked in the description or
+ 
+
+00:19:31.280 --> 00:19:32.950 align:start position:0%
+which is linked in the description or
+leave<00:19:31.440><c> a</c><00:19:31.520><c> comment</c><00:19:31.840><c> below</c><00:19:32.400><c> if</c><00:19:32.480><c> you're</c><00:19:32.640><c> watching</c>
+
+00:19:32.950 --> 00:19:32.960 align:start position:0%
+leave a comment below if you're watching
+ 
+
+00:19:32.960 --> 00:19:34.789 align:start position:0%
+leave a comment below if you're watching
+these<00:19:33.200><c> live</c><00:19:33.520><c> as</c><00:19:33.679><c> they</c><00:19:33.840><c> come</c><00:19:34.160><c> out</c><00:19:34.320><c> the</c><00:19:34.480><c> whole</c>
+
+00:19:34.789 --> 00:19:34.799 align:start position:0%
+these live as they come out the whole
+ 
+
+00:19:34.799 --> 00:19:37.830 align:start position:0%
+these live as they come out the whole
+series<00:19:35.280><c> of</c><00:19:35.440><c> this</c><00:19:35.760><c> is</c><00:19:36.000><c> over</c><00:19:36.320><c> up</c><00:19:36.480><c> on</c><00:19:37.200><c> patreon</c>
+
+00:19:37.830 --> 00:19:37.840 align:start position:0%
+series of this is over up on patreon
+ 
+
+00:19:37.840 --> 00:19:39.750 align:start position:0%
+series of this is over up on patreon
+which<00:19:38.000><c> is</c><00:19:38.160><c> patreon.com</c><00:19:39.200><c> forward</c><00:19:39.440><c> slash</c>
+
+00:19:39.750 --> 00:19:39.760 align:start position:0%
+which is patreon.com forward slash
+ 
+
+00:19:39.760 --> 00:19:41.990 align:start position:0%
+which is patreon.com forward slash
+danpos<00:19:40.640><c> you'll</c><00:19:40.799><c> get</c><00:19:40.960><c> the</c><00:19:41.039><c> access</c><00:19:41.440><c> to</c><00:19:41.600><c> the</c><00:19:41.760><c> full</c>
+
+00:19:41.990 --> 00:19:42.000 align:start position:0%
+danpos you'll get the access to the full
+ 
+
+00:19:42.000 --> 00:19:43.990 align:start position:0%
+danpos you'll get the access to the full
+series<00:19:42.559><c> and</c><00:19:42.799><c> all</c><00:19:42.960><c> of</c><00:19:43.039><c> the</c><00:19:43.200><c> project</c><00:19:43.520><c> files</c><00:19:43.919><c> as</c>
+
+00:19:43.990 --> 00:19:44.000 align:start position:0%
+series and all of the project files as
+ 
+
+00:19:44.000 --> 00:19:46.390 align:start position:0%
+series and all of the project files as
+well<00:19:44.240><c> to</c><00:19:44.400><c> the</c><00:19:44.559><c> scripts</c><00:19:44.960><c> that</c><00:19:45.120><c> we're</c><00:19:45.600><c> building</c>
+
+00:19:46.390 --> 00:19:46.400 align:start position:0%
+well to the scripts that we're building
+ 
+
+00:19:46.400 --> 00:19:48.549 align:start position:0%
+well to the scripts that we're building
+i'm<00:19:46.559><c> organizing</c><00:19:47.120><c> the</c><00:19:47.280><c> scripts</c><00:19:47.679><c> by</c><00:19:47.919><c> lesson</c><00:19:48.400><c> in</c>
+
+00:19:48.549 --> 00:19:48.559 align:start position:0%
+i'm organizing the scripts by lesson in
+ 
+
+00:19:48.559 --> 00:19:49.830 align:start position:0%
+i'm organizing the scripts by lesson in
+packages<00:19:49.039><c> so</c><00:19:49.120><c> you'll</c><00:19:49.280><c> be</c><00:19:49.360><c> able</c><00:19:49.440><c> to</c><00:19:49.600><c> get</c><00:19:49.760><c> the</c>
+
+00:19:49.830 --> 00:19:49.840 align:start position:0%
+packages so you'll be able to get the
+ 
+
+00:19:49.840 --> 00:19:51.029 align:start position:0%
+packages so you'll be able to get the
+package<00:19:50.240><c> for</c><00:19:50.400><c> the</c><00:19:50.480><c> lesson</c><00:19:50.799><c> that</c><00:19:50.880><c> you're</c>
+
+00:19:51.029 --> 00:19:51.039 align:start position:0%
+package for the lesson that you're
+ 
+
+00:19:51.039 --> 00:19:53.270 align:start position:0%
+package for the lesson that you're
+following<00:19:52.320><c> patreon</c><00:19:52.799><c> is</c><00:19:52.880><c> linked</c><00:19:53.120><c> in</c><00:19:53.200><c> the</c>
+
+00:19:53.270 --> 00:19:53.280 align:start position:0%
+following patreon is linked in the
+ 
+
+00:19:53.280 --> 00:19:54.950 align:start position:0%
+following patreon is linked in the
+description<00:19:53.760><c> below</c><00:19:54.080><c> as</c><00:19:54.160><c> well</c><00:19:54.720><c> that's</c>
+
+00:19:54.950 --> 00:19:54.960 align:start position:0%
+description below as well that's
+ 
+
+00:19:54.960 --> 00:19:56.230 align:start position:0%
+description below as well that's
+everything<00:19:55.200><c> for</c><00:19:55.360><c> this</c><00:19:55.520><c> video</c><00:19:55.919><c> thanks</c><00:19:56.160><c> for</c>
+
+00:19:56.230 --> 00:19:56.240 align:start position:0%
+everything for this video thanks for
+ 
+
+00:19:56.240 --> 00:19:57.350 align:start position:0%
+everything for this video thanks for
+watching<00:19:56.559><c> and</c><00:19:56.720><c> i'll</c><00:19:56.799><c> see</c><00:19:56.960><c> you</c><00:19:56.960><c> in</c><00:19:57.039><c> the</c><00:19:57.120><c> next</c>
+
+00:19:57.350 --> 00:19:57.360 align:start position:0%
+watching and i'll see you in the next
+ 
+
+00:19:57.360 --> 00:20:20.549 align:start position:0%
+watching and i'll see you in the next
+one<00:19:57.600><c> bye</c>
+
+00:20:20.549 --> 00:20:20.559 align:start position:0%
+ 
+ 
+
+00:20:20.559 --> 00:20:22.640 align:start position:0%
+ 
+you
+

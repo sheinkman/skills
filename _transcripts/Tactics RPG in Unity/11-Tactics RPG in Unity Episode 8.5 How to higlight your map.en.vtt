@@ -1,0 +1,608 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.560 --> 00:00:02.550 align:start position:0%
+ 
+hello<00:00:00.880><c> everyone</c><00:00:01.199><c> my</c><00:00:01.360><c> name</c><00:00:01.599><c> is</c><00:00:01.680><c> greg</c><00:00:02.159><c> and</c><00:00:02.240><c> i</c><00:00:02.399><c> do</c>
+
+00:00:02.550 --> 00:00:02.560 align:start position:0%
+hello everyone my name is greg and i do
+ 
+
+00:00:02.560 --> 00:00:04.550 align:start position:0%
+hello everyone my name is greg and i do
+stuff<00:00:02.960><c> welcome</c><00:00:03.280><c> everyone</c><00:00:03.760><c> to</c><00:00:04.000><c> additional</c>
+
+00:00:04.550 --> 00:00:04.560 align:start position:0%
+stuff welcome everyone to additional
+ 
+
+00:00:04.560 --> 00:00:07.909 align:start position:0%
+stuff welcome everyone to additional
+episode<00:00:05.200><c> to</c><00:00:05.759><c> tactics</c><00:00:06.319><c> game</c><00:00:06.720><c> in</c><00:00:06.879><c> unity</c><00:00:07.520><c> this</c><00:00:07.759><c> is</c>
+
+00:00:07.909 --> 00:00:07.919 align:start position:0%
+episode to tactics game in unity this is
+ 
+
+00:00:07.919 --> 00:00:11.030 align:start position:0%
+episode to tactics game in unity this is
+episode<00:00:08.480><c> 1</c><00:00:08.960><c> and</c><00:00:09.360><c> in</c><00:00:09.519><c> this</c><00:00:09.840><c> episode</c><00:00:10.400><c> we</c><00:00:10.639><c> will</c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+episode 1 and in this episode we will
+ 
+
+00:00:11.040 --> 00:00:14.549 align:start position:0%
+episode 1 and in this episode we will
+figure<00:00:11.440><c> out</c><00:00:11.759><c> how</c><00:00:12.000><c> to</c><00:00:12.320><c> render</c><00:00:12.880><c> our</c><00:00:13.280><c> highlights</c>
+
+00:00:14.549 --> 00:00:14.559 align:start position:0%
+figure out how to render our highlights
+ 
+
+00:00:14.559 --> 00:00:17.430 align:start position:0%
+figure out how to render our highlights
+object<00:00:15.200><c> on</c><00:00:15.360><c> top</c><00:00:15.599><c> of</c><00:00:15.759><c> the</c><00:00:15.839><c> terrain</c>
+
+00:00:17.430 --> 00:00:17.440 align:start position:0%
+object on top of the terrain
+ 
+
+00:00:17.440 --> 00:00:19.910 align:start position:0%
+object on top of the terrain
+warning<00:00:18.400><c> i'm</c><00:00:18.640><c> not</c><00:00:18.800><c> very</c><00:00:19.039><c> proficient</c><00:00:19.600><c> with</c>
+
+00:00:19.910 --> 00:00:19.920 align:start position:0%
+warning i'm not very proficient with
+ 
+
+00:00:19.920 --> 00:00:22.710 align:start position:0%
+warning i'm not very proficient with
+unity<00:00:20.320><c> renderer</c><00:00:20.880><c> and</c><00:00:21.039><c> unity</c><00:00:21.520><c> shaders</c><00:00:22.480><c> i'm</c>
+
+00:00:22.710 --> 00:00:22.720 align:start position:0%
+unity renderer and unity shaders i'm
+ 
+
+00:00:22.720 --> 00:00:25.269 align:start position:0%
+unity renderer and unity shaders i'm
+still<00:00:23.039><c> learning</c><00:00:23.519><c> those</c><00:00:23.840><c> systems</c><00:00:24.720><c> so</c><00:00:24.960><c> take</c>
+
+00:00:25.269 --> 00:00:25.279 align:start position:0%
+still learning those systems so take
+ 
+
+00:00:25.279 --> 00:00:28.710 align:start position:0%
+still learning those systems so take
+this<00:00:25.599><c> method</c><00:00:26.560><c> presented</c><00:00:27.199><c> in</c><00:00:27.279><c> this</c><00:00:27.599><c> video</c><00:00:28.480><c> with</c>
+
+00:00:28.710 --> 00:00:28.720 align:start position:0%
+this method presented in this video with
+ 
+
+00:00:28.720 --> 00:00:31.589 align:start position:0%
+this method presented in this video with
+the<00:00:28.800><c> grain</c><00:00:29.199><c> of</c><00:00:29.359><c> salt</c><00:00:30.240><c> there</c><00:00:30.560><c> might</c><00:00:30.800><c> be</c><00:00:31.279><c> a</c>
+
+00:00:31.589 --> 00:00:31.599 align:start position:0%
+the grain of salt there might be a
+ 
+
+00:00:31.599 --> 00:00:33.430 align:start position:0%
+the grain of salt there might be a
+better<00:00:31.920><c> way</c><00:00:32.079><c> to</c><00:00:32.239><c> make</c><00:00:32.480><c> this</c>
+
+00:00:33.430 --> 00:00:33.440 align:start position:0%
+better way to make this
+ 
+
+00:00:33.440 --> 00:00:36.069 align:start position:0%
+better way to make this
+if<00:00:33.600><c> you</c><00:00:33.760><c> know</c><00:00:34.079><c> better</c><00:00:34.559><c> methods</c><00:00:35.120><c> to</c><00:00:35.520><c> make</c><00:00:35.840><c> what</c>
+
+00:00:36.069 --> 00:00:36.079 align:start position:0%
+if you know better methods to make what
+ 
+
+00:00:36.079 --> 00:00:38.069 align:start position:0%
+if you know better methods to make what
+we're<00:00:36.239><c> trying</c><00:00:36.559><c> to</c><00:00:36.640><c> achieve</c><00:00:37.040><c> in</c><00:00:37.200><c> this</c><00:00:37.440><c> video</c>
+
+00:00:38.069 --> 00:00:38.079 align:start position:0%
+we're trying to achieve in this video
+ 
+
+00:00:38.079 --> 00:00:44.630 align:start position:0%
+we're trying to achieve in this video
+please<00:00:38.399><c> let</c><00:00:38.640><c> me</c><00:00:38.800><c> know</c><00:00:39.200><c> in</c><00:00:39.520><c> the</c><00:00:39.680><c> comments</c><00:00:40.079><c> below</c>
+
+00:00:44.630 --> 00:00:44.640 align:start position:0%
+ 
+ 
+
+00:00:44.640 --> 00:00:46.069 align:start position:0%
+ 
+in<00:00:44.800><c> the</c><00:00:45.039><c> game</c>
+
+00:00:46.069 --> 00:00:46.079 align:start position:0%
+in the game
+ 
+
+00:00:46.079 --> 00:00:48.470 align:start position:0%
+in the game
+now<00:00:46.399><c> you</c><00:00:46.640><c> will</c><00:00:46.879><c> see</c><00:00:47.120><c> the</c><00:00:47.280><c> highlighter</c><00:00:48.160><c> on</c><00:00:48.239><c> the</c>
+
+00:00:48.470 --> 00:00:48.480 align:start position:0%
+now you will see the highlighter on the
+ 
+
+00:00:48.480 --> 00:00:50.869 align:start position:0%
+now you will see the highlighter on the
+scene<00:00:49.280><c> but</c><00:00:49.440><c> you</c><00:00:49.600><c> will</c><00:00:49.840><c> see</c><00:00:50.079><c> a</c><00:00:50.160><c> small</c><00:00:50.559><c> problem</c>
+
+00:00:50.869 --> 00:00:50.879 align:start position:0%
+scene but you will see a small problem
+ 
+
+00:00:50.879 --> 00:00:51.910 align:start position:0%
+scene but you will see a small problem
+with<00:00:51.120><c> it</c>
+
+00:00:51.910 --> 00:00:51.920 align:start position:0%
+with it
+ 
+
+00:00:51.920 --> 00:00:55.670 align:start position:0%
+with it
+it<00:00:52.480><c> can</c><00:00:52.800><c> be</c><00:00:53.280><c> invisible</c><00:00:54.000><c> or</c><00:00:54.399><c> partially</c><00:00:55.039><c> visible</c>
+
+00:00:55.670 --> 00:00:55.680 align:start position:0%
+it can be invisible or partially visible
+ 
+
+00:00:55.680 --> 00:00:58.310 align:start position:0%
+it can be invisible or partially visible
+because<00:00:56.239><c> it</c><00:00:56.480><c> will</c><00:00:56.719><c> be</c><00:00:56.879><c> hidden</c><00:00:57.440><c> by</c><00:00:58.000><c> your</c>
+
+00:00:58.310 --> 00:00:58.320 align:start position:0%
+because it will be hidden by your
+ 
+
+00:00:58.320 --> 00:01:01.270 align:start position:0%
+because it will be hidden by your
+terrain<00:00:58.960><c> or</c><00:00:59.359><c> any</c><00:00:59.600><c> other</c><00:00:59.840><c> objects</c>
+
+00:01:01.270 --> 00:01:01.280 align:start position:0%
+terrain or any other objects
+ 
+
+00:01:01.280 --> 00:01:04.469 align:start position:0%
+terrain or any other objects
+so<00:01:01.520><c> to</c><00:01:01.760><c> make</c><00:01:02.000><c> them</c><00:01:02.399><c> always</c><00:01:02.879><c> clearly</c><00:01:03.440><c> visible</c>
+
+00:01:04.469 --> 00:01:04.479 align:start position:0%
+so to make them always clearly visible
+ 
+
+00:01:04.479 --> 00:01:07.590 align:start position:0%
+so to make them always clearly visible
+we<00:01:04.640><c> want</c><00:01:04.879><c> to</c><00:01:05.119><c> make</c><00:01:05.600><c> them</c><00:01:06.000><c> rendered</c><00:01:07.119><c> always</c>
+
+00:01:07.590 --> 00:01:07.600 align:start position:0%
+we want to make them rendered always
+ 
+
+00:01:07.600 --> 00:01:09.270 align:start position:0%
+we want to make them rendered always
+over<00:01:07.920><c> the</c><00:01:08.080><c> terrain</c>
+
+00:01:09.270 --> 00:01:09.280 align:start position:0%
+over the terrain
+ 
+
+00:01:09.280 --> 00:01:12.390 align:start position:0%
+over the terrain
+to<00:01:09.439><c> do</c><00:01:09.600><c> this</c><00:01:10.080><c> first</c><00:01:10.560><c> create</c><00:01:11.040><c> a</c><00:01:11.200><c> new</c><00:01:11.520><c> layer</c><00:01:12.080><c> for</c>
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+to do this first create a new layer for
+ 
+
+00:01:12.400 --> 00:01:14.950 align:start position:0%
+to do this first create a new layer for
+the<00:01:12.720><c> highlight</c><00:01:13.280><c> object</c><00:01:14.000><c> called</c><00:01:14.479><c> highlight</c>
+
+00:01:14.950 --> 00:01:14.960 align:start position:0%
+the highlight object called highlight
+ 
+
+00:01:14.960 --> 00:01:23.270 align:start position:0%
+the highlight object called highlight
+object
+
+00:01:23.270 --> 00:01:23.280 align:start position:0%
+ 
+ 
+
+00:01:23.280 --> 00:01:25.990 align:start position:0%
+ 
+assign<00:01:23.759><c> this</c><00:01:24.000><c> layer</c><00:01:24.479><c> to</c><00:01:24.720><c> the</c><00:01:24.880><c> prefab</c><00:01:25.600><c> of</c><00:01:25.759><c> the</c>
+
+00:01:25.990 --> 00:01:26.000 align:start position:0%
+assign this layer to the prefab of the
+ 
+
+00:01:26.000 --> 00:01:31.109 align:start position:0%
+assign this layer to the prefab of the
+move<00:01:26.320><c> point</c>
+
+00:01:31.109 --> 00:01:31.119 align:start position:0%
+ 
+ 
+
+00:01:31.119 --> 00:01:33.429 align:start position:0%
+ 
+now<00:01:31.439><c> what</c><00:01:31.680><c> we</c><00:01:31.840><c> want</c><00:01:32.079><c> to</c><00:01:32.240><c> do</c><00:01:32.560><c> is</c><00:01:32.720><c> to</c><00:01:32.960><c> tell</c><00:01:33.200><c> to</c>
+
+00:01:33.429 --> 00:01:33.439 align:start position:0%
+now what we want to do is to tell to
+ 
+
+00:01:33.439 --> 00:01:36.630 align:start position:0%
+now what we want to do is to tell to
+unity<00:01:34.400><c> in</c><00:01:34.640><c> what</c><00:01:34.880><c> order</c><00:01:35.439><c> it</c><00:01:35.680><c> should</c><00:01:35.920><c> render</c><00:01:36.400><c> its</c>
+
+00:01:36.630 --> 00:01:36.640 align:start position:0%
+unity in what order it should render its
+ 
+
+00:01:36.640 --> 00:01:37.830 align:start position:0%
+unity in what order it should render its
+layers
+
+00:01:37.830 --> 00:01:37.840 align:start position:0%
+layers
+ 
+
+00:01:37.840 --> 00:01:40.069 align:start position:0%
+layers
+this<00:01:38.079><c> will</c><00:01:38.320><c> allow</c><00:01:38.720><c> us</c><00:01:38.880><c> to</c><00:01:39.040><c> render</c><00:01:39.520><c> the</c><00:01:39.759><c> move</c>
+
+00:01:40.069 --> 00:01:40.079 align:start position:0%
+this will allow us to render the move
+ 
+
+00:01:40.079 --> 00:01:43.030 align:start position:0%
+this will allow us to render the move
+point<00:01:40.479><c> highlight</c><00:01:41.040><c> on</c><00:01:41.200><c> top</c><00:01:41.520><c> of</c><00:01:41.600><c> the</c><00:01:41.759><c> terrain</c>
+
+00:01:43.030 --> 00:01:43.040 align:start position:0%
+point highlight on top of the terrain
+ 
+
+00:01:43.040 --> 00:01:45.670 align:start position:0%
+point highlight on top of the terrain
+open<00:01:43.360><c> the</c><00:01:43.600><c> settings</c><00:01:44.159><c> of</c><00:01:44.320><c> the</c><00:01:44.479><c> project</c><00:01:45.360><c> open</c>
+
+00:01:45.670 --> 00:01:45.680 align:start position:0%
+open the settings of the project open
+ 
+
+00:01:45.680 --> 00:01:46.870 align:start position:0%
+open the settings of the project open
+graphics
+
+00:01:46.870 --> 00:01:46.880 align:start position:0%
+graphics
+ 
+
+00:01:46.880 --> 00:01:55.109 align:start position:0%
+graphics
+and<00:01:47.119><c> click</c><00:01:47.520><c> on</c><00:01:47.840><c> the</c><00:01:48.399><c> urp</c><00:01:49.439><c> pipeline</c><00:01:50.079><c> settings</c>
+
+00:01:55.109 --> 00:01:55.119 align:start position:0%
+ 
+ 
+
+00:01:55.119 --> 00:01:56.950 align:start position:0%
+ 
+this<00:01:55.360><c> will</c><00:01:55.600><c> show</c><00:01:55.840><c> you</c><00:01:56.000><c> currently</c><00:01:56.560><c> used</c>
+
+00:01:56.950 --> 00:01:56.960 align:start position:0%
+this will show you currently used
+ 
+
+00:01:56.960 --> 00:01:59.910 align:start position:0%
+this will show you currently used
+scriptable<00:01:57.600><c> objects</c><00:01:58.560><c> for</c><00:01:58.799><c> settings</c>
+
+00:01:59.910 --> 00:01:59.920 align:start position:0%
+scriptable objects for settings
+ 
+
+00:01:59.920 --> 00:02:02.789 align:start position:0%
+scriptable objects for settings
+inside<00:02:00.399><c> you</c><00:02:00.479><c> can</c><00:02:00.719><c> see</c><00:02:00.960><c> the</c><00:02:01.119><c> renderer</c><00:02:01.920><c> settings</c>
+
+00:02:02.789 --> 00:02:02.799 align:start position:0%
+inside you can see the renderer settings
+ 
+
+00:02:02.799 --> 00:02:04.950 align:start position:0%
+inside you can see the renderer settings
+click<00:02:03.119><c> on</c><00:02:03.360><c> it</c><00:02:03.680><c> and</c><00:02:03.920><c> it</c><00:02:04.079><c> will</c><00:02:04.399><c> show</c><00:02:04.640><c> you</c><00:02:04.799><c> the</c>
+
+00:02:04.950 --> 00:02:04.960 align:start position:0%
+click on it and it will show you the
+ 
+
+00:02:04.960 --> 00:02:07.030 align:start position:0%
+click on it and it will show you the
+renderer<00:02:05.600><c> settings</c>
+
+00:02:07.030 --> 00:02:07.040 align:start position:0%
+renderer settings
+ 
+
+00:02:07.040 --> 00:02:10.389 align:start position:0%
+renderer settings
+these<00:02:07.360><c> settings</c><00:02:08.000><c> define</c><00:02:08.560><c> how</c><00:02:08.959><c> your</c><00:02:09.679><c> renderer</c>
+
+00:02:10.389 --> 00:02:10.399 align:start position:0%
+these settings define how your renderer
+ 
+
+00:02:10.399 --> 00:02:12.869 align:start position:0%
+these settings define how your renderer
+in<00:02:10.560><c> unity</c><00:02:11.280><c> will</c><00:02:11.599><c> behave</c>
+
+00:02:12.869 --> 00:02:12.879 align:start position:0%
+in unity will behave
+ 
+
+00:02:12.879 --> 00:02:15.589 align:start position:0%
+in unity will behave
+so<00:02:13.040><c> what</c><00:02:13.200><c> we</c><00:02:13.360><c> need</c><00:02:13.520><c> to</c><00:02:13.680><c> do</c><00:02:14.080><c> is</c><00:02:14.319><c> to</c><00:02:14.560><c> turn</c><00:02:15.040><c> off</c><00:02:15.360><c> all</c>
+
+00:02:15.589 --> 00:02:15.599 align:start position:0%
+so what we need to do is to turn off all
+ 
+
+00:02:15.599 --> 00:02:18.790 align:start position:0%
+so what we need to do is to turn off all
+the<00:02:15.840><c> filtering</c><00:02:16.640><c> except</c><00:02:17.200><c> the</c><00:02:17.599><c> terrain</c><00:02:18.560><c> don't</c>
+
+00:02:18.790 --> 00:02:18.800 align:start position:0%
+the filtering except the terrain don't
+ 
+
+00:02:18.800 --> 00:02:22.790 align:start position:0%
+the filtering except the terrain don't
+worry<00:02:19.200><c> about</c><00:02:19.520><c> everything</c><00:02:20.000><c> disappearing</c>
+
+00:02:22.790 --> 00:02:22.800 align:start position:0%
+worry about everything disappearing
+ 
+
+00:02:22.800 --> 00:02:26.309 align:start position:0%
+worry about everything disappearing
+now<00:02:23.120><c> we</c><00:02:23.280><c> want</c><00:02:23.599><c> to</c><00:02:24.000><c> form</c><00:02:24.800><c> the</c><00:02:25.120><c> order</c><00:02:25.760><c> in</c><00:02:25.920><c> which</c>
+
+00:02:26.309 --> 00:02:26.319 align:start position:0%
+now we want to form the order in which
+ 
+
+00:02:26.319 --> 00:02:29.750 align:start position:0%
+now we want to form the order in which
+everything<00:02:27.120><c> needs</c><00:02:27.360><c> to</c><00:02:27.520><c> be</c><00:02:27.760><c> rendered</c>
+
+00:02:29.750 --> 00:02:29.760 align:start position:0%
+everything needs to be rendered
+ 
+
+00:02:29.760 --> 00:02:33.670 align:start position:0%
+everything needs to be rendered
+and<00:02:30.560><c> render</c><00:02:31.200><c> object</c><00:02:31.680><c> for</c><00:02:31.920><c> a</c><00:02:32.080><c> highlight</c><00:02:32.640><c> object</c>
+
+00:02:33.670 --> 00:02:33.680 align:start position:0%
+and render object for a highlight object
+ 
+
+00:02:33.680 --> 00:02:35.910 align:start position:0%
+and render object for a highlight object
+mark<00:02:33.920><c> them</c><00:02:34.160><c> as</c><00:02:34.319><c> transparent</c><00:02:35.120><c> because</c><00:02:35.599><c> our</c>
+
+00:02:35.910 --> 00:02:35.920 align:start position:0%
+mark them as transparent because our
+ 
+
+00:02:35.920 --> 00:02:38.229 align:start position:0%
+mark them as transparent because our
+highlights<00:02:36.640><c> are</c><00:02:37.040><c> transparent</c>
+
+00:02:38.229 --> 00:02:38.239 align:start position:0%
+highlights are transparent
+ 
+
+00:02:38.239 --> 00:02:40.790 align:start position:0%
+highlights are transparent
+and<00:02:38.480><c> then</c><00:02:38.720><c> we</c><00:02:38.959><c> want</c><00:02:39.200><c> to</c><00:02:39.519><c> override</c><00:02:40.080><c> the</c><00:02:40.319><c> depths</c>
+
+00:02:40.790 --> 00:02:40.800 align:start position:0%
+and then we want to override the depths
+ 
+
+00:02:40.800 --> 00:02:42.390 align:start position:0%
+and then we want to override the depths
+of<00:02:40.959><c> the</c><00:02:41.200><c> object</c>
+
+00:02:42.390 --> 00:02:42.400 align:start position:0%
+of the object
+ 
+
+00:02:42.400 --> 00:02:45.509 align:start position:0%
+of the object
+depth<00:02:42.879><c> is</c><00:02:43.040><c> a</c><00:02:43.200><c> thing</c><00:02:43.599><c> which</c><00:02:43.840><c> tells</c><00:02:44.319><c> to</c><00:02:44.560><c> your</c>
+
+00:02:45.509 --> 00:02:45.519 align:start position:0%
+depth is a thing which tells to your
+ 
+
+00:02:45.519 --> 00:02:49.270 align:start position:0%
+depth is a thing which tells to your
+gpu<00:02:46.400><c> what</c><00:02:46.720><c> object</c><00:02:47.280><c> are</c><00:02:47.599><c> being</c><00:02:48.319><c> obscured</c><00:02:48.959><c> by</c>
+
+00:02:49.270 --> 00:02:49.280 align:start position:0%
+gpu what object are being obscured by
+ 
+
+00:02:49.280 --> 00:02:50.710 align:start position:0%
+gpu what object are being obscured by
+other<00:02:49.680><c> objects</c>
+
+00:02:50.710 --> 00:02:50.720 align:start position:0%
+other objects
+ 
+
+00:02:50.720 --> 00:02:53.670 align:start position:0%
+other objects
+what<00:02:50.959><c> is</c><00:02:51.200><c> in</c><00:02:51.440><c> front</c><00:02:51.840><c> and</c><00:02:52.080><c> what</c><00:02:52.319><c> is</c><00:02:52.400><c> behind</c>
+
+00:02:53.670 --> 00:02:53.680 align:start position:0%
+what is in front and what is behind
+ 
+
+00:02:53.680 --> 00:02:56.229 align:start position:0%
+what is in front and what is behind
+and<00:02:53.920><c> we</c><00:02:54.160><c> want</c><00:02:54.400><c> to</c><00:02:54.560><c> tell</c><00:02:55.040><c> that</c><00:02:55.440><c> our</c><00:02:55.760><c> movement</c>
+
+00:02:56.229 --> 00:02:56.239 align:start position:0%
+and we want to tell that our movement
+ 
+
+00:02:56.239 --> 00:02:59.589 align:start position:0%
+and we want to tell that our movement
+point<00:02:56.800><c> should</c><00:02:57.280><c> always</c><00:02:57.840><c> be</c><00:02:58.080><c> in</c><00:02:58.319><c> front</c>
+
+00:02:59.589 --> 00:02:59.599 align:start position:0%
+point should always be in front
+ 
+
+00:02:59.599 --> 00:03:01.670 align:start position:0%
+point should always be in front
+uncheck<00:03:00.239><c> right</c><00:03:00.640><c> depths</c>
+
+00:03:01.670 --> 00:03:01.680 align:start position:0%
+uncheck right depths
+ 
+
+00:03:01.680 --> 00:03:21.270 align:start position:0%
+uncheck right depths
+this<00:03:01.920><c> will</c><00:03:02.239><c> turn</c><00:03:02.640><c> off</c><00:03:02.879><c> the</c><00:03:03.120><c> devs</c><00:03:03.920><c> writing</c>
+
+00:03:21.270 --> 00:03:21.280 align:start position:0%
+ 
+ 
+
+00:03:21.280 --> 00:03:24.309 align:start position:0%
+ 
+then<00:03:21.599><c> add</c><00:03:21.920><c> render</c><00:03:22.800><c> object</c><00:03:23.360><c> for</c><00:03:23.680><c> everything</c>
+
+00:03:24.309 --> 00:03:24.319 align:start position:0%
+then add render object for everything
+ 
+
+00:03:24.319 --> 00:04:00.789 align:start position:0%
+then add render object for everything
+else<00:03:25.040><c> both</c><00:03:25.360><c> for</c><00:03:25.599><c> opaque</c><00:03:26.239><c> and</c><00:03:26.480><c> transparent</c>
+
+00:04:00.789 --> 00:04:00.799 align:start position:0%
+ 
+ 
+
+00:04:00.799 --> 00:04:02.550 align:start position:0%
+ 
+oh<00:04:00.959><c> yeah</c><00:04:01.120><c> i</c><00:04:01.200><c> forgot</c><00:04:01.599><c> to</c><00:04:01.760><c> mark</c><00:04:02.000><c> the</c><00:04:02.159><c> depths</c><00:04:02.480><c> of</c>
+
+00:04:02.550 --> 00:04:02.560 align:start position:0%
+oh yeah i forgot to mark the depths of
+ 
+
+00:04:02.560 --> 00:04:58.629 align:start position:0%
+oh yeah i forgot to mark the depths of
+your<00:04:02.720><c> right</c><00:04:02.959><c> to</c><00:04:03.120><c> be</c><00:04:03.360><c> always</c><00:04:03.840><c> on</c>
+
+00:04:58.629 --> 00:04:58.639 align:start position:0%
+ 
+ 
+
+00:04:58.639 --> 00:05:00.870 align:start position:0%
+ 
+this<00:04:58.880><c> ensures</c><00:04:59.360><c> that</c><00:04:59.520><c> your</c><00:04:59.919><c> move</c><00:05:00.240><c> point</c><00:05:00.560><c> will</c>
+
+00:05:00.870 --> 00:05:00.880 align:start position:0%
+this ensures that your move point will
+ 
+
+00:05:00.880 --> 00:05:03.189 align:start position:0%
+this ensures that your move point will
+always<00:05:01.199><c> be</c><00:05:01.440><c> on</c><00:05:01.600><c> top</c><00:05:01.919><c> of</c><00:05:02.000><c> the</c><00:05:02.160><c> terrain</c>
+
+00:05:03.189 --> 00:05:03.199 align:start position:0%
+always be on top of the terrain
+ 
+
+00:05:03.199 --> 00:05:06.150 align:start position:0%
+always be on top of the terrain
+this<00:05:03.440><c> method</c><00:05:03.840><c> has</c><00:05:04.320><c> its</c><00:05:04.639><c> issue</c><00:05:05.520><c> for</c><00:05:05.680><c> example</c>
+
+00:05:06.150 --> 00:05:06.160 align:start position:0%
+this method has its issue for example
+ 
+
+00:05:06.160 --> 00:05:09.029 align:start position:0%
+this method has its issue for example
+look<00:05:06.479><c> at</c><00:05:06.960><c> this</c><00:05:07.199><c> case</c><00:05:07.919><c> because</c><00:05:08.240><c> this</c><00:05:08.479><c> cube</c><00:05:08.880><c> is</c>
+
+00:05:09.029 --> 00:05:09.039 align:start position:0%
+look at this case because this cube is
+ 
+
+00:05:09.039 --> 00:05:11.510 align:start position:0%
+look at this case because this cube is
+marked<00:05:09.440><c> as</c><00:05:09.759><c> terrain</c><00:05:10.479><c> you</c><00:05:10.720><c> still</c><00:05:11.120><c> can</c><00:05:11.360><c> see</c>
+
+00:05:11.510 --> 00:05:11.520 align:start position:0%
+marked as terrain you still can see
+ 
+
+00:05:11.520 --> 00:05:12.469 align:start position:0%
+marked as terrain you still can see
+through
+
+00:05:12.469 --> 00:05:12.479 align:start position:0%
+through
+ 
+
+00:05:12.479 --> 00:05:14.870 align:start position:0%
+through
+so<00:05:12.800><c> you</c><00:05:12.960><c> either</c><00:05:13.360><c> need</c><00:05:13.600><c> to</c><00:05:13.759><c> fill</c><00:05:14.000><c> it</c><00:05:14.160><c> with</c><00:05:14.400><c> some</c>
+
+00:05:14.870 --> 00:05:14.880 align:start position:0%
+so you either need to fill it with some
+ 
+
+00:05:14.880 --> 00:05:17.990 align:start position:0%
+so you either need to fill it with some
+primitive<00:05:15.520><c> object</c><00:05:16.400><c> to</c><00:05:16.639><c> obscure</c><00:05:17.120><c> vision</c><00:05:17.759><c> or</c>
+
+00:05:17.990 --> 00:05:18.000 align:start position:0%
+primitive object to obscure vision or
+ 
+
+00:05:18.000 --> 00:05:23.880 align:start position:0%
+primitive object to obscure vision or
+keep<00:05:18.240><c> it</c><00:05:18.639><c> in</c><00:05:19.120><c> the</c><00:05:19.360><c> mind</c><00:05:20.080><c> when</c><00:05:20.320><c> making</c><00:05:20.720><c> the</c><00:05:20.880><c> maps</c>
+

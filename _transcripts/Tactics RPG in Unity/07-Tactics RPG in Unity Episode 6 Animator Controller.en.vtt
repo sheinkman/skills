@@ -1,0 +1,1496 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.760 --> 00:00:03.630 align:start position:0%
+ 
+Hello<00:00:02.000><c> everyone.</c><00:00:02.440><c> My</c><00:00:02.600><c> name</c><00:00:02.800><c> is</c><00:00:02.920><c> Greg</c><00:00:03.440><c> and</c><00:00:03.560><c> I</c>
+
+00:00:03.630 --> 00:00:03.640 align:start position:0%
+Hello everyone. My name is Greg and I
+ 
+
+00:00:03.640 --> 00:00:05.750 align:start position:0%
+Hello everyone. My name is Greg and I
+dev<00:00:03.840><c> stuff.</c><00:00:04.360><c> Welcome</c><00:00:04.720><c> everyone</c><00:00:05.240><c> to</c><00:00:05.360><c> episode</c>
+
+00:00:05.750 --> 00:00:05.760 align:start position:0%
+dev stuff. Welcome everyone to episode
+ 
+
+00:00:05.760 --> 00:00:08.590 align:start position:0%
+dev stuff. Welcome everyone to episode
+six<00:00:06.280><c> of</c><00:00:06.440><c> the</c><00:00:06.560><c> tactics</c><00:00:07.080><c> game</c><00:00:07.440><c> in</c><00:00:07.600><c> Unity.</c><00:00:08.480><c> In</c>
+
+00:00:08.590 --> 00:00:08.600 align:start position:0%
+six of the tactics game in Unity. In
+ 
+
+00:00:08.600 --> 00:00:10.110 align:start position:0%
+six of the tactics game in Unity. In
+this<00:00:08.800><c> episode</c><00:00:09.200><c> we</c><00:00:09.320><c> will</c><00:00:09.560><c> import</c><00:00:10.000><c> the</c>
+
+00:00:10.110 --> 00:00:10.120 align:start position:0%
+this episode we will import the
+ 
+
+00:00:10.120 --> 00:00:12.510 align:start position:0%
+this episode we will import the
+character<00:00:10.600><c> model</c><00:00:11.360><c> and</c><00:00:11.520><c> build</c><00:00:11.800><c> the</c><00:00:11.920><c> animator</c>
+
+00:00:12.510 --> 00:00:12.520 align:start position:0%
+character model and build the animator
+ 
+
+00:00:12.520 --> 00:00:15.430 align:start position:0%
+character model and build the animator
+controller<00:00:13.360><c> for</c><00:00:13.560><c> this</c><00:00:13.800><c> character.</c>
+
+00:00:15.430 --> 00:00:15.440 align:start position:0%
+controller for this character.
+ 
+
+00:00:15.440 --> 00:00:17.390 align:start position:0%
+controller for this character.
+So<00:00:15.560><c> today</c><00:00:15.960><c> we</c><00:00:16.200><c> are</c><00:00:16.360><c> going</c><00:00:16.680><c> to</c><00:00:16.800><c> learn</c><00:00:17.120><c> how</c><00:00:17.280><c> to</c>
+
+00:00:17.390 --> 00:00:17.400 align:start position:0%
+So today we are going to learn how to
+ 
+
+00:00:17.400 --> 00:00:20.070 align:start position:0%
+So today we are going to learn how to
+use<00:00:17.640><c> animator</c><00:00:18.200><c> controller</c><00:00:19.320><c> and</c><00:00:19.480><c> import</c><00:00:19.880><c> this</c>
+
+00:00:20.070 --> 00:00:20.080 align:start position:0%
+use animator controller and import this
+ 
+
+00:00:20.080 --> 00:00:23.470 align:start position:0%
+use animator controller and import this
+beautiful<00:00:20.640><c> model</c><00:00:21.080><c> done</c><00:00:21.440><c> by</c><00:00:21.760><c> Declan</c><00:00:22.360><c> Mohan.</c>
+
+00:00:23.470 --> 00:00:23.480 align:start position:0%
+beautiful model done by Declan Mohan.
+ 
+
+00:00:23.480 --> 00:00:24.870 align:start position:0%
+beautiful model done by Declan Mohan.
+His<00:00:23.600><c> Discord</c><00:00:24.080><c> and</c><00:00:24.200><c> contacts</c><00:00:24.680><c> in</c><00:00:24.760><c> the</c>
+
+00:00:24.870 --> 00:00:24.880 align:start position:0%
+His Discord and contacts in the
+ 
+
+00:00:24.880 --> 00:00:26.150 align:start position:0%
+His Discord and contacts in the
+description.
+
+00:00:26.150 --> 00:00:26.160 align:start position:0%
+description.
+ 
+
+00:00:26.160 --> 00:00:28.670 align:start position:0%
+description.
+And<00:00:26.360><c> you</c><00:00:26.480><c> can</c><00:00:26.800><c> get</c><00:00:27.040><c> this</c><00:00:27.320><c> model</c><00:00:28.160><c> with</c>
+
+00:00:28.670 --> 00:00:28.680 align:start position:0%
+And you can get this model with
+ 
+
+00:00:28.680 --> 00:00:31.550 align:start position:0%
+And you can get this model with
+animations<00:00:29.680><c> absolutely</c><00:00:30.320><c> for</c><00:00:30.680><c> free</c><00:00:31.280><c> in</c><00:00:31.480><c> the</c>
+
+00:00:31.550 --> 00:00:31.560 align:start position:0%
+animations absolutely for free in the
+ 
+
+00:00:31.560 --> 00:00:33.910 align:start position:0%
+animations absolutely for free in the
+description.<00:00:32.599><c> You</c><00:00:32.720><c> can</c><00:00:32.920><c> use</c><00:00:33.120><c> this</c><00:00:33.280><c> model</c><00:00:33.800><c> and</c>
+
+00:00:33.910 --> 00:00:33.920 align:start position:0%
+description. You can use this model and
+ 
+
+00:00:33.920 --> 00:00:37.270 align:start position:0%
+description. You can use this model and
+animations<00:00:35.200><c> in</c><00:00:35.440><c> your</c><00:00:35.760><c> project.</c><00:00:36.840><c> You</c><00:00:36.960><c> are</c><00:00:37.080><c> not</c>
+
+00:00:37.270 --> 00:00:37.280 align:start position:0%
+animations in your project. You are not
+ 
+
+00:00:37.280 --> 00:00:39.950 align:start position:0%
+animations in your project. You are not
+allowed<00:00:37.640><c> to</c><00:00:37.960><c> redistribute</c><00:00:39.040><c> or</c><00:00:39.240><c> resell</c><00:00:39.720><c> this</c>
+
+00:00:39.950 --> 00:00:39.960 align:start position:0%
+allowed to redistribute or resell this
+ 
+
+00:00:39.960 --> 00:00:42.630 align:start position:0%
+allowed to redistribute or resell this
+model.<00:00:40.800><c> You</c><00:00:41.040><c> only</c><00:00:41.320><c> allowed</c><00:00:41.960><c> to</c><00:00:42.080><c> ship</c><00:00:42.400><c> this</c>
+
+00:00:42.630 --> 00:00:42.640 align:start position:0%
+model. You only allowed to ship this
+ 
+
+00:00:42.640 --> 00:00:46.310 align:start position:0%
+model. You only allowed to ship this
+model<00:00:43.160><c> as</c><00:00:43.400><c> part</c><00:00:43.840><c> of</c><00:00:44.040><c> your</c><00:00:44.280><c> game.</c>
+
+00:00:46.310 --> 00:00:46.320 align:start position:0%
+model as part of your game.
+ 
+
+00:00:46.320 --> 00:00:48.550 align:start position:0%
+model as part of your game.
+After<00:00:46.680><c> downloading</c><00:00:47.360><c> the</c><00:00:47.480><c> package,</c><00:00:48.080><c> unpack</c>
+
+00:00:48.550 --> 00:00:48.560 align:start position:0%
+After downloading the package, unpack
+ 
+
+00:00:48.560 --> 00:00:51.030 align:start position:0%
+After downloading the package, unpack
+the<00:00:48.720><c> zip</c><00:00:49.080><c> archive</c><00:00:49.800><c> and</c><00:00:49.960><c> import</c><00:00:50.480><c> everything</c>
+
+00:00:51.030 --> 00:00:51.040 align:start position:0%
+the zip archive and import everything
+ 
+
+00:00:51.040 --> 00:00:53.670 align:start position:0%
+the zip archive and import everything
+that<00:00:51.280><c> is</c><00:00:51.400><c> inside</c><00:00:51.880><c> this</c><00:00:52.280><c> zip</c><00:00:52.680><c> archive</c><00:00:53.320><c> into</c><00:00:53.600><c> the</c>
+
+00:00:53.670 --> 00:00:53.680 align:start position:0%
+that is inside this zip archive into the
+ 
+
+00:00:53.680 --> 00:00:59.270 align:start position:0%
+that is inside this zip archive into the
+project.
+
+00:00:59.270 --> 00:00:59.280 align:start position:0%
+ 
+ 
+
+00:00:59.280 --> 00:01:01.990 align:start position:0%
+ 
+This<00:00:59.520><c> kind</c><00:00:59.760><c> of</c><00:00:59.920><c> asset</c><00:01:00.640><c> is</c><00:01:00.960><c> made</c><00:01:01.280><c> possible</c><00:01:01.840><c> by</c>
+
+00:01:01.990 --> 00:01:02.000 align:start position:0%
+This kind of asset is made possible by
+ 
+
+00:01:02.000 --> 00:01:04.509 align:start position:0%
+This kind of asset is made possible by
+support<00:01:02.440><c> of</c><00:01:02.560><c> people</c><00:01:02.960><c> on</c><00:01:03.120><c> Patreon</c><00:01:03.960><c> and</c><00:01:04.120><c> members</c>
+
+00:01:04.509 --> 00:01:04.519 align:start position:0%
+support of people on Patreon and members
+ 
+
+00:01:04.519 --> 00:01:06.470 align:start position:0%
+support of people on Patreon and members
+on<00:01:04.680><c> YouTube.</c><00:01:05.400><c> If</c><00:01:05.519><c> you</c><00:01:05.640><c> want</c><00:01:05.840><c> to</c><00:01:05.960><c> see</c><00:01:06.160><c> more</c>
+
+00:01:06.470 --> 00:01:06.480 align:start position:0%
+on YouTube. If you want to see more
+ 
+
+00:01:06.480 --> 00:01:10.430 align:start position:0%
+on YouTube. If you want to see more
+assets<00:01:07.040><c> and</c><00:01:07.320><c> me</c><00:01:07.520><c> doing</c><00:01:08.000><c> this</c><00:01:08.560><c> job</c><00:01:09.080><c> full-time,</c>
+
+00:01:10.430 --> 00:01:10.440 align:start position:0%
+assets and me doing this job full-time,
+ 
+
+00:01:10.440 --> 00:01:13.470 align:start position:0%
+assets and me doing this job full-time,
+you<00:01:10.600><c> can</c><00:01:10.800><c> support</c><00:01:11.240><c> me</c><00:01:11.400><c> on</c><00:01:11.640><c> Patreon</c><00:01:12.800><c> or</c><00:01:13.280><c> on</c>
+
+00:01:13.470 --> 00:01:13.480 align:start position:0%
+you can support me on Patreon or on
+ 
+
+00:01:13.480 --> 00:01:16.190 align:start position:0%
+you can support me on Patreon or on
+YouTube<00:01:14.280><c> and</c><00:01:14.480><c> get</c><00:01:14.680><c> rewards</c><00:01:15.320><c> like</c><00:01:15.800><c> project</c>
+
+00:01:16.190 --> 00:01:16.200 align:start position:0%
+YouTube and get rewards like project
+ 
+
+00:01:16.200 --> 00:01:18.990 align:start position:0%
+YouTube and get rewards like project
+files<00:01:17.040><c> and</c><00:01:17.200><c> be</c><00:01:17.320><c> shown</c><00:01:17.800><c> on</c><00:01:18.000><c> the</c><00:01:18.120><c> screen</c><00:01:18.680><c> right</c>
+
+00:01:18.990 --> 00:01:19.000 align:start position:0%
+files and be shown on the screen right
+ 
+
+00:01:19.000 --> 00:01:21.510 align:start position:0%
+files and be shown on the screen right
+now.<00:01:19.680><c> Thank</c><00:01:20.000><c> you</c><00:01:20.120><c> very</c><00:01:20.360><c> much.</c>
+
+00:01:21.510 --> 00:01:21.520 align:start position:0%
+now. Thank you very much.
+ 
+
+00:01:21.520 --> 00:01:24.550 align:start position:0%
+now. Thank you very much.
+Good.<00:01:22.360><c> Now</c><00:01:22.680><c> you</c><00:01:22.800><c> have</c><00:01:23.120><c> all</c><00:01:23.440><c> those</c><00:01:23.720><c> files.</c>
+
+00:01:24.550 --> 00:01:24.560 align:start position:0%
+Good. Now you have all those files.
+ 
+
+00:01:24.560 --> 00:01:27.310 align:start position:0%
+Good. Now you have all those files.
+Before<00:01:24.920><c> we</c><00:01:25.080><c> begin</c><00:01:25.720><c> animating,</c><00:01:26.800><c> we</c><00:01:26.960><c> need</c><00:01:27.200><c> to</c>
+
+00:01:27.310 --> 00:01:27.320 align:start position:0%
+Before we begin animating, we need to
+ 
+
+00:01:27.320 --> 00:01:29.670 align:start position:0%
+Before we begin animating, we need to
+build<00:01:27.600><c> the</c><00:01:27.720><c> character</c><00:01:28.280><c> on</c><00:01:28.480><c> the</c><00:01:28.600><c> scene.</c><00:01:29.480><c> Let's</c>
+
+00:01:29.670 --> 00:01:29.680 align:start position:0%
+build the character on the scene. Let's
+ 
+
+00:01:29.680 --> 00:01:32.630 align:start position:0%
+build the character on the scene. Let's
+make<00:01:29.920><c> separate</c><00:01:30.480><c> scene.</c><00:01:31.360><c> Let's</c><00:01:31.600><c> call</c><00:01:31.800><c> it</c><00:01:32.320><c> an</c>
+
+00:01:32.630 --> 00:01:32.640 align:start position:0%
+make separate scene. Let's call it an
+ 
+
+00:01:32.640 --> 00:01:41.030 align:start position:0%
+make separate scene. Let's call it an
+animation<00:01:33.360><c> test</c><00:01:33.720><c> scene.</c>
+
+00:01:41.030 --> 00:01:41.040 align:start position:0%
+ 
+ 
+
+00:01:41.040 --> 00:01:44.030 align:start position:0%
+ 
+So,<00:01:41.720><c> now</c><00:01:42.160><c> I</c><00:01:42.280><c> want</c><00:01:42.520><c> to</c><00:01:42.640><c> bring</c><00:01:43.000><c> your</c><00:01:43.440><c> attention</c>
+
+00:01:44.030 --> 00:01:44.040 align:start position:0%
+So, now I want to bring your attention
+ 
+
+00:01:44.040 --> 00:01:46.110 align:start position:0%
+So, now I want to bring your attention
+to<00:01:44.200><c> the</c><00:01:44.320><c> bottom</c><00:01:44.720><c> left</c><00:01:45.000><c> corner.</c>
+
+00:01:46.110 --> 00:01:46.120 align:start position:0%
+to the bottom left corner.
+ 
+
+00:01:46.120 --> 00:01:48.190 align:start position:0%
+to the bottom left corner.
+From<00:01:46.360><c> now</c><00:01:46.680><c> on,</c><00:01:47.040><c> at</c><00:01:47.200><c> the</c><00:01:47.280><c> beginning</c><00:01:47.840><c> of</c><00:01:48.000><c> the</c>
+
+00:01:48.190 --> 00:01:48.200 align:start position:0%
+From now on, at the beginning of the
+ 
+
+00:01:48.200 --> 00:01:50.990 align:start position:0%
+From now on, at the beginning of the
+each<00:01:48.440><c> tutorial,</c><00:01:49.280><c> you</c><00:01:49.440><c> will</c><00:01:49.640><c> see</c><00:01:49.960><c> the</c><00:01:50.440><c> latest</c>
+
+00:01:50.990 --> 00:01:51.000 align:start position:0%
+each tutorial, you will see the latest
+ 
+
+00:01:51.000 --> 00:01:53.590 align:start position:0%
+each tutorial, you will see the latest
+version<00:01:51.600><c> of</c><00:01:51.800><c> the</c><00:01:51.920><c> models</c><00:01:52.480><c> package.</c>
+
+00:01:53.590 --> 00:01:53.600 align:start position:0%
+version of the models package.
+ 
+
+00:01:53.600 --> 00:01:55.710 align:start position:0%
+version of the models package.
+Inside<00:01:54.120><c> your</c><00:01:54.320><c> package</c><00:01:54.800><c> you</c><00:01:54.960><c> will</c><00:01:55.280><c> have</c><00:01:55.640><c> a</c>
+
+00:01:55.710 --> 00:01:55.720 align:start position:0%
+Inside your package you will have a
+ 
+
+00:01:55.720 --> 00:01:58.710 align:start position:0%
+Inside your package you will have a
+notepad<00:01:56.280><c> file</c><00:01:57.120><c> with</c><00:01:57.520><c> the</c><00:01:57.680><c> current</c><00:01:58.080><c> version</c><00:01:58.560><c> of</c>
+
+00:01:58.710 --> 00:01:58.720 align:start position:0%
+notepad file with the current version of
+ 
+
+00:01:58.720 --> 00:02:00.910 align:start position:0%
+notepad file with the current version of
+the<00:01:58.840><c> package</c><00:01:59.880><c> and</c><00:02:00.080><c> some</c><00:02:00.320><c> additional</c>
+
+00:02:00.910 --> 00:02:00.920 align:start position:0%
+the package and some additional
+ 
+
+00:02:00.920 --> 00:02:02.550 align:start position:0%
+the package and some additional
+information.
+
+00:02:02.550 --> 00:02:02.560 align:start position:0%
+information.
+ 
+
+00:02:02.560 --> 00:02:04.510 align:start position:0%
+information.
+If<00:02:02.800><c> your</c><00:02:03.040><c> version</c><00:02:03.600><c> is</c><00:02:03.800><c> lower</c><00:02:04.120><c> than</c><00:02:04.400><c> the</c>
+
+00:02:04.510 --> 00:02:04.520 align:start position:0%
+If your version is lower than the
+ 
+
+00:02:04.520 --> 00:02:07.230 align:start position:0%
+If your version is lower than the
+version<00:02:05.080><c> shown</c><00:02:05.479><c> on</c><00:02:05.600><c> the</c><00:02:05.720><c> screen,</c><00:02:06.479><c> I</c><00:02:06.640><c> advise</c>
+
+00:02:07.230 --> 00:02:07.240 align:start position:0%
+version shown on the screen, I advise
+ 
+
+00:02:07.240 --> 00:02:09.710 align:start position:0%
+version shown on the screen, I advise
+you<00:02:07.479><c> immediately</c><00:02:08.320><c> look</c><00:02:08.600><c> into</c><00:02:08.880><c> description</c>
+
+00:02:09.710 --> 00:02:09.720 align:start position:0%
+you immediately look into description
+ 
+
+00:02:09.720 --> 00:02:12.430 align:start position:0%
+you immediately look into description
+and<00:02:09.920><c> download</c><00:02:11.040><c> latest</c><00:02:11.640><c> version</c><00:02:12.160><c> of</c><00:02:12.320><c> the</c>
+
+00:02:12.430 --> 00:02:12.440 align:start position:0%
+and download latest version of the
+ 
+
+00:02:12.440 --> 00:02:13.710 align:start position:0%
+and download latest version of the
+package.
+
+00:02:13.710 --> 00:02:13.720 align:start position:0%
+package.
+ 
+
+00:02:13.720 --> 00:02:15.710 align:start position:0%
+package.
+To<00:02:13.840><c> update</c><00:02:14.240><c> the</c><00:02:14.360><c> package,</c>
+
+00:02:15.710 --> 00:02:15.720 align:start position:0%
+To update the package,
+ 
+
+00:02:15.720 --> 00:02:18.230 align:start position:0%
+To update the package,
+simply<00:02:16.120><c> unpack</c><00:02:16.640><c> the</c><00:02:16.800><c> package</c><00:02:17.320><c> into</c><00:02:17.640><c> the</c><00:02:17.880><c> asset</c>
+
+00:02:18.230 --> 00:02:18.240 align:start position:0%
+simply unpack the package into the asset
+ 
+
+00:02:18.240 --> 00:02:19.590 align:start position:0%
+simply unpack the package into the asset
+folder.
+
+00:02:19.590 --> 00:02:19.600 align:start position:0%
+folder.
+ 
+
+00:02:19.600 --> 00:02:22.190 align:start position:0%
+folder.
+To<00:02:19.680><c> keep</c><00:02:19.959><c> all</c><00:02:20.160><c> the</c><00:02:20.400><c> assets</c><00:02:20.760><c> consistent,</c><00:02:21.800><c> keep</c>
+
+00:02:22.190 --> 00:02:22.200 align:start position:0%
+To keep all the assets consistent, keep
+ 
+
+00:02:22.200 --> 00:02:25.990 align:start position:0%
+To keep all the assets consistent, keep
+all<00:02:22.480><c> asset</c><00:02:23.480><c> I</c><00:02:23.680><c> gave</c><00:02:24.000><c> you</c><00:02:24.440><c> in</c><00:02:24.640><c> this</c><00:02:24.880><c> folder.</c>
+
+00:02:25.990 --> 00:02:26.000 align:start position:0%
+all asset I gave you in this folder.
+ 
+
+00:02:26.000 --> 00:02:28.550 align:start position:0%
+all asset I gave you in this folder.
+This<00:02:26.360><c> way</c><00:02:26.640><c> assets</c><00:02:27.120><c> will</c><00:02:27.800><c> be</c><00:02:28.040><c> able</c><00:02:28.320><c> to</c>
+
+00:02:28.550 --> 00:02:28.560 align:start position:0%
+This way assets will be able to
+ 
+
+00:02:28.560 --> 00:02:31.350 align:start position:0%
+This way assets will be able to
+overwrite<00:02:29.280><c> changes</c><00:02:29.800><c> automatically.</c>
+
+00:02:31.350 --> 00:02:31.360 align:start position:0%
+overwrite changes automatically.
+ 
+
+00:02:31.360 --> 00:02:34.070 align:start position:0%
+overwrite changes automatically.
+Remember,<00:02:32.200><c> updates</c><00:02:32.800><c> might</c><00:02:33.360><c> overwrite</c>
+
+00:02:34.070 --> 00:02:34.080 align:start position:0%
+Remember, updates might overwrite
+ 
+
+00:02:34.080 --> 00:02:36.390 align:start position:0%
+Remember, updates might overwrite
+something<00:02:34.880><c> and</c><00:02:35.120><c> break</c><00:02:35.440><c> animations</c><00:02:36.240><c> or</c>
+
+00:02:36.390 --> 00:02:36.400 align:start position:0%
+something and break animations or
+ 
+
+00:02:36.400 --> 00:02:40.510 align:start position:0%
+something and break animations or
+prefabs<00:02:36.959><c> or</c><00:02:37.120><c> some</c><00:02:37.440><c> other</c><00:02:37.680><c> stuff.</c>
+
+00:02:40.510 --> 00:02:40.520 align:start position:0%
+ 
+ 
+
+00:02:40.520 --> 00:02:42.470 align:start position:0%
+ 
+Drop<00:02:40.800><c> the</c><00:02:40.920><c> character</c><00:02:41.360><c> model</c><00:02:41.880><c> and</c><00:02:42.120><c> weapon</c>
+
+00:02:42.470 --> 00:02:42.480 align:start position:0%
+Drop the character model and weapon
+ 
+
+00:02:42.480 --> 00:03:00.270 align:start position:0%
+Drop the character model and weapon
+model<00:02:43.000><c> on</c><00:02:43.200><c> the</c><00:02:43.360><c> scene.</c>
+
+00:03:00.270 --> 00:03:00.280 align:start position:0%
+ 
+ 
+
+00:03:00.280 --> 00:03:03.270 align:start position:0%
+ 
+Now<00:03:00.519><c> let's</c><00:03:00.800><c> build</c><00:03:01.480><c> the</c><00:03:01.720><c> material</c><00:03:02.800><c> for</c><00:03:03.120><c> the</c>
+
+00:03:03.270 --> 00:03:03.280 align:start position:0%
+Now let's build the material for the
+ 
+
+00:03:03.280 --> 00:03:07.590 align:start position:0%
+Now let's build the material for the
+character.
+
+00:03:07.590 --> 00:03:07.600 align:start position:0%
+ 
+ 
+
+00:03:07.600 --> 00:03:09.550 align:start position:0%
+ 
+Select<00:03:08.000><c> the</c><00:03:08.200><c> armor</c><00:03:08.560><c> mesh</c>
+
+00:03:09.550 --> 00:03:09.560 align:start position:0%
+Select the armor mesh
+ 
+
+00:03:09.560 --> 00:03:19.670 align:start position:0%
+Select the armor mesh
+and<00:03:09.760><c> drag</c><00:03:10.040><c> and</c><00:03:10.200><c> drop</c><00:03:10.480><c> the</c><00:03:10.760><c> armor</c><00:03:11.120><c> texture.</c>
+
+00:03:19.670 --> 00:03:19.680 align:start position:0%
+ 
+ 
+
+00:03:19.680 --> 00:03:22.590 align:start position:0%
+ 
+Then<00:03:19.959><c> we</c><00:03:20.080><c> want</c><00:03:20.400><c> to</c><00:03:20.560><c> add</c><00:03:20.760><c> the</c><00:03:21.040><c> occlusion</c><00:03:22.000><c> map</c>
+
+00:03:22.590 --> 00:03:22.600 align:start position:0%
+Then we want to add the occlusion map
+ 
+
+00:03:22.600 --> 00:03:33.990 align:start position:0%
+Then we want to add the occlusion map
+onto<00:03:22.959><c> the</c><00:03:23.080><c> material.</c>
+
+00:03:33.990 --> 00:03:34.000 align:start position:0%
+ 
+ 
+
+00:03:34.000 --> 00:03:35.270 align:start position:0%
+ 
+Good.
+
+00:03:35.270 --> 00:03:35.280 align:start position:0%
+Good.
+ 
+
+00:03:35.280 --> 00:03:40.830 align:start position:0%
+Good.
+Do<00:03:35.440><c> the</c><00:03:35.600><c> same</c><00:03:35.959><c> for</c><00:03:36.120><c> the</c><00:03:36.320><c> base</c><00:03:36.760><c> mesh.</c>
+
+00:03:40.830 --> 00:03:40.840 align:start position:0%
+ 
+ 
+
+00:03:40.840 --> 00:03:42.190 align:start position:0%
+ 
+Good.
+
+00:03:42.190 --> 00:03:42.200 align:start position:0%
+Good.
+ 
+
+00:03:42.200 --> 00:03:57.950 align:start position:0%
+Good.
+Now<00:03:42.519><c> set</c><00:03:42.840><c> the</c><00:03:43.000><c> sword</c><00:03:43.560><c> in</c><00:03:43.720><c> the</c><00:03:43.880><c> same</c><00:03:44.360><c> fashion.</c>
+
+00:03:57.950 --> 00:03:57.960 align:start position:0%
+ 
+ 
+
+00:03:57.960 --> 00:04:00.390 align:start position:0%
+ 
+Now<00:03:58.240><c> we</c><00:03:58.480><c> want</c><00:03:58.800><c> to</c><00:03:58.880><c> build</c><00:03:59.480><c> an</c><00:03:59.880><c> animator</c>
+
+00:04:00.390 --> 00:04:00.400 align:start position:0%
+Now we want to build an animator
+ 
+
+00:04:00.400 --> 00:04:03.630 align:start position:0%
+Now we want to build an animator
+controller.<00:04:01.520><c> An</c><00:04:01.720><c> animator</c><00:04:02.280><c> controller</c><00:04:03.320><c> allow</c>
+
+00:04:03.630 --> 00:04:03.640 align:start position:0%
+controller. An animator controller allow
+ 
+
+00:04:03.640 --> 00:04:05.870 align:start position:0%
+controller. An animator controller allow
+you<00:04:03.800><c> to</c><00:04:04.000><c> arrange</c><00:04:04.520><c> and</c><00:04:04.720><c> maintain</c><00:04:05.360><c> a</c><00:04:05.440><c> set</c><00:04:05.720><c> of</c>
+
+00:04:05.870 --> 00:04:05.880 align:start position:0%
+you to arrange and maintain a set of
+ 
+
+00:04:05.880 --> 00:04:08.790 align:start position:0%
+you to arrange and maintain a set of
+animation<00:04:06.440><c> clips</c><00:04:07.360><c> and</c><00:04:07.520><c> associated</c><00:04:08.200><c> animation</c>
+
+00:04:08.790 --> 00:04:08.800 align:start position:0%
+animation clips and associated animation
+ 
+
+00:04:08.800 --> 00:04:12.190 align:start position:0%
+animation clips and associated animation
+transition<00:04:09.880><c> for</c><00:04:10.080><c> a</c><00:04:10.120><c> character</c><00:04:10.840><c> or</c><00:04:11.120><c> object.</c>
+
+00:04:12.190 --> 00:04:12.200 align:start position:0%
+transition for a character or object.
+ 
+
+00:04:12.200 --> 00:04:14.870 align:start position:0%
+transition for a character or object.
+The<00:04:12.320><c> animator</c><00:04:12.840><c> controller</c><00:04:13.640><c> has</c><00:04:14.080><c> references</c>
+
+00:04:14.870 --> 00:04:14.880 align:start position:0%
+The animator controller has references
+ 
+
+00:04:14.880 --> 00:04:18.870 align:start position:0%
+The animator controller has references
+to<00:04:15.040><c> the</c><00:04:15.280><c> animation</c><00:04:15.920><c> clips</c><00:04:16.720><c> used</c><00:04:17.239><c> within</c><00:04:18.200><c> it</c>
+
+00:04:18.870 --> 00:04:18.880 align:start position:0%
+to the animation clips used within it
+ 
+
+00:04:18.880 --> 00:04:21.870 align:start position:0%
+to the animation clips used within it
+and<00:04:19.079><c> manages</c><00:04:19.640><c> the</c><00:04:19.799><c> various</c><00:04:20.359><c> animation</c><00:04:21.120><c> clips</c>
+
+00:04:21.870 --> 00:04:21.880 align:start position:0%
+and manages the various animation clips
+ 
+
+00:04:21.880 --> 00:04:24.750 align:start position:0%
+and manages the various animation clips
+and<00:04:22.040><c> the</c><00:04:22.120><c> transitions</c><00:04:23.440><c> between</c><00:04:23.880><c> them</c><00:04:24.360><c> using</c><00:04:24.680><c> a</c>
+
+00:04:24.750 --> 00:04:24.760 align:start position:0%
+and the transitions between them using a
+ 
+
+00:04:24.760 --> 00:04:26.350 align:start position:0%
+and the transitions between them using a
+state<00:04:25.160><c> machine.</c>
+
+00:04:26.350 --> 00:04:26.360 align:start position:0%
+state machine.
+ 
+
+00:04:26.360 --> 00:04:28.950 align:start position:0%
+state machine.
+Which<00:04:26.600><c> could</c><00:04:26.919><c> be</c><00:04:27.400><c> thought</c><00:04:27.919><c> of</c><00:04:28.480><c> of</c><00:04:28.680><c> as</c><00:04:28.880><c> a</c>
+
+00:04:28.950 --> 00:04:28.960 align:start position:0%
+Which could be thought of of as a
+ 
+
+00:04:28.960 --> 00:04:31.950 align:start position:0%
+Which could be thought of of as a
+flowchart<00:04:30.040><c> of</c><00:04:30.280><c> animation</c><00:04:31.000><c> clips</c><00:04:31.800><c> and</c>
+
+00:04:31.950 --> 00:04:31.960 align:start position:0%
+flowchart of animation clips and
+ 
+
+00:04:31.960 --> 00:04:34.470 align:start position:0%
+flowchart of animation clips and
+transitions<00:04:33.000><c> which</c><00:04:33.240><c> tells</c><00:04:33.840><c> what</c><00:04:34.120><c> kind</c><00:04:34.360><c> of</c>
+
+00:04:34.470 --> 00:04:34.480 align:start position:0%
+transitions which tells what kind of
+ 
+
+00:04:34.480 --> 00:04:38.270 align:start position:0%
+transitions which tells what kind of
+animation<00:04:35.320><c> your</c><00:04:35.520><c> model</c><00:04:35.960><c> should</c><00:04:36.240><c> be</c><00:04:36.400><c> playing.</c>
+
+00:04:38.270 --> 00:04:38.280 align:start position:0%
+animation your model should be playing.
+ 
+
+00:04:38.280 --> 00:04:41.390 align:start position:0%
+animation your model should be playing.
+Small<00:04:38.680><c> warning.</c><00:04:39.760><c> In</c><00:04:39.880><c> later</c><00:04:40.240><c> version</c><00:04:40.800><c> names</c><00:04:41.280><c> of</c>
+
+00:04:41.390 --> 00:04:41.400 align:start position:0%
+Small warning. In later version names of
+ 
+
+00:04:41.400 --> 00:04:43.470 align:start position:0%
+Small warning. In later version names of
+the<00:04:41.520><c> animations</c><00:04:42.360><c> or</c><00:04:42.600><c> the</c>
+
+00:04:43.470 --> 00:04:43.480 align:start position:0%
+the animations or the
+ 
+
+00:04:43.480 --> 00:04:46.150 align:start position:0%
+the animations or the
+or<00:04:43.680><c> the</c><00:04:43.840><c> place</c><00:04:44.400><c> where</c><00:04:44.840><c> they</c><00:04:45.080><c> are</c><00:04:45.200><c> stored</c><00:04:45.800><c> might</c>
+
+00:04:46.150 --> 00:04:46.160 align:start position:0%
+or the place where they are stored might
+ 
+
+00:04:46.160 --> 00:04:49.470 align:start position:0%
+or the place where they are stored might
+change.<00:04:47.160><c> Don't</c><00:04:47.360><c> be</c><00:04:47.480><c> scared.</c><00:04:48.120><c> The</c><00:04:48.280><c> main</c><00:04:49.000><c> naming</c>
+
+00:04:49.470 --> 00:04:49.480 align:start position:0%
+change. Don't be scared. The main naming
+ 
+
+00:04:49.480 --> 00:04:52.550 align:start position:0%
+change. Don't be scared. The main naming
+convention<00:04:50.200><c> will</c><00:04:50.440><c> stay</c><00:04:50.720><c> the</c><00:04:50.880><c> same.</c><00:04:51.880><c> Check</c><00:04:52.360><c> the</c>
+
+00:04:52.550 --> 00:04:52.560 align:start position:0%
+convention will stay the same. Check the
+ 
+
+00:04:52.560 --> 00:04:54.670 align:start position:0%
+convention will stay the same. Check the
+included<00:04:53.160><c> notepad</c><00:04:53.800><c> for</c><00:04:54.080><c> additional</c>
+
+00:04:54.670 --> 00:04:54.680 align:start position:0%
+included notepad for additional
+ 
+
+00:04:54.680 --> 00:04:57.990 align:start position:0%
+included notepad for additional
+information.<00:04:56.040><c> Use</c><00:04:56.400><c> search</c><00:04:57.160><c> or</c><00:04:57.400><c> join</c><00:04:57.800><c> the</c>
+
+00:04:57.990 --> 00:04:58.000 align:start position:0%
+information. Use search or join the
+ 
+
+00:04:58.000 --> 00:05:00.950 align:start position:0%
+information. Use search or join the
+discord<00:04:58.760><c> to</c><00:04:58.880><c> seek</c><00:04:59.200><c> help.</c>
+
+00:05:00.950 --> 00:05:00.960 align:start position:0%
+discord to seek help.
+ 
+
+00:05:00.960 --> 00:05:03.830 align:start position:0%
+discord to seek help.
+Select<00:05:01.440><c> the</c><00:05:01.520><c> animation.</c><00:05:02.840><c> To</c><00:05:02.919><c> make</c><00:05:03.160><c> it</c><00:05:03.360><c> easier</c>
+
+00:05:03.830 --> 00:05:03.840 align:start position:0%
+Select the animation. To make it easier
+ 
+
+00:05:03.840 --> 00:05:06.870 align:start position:0%
+Select the animation. To make it easier
+to<00:05:03.960><c> read</c><00:05:04.240><c> the</c><00:05:04.360><c> names</c><00:05:05.480><c> of</c><00:05:05.680><c> the</c><00:05:05.760><c> animation,</c><00:05:06.720><c> I</c>
+
+00:05:06.870 --> 00:05:06.880 align:start position:0%
+to read the names of the animation, I
+ 
+
+00:05:06.880 --> 00:05:09.230 align:start position:0%
+to read the names of the animation, I
+change<00:05:07.320><c> the</c><00:05:07.440><c> view</c><00:05:07.960><c> of</c><00:05:08.200><c> the</c><00:05:08.400><c> project</c><00:05:09.040><c> by</c>
+
+00:05:09.230 --> 00:05:09.240 align:start position:0%
+change the view of the project by
+ 
+
+00:05:09.240 --> 00:05:12.270 align:start position:0%
+change the view of the project by
+holding<00:05:09.760><c> the</c><00:05:09.880><c> control</c><00:05:10.919><c> and</c><00:05:11.280><c> using</c><00:05:11.680><c> scroll</c><00:05:12.160><c> on</c>
+
+00:05:12.270 --> 00:05:12.280 align:start position:0%
+holding the control and using scroll on
+ 
+
+00:05:12.280 --> 00:05:14.270 align:start position:0%
+holding the control and using scroll on
+mouse.
+
+00:05:14.270 --> 00:05:14.280 align:start position:0%
+mouse.
+ 
+
+00:05:14.280 --> 00:05:17.909 align:start position:0%
+mouse.
+Select<00:05:14.760><c> the</c><00:05:14.919><c> two-handed</c><00:05:16.160><c> idle</c><00:05:16.640><c> animation.</c>
+
+00:05:17.909 --> 00:05:17.919 align:start position:0%
+Select the two-handed idle animation.
+ 
+
+00:05:17.919 --> 00:05:20.270 align:start position:0%
+Select the two-handed idle animation.
+Drag<00:05:18.240><c> it</c><00:05:18.440><c> into</c><00:05:18.800><c> the</c><00:05:18.919><c> inspector</c><00:05:19.600><c> of</c><00:05:19.760><c> the</c><00:05:19.960><c> knight</c>
+
+00:05:20.270 --> 00:05:20.280 align:start position:0%
+Drag it into the inspector of the knight
+ 
+
+00:05:20.280 --> 00:05:22.909 align:start position:0%
+Drag it into the inspector of the knight
+character<00:05:20.720><c> main</c><00:05:21.040><c> object.</c><00:05:22.040><c> This</c><00:05:22.320><c> will</c><00:05:22.480><c> create</c>
+
+00:05:22.909 --> 00:05:22.919 align:start position:0%
+character main object. This will create
+ 
+
+00:05:22.919 --> 00:05:25.670 align:start position:0%
+character main object. This will create
+an<00:05:23.240><c> animator</c><00:05:23.840><c> controller</c><00:05:24.880><c> which</c><00:05:25.080><c> will</c><00:05:25.280><c> lead</c>
+
+00:05:25.670 --> 00:05:25.680 align:start position:0%
+an animator controller which will lead
+ 
+
+00:05:25.680 --> 00:05:28.630 align:start position:0%
+an animator controller which will lead
+into<00:05:26.040><c> the</c><00:05:26.320><c> idle</c><00:05:26.840><c> immediately.</c>
+
+00:05:28.630 --> 00:05:28.640 align:start position:0%
+into the idle immediately.
+ 
+
+00:05:28.640 --> 00:05:30.550 align:start position:0%
+into the idle immediately.
+To<00:05:28.720><c> see</c><00:05:28.919><c> that,</c><00:05:29.400><c> double</c><00:05:29.800><c> click</c><00:05:30.080><c> into</c><00:05:30.400><c> the</c>
+
+00:05:30.550 --> 00:05:30.560 align:start position:0%
+To see that, double click into the
+ 
+
+00:05:30.560 --> 00:05:41.630 align:start position:0%
+To see that, double click into the
+controller.
+
+00:05:41.630 --> 00:05:41.640 align:start position:0%
+ 
+ 
+
+00:05:41.640 --> 00:05:43.990 align:start position:0%
+ 
+To<00:05:41.760><c> see</c><00:05:42.400><c> the</c><00:05:42.600><c> model</c><00:05:43.000><c> better,</c><00:05:43.480><c> let's</c><00:05:43.720><c> move</c><00:05:43.880><c> the</c>
+
+00:05:43.990 --> 00:05:44.000 align:start position:0%
+To see the model better, let's move the
+ 
+
+00:05:44.000 --> 00:06:21.870 align:start position:0%
+To see the model better, let's move the
+camera.
+
+00:06:21.870 --> 00:06:21.880 align:start position:0%
+ 
+ 
+
+00:06:21.880 --> 00:06:24.909 align:start position:0%
+ 
+If<00:06:22.080><c> I</c><00:06:22.160><c> launch</c><00:06:22.480><c> the</c><00:06:22.600><c> game,</c><00:06:23.560><c> the</c><00:06:23.919><c> animation</c><00:06:24.640><c> will</c>
+
+00:06:24.909 --> 00:06:24.919 align:start position:0%
+If I launch the game, the animation will
+ 
+
+00:06:24.919 --> 00:06:27.790 align:start position:0%
+If I launch the game, the animation will
+only<00:06:25.200><c> loop</c><00:06:25.640><c> once.</c><00:06:26.720><c> So,</c><00:06:26.919><c> we</c><00:06:27.040><c> need</c><00:06:27.280><c> to</c><00:06:27.400><c> tell</c><00:06:27.680><c> to</c>
+
+00:06:27.790 --> 00:06:27.800 align:start position:0%
+only loop once. So, we need to tell to
+ 
+
+00:06:27.800 --> 00:06:29.510 align:start position:0%
+only loop once. So, we need to tell to
+the<00:06:27.960><c> game</c><00:06:28.280><c> that</c><00:06:28.520><c> this</c><00:06:28.720><c> animation</c><00:06:29.200><c> should</c><00:06:29.400><c> be</c>
+
+00:06:29.510 --> 00:06:29.520 align:start position:0%
+the game that this animation should be
+ 
+
+00:06:29.520 --> 00:06:32.390 align:start position:0%
+the game that this animation should be
+looping.<00:06:30.400><c> To</c><00:06:30.520><c> do</c><00:06:30.680><c> that,</c><00:06:31.000><c> select</c><00:06:31.640><c> the</c><00:06:31.840><c> file</c>
+
+00:06:32.390 --> 00:06:32.400 align:start position:0%
+looping. To do that, select the file
+ 
+
+00:06:32.400 --> 00:06:35.350 align:start position:0%
+looping. To do that, select the file
+with<00:06:32.600><c> animation</c><00:06:33.520><c> in</c><00:06:33.680><c> the</c><00:06:33.800><c> project.</c><00:06:34.880><c> Find</c><00:06:35.160><c> the</c>
+
+00:06:35.350 --> 00:06:35.360 align:start position:0%
+with animation in the project. Find the
+ 
+
+00:06:35.360 --> 00:06:39.190 align:start position:0%
+with animation in the project. Find the
+idle<00:06:35.680><c> animation</c><00:06:36.640><c> and</c><00:06:36.840><c> click</c><00:06:37.240><c> on</c><00:06:37.600><c> loop</c><00:06:37.960><c> time.</c>
+
+00:06:39.190 --> 00:06:39.200 align:start position:0%
+idle animation and click on loop time.
+ 
+
+00:06:39.200 --> 00:06:42.630 align:start position:0%
+idle animation and click on loop time.
+Do<00:06:39.440><c> the</c><00:06:39.600><c> same</c><00:06:39.960><c> for</c><00:06:40.200><c> run.</c><00:06:41.080><c> Any</c><00:06:41.320><c> animations</c>
+
+00:06:42.630 --> 00:06:42.640 align:start position:0%
+Do the same for run. Any animations
+ 
+
+00:06:42.640 --> 00:06:44.990 align:start position:0%
+Do the same for run. Any animations
+which<00:06:42.960><c> will</c><00:06:43.160><c> be</c><00:06:43.320><c> looped</c><00:06:43.880><c> need</c><00:06:44.160><c> to</c><00:06:44.280><c> be</c><00:06:44.400><c> marked</c>
+
+00:06:44.990 --> 00:06:45.000 align:start position:0%
+which will be looped need to be marked
+ 
+
+00:06:45.000 --> 00:06:46.430 align:start position:0%
+which will be looped need to be marked
+as<00:06:45.200><c> loopable.</c>
+
+00:06:46.430 --> 00:06:46.440 align:start position:0%
+as loopable.
+ 
+
+00:06:46.440 --> 00:06:55.030 align:start position:0%
+as loopable.
+Apply<00:06:46.880><c> the</c><00:06:47.000><c> changes.</c>
+
+00:06:55.030 --> 00:06:55.040 align:start position:0%
+ 
+ 
+
+00:06:55.040 --> 00:06:58.390 align:start position:0%
+ 
+Good.<00:06:55.880><c> Now</c><00:06:56.240><c> the</c><00:06:56.680><c> idle</c><00:06:57.000><c> animation</c><00:06:57.880><c> looping</c>
+
+00:06:58.390 --> 00:06:58.400 align:start position:0%
+Good. Now the idle animation looping
+ 
+
+00:06:58.400 --> 00:07:04.750 align:start position:0%
+Good. Now the idle animation looping
+well.
+
+00:07:04.750 --> 00:07:04.760 align:start position:0%
+ 
+ 
+
+00:07:04.760 --> 00:07:07.190 align:start position:0%
+ 
+Now<00:07:05.040><c> we</c><00:07:05.160><c> want</c><00:07:05.440><c> to</c><00:07:05.520><c> introduce</c><00:07:06.040><c> a</c><00:07:06.080><c> transition</c><00:07:07.040><c> to</c>
+
+00:07:07.190 --> 00:07:07.200 align:start position:0%
+Now we want to introduce a transition to
+ 
+
+00:07:07.200 --> 00:07:10.909 align:start position:0%
+Now we want to introduce a transition to
+the<00:07:07.360><c> run</c><00:07:08.240><c> and</c><00:07:08.440><c> from</c><00:07:08.760><c> the</c><00:07:09.040><c> idle</c><00:07:09.680><c> and</c><00:07:09.960><c> run</c><00:07:10.560><c> to</c><00:07:10.720><c> the</c>
+
+00:07:10.909 --> 00:07:10.919 align:start position:0%
+the run and from the idle and run to the
+ 
+
+00:07:10.919 --> 00:07:14.430 align:start position:0%
+the run and from the idle and run to the
+attack.
+
+00:07:14.430 --> 00:07:14.440 align:start position:0%
+ 
+ 
+
+00:07:14.440 --> 00:07:18.590 align:start position:0%
+ 
+Create<00:07:15.360><c> states</c><00:07:15.919><c> for</c><00:07:16.160><c> 200</c><00:07:17.240><c> attack</c><00:07:17.840><c> and</c><00:07:18.040><c> 200</c>
+
+00:07:18.590 --> 00:07:18.600 align:start position:0%
+Create states for 200 attack and 200
+ 
+
+00:07:18.600 --> 00:07:35.790 align:start position:0%
+Create states for 200 attack and 200
+run.
+
+00:07:35.790 --> 00:07:35.800 align:start position:0%
+ 
+ 
+
+00:07:35.800 --> 00:07:37.470 align:start position:0%
+ 
+Make<00:07:36.080><c> transition</c>
+
+00:07:37.470 --> 00:07:37.480 align:start position:0%
+Make transition
+ 
+
+00:07:37.480 --> 00:07:39.590 align:start position:0%
+Make transition
+between<00:07:37.919><c> them</c><00:07:38.320><c> by</c><00:07:38.520><c> pressing</c><00:07:39.000><c> right</c><00:07:39.240><c> mouse</c>
+
+00:07:39.590 --> 00:07:39.600 align:start position:0%
+between them by pressing right mouse
+ 
+
+00:07:39.600 --> 00:07:48.110 align:start position:0%
+between them by pressing right mouse
+button<00:07:40.120><c> and</c><00:07:40.320><c> pressing</c><00:07:40.880><c> make</c><00:07:41.160><c> transition.</c>
+
+00:07:48.110 --> 00:07:48.120 align:start position:0%
+ 
+ 
+
+00:07:48.120 --> 00:07:50.190 align:start position:0%
+ 
+Good,<00:07:48.840><c> but</c><00:07:49.080><c> we</c><00:07:49.200><c> need</c><00:07:49.400><c> to</c><00:07:49.520><c> control</c><00:07:50.000><c> those</c>
+
+00:07:50.190 --> 00:07:50.200 align:start position:0%
+Good, but we need to control those
+ 
+
+00:07:50.200 --> 00:07:52.790 align:start position:0%
+Good, but we need to control those
+transitions.<00:07:51.520><c> We</c><00:07:51.680><c> need</c><00:07:51.880><c> to</c><00:07:52.040><c> have</c><00:07:52.280><c> a</c><00:07:52.360><c> set</c><00:07:52.640><c> of</c>
+
+00:07:52.790 --> 00:07:52.800 align:start position:0%
+transitions. We need to have a set of
+ 
+
+00:07:52.800 --> 00:07:56.070 align:start position:0%
+transitions. We need to have a set of
+parameters<00:07:53.960><c> to</c><00:07:54.120><c> tell</c><00:07:54.440><c> to</c><00:07:54.720><c> our</c><00:07:55.000><c> model</c><00:07:55.840><c> when</c>
+
+00:07:56.070 --> 00:07:56.080 align:start position:0%
+parameters to tell to our model when
+ 
+
+00:07:56.080 --> 00:07:58.710 align:start position:0%
+parameters to tell to our model when
+this<00:07:56.360><c> model</c><00:07:56.800><c> is</c><00:07:57.000><c> supposed</c><00:07:57.480><c> to</c><00:07:57.600><c> run,</c><00:07:58.320><c> when</c><00:07:58.520><c> this</c>
+
+00:07:58.710 --> 00:07:58.720 align:start position:0%
+this model is supposed to run, when this
+ 
+
+00:07:58.720 --> 00:08:01.230 align:start position:0%
+this model is supposed to run, when this
+model<00:07:59.240><c> is</c><00:07:59.520><c> supposed</c><00:07:59.920><c> to</c><00:08:00.040><c> attack,</c><00:08:00.800><c> or</c><00:08:01.000><c> when</c>
+
+00:08:01.230 --> 00:08:01.240 align:start position:0%
+model is supposed to attack, or when
+ 
+
+00:08:01.240 --> 00:08:05.710 align:start position:0%
+model is supposed to attack, or when
+this<00:08:01.560><c> model</c><00:08:02.400><c> does</c><00:08:02.640><c> nothing</c><00:08:03.480><c> and</c><00:08:04.160><c> idle.</c>
+
+00:08:05.710 --> 00:08:05.720 align:start position:0%
+this model does nothing and idle.
+ 
+
+00:08:05.720 --> 00:08:08.950 align:start position:0%
+this model does nothing and idle.
+Create<00:08:06.160><c> two</c><00:08:06.360><c> bool</c><00:08:06.600><c> parameters,</c><00:08:07.800><c> one</c><00:08:08.120><c> for</c><00:08:08.360><c> move</c>
+
+00:08:08.950 --> 00:08:08.960 align:start position:0%
+Create two bool parameters, one for move
+ 
+
+00:08:08.960 --> 00:08:22.230 align:start position:0%
+Create two bool parameters, one for move
+and<00:08:09.160><c> one</c><00:08:09.440><c> for</c><00:08:09.680><c> attack.</c>
+
+00:08:22.230 --> 00:08:22.240 align:start position:0%
+ 
+ 
+
+00:08:22.240 --> 00:08:25.190 align:start position:0%
+ 
+Now<00:08:22.520><c> in</c><00:08:22.640><c> transition,</c><00:08:23.760><c> we</c><00:08:23.919><c> need</c><00:08:24.160><c> to</c><00:08:24.320><c> tell</c><00:08:24.640><c> that</c>
+
+00:08:25.190 --> 00:08:25.200 align:start position:0%
+Now in transition, we need to tell that
+ 
+
+00:08:25.200 --> 00:08:28.909 align:start position:0%
+Now in transition, we need to tell that
+when<00:08:25.640><c> the</c><00:08:25.800><c> move</c><00:08:26.320><c> is</c><00:08:26.520><c> true,</c><00:08:27.160><c> then</c><00:08:27.480><c> we</c><00:08:27.600><c> run.</c>
+
+00:08:28.909 --> 00:08:28.919 align:start position:0%
+when the move is true, then we run.
+ 
+
+00:08:28.919 --> 00:08:33.430 align:start position:0%
+when the move is true, then we run.
+If<00:08:29.160><c> it's</c><00:08:29.440><c> not,</c><00:08:30.160><c> return</c><00:08:30.680><c> to</c><00:08:30.840><c> the</c><00:08:31.080><c> idle</c><00:08:31.400><c> state.</c>
+
+00:08:33.430 --> 00:08:33.440 align:start position:0%
+If it's not, return to the idle state.
+ 
+
+00:08:33.440 --> 00:08:35.709 align:start position:0%
+If it's not, return to the idle state.
+On<00:08:33.560><c> the</c><00:08:33.680><c> transition</c><00:08:34.400><c> between</c><00:08:35.000><c> idle</c><00:08:35.560><c> and</c>
+
+00:08:35.709 --> 00:08:35.719 align:start position:0%
+On the transition between idle and
+ 
+
+00:08:35.719 --> 00:08:38.830 align:start position:0%
+On the transition between idle and
+attack,<00:08:36.560><c> when</c><00:08:36.760><c> we</c><00:08:36.880><c> transition</c><00:08:37.719><c> into</c><00:08:38.039><c> attack,</c>
+
+00:08:38.830 --> 00:08:38.840 align:start position:0%
+attack, when we transition into attack,
+ 
+
+00:08:38.840 --> 00:08:42.589 align:start position:0%
+attack, when we transition into attack,
+make<00:08:39.159><c> condition</c><00:08:40.280><c> if</c><00:08:40.800><c> attack</c><00:08:41.280><c> is</c><00:08:41.479><c> true.</c>
+
+00:08:42.589 --> 00:08:42.599 align:start position:0%
+make condition if attack is true.
+ 
+
+00:08:42.599 --> 00:08:45.070 align:start position:0%
+make condition if attack is true.
+But<00:08:42.919><c> on</c><00:08:43.080><c> the</c><00:08:43.120><c> exit</c><00:08:43.599><c> out</c><00:08:43.919><c> of</c><00:08:44.080><c> attack,</c><00:08:44.640><c> we</c><00:08:44.800><c> want</c>
+
+00:08:45.070 --> 00:08:45.080 align:start position:0%
+But on the exit out of attack, we want
+ 
+
+00:08:45.080 --> 00:08:47.510 align:start position:0%
+But on the exit out of attack, we want
+to<00:08:45.160><c> specify</c><00:08:45.920><c> besides</c><00:08:46.560><c> the</c><00:08:46.680><c> attack</c><00:08:47.200><c> being</c>
+
+00:08:47.510 --> 00:08:47.520 align:start position:0%
+to specify besides the attack being
+ 
+
+00:08:47.520 --> 00:08:50.510 align:start position:0%
+to specify besides the attack being
+false,<00:08:48.240><c> that</c><00:08:48.480><c> move</c><00:08:48.920><c> is</c><00:08:49.120><c> false,</c><00:08:49.520><c> too.</c>
+
+00:08:50.510 --> 00:08:50.520 align:start position:0%
+false, that move is false, too.
+ 
+
+00:08:50.520 --> 00:08:52.550 align:start position:0%
+false, that move is false, too.
+Because<00:08:50.839><c> attack</c><00:08:51.160><c> can</c><00:08:51.320><c> transition</c><00:08:52.160><c> into</c>
+
+00:08:52.550 --> 00:08:52.560 align:start position:0%
+Because attack can transition into
+ 
+
+00:08:52.560 --> 00:10:01.630 align:start position:0%
+Because attack can transition into
+moving,<00:08:53.040><c> too.</c>
+
+00:10:01.630 --> 00:10:01.640 align:start position:0%
+ 
+ 
+
+00:10:01.640 --> 00:10:04.470 align:start position:0%
+ 
+Now<00:10:02.000><c> if</c><00:10:02.440><c> I</c><00:10:02.560><c> will</c><00:10:02.800><c> manipulate</c><00:10:03.520><c> the</c><00:10:03.680><c> parameters,</c>
+
+00:10:04.470 --> 00:10:04.480 align:start position:0%
+Now if I will manipulate the parameters,
+ 
+
+00:10:04.480 --> 00:10:06.310 align:start position:0%
+Now if I will manipulate the parameters,
+you<00:10:04.640><c> will</c><00:10:04.840><c> see</c><00:10:05.040><c> is</c><00:10:05.200><c> it</c><00:10:05.400><c> our</c><00:10:05.640><c> character</c><00:10:06.080><c> will</c>
+
+00:10:06.310 --> 00:10:06.320 align:start position:0%
+you will see is it our character will
+ 
+
+00:10:06.320 --> 00:10:09.270 align:start position:0%
+you will see is it our character will
+move<00:10:07.120><c> and</c><00:10:07.280><c> will</c><00:10:07.440><c> attack.</c><00:10:08.520><c> But</c><00:10:08.720><c> it</c><00:10:08.840><c> feels</c>
+
+00:10:09.270 --> 00:10:09.280 align:start position:0%
+move and will attack. But it feels
+ 
+
+00:10:09.280 --> 00:10:11.510 align:start position:0%
+move and will attack. But it feels
+awkward,<00:10:09.920><c> like</c><00:10:10.160><c> it</c><00:10:10.320><c> takes</c><00:10:10.600><c> some</c><00:10:10.880><c> time</c><00:10:11.240><c> for</c>
+
+00:10:11.510 --> 00:10:11.520 align:start position:0%
+awkward, like it takes some time for
+ 
+
+00:10:11.520 --> 00:10:13.190 align:start position:0%
+awkward, like it takes some time for
+animator<00:10:12.200><c> to</c><00:10:12.360><c> catch</c><00:10:12.680><c> up</c><00:10:12.880><c> with</c><00:10:13.080><c> the</c>
+
+00:10:13.190 --> 00:10:13.200 align:start position:0%
+animator to catch up with the
+ 
+
+00:10:13.200 --> 00:10:14.590 align:start position:0%
+animator to catch up with the
+parameters.
+
+00:10:14.590 --> 00:10:14.600 align:start position:0%
+parameters.
+ 
+
+00:10:14.600 --> 00:10:16.510 align:start position:0%
+parameters.
+This<00:10:14.800><c> is</c><00:10:14.960><c> happening</c><00:10:15.440><c> because</c><00:10:15.800><c> animation</c>
+
+00:10:16.510 --> 00:10:16.520 align:start position:0%
+This is happening because animation
+ 
+
+00:10:16.520 --> 00:10:19.390 align:start position:0%
+This is happening because animation
+state<00:10:17.640><c> wants</c><00:10:18.080><c> to</c><00:10:18.240><c> finish</c><00:10:18.800><c> playing</c><00:10:19.240><c> the</c>
+
+00:10:19.390 --> 00:10:19.400 align:start position:0%
+state wants to finish playing the
+ 
+
+00:10:19.400 --> 00:10:21.790 align:start position:0%
+state wants to finish playing the
+animation<00:10:20.120><c> before</c><00:10:20.520><c> transitioning</c><00:10:21.400><c> to</c><00:10:21.520><c> new</c>
+
+00:10:21.790 --> 00:10:21.800 align:start position:0%
+animation before transitioning to new
+ 
+
+00:10:21.800 --> 00:10:24.870 align:start position:0%
+animation before transitioning to new
+state.
+
+00:10:24.870 --> 00:10:24.880 align:start position:0%
+ 
+ 
+
+00:10:24.880 --> 00:10:27.350 align:start position:0%
+ 
+To<00:10:25.000><c> avoid</c><00:10:25.320><c> this,</c><00:10:25.600><c> we</c><00:10:25.880><c> need</c><00:10:26.200><c> to</c><00:10:26.400><c> turn</c><00:10:26.840><c> off</c><00:10:27.160><c> the</c>
+
+00:10:27.350 --> 00:10:27.360 align:start position:0%
+To avoid this, we need to turn off the
+ 
+
+00:10:27.360 --> 00:10:30.390 align:start position:0%
+To avoid this, we need to turn off the
+has<00:10:27.840><c> exit</c><00:10:28.320><c> time</c><00:10:29.120><c> parameter.</c>
+
+00:10:30.390 --> 00:10:30.400 align:start position:0%
+has exit time parameter.
+ 
+
+00:10:30.400 --> 00:10:32.750 align:start position:0%
+has exit time parameter.
+You<00:10:30.520><c> have</c><00:10:30.760><c> to</c><00:10:30.880><c> do</c><00:10:31.080><c> this</c><00:10:31.320><c> for</c><00:10:31.640><c> each</c><00:10:31.880><c> transition</c>
+
+00:10:32.750 --> 00:10:32.760 align:start position:0%
+You have to do this for each transition
+ 
+
+00:10:32.760 --> 00:10:34.830 align:start position:0%
+You have to do this for each transition
+which<00:10:33.000><c> you</c><00:10:33.120><c> want</c><00:10:33.440><c> to</c><00:10:33.560><c> start</c><00:10:33.880><c> transitioning</c>
+
+00:10:34.830 --> 00:10:34.840 align:start position:0%
+which you want to start transitioning
+ 
+
+00:10:34.840 --> 00:11:05.670 align:start position:0%
+which you want to start transitioning
+the<00:10:35.120><c> moment</c><00:10:35.720><c> the</c><00:10:35.840><c> condition</c><00:10:36.520><c> is</c><00:10:36.760><c> met.</c>
+
+00:11:05.670 --> 00:11:05.680 align:start position:0%
+ 
+ 
+
+00:11:05.680 --> 00:11:08.230 align:start position:0%
+ 
+Good.<00:11:06.560><c> Now</c><00:11:06.800><c> let's</c><00:11:07.080><c> put</c><00:11:07.320><c> the</c><00:11:07.440><c> sword</c><00:11:07.839><c> into</c><00:11:08.080><c> the</c>
+
+00:11:08.230 --> 00:11:08.240 align:start position:0%
+Good. Now let's put the sword into the
+ 
+
+00:11:08.240 --> 00:11:10.590 align:start position:0%
+Good. Now let's put the sword into the
+hands.<00:11:09.040><c> To</c><00:11:09.160><c> do</c><00:11:09.320><c> that,</c><00:11:09.640><c> we</c><00:11:09.800><c> need</c><00:11:10.040><c> to</c><00:11:10.160><c> place</c><00:11:10.520><c> a</c>
+
+00:11:10.590 --> 00:11:10.600 align:start position:0%
+hands. To do that, we need to place a
+ 
+
+00:11:10.600 --> 00:11:13.590 align:start position:0%
+hands. To do that, we need to place a
+sword<00:11:11.000><c> into</c><00:11:11.360><c> what</c><00:11:11.600><c> is</c><00:11:11.760><c> called</c><00:11:12.240><c> leading</c><00:11:12.680><c> bone,</c>
+
+00:11:13.590 --> 00:11:13.600 align:start position:0%
+sword into what is called leading bone,
+ 
+
+00:11:13.600 --> 00:11:38.030 align:start position:0%
+sword into what is called leading bone,
+which<00:11:13.800><c> is</c><00:11:13.920><c> right</c><00:11:14.160><c> now</c><00:11:14.400><c> called</c><00:11:14.880><c> sword</c><00:11:15.839><c> def</c><00:11:16.400><c> air.</c>
+
+00:11:38.030 --> 00:11:38.040 align:start position:0%
+ 
+ 
+
+00:11:38.040 --> 00:11:39.870 align:start position:0%
+ 
+Also,<00:11:38.360><c> there</c><00:11:38.480><c> is</c><00:11:38.560><c> an</c><00:11:38.720><c> error</c><00:11:39.080><c> with</c><00:11:39.320><c> the</c><00:11:39.440><c> rig.</c>
+
+00:11:39.870 --> 00:11:39.880 align:start position:0%
+Also, there is an error with the rig.
+ 
+
+00:11:39.880 --> 00:11:42.030 align:start position:0%
+Also, there is an error with the rig.
+The<00:11:40.000><c> rotation</c><00:11:40.560><c> had</c><00:11:40.800><c> to</c><00:11:40.920><c> be</c><00:11:41.120><c> modified</c><00:11:41.720><c> to</c><00:11:41.840><c> be</c>
+
+00:11:42.030 --> 00:11:42.040 align:start position:0%
+The rotation had to be modified to be
+ 
+
+00:11:42.040 --> 00:11:45.070 align:start position:0%
+The rotation had to be modified to be
+placed<00:11:42.440><c> correctly</c><00:11:43.080><c> in</c><00:11:43.320><c> two</c><00:11:43.480><c> hands.</c><00:11:44.280><c> Add</c><00:11:44.560><c> minus</c>
+
+00:11:45.070 --> 00:11:45.080 align:start position:0%
+placed correctly in two hands. Add minus
+ 
+
+00:11:45.080 --> 00:11:48.670 align:start position:0%
+placed correctly in two hands. Add minus
+90°<00:11:45.920><c> into</c><00:11:46.320><c> X</c><00:11:46.600><c> rotation.</c><00:11:47.720><c> If</c><00:11:47.960><c> you</c><00:11:48.120><c> are</c><00:11:48.280><c> from</c><00:11:48.560><c> the</c>
+
+00:11:48.670 --> 00:11:48.680 align:start position:0%
+90° into X rotation. If you are from the
+ 
+
+00:11:48.680 --> 00:11:51.470 align:start position:0%
+90° into X rotation. If you are from the
+future<00:11:49.400><c> and</c><00:11:49.600><c> sword</c><00:11:50.120><c> is</c><00:11:50.320><c> already</c><00:11:50.760><c> placed</c><00:11:51.200><c> well</c>
+
+00:11:51.470 --> 00:11:51.480 align:start position:0%
+future and sword is already placed well
+ 
+
+00:11:51.480 --> 00:11:53.310 align:start position:0%
+future and sword is already placed well
+in<00:11:51.600><c> two</c><00:11:51.800><c> hands,</c><00:11:52.480><c> you</c><00:11:52.560><c> don't</c><00:11:52.760><c> have</c><00:11:52.920><c> to</c><00:11:53.040><c> change</c>
+
+00:11:53.310 --> 00:11:53.320 align:start position:0%
+in two hands, you don't have to change
+ 
+
+00:11:53.320 --> 00:12:10.150 align:start position:0%
+in two hands, you don't have to change
+anything.
+
+00:12:10.150 --> 00:12:10.160 align:start position:0%
+ 
+ 
+
+00:12:10.160 --> 00:12:12.870 align:start position:0%
+ 
+We<00:12:10.880><c> are</c><00:12:10.960><c> done</c><00:12:11.240><c> with</c><00:12:11.440><c> the</c><00:12:11.560><c> animator</c><00:12:12.160><c> controller</c>
+
+00:12:12.870 --> 00:12:12.880 align:start position:0%
+We are done with the animator controller
+ 
+
+00:12:12.880 --> 00:12:15.110 align:start position:0%
+We are done with the animator controller
+and<00:12:13.120><c> setting</c><00:12:13.480><c> up</c><00:12:13.640><c> the</c><00:12:13.760><c> rig.</c><00:12:14.600><c> We</c><00:12:14.760><c> will</c><00:12:14.960><c> be</c>
+
+00:12:15.110 --> 00:12:15.120 align:start position:0%
+and setting up the rig. We will be
+ 
+
+00:12:15.120 --> 00:12:18.470 align:start position:0%
+and setting up the rig. We will be
+actually<00:12:16.040><c> using</c><00:12:16.440><c> this</c><00:12:16.760><c> model</c><00:12:17.280><c> and</c><00:12:17.400><c> animation</c>
+
+00:12:18.470 --> 00:12:18.480 align:start position:0%
+actually using this model and animation
+ 
+
+00:12:18.480 --> 00:12:20.870 align:start position:0%
+actually using this model and animation
+in<00:12:18.640><c> the</c><00:12:18.720><c> next</c><00:12:19.080><c> episode.</c>
+
+00:12:20.870 --> 00:12:20.880 align:start position:0%
+in the next episode.
+ 
+
+00:12:20.880 --> 00:12:22.670 align:start position:0%
+in the next episode.
+Good,<00:12:21.120><c> this</c><00:12:21.320><c> is</c><00:12:21.440><c> it</c><00:12:21.560><c> for</c><00:12:21.680><c> this</c><00:12:21.920><c> episode.</c><00:12:22.520><c> If</c>
+
+00:12:22.670 --> 00:12:22.680 align:start position:0%
+Good, this is it for this episode. If
+ 
+
+00:12:22.680 --> 00:12:24.470 align:start position:0%
+Good, this is it for this episode. If
+you<00:12:22.800><c> have</c><00:12:22.960><c> any</c><00:12:23.120><c> questions</c><00:12:23.680><c> or</c><00:12:23.880><c> any</c><00:12:24.080><c> ideas</c>
+
+00:12:24.470 --> 00:12:24.480 align:start position:0%
+you have any questions or any ideas
+ 
+
+00:12:24.480 --> 00:12:26.310 align:start position:0%
+you have any questions or any ideas
+about<00:12:24.800><c> code,</c><00:12:25.360><c> please</c><00:12:25.600><c> leave</c><00:12:25.760><c> your</c><00:12:26.000><c> comment</c>
+
+00:12:26.310 --> 00:12:26.320 align:start position:0%
+about code, please leave your comment
+ 
+
+00:12:26.320 --> 00:12:28.110 align:start position:0%
+about code, please leave your comment
+below.<00:12:27.040><c> If</c><00:12:27.200><c> you're</c><00:12:27.320><c> interested</c><00:12:27.800><c> in</c><00:12:27.920><c> seeing</c>
+
+00:12:28.110 --> 00:12:28.120 align:start position:0%
+below. If you're interested in seeing
+ 
+
+00:12:28.120 --> 00:12:29.590 align:start position:0%
+below. If you're interested in seeing
+what<00:12:28.240><c> will</c><00:12:28.360><c> come</c><00:12:28.600><c> out</c><00:12:28.800><c> of</c><00:12:28.880><c> this,</c><00:12:29.360><c> please</c>
+
+00:12:29.590 --> 00:12:29.600 align:start position:0%
+what will come out of this, please
+ 
+
+00:12:29.600 --> 00:12:31.550 align:start position:0%
+what will come out of this, please
+subscribe.<00:12:30.720><c> If</c><00:12:30.840><c> you</c><00:12:30.920><c> want</c><00:12:31.120><c> to</c><00:12:31.200><c> support</c>
+
+00:12:31.550 --> 00:12:31.560 align:start position:0%
+subscribe. If you want to support
+ 
+
+00:12:31.560 --> 00:12:33.630 align:start position:0%
+subscribe. If you want to support
+further,<00:12:32.200><c> you</c><00:12:32.280><c> can</c><00:12:32.480><c> find</c><00:12:32.720><c> my</c><00:12:32.840><c> Patreon</c><00:12:33.400><c> in</c><00:12:33.560><c> the</c>
+
+00:12:33.630 --> 00:12:33.640 align:start position:0%
+further, you can find my Patreon in the
+ 
+
+00:12:33.640 --> 00:12:36.070 align:start position:0%
+further, you can find my Patreon in the
+description.<00:12:34.680><c> Special</c><00:12:35.160><c> thank</c><00:12:35.400><c> you</c><00:12:35.520><c> to</c><00:12:35.760><c> Andrew</c>
+
+00:12:36.070 --> 00:12:36.080 align:start position:0%
+description. Special thank you to Andrew
+ 
+
+00:12:36.080 --> 00:12:38.990 align:start position:0%
+description. Special thank you to Andrew
+Be<00:12:36.240><c> Long</c><00:12:36.760><c> and</c><00:12:37.040><c> ThisOldHatch</c><00:12:37.880><c> Do</c><00:12:38.560><c> for</c><00:12:38.760><c> their</c>
+
+00:12:38.990 --> 00:12:39.000 align:start position:0%
+Be Long and ThisOldHatch Do for their
+ 
+
+00:12:39.000 --> 00:12:41.829 align:start position:0%
+Be Long and ThisOldHatch Do for their
+generous<00:12:39.440><c> support.</c><00:12:40.560><c> With</c><00:12:40.680><c> best</c><00:12:40.920><c> regards,</c><00:12:41.600><c> see</c>
+
+00:12:41.829 --> 00:12:41.839 align:start position:0%
+generous support. With best regards, see
+ 
+
+00:12:41.839 --> 00:12:45.080 align:start position:0%
+generous support. With best regards, see
+you<00:12:41.920><c> in</c><00:12:42.040><c> the</c><00:12:42.160><c> next</c><00:12:42.520><c> episode.</c>
+

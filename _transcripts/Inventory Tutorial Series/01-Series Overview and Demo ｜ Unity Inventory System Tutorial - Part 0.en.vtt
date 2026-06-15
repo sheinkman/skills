@@ -1,0 +1,1296 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.170 --> 00:00:06.869 align:start position:0%
+ 
+[Music]
+
+00:00:06.869 --> 00:00:06.879 align:start position:0%
+ 
+ 
+
+00:00:06.879 --> 00:00:08.710 align:start position:0%
+ 
+hello<00:00:07.120><c> and</c><00:00:07.200><c> welcome</c><00:00:07.600><c> to</c><00:00:07.759><c> this</c><00:00:08.000><c> tutorial</c>
+
+00:00:08.710 --> 00:00:08.720 align:start position:0%
+hello and welcome to this tutorial
+ 
+
+00:00:08.720 --> 00:00:10.470 align:start position:0%
+hello and welcome to this tutorial
+series<00:00:09.519><c> in</c><00:00:09.599><c> this</c><00:00:09.760><c> series</c><00:00:10.080><c> we're</c><00:00:10.240><c> going</c><00:00:10.320><c> to</c><00:00:10.400><c> be</c>
+
+00:00:10.470 --> 00:00:10.480 align:start position:0%
+series in this series we're going to be
+ 
+
+00:00:10.480 --> 00:00:12.390 align:start position:0%
+series in this series we're going to be
+covering<00:00:10.880><c> how</c><00:00:11.120><c> to</c><00:00:11.200><c> make</c><00:00:11.360><c> a</c><00:00:11.440><c> minecraft</c><00:00:12.000><c> style</c>
+
+00:00:12.390 --> 00:00:12.400 align:start position:0%
+covering how to make a minecraft style
+ 
+
+00:00:12.400 --> 00:00:13.910 align:start position:0%
+covering how to make a minecraft style
+inventory<00:00:12.880><c> system</c>
+
+00:00:13.910 --> 00:00:13.920 align:start position:0%
+inventory system
+ 
+
+00:00:13.920 --> 00:00:15.509 align:start position:0%
+inventory system
+in<00:00:14.080><c> the</c><00:00:14.240><c> system</c><00:00:14.639><c> we're</c><00:00:14.799><c> going</c><00:00:14.880><c> to</c><00:00:14.960><c> be</c><00:00:15.120><c> able</c><00:00:15.280><c> to</c>
+
+00:00:15.509 --> 00:00:15.519 align:start position:0%
+in the system we're going to be able to
+ 
+
+00:00:15.519 --> 00:00:18.230 align:start position:0%
+in the system we're going to be able to
+have<00:00:15.679><c> a</c><00:00:15.679><c> backpack</c><00:00:16.400><c> chest</c><00:00:17.199><c> a</c><00:00:17.279><c> hot</c><00:00:17.520><c> bar</c><00:00:18.000><c> we're</c>
+
+00:00:18.230 --> 00:00:18.240 align:start position:0%
+have a backpack chest a hot bar we're
+ 
+
+00:00:18.240 --> 00:00:19.990 align:start position:0%
+have a backpack chest a hot bar we're
+going<00:00:18.400><c> to</c><00:00:18.480><c> pick</c><00:00:18.720><c> up</c><00:00:18.880><c> items</c><00:00:19.199><c> from</c><00:00:19.439><c> the</c><00:00:19.520><c> ground</c>
+
+00:00:19.990 --> 00:00:20.000 align:start position:0%
+going to pick up items from the ground
+ 
+
+00:00:20.000 --> 00:00:21.429 align:start position:0%
+going to pick up items from the ground
+we're<00:00:20.160><c> going</c><00:00:20.240><c> to</c><00:00:20.320><c> have</c><00:00:20.560><c> them</c><00:00:20.880><c> stack</c><00:00:21.359><c> we're</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+we're going to have them stack we're
+ 
+
+00:00:21.439 --> 00:00:24.550 align:start position:0%
+we're going to have them stack we're
+going<00:00:21.520><c> to</c><00:00:21.600><c> have</c><00:00:21.760><c> different</c><00:00:22.240><c> max</c><00:00:22.640><c> stack</c><00:00:23.039><c> sizes</c>
+
+00:00:24.550 --> 00:00:24.560 align:start position:0%
+going to have different max stack sizes
+ 
+
+00:00:24.560 --> 00:00:26.150 align:start position:0%
+going to have different max stack sizes
+also<00:00:24.800><c> going</c><00:00:24.880><c> to</c><00:00:24.960><c> be</c><00:00:25.039><c> able</c><00:00:25.199><c> to</c><00:00:25.439><c> split</c><00:00:25.760><c> stacks</c>
+
+00:00:26.150 --> 00:00:26.160 align:start position:0%
+also going to be able to split stacks
+ 
+
+00:00:26.160 --> 00:00:28.150 align:start position:0%
+also going to be able to split stacks
+combine<00:00:26.640><c> stacks</c><00:00:27.039><c> and</c><00:00:27.119><c> drag</c><00:00:27.439><c> and</c><00:00:27.519><c> drop</c><00:00:27.840><c> stuff</c>
+
+00:00:28.150 --> 00:00:28.160 align:start position:0%
+combine stacks and drag and drop stuff
+ 
+
+00:00:28.160 --> 00:00:29.669 align:start position:0%
+combine stacks and drag and drop stuff
+out<00:00:28.240><c> of</c><00:00:28.320><c> the</c><00:00:28.480><c> inventory</c><00:00:29.279><c> the</c><00:00:29.359><c> way</c><00:00:29.519><c> this</c>
+
+00:00:29.669 --> 00:00:29.679 align:start position:0%
+out of the inventory the way this
+ 
+
+00:00:29.679 --> 00:00:31.830 align:start position:0%
+out of the inventory the way this
+tutorial<00:00:30.240><c> system</c><00:00:30.560><c> is</c><00:00:30.800><c> gonna</c><00:00:30.960><c> work</c>
+
+00:00:31.830 --> 00:00:31.840 align:start position:0%
+tutorial system is gonna work
+ 
+
+00:00:31.840 --> 00:00:34.389 align:start position:0%
+tutorial system is gonna work
+is<00:00:32.079><c> it</c><00:00:32.160><c> split</c><00:00:32.559><c> into</c><00:00:33.040><c> seven</c><00:00:33.520><c> parts</c><00:00:34.160><c> there's</c>
+
+00:00:34.389 --> 00:00:34.399 align:start position:0%
+is it split into seven parts there's
+ 
+
+00:00:34.399 --> 00:00:35.830 align:start position:0%
+is it split into seven parts there's
+eight<00:00:34.559><c> videos</c><00:00:34.960><c> in</c><00:00:35.120><c> total</c><00:00:35.440><c> because</c><00:00:35.600><c> i've</c><00:00:35.680><c> got</c>
+
+00:00:35.830 --> 00:00:35.840 align:start position:0%
+eight videos in total because i've got
+ 
+
+00:00:35.840 --> 00:00:38.069 align:start position:0%
+eight videos in total because i've got
+like<00:00:36.000><c> a</c><00:00:36.160><c> part</c><00:00:36.480><c> 5.5</c><00:00:37.360><c> which</c><00:00:37.600><c> will</c><00:00:37.680><c> come</c><00:00:37.920><c> out</c>
+
+00:00:38.069 --> 00:00:38.079 align:start position:0%
+like a part 5.5 which will come out
+ 
+
+00:00:38.079 --> 00:00:41.030 align:start position:0%
+like a part 5.5 which will come out
+mid-week<00:00:39.040><c> um</c><00:00:39.520><c> on</c><00:00:39.680><c> that</c><00:00:39.840><c> week</c><00:00:40.160><c> and</c><00:00:40.239><c> that's</c><00:00:40.640><c> a</c>
+
+00:00:41.030 --> 00:00:41.040 align:start position:0%
+mid-week um on that week and that's a
+ 
+
+00:00:41.040 --> 00:00:43.030 align:start position:0%
+mid-week um on that week and that's a
+code<00:00:41.360><c> review</c><00:00:41.760><c> so</c><00:00:42.160><c> at</c><00:00:42.320><c> that</c><00:00:42.559><c> point</c><00:00:42.800><c> in</c><00:00:42.879><c> the</c>
+
+00:00:43.030 --> 00:00:43.040 align:start position:0%
+code review so at that point in the
+ 
+
+00:00:43.040 --> 00:00:44.310 align:start position:0%
+code review so at that point in the
+project<00:00:43.440><c> i'm</c><00:00:43.520><c> just</c><00:00:43.680><c> going</c><00:00:43.760><c> to</c><00:00:43.760><c> go</c><00:00:43.920><c> through</c><00:00:44.160><c> all</c>
+
+00:00:44.310 --> 00:00:44.320 align:start position:0%
+project i'm just going to go through all
+ 
+
+00:00:44.320 --> 00:00:45.990 align:start position:0%
+project i'm just going to go through all
+of<00:00:44.399><c> the</c><00:00:44.480><c> code</c><00:00:44.879><c> and</c><00:00:44.960><c> kind</c><00:00:45.120><c> of</c><00:00:45.600><c> refresh</c>
+
+00:00:45.990 --> 00:00:46.000 align:start position:0%
+of the code and kind of refresh
+ 
+
+00:00:46.000 --> 00:00:47.750 align:start position:0%
+of the code and kind of refresh
+ourselves<00:00:46.480><c> what</c><00:00:46.640><c> all</c><00:00:46.800><c> of</c><00:00:46.879><c> the</c><00:00:46.960><c> code's</c><00:00:47.360><c> doing</c>
+
+00:00:47.750 --> 00:00:47.760 align:start position:0%
+ourselves what all of the code's doing
+ 
+
+00:00:47.760 --> 00:00:49.910 align:start position:0%
+ourselves what all of the code's doing
+so<00:00:47.920><c> there's</c><00:00:48.160><c> eight</c><00:00:48.320><c> videos</c><00:00:48.719><c> but</c><00:00:48.960><c> seven</c><00:00:49.280><c> parts</c>
+
+00:00:49.910 --> 00:00:49.920 align:start position:0%
+so there's eight videos but seven parts
+ 
+
+00:00:49.920 --> 00:00:51.510 align:start position:0%
+so there's eight videos but seven parts
+each<00:00:50.160><c> video</c><00:00:50.480><c> is</c><00:00:50.640><c> going</c><00:00:50.719><c> to</c><00:00:50.800><c> come</c><00:00:50.960><c> out</c><00:00:51.120><c> here</c><00:00:51.360><c> on</c>
+
+00:00:51.510 --> 00:00:51.520 align:start position:0%
+each video is going to come out here on
+ 
+
+00:00:51.520 --> 00:00:53.750 align:start position:0%
+each video is going to come out here on
+youtube<00:00:52.000><c> weekly</c><00:00:52.559><c> but</c><00:00:52.719><c> the</c><00:00:52.879><c> full</c><00:00:53.120><c> series</c><00:00:53.600><c> is</c>
+
+00:00:53.750 --> 00:00:53.760 align:start position:0%
+youtube weekly but the full series is
+ 
+
+00:00:53.760 --> 00:00:56.830 align:start position:0%
+youtube weekly but the full series is
+recorded<00:00:54.320><c> and</c><00:00:54.480><c> it's</c><00:00:54.640><c> available</c><00:00:55.120><c> over</c><00:00:55.360><c> on</c>
+
+00:00:56.830 --> 00:00:56.840 align:start position:0%
+recorded and it's available over on
+ 
+
+00:00:56.840 --> 00:00:59.110 align:start position:0%
+recorded and it's available over on
+patreon.com<00:00:57.920><c> so</c><00:00:58.079><c> if</c><00:00:58.160><c> you</c><00:00:58.239><c> want</c><00:00:58.399><c> early</c><00:00:58.640><c> access</c>
+
+00:00:59.110 --> 00:00:59.120 align:start position:0%
+patreon.com so if you want early access
+ 
+
+00:00:59.120 --> 00:01:00.869 align:start position:0%
+patreon.com so if you want early access
+you<00:00:59.199><c> can</c><00:00:59.520><c> support</c><00:00:59.840><c> me</c><00:01:00.000><c> over</c><00:01:00.239><c> on</c><00:01:00.320><c> patreon</c><00:01:00.719><c> and</c>
+
+00:01:00.869 --> 00:01:00.879 align:start position:0%
+you can support me over on patreon and
+ 
+
+00:01:00.879 --> 00:01:02.470 align:start position:0%
+you can support me over on patreon and
+you'll<00:01:01.039><c> get</c><00:01:01.120><c> the</c><00:01:01.199><c> full</c><00:01:01.440><c> series</c><00:01:01.920><c> right</c><00:01:02.079><c> now</c><00:01:02.320><c> and</c>
+
+00:01:02.470 --> 00:01:02.480 align:start position:0%
+you'll get the full series right now and
+ 
+
+00:01:02.480 --> 00:01:04.390 align:start position:0%
+you'll get the full series right now and
+at<00:01:02.559><c> the</c><00:01:02.719><c> end</c><00:01:02.960><c> of</c><00:01:03.039><c> each</c><00:01:03.280><c> episode</c><00:01:03.680><c> i've</c><00:01:03.840><c> exported</c>
+
+00:01:04.390 --> 00:01:04.400 align:start position:0%
+at the end of each episode i've exported
+ 
+
+00:01:04.400 --> 00:01:06.390 align:start position:0%
+at the end of each episode i've exported
+the<00:01:04.559><c> scripts</c><00:01:05.119><c> for</c><00:01:05.360><c> like</c><00:01:05.519><c> as</c><00:01:05.760><c> they</c><00:01:05.920><c> were</c><00:01:06.159><c> at</c><00:01:06.240><c> the</c>
+
+00:01:06.390 --> 00:01:06.400 align:start position:0%
+the scripts for like as they were at the
+ 
+
+00:01:06.400 --> 00:01:08.230 align:start position:0%
+the scripts for like as they were at the
+end<00:01:06.560><c> of</c><00:01:06.640><c> the</c><00:01:06.799><c> episode</c><00:01:07.600><c> and</c><00:01:07.760><c> again</c><00:01:08.000><c> if</c><00:01:08.159><c> you</c>
+
+00:01:08.230 --> 00:01:08.240 align:start position:0%
+end of the episode and again if you
+ 
+
+00:01:08.240 --> 00:01:09.670 align:start position:0%
+end of the episode and again if you
+support<00:01:08.560><c> over</c><00:01:08.880><c> on</c><00:01:08.960><c> patreon</c><00:01:09.360><c> you'll</c><00:01:09.520><c> get</c>
+
+00:01:09.670 --> 00:01:09.680 align:start position:0%
+support over on patreon you'll get
+ 
+
+00:01:09.680 --> 00:01:11.190 align:start position:0%
+support over on patreon you'll get
+access<00:01:09.920><c> to</c><00:01:10.080><c> the</c><00:01:10.159><c> scripts</c><00:01:10.479><c> as</c><00:01:10.560><c> well</c><00:01:10.720><c> as</c><00:01:10.880><c> early</c>
+
+00:01:11.190 --> 00:01:11.200 align:start position:0%
+access to the scripts as well as early
+ 
+
+00:01:11.200 --> 00:01:12.550 align:start position:0%
+access to the scripts as well as early
+access<00:01:11.760><c> i'll</c><00:01:11.920><c> link</c><00:01:12.159><c> that</c><00:01:12.320><c> is</c><00:01:12.400><c> in</c><00:01:12.479><c> the</c>
+
+00:01:12.550 --> 00:01:12.560 align:start position:0%
+access i'll link that is in the
+ 
+
+00:01:12.560 --> 00:01:14.310 align:start position:0%
+access i'll link that is in the
+description<00:01:13.040><c> below</c><00:01:13.439><c> if</c><00:01:13.600><c> at</c><00:01:13.680><c> any</c><00:01:13.840><c> point</c><00:01:14.159><c> you</c>
+
+00:01:14.310 --> 00:01:14.320 align:start position:0%
+description below if at any point you
+ 
+
+00:01:14.320 --> 00:01:16.070 align:start position:0%
+description below if at any point you
+get<00:01:14.560><c> kind</c><00:01:14.720><c> of</c><00:01:14.880><c> confused</c><00:01:15.360><c> or</c><00:01:15.520><c> lost</c><00:01:15.759><c> you</c><00:01:15.920><c> want</c><00:01:16.000><c> a</c>
+
+00:01:16.070 --> 00:01:16.080 align:start position:0%
+get kind of confused or lost you want a
+ 
+
+00:01:16.080 --> 00:01:18.070 align:start position:0%
+get kind of confused or lost you want a
+bit<00:01:16.159><c> more</c><00:01:16.400><c> information</c><00:01:17.439><c> leave</c><00:01:17.680><c> a</c><00:01:17.759><c> comment</c>
+
+00:01:18.070 --> 00:01:18.080 align:start position:0%
+bit more information leave a comment
+ 
+
+00:01:18.080 --> 00:01:19.830 align:start position:0%
+bit more information leave a comment
+under<00:01:18.320><c> that</c><00:01:18.479><c> video</c><00:01:18.799><c> or</c><00:01:19.040><c> join</c><00:01:19.280><c> the</c><00:01:19.360><c> discord</c>
+
+00:01:19.830 --> 00:01:19.840 align:start position:0%
+under that video or join the discord
+ 
+
+00:01:19.840 --> 00:01:21.030 align:start position:0%
+under that video or join the discord
+server<00:01:20.159><c> which</c><00:01:20.320><c> again</c><00:01:20.560><c> is</c><00:01:20.640><c> linked</c><00:01:20.880><c> in</c><00:01:20.960><c> the</c>
+
+00:01:21.030 --> 00:01:21.040 align:start position:0%
+server which again is linked in the
+ 
+
+00:01:21.040 --> 00:01:22.710 align:start position:0%
+server which again is linked in the
+description<00:01:21.520><c> below</c><00:01:21.920><c> neither</c><00:01:22.159><c> me</c><00:01:22.320><c> or</c><00:01:22.479><c> someone</c>
+
+00:01:22.710 --> 00:01:22.720 align:start position:0%
+description below neither me or someone
+ 
+
+00:01:22.720 --> 00:01:24.149 align:start position:0%
+description below neither me or someone
+else<00:01:22.960><c> in</c><00:01:23.040><c> the</c><00:01:23.200><c> community</c><00:01:23.680><c> will</c><00:01:23.840><c> be</c><00:01:23.920><c> able</c><00:01:24.000><c> to</c>
+
+00:01:24.149 --> 00:01:24.159 align:start position:0%
+else in the community will be able to
+ 
+
+00:01:24.159 --> 00:01:25.910 align:start position:0%
+else in the community will be able to
+help<00:01:24.400><c> you</c><00:01:24.560><c> hopefully</c><00:01:25.040><c> solve</c><00:01:25.439><c> the</c><00:01:25.520><c> issue</c><00:01:25.840><c> that</c>
+
+00:01:25.910 --> 00:01:25.920 align:start position:0%
+help you hopefully solve the issue that
+ 
+
+00:01:25.920 --> 00:01:27.429 align:start position:0%
+help you hopefully solve the issue that
+you're<00:01:26.080><c> having</c><00:01:26.560><c> some</c><00:01:26.799><c> things</c><00:01:27.040><c> that</c><00:01:27.200><c> this</c>
+
+00:01:27.429 --> 00:01:27.439 align:start position:0%
+you're having some things that this
+ 
+
+00:01:27.439 --> 00:01:29.429 align:start position:0%
+you're having some things that this
+series<00:01:27.840><c> isn't</c><00:01:28.080><c> going</c><00:01:28.159><c> to</c><00:01:28.240><c> cover</c><00:01:28.640><c> is</c><00:01:29.040><c> just</c><00:01:29.280><c> to</c>
+
+00:01:29.429 --> 00:01:29.439 align:start position:0%
+series isn't going to cover is just to
+ 
+
+00:01:29.439 --> 00:01:31.510 align:start position:0%
+series isn't going to cover is just to
+set<00:01:29.680><c> expectations</c><00:01:30.479><c> is</c><00:01:30.640><c> there's</c><00:01:30.799><c> no</c><00:01:31.119><c> saving</c>
+
+00:01:31.510 --> 00:01:31.520 align:start position:0%
+set expectations is there's no saving
+ 
+
+00:01:31.520 --> 00:01:33.830 align:start position:0%
+set expectations is there's no saving
+and<00:01:31.680><c> loading</c><00:01:32.000><c> of</c><00:01:32.159><c> the</c><00:01:32.240><c> imagery</c><00:01:32.960><c> that's</c><00:01:33.200><c> almost</c>
+
+00:01:33.830 --> 00:01:33.840 align:start position:0%
+and loading of the imagery that's almost
+ 
+
+00:01:33.840 --> 00:01:35.510 align:start position:0%
+and loading of the imagery that's almost
+like<00:01:34.000><c> a</c><00:01:34.079><c> safe</c><00:01:34.320><c> load</c><00:01:34.560><c> system</c><00:01:34.960><c> is</c><00:01:35.040><c> almost</c><00:01:35.360><c> its</c>
+
+00:01:35.510 --> 00:01:35.520 align:start position:0%
+like a safe load system is almost its
+ 
+
+00:01:35.520 --> 00:01:37.350 align:start position:0%
+like a safe load system is almost its
+own<00:01:35.759><c> with</c><00:01:35.920><c> this</c><00:01:36.000><c> series</c><00:01:36.400><c> and</c><00:01:36.479><c> there</c><00:01:36.640><c> are</c><00:01:37.119><c> lots</c>
+
+00:01:37.350 --> 00:01:37.360 align:start position:0%
+own with this series and there are lots
+ 
+
+00:01:37.360 --> 00:01:38.870 align:start position:0%
+own with this series and there are lots
+of<00:01:37.439><c> tutorials</c><00:01:38.000><c> out</c><00:01:38.079><c> there</c><00:01:38.320><c> that</c><00:01:38.400><c> would</c><00:01:38.640><c> allow</c>
+
+00:01:38.870 --> 00:01:38.880 align:start position:0%
+of tutorials out there that would allow
+ 
+
+00:01:38.880 --> 00:01:40.630 align:start position:0%
+of tutorials out there that would allow
+you<00:01:39.040><c> to</c><00:01:39.200><c> do</c><00:01:39.360><c> that</c><00:01:39.600><c> but</c><00:01:39.920><c> if</c><00:01:40.079><c> this</c><00:01:40.240><c> series</c><00:01:40.560><c> is</c>
+
+00:01:40.630 --> 00:01:40.640 align:start position:0%
+you to do that but if this series is
+ 
+
+00:01:40.640 --> 00:01:41.749 align:start position:0%
+you to do that but if this series is
+well<00:01:40.880><c> received</c><00:01:41.280><c> and</c><00:01:41.360><c> there's</c><00:01:41.520><c> a</c><00:01:41.520><c> lot</c><00:01:41.680><c> of</c>
+
+00:01:41.749 --> 00:01:41.759 align:start position:0%
+well received and there's a lot of
+ 
+
+00:01:41.759 --> 00:01:44.149 align:start position:0%
+well received and there's a lot of
+support<00:01:42.399><c> um</c><00:01:43.119><c> i</c><00:01:43.280><c> am</c><00:01:43.360><c> thinking</c><00:01:43.680><c> of</c><00:01:43.759><c> doing</c><00:01:44.000><c> an</c>
+
+00:01:44.149 --> 00:01:44.159 align:start position:0%
+support um i am thinking of doing an
+ 
+
+00:01:44.159 --> 00:01:47.270 align:start position:0%
+support um i am thinking of doing an
+expansion<00:01:44.880><c> sort</c><00:01:45.040><c> of</c><00:01:45.600><c> video</c><00:01:46.079><c> series</c><00:01:46.799><c> to</c><00:01:47.040><c> this</c>
+
+00:01:47.270 --> 00:01:47.280 align:start position:0%
+expansion sort of video series to this
+ 
+
+00:01:47.280 --> 00:01:48.710 align:start position:0%
+expansion sort of video series to this
+to<00:01:47.439><c> show</c><00:01:47.600><c> you</c><00:01:47.680><c> how</c><00:01:47.840><c> to</c><00:01:47.920><c> make</c><00:01:48.079><c> a</c><00:01:48.159><c> save</c><00:01:48.399><c> and</c><00:01:48.479><c> load</c>
+
+00:01:48.710 --> 00:01:48.720 align:start position:0%
+to show you how to make a save and load
+ 
+
+00:01:48.720 --> 00:01:50.389 align:start position:0%
+to show you how to make a save and load
+system<00:01:49.040><c> and</c><00:01:49.119><c> save</c><00:01:49.439><c> our</c><00:01:49.680><c> inventories</c><00:01:50.159><c> some</c><00:01:50.320><c> of</c>
+
+00:01:50.389 --> 00:01:50.399 align:start position:0%
+system and save our inventories some of
+ 
+
+00:01:50.399 --> 00:01:51.830 align:start position:0%
+system and save our inventories some of
+the<00:01:50.479><c> things</c><00:01:50.720><c> i</c><00:01:50.799><c> might</c><00:01:51.040><c> do</c><00:01:51.200><c> in</c><00:01:51.280><c> the</c><00:01:51.360><c> future</c><00:01:51.680><c> with</c>
+
+00:01:51.830 --> 00:01:51.840 align:start position:0%
+the things i might do in the future with
+ 
+
+00:01:51.840 --> 00:01:54.230 align:start position:0%
+the things i might do in the future with
+this<00:01:52.079><c> course</c><00:01:52.560><c> is</c><00:01:52.720><c> i</c><00:01:53.040><c> i</c><00:01:53.200><c> won't</c><00:01:53.360><c> mind</c><00:01:53.759><c> to</c><00:01:53.840><c> do</c><00:01:54.079><c> like</c>
+
+00:01:54.230 --> 00:01:54.240 align:start position:0%
+this course is i i won't mind to do like
+ 
+
+00:01:54.240 --> 00:01:56.550 align:start position:0%
+this course is i i won't mind to do like
+a<00:01:54.399><c> shop</c><00:01:54.799><c> inventory</c><00:01:55.360><c> systems</c><00:01:56.000><c> where</c><00:01:56.159><c> you</c><00:01:56.320><c> can</c>
+
+00:01:56.550 --> 00:01:56.560 align:start position:0%
+a shop inventory systems where you can
+ 
+
+00:01:56.560 --> 00:01:58.550 align:start position:0%
+a shop inventory systems where you can
+sell<00:01:56.799><c> and</c><00:01:56.960><c> buy</c><00:01:57.200><c> items</c><00:01:57.759><c> but</c><00:01:57.920><c> again</c><00:01:58.079><c> that's</c><00:01:58.320><c> not</c>
+
+00:01:58.550 --> 00:01:58.560 align:start position:0%
+sell and buy items but again that's not
+ 
+
+00:01:58.560 --> 00:02:00.230 align:start position:0%
+sell and buy items but again that's not
+included<00:01:58.960><c> in</c><00:01:59.040><c> this</c><00:01:59.200><c> video</c><00:01:59.600><c> it's</c><00:01:59.759><c> a</c><00:01:59.759><c> big</c><00:02:00.000><c> time</c>
+
+00:02:00.230 --> 00:02:00.240 align:start position:0%
+included in this video it's a big time
+ 
+
+00:02:00.240 --> 00:02:01.670 align:start position:0%
+included in this video it's a big time
+commitment<00:02:00.719><c> to</c><00:02:00.799><c> make</c><00:02:00.960><c> series</c><00:02:01.360><c> like</c><00:02:01.520><c> this</c>
+
+00:02:01.670 --> 00:02:01.680 align:start position:0%
+commitment to make series like this
+ 
+
+00:02:01.680 --> 00:02:03.109 align:start position:0%
+commitment to make series like this
+where<00:02:01.840><c> they're</c><00:02:02.000><c> all</c><00:02:02.240><c> done</c><00:02:02.560><c> kind</c><00:02:02.719><c> of</c><00:02:02.880><c> in</c>
+
+00:02:03.109 --> 00:02:03.119 align:start position:0%
+where they're all done kind of in
+ 
+
+00:02:03.119 --> 00:02:04.789 align:start position:0%
+where they're all done kind of in
+advance<00:02:03.600><c> so</c><00:02:03.680><c> i</c><00:02:03.759><c> didn't</c><00:02:03.920><c> want</c><00:02:04.000><c> to</c><00:02:04.079><c> go</c><00:02:04.240><c> too</c><00:02:04.479><c> far</c>
+
+00:02:04.789 --> 00:02:04.799 align:start position:0%
+advance so i didn't want to go too far
+ 
+
+00:02:04.799 --> 00:02:06.950 align:start position:0%
+advance so i didn't want to go too far
+into<00:02:05.119><c> a</c><00:02:05.200><c> complex</c><00:02:05.680><c> system</c><00:02:06.159><c> people</c><00:02:06.479><c> not</c><00:02:06.640><c> like</c>
+
+00:02:06.950 --> 00:02:06.960 align:start position:0%
+into a complex system people not like
+ 
+
+00:02:06.960 --> 00:02:08.550 align:start position:0%
+into a complex system people not like
+the<00:02:07.119><c> series</c><00:02:07.439><c> so</c><00:02:07.680><c> if</c><00:02:07.840><c> you</c><00:02:08.000><c> do</c><00:02:08.160><c> and</c><00:02:08.239><c> you</c><00:02:08.399><c> want</c><00:02:08.479><c> to</c>
+
+00:02:08.550 --> 00:02:08.560 align:start position:0%
+the series so if you do and you want to
+ 
+
+00:02:08.560 --> 00:02:10.070 align:start position:0%
+the series so if you do and you want to
+support<00:02:08.879><c> these</c><00:02:09.039><c> videos</c><00:02:09.440><c> make</c><00:02:09.599><c> sure</c><00:02:09.759><c> you</c><00:02:09.840><c> share</c>
+
+00:02:10.070 --> 00:02:10.080 align:start position:0%
+support these videos make sure you share
+ 
+
+00:02:10.080 --> 00:02:11.430 align:start position:0%
+support these videos make sure you share
+and<00:02:10.160><c> like</c><00:02:10.399><c> leave</c><00:02:10.640><c> and</c><00:02:10.800><c> comment</c><00:02:11.120><c> and</c><00:02:11.360><c> if</c>
+
+00:02:11.430 --> 00:02:11.440 align:start position:0%
+and like leave and comment and if
+ 
+
+00:02:11.440 --> 00:02:12.949 align:start position:0%
+and like leave and comment and if
+they're<00:02:11.599><c> positively</c><00:02:12.080><c> received</c><00:02:12.560><c> then</c><00:02:12.720><c> i</c><00:02:12.800><c> will</c>
+
+00:02:12.949 --> 00:02:12.959 align:start position:0%
+they're positively received then i will
+ 
+
+00:02:12.959 --> 00:02:15.910 align:start position:0%
+they're positively received then i will
+do<00:02:13.120><c> an</c><00:02:13.280><c> expansion</c><00:02:14.000><c> so</c><00:02:14.319><c> save</c><00:02:14.560><c> load</c><00:02:14.959><c> npcs</c><00:02:15.760><c> but</c>
+
+00:02:15.910 --> 00:02:15.920 align:start position:0%
+do an expansion so save load npcs but
+ 
+
+00:02:15.920 --> 00:02:17.350 align:start position:0%
+do an expansion so save load npcs but
+let's<00:02:16.080><c> just</c><00:02:16.239><c> jump</c><00:02:16.480><c> into</c><00:02:16.720><c> the</c><00:02:16.800><c> project</c><00:02:17.200><c> i'll</c>
+
+00:02:17.350 --> 00:02:17.360 align:start position:0%
+let's just jump into the project i'll
+ 
+
+00:02:17.360 --> 00:02:18.630 align:start position:0%
+let's just jump into the project i'll
+show<00:02:17.520><c> you</c><00:02:17.680><c> exactly</c><00:02:18.000><c> what</c><00:02:18.160><c> we</c><00:02:18.319><c> are</c><00:02:18.480><c> going</c><00:02:18.560><c> to</c>
+
+00:02:18.630 --> 00:02:18.640 align:start position:0%
+show you exactly what we are going to
+ 
+
+00:02:18.640 --> 00:02:20.869 align:start position:0%
+show you exactly what we are going to
+have<00:02:18.879><c> by</c><00:02:19.120><c> the</c><00:02:19.200><c> end</c><00:02:19.360><c> of</c><00:02:19.520><c> this</c><00:02:19.680><c> course</c><00:02:20.400><c> okay</c><00:02:20.720><c> so</c>
+
+00:02:20.869 --> 00:02:20.879 align:start position:0%
+have by the end of this course okay so
+ 
+
+00:02:20.879 --> 00:02:22.710 align:start position:0%
+have by the end of this course okay so
+you<00:02:20.959><c> can</c><00:02:21.040><c> see</c><00:02:21.200><c> that</c><00:02:21.360><c> we've</c><00:02:21.599><c> got</c><00:02:21.840><c> our</c><00:02:22.319><c> um</c>
+
+00:02:22.710 --> 00:02:22.720 align:start position:0%
+you can see that we've got our um
+ 
+
+00:02:22.720 --> 00:02:24.550 align:start position:0%
+you can see that we've got our um
+tomatoes<00:02:23.440><c> here</c><00:02:23.599><c> on</c><00:02:23.680><c> the</c><00:02:23.760><c> ground</c><00:02:24.080><c> we</c><00:02:24.239><c> can</c><00:02:24.319><c> pick</c>
+
+00:02:24.550 --> 00:02:24.560 align:start position:0%
+tomatoes here on the ground we can pick
+ 
+
+00:02:24.560 --> 00:02:26.309 align:start position:0%
+tomatoes here on the ground we can pick
+them<00:02:24.720><c> up</c><00:02:24.879><c> and</c><00:02:25.040><c> they</c><00:02:25.200><c> can</c><00:02:25.520><c> stack</c><00:02:25.920><c> by</c><00:02:26.080><c> holding</c>
+
+00:02:26.309 --> 00:02:26.319 align:start position:0%
+them up and they can stack by holding
+ 
+
+00:02:26.319 --> 00:02:28.550 align:start position:0%
+them up and they can stack by holding
+down<00:02:26.480><c> the</c><00:02:26.640><c> shift</c><00:02:26.959><c> key</c><00:02:27.280><c> we</c><00:02:27.440><c> can</c><00:02:27.680><c> split</c><00:02:28.000><c> a</c><00:02:28.080><c> stack</c>
+
+00:02:28.550 --> 00:02:28.560 align:start position:0%
+down the shift key we can split a stack
+ 
+
+00:02:28.560 --> 00:02:30.390 align:start position:0%
+down the shift key we can split a stack
+so<00:02:28.800><c> we</c><00:02:28.879><c> can</c><00:02:29.040><c> take</c><00:02:29.360><c> two</c><00:02:29.680><c> off</c><00:02:29.840><c> that</c><00:02:30.000><c> stack</c><00:02:30.319><c> and</c>
+
+00:02:30.390 --> 00:02:30.400 align:start position:0%
+so we can take two off that stack and
+ 
+
+00:02:30.400 --> 00:02:32.470 align:start position:0%
+so we can take two off that stack and
+halve<00:02:30.640><c> it</c><00:02:30.800><c> and</c><00:02:30.959><c> see</c><00:02:31.120><c> that</c><00:02:31.280><c> we</c><00:02:31.440><c> can</c><00:02:31.599><c> now</c><00:02:31.840><c> combine</c>
+
+00:02:32.470 --> 00:02:32.480 align:start position:0%
+halve it and see that we can now combine
+ 
+
+00:02:32.480 --> 00:02:34.949 align:start position:0%
+halve it and see that we can now combine
+stack<00:02:32.800><c> so</c><00:02:32.959><c> i</c><00:02:33.040><c> can</c><00:02:33.200><c> press</c><00:02:33.440><c> the</c><00:02:33.680><c> two</c><00:02:34.319><c> and</c><00:02:34.720><c> put</c><00:02:34.879><c> it</c>
+
+00:02:34.949 --> 00:02:34.959 align:start position:0%
+stack so i can press the two and put it
+ 
+
+00:02:34.959 --> 00:02:37.110 align:start position:0%
+stack so i can press the two and put it
+on<00:02:35.040><c> the</c><00:02:35.280><c> three</c><00:02:35.599><c> they</c><00:02:35.760><c> become</c><00:02:36.160><c> five</c><00:02:36.560><c> if</c><00:02:36.720><c> i</c><00:02:36.879><c> split</c>
+
+00:02:37.110 --> 00:02:37.120 align:start position:0%
+on the three they become five if i split
+ 
+
+00:02:37.120 --> 00:02:38.790 align:start position:0%
+on the three they become five if i split
+them<00:02:37.280><c> again</c><00:02:37.599><c> so</c><00:02:37.760><c> the</c><00:02:37.840><c> maximum</c><00:02:38.239><c> stack</c><00:02:38.560><c> of</c><00:02:38.640><c> these</c>
+
+00:02:38.790 --> 00:02:38.800 align:start position:0%
+them again so the maximum stack of these
+ 
+
+00:02:38.800 --> 00:02:42.150 align:start position:0%
+them again so the maximum stack of these
+tomatoes<00:02:39.280><c> is</c><00:02:39.519><c> five</c><00:02:39.840><c> if</c><00:02:40.080><c> i</c><00:02:40.480><c> try</c><00:02:40.720><c> and</c><00:02:40.959><c> combine</c>
+
+00:02:42.150 --> 00:02:42.160 align:start position:0%
+tomatoes is five if i try and combine
+ 
+
+00:02:42.160 --> 00:02:44.710 align:start position:0%
+tomatoes is five if i try and combine
+the<00:02:42.319><c> three</c><00:02:42.560><c> with</c><00:02:42.800><c> a</c><00:02:42.879><c> three</c><00:02:43.519><c> it'll</c><00:02:43.840><c> fill</c><00:02:44.480><c> one</c>
+
+00:02:44.710 --> 00:02:44.720 align:start position:0%
+the three with a three it'll fill one
+ 
+
+00:02:44.720 --> 00:02:46.550 align:start position:0%
+the three with a three it'll fill one
+stack<00:02:45.040><c> up</c><00:02:45.200><c> to</c><00:02:45.360><c> its</c><00:02:45.440><c> maximum</c><00:02:46.000><c> and</c><00:02:46.080><c> it'll</c><00:02:46.319><c> leave</c>
+
+00:02:46.550 --> 00:02:46.560 align:start position:0%
+stack up to its maximum and it'll leave
+ 
+
+00:02:46.560 --> 00:02:49.110 align:start position:0%
+stack up to its maximum and it'll leave
+one<00:02:46.800><c> stack</c><00:02:47.280><c> on</c><00:02:47.680><c> it</c><00:02:48.000><c> on</c><00:02:48.160><c> the</c><00:02:48.239><c> mouse</c><00:02:48.640><c> which</c><00:02:48.879><c> i</c><00:02:48.959><c> can</c>
+
+00:02:49.110 --> 00:02:49.120 align:start position:0%
+one stack on it on the mouse which i can
+ 
+
+00:02:49.120 --> 00:02:50.790 align:start position:0%
+one stack on it on the mouse which i can
+then<00:02:49.280><c> place</c><00:02:49.519><c> back</c><00:02:49.680><c> down</c>
+
+00:02:50.790 --> 00:02:50.800 align:start position:0%
+then place back down
+ 
+
+00:02:50.800 --> 00:02:52.150 align:start position:0%
+then place back down
+we<00:02:50.879><c> can</c><00:02:51.040><c> also</c><00:02:51.200><c> come</c><00:02:51.440><c> up</c><00:02:51.519><c> here</c><00:02:51.680><c> and</c><00:02:51.760><c> we</c><00:02:51.920><c> can</c><00:02:52.000><c> get</c>
+
+00:02:52.150 --> 00:02:52.160 align:start position:0%
+we can also come up here and we can get
+ 
+
+00:02:52.160 --> 00:02:55.270 align:start position:0%
+we can also come up here and we can get
+these<00:02:52.319><c> potatoes</c><00:02:53.200><c> these</c><00:02:53.519><c> don't</c><00:02:54.080><c> um</c><00:02:54.800><c> stack</c><00:02:55.120><c> at</c>
+
+00:02:55.270 --> 00:02:55.280 align:start position:0%
+these potatoes these don't um stack at
+ 
+
+00:02:55.280 --> 00:02:57.270 align:start position:0%
+these potatoes these don't um stack at
+all<00:02:55.440><c> they've</c><00:02:55.680><c> got</c><00:02:55.840><c> a</c><00:02:55.920><c> max</c><00:02:56.160><c> stack</c><00:02:56.480><c> size</c><00:02:56.720><c> of</c><00:02:56.879><c> one</c>
+
+00:02:57.270 --> 00:02:57.280 align:start position:0%
+all they've got a max stack size of one
+ 
+
+00:02:57.280 --> 00:03:00.070 align:start position:0%
+all they've got a max stack size of one
+so<00:02:57.440><c> they</c><00:02:57.680><c> just</c><00:02:58.159><c> uh</c><00:02:58.640><c> you</c><00:02:58.800><c> know</c><00:02:59.040><c> go</c><00:02:59.200><c> into</c><00:02:59.920><c> the</c>
+
+00:03:00.070 --> 00:03:00.080 align:start position:0%
+so they just uh you know go into the
+ 
+
+00:03:00.080 --> 00:03:02.229 align:start position:0%
+so they just uh you know go into the
+next<00:03:00.319><c> available</c><00:03:00.800><c> slot</c><00:03:01.120><c> you</c><00:03:01.200><c> see</c><00:03:01.440><c> our</c><00:03:01.519><c> hotbar</c>
+
+00:03:02.229 --> 00:03:02.239 align:start position:0%
+next available slot you see our hotbar
+ 
+
+00:03:02.239 --> 00:03:03.990 align:start position:0%
+next available slot you see our hotbar
+is<00:03:02.400><c> full</c><00:03:02.640><c> now</c><00:03:02.879><c> if</c><00:03:03.040><c> i</c><00:03:03.120><c> press</c><00:03:03.360><c> b</c><00:03:03.519><c> and</c><00:03:03.599><c> bring</c><00:03:03.760><c> up</c>
+
+00:03:03.990 --> 00:03:04.000 align:start position:0%
+is full now if i press b and bring up
+ 
+
+00:03:04.000 --> 00:03:05.270 align:start position:0%
+is full now if i press b and bring up
+our<00:03:04.239><c> backpack</c>
+
+00:03:05.270 --> 00:03:05.280 align:start position:0%
+our backpack
+ 
+
+00:03:05.280 --> 00:03:06.790 align:start position:0%
+our backpack
+when<00:03:05.440><c> we</c><00:03:05.599><c> start</c><00:03:05.840><c> to</c><00:03:05.920><c> walk</c><00:03:06.159><c> over</c><00:03:06.400><c> stuff</c><00:03:06.640><c> now</c>
+
+00:03:06.790 --> 00:03:06.800 align:start position:0%
+when we start to walk over stuff now
+ 
+
+00:03:06.800 --> 00:03:08.949 align:start position:0%
+when we start to walk over stuff now
+it'll<00:03:07.040><c> go</c><00:03:07.280><c> into</c><00:03:07.519><c> our</c><00:03:07.680><c> backpack</c><00:03:08.319><c> so</c><00:03:08.480><c> i</c><00:03:08.560><c> can</c><00:03:08.720><c> pick</c>
+
+00:03:08.949 --> 00:03:08.959 align:start position:0%
+it'll go into our backpack so i can pick
+ 
+
+00:03:08.959 --> 00:03:09.670 align:start position:0%
+it'll go into our backpack so i can pick
+up
+
+00:03:09.670 --> 00:03:09.680 align:start position:0%
+up
+ 
+
+00:03:09.680 --> 00:03:12.070 align:start position:0%
+up
+these<00:03:09.920><c> other</c><00:03:10.159><c> potatoes</c><00:03:11.040><c> and</c>
+
+00:03:12.070 --> 00:03:12.080 align:start position:0%
+these other potatoes and
+ 
+
+00:03:12.080 --> 00:03:14.470 align:start position:0%
+these other potatoes and
+these<00:03:12.400><c> are</c><00:03:12.480><c> the</c><00:03:12.959><c> tomatoes</c>
+
+00:03:14.470 --> 00:03:14.480 align:start position:0%
+these are the tomatoes
+ 
+
+00:03:14.480 --> 00:03:16.630 align:start position:0%
+these are the tomatoes
+so<00:03:14.640><c> they're</c><00:03:14.879><c> all</c><00:03:15.280><c> soul</c><00:03:15.599><c> of</c><00:03:15.680><c> the</c><00:03:15.840><c> tomatoes</c><00:03:16.480><c> and</c>
+
+00:03:16.630 --> 00:03:16.640 align:start position:0%
+so they're all soul of the tomatoes and
+ 
+
+00:03:16.640 --> 00:03:18.149 align:start position:0%
+so they're all soul of the tomatoes and
+there's<00:03:16.879><c> two</c><00:03:17.040><c> more</c><00:03:17.200><c> here</c><00:03:17.360><c> so</c><00:03:17.519><c> if</c><00:03:17.680><c> i</c><00:03:17.840><c> pick</c><00:03:18.080><c> up</c>
+
+00:03:18.149 --> 00:03:18.159 align:start position:0%
+there's two more here so if i pick up
+ 
+
+00:03:18.159 --> 00:03:19.190 align:start position:0%
+there's two more here so if i pick up
+these
+
+00:03:19.190 --> 00:03:19.200 align:start position:0%
+these
+ 
+
+00:03:19.200 --> 00:03:21.270 align:start position:0%
+these
+so<00:03:19.360><c> this</c><00:03:19.519><c> stack</c><00:03:19.920><c> is</c><00:03:20.080><c> now</c><00:03:20.319><c> full</c><00:03:20.640><c> and</c><00:03:20.720><c> this</c><00:03:20.959><c> spare</c>
+
+00:03:21.270 --> 00:03:21.280 align:start position:0%
+so this stack is now full and this spare
+ 
+
+00:03:21.280 --> 00:03:23.509 align:start position:0%
+so this stack is now full and this spare
+one<00:03:21.519><c> went</c><00:03:21.760><c> into</c><00:03:22.159><c> our</c><00:03:22.400><c> backpack</c>
+
+00:03:23.509 --> 00:03:23.519 align:start position:0%
+one went into our backpack
+ 
+
+00:03:23.519 --> 00:03:25.350 align:start position:0%
+one went into our backpack
+i<00:03:23.680><c> can</c><00:03:23.840><c> come</c><00:03:24.000><c> over</c><00:03:24.239><c> to</c><00:03:24.400><c> these</c><00:03:24.720><c> chests</c><00:03:25.040><c> here</c><00:03:25.280><c> and</c>
+
+00:03:25.350 --> 00:03:25.360 align:start position:0%
+i can come over to these chests here and
+ 
+
+00:03:25.360 --> 00:03:27.190 align:start position:0%
+i can come over to these chests here and
+open<00:03:25.599><c> the</c><00:03:25.760><c> chest</c><00:03:26.080><c> and</c><00:03:26.239><c> you've</c><00:03:26.319><c> got</c><00:03:26.560><c> our</c><00:03:26.799><c> chest</c>
+
+00:03:27.190 --> 00:03:27.200 align:start position:0%
+open the chest and you've got our chest
+ 
+
+00:03:27.200 --> 00:03:28.710 align:start position:0%
+open the chest and you've got our chest
+panel<00:03:27.680><c> here</c>
+
+00:03:28.710 --> 00:03:28.720 align:start position:0%
+panel here
+ 
+
+00:03:28.720 --> 00:03:30.390 align:start position:0%
+panel here
+this<00:03:28.959><c> is</c><00:03:29.040><c> the</c><00:03:29.200><c> large</c><00:03:29.599><c> chest</c><00:03:29.840><c> we've</c><00:03:30.080><c> also</c><00:03:30.239><c> got</c>
+
+00:03:30.390 --> 00:03:30.400 align:start position:0%
+this is the large chest we've also got
+ 
+
+00:03:30.400 --> 00:03:32.070 align:start position:0%
+this is the large chest we've also got
+the<00:03:30.480><c> small</c><00:03:30.879><c> chest</c><00:03:31.280><c> and</c><00:03:31.360><c> this</c><00:03:31.519><c> fills</c><00:03:31.920><c> out</c>
+
+00:03:32.070 --> 00:03:32.080 align:start position:0%
+the small chest and this fills out
+ 
+
+00:03:32.080 --> 00:03:33.830 align:start position:0%
+the small chest and this fills out
+dynamically<00:03:32.879><c> these</c><00:03:33.040><c> panels</c><00:03:33.360><c> don't</c><00:03:33.519><c> have</c><00:03:33.680><c> any</c>
+
+00:03:33.830 --> 00:03:33.840 align:start position:0%
+dynamically these panels don't have any
+ 
+
+00:03:33.840 --> 00:03:35.110 align:start position:0%
+dynamically these panels don't have any
+slots<00:03:34.159><c> in</c><00:03:34.319><c> them</c><00:03:34.480><c> and</c><00:03:34.560><c> it</c><00:03:34.640><c> responds</c>
+
+00:03:35.110 --> 00:03:35.120 align:start position:0%
+slots in them and it responds
+ 
+
+00:03:35.120 --> 00:03:36.869 align:start position:0%
+slots in them and it responds
+dynamically<00:03:35.760><c> to</c><00:03:35.920><c> the</c><00:03:36.080><c> inventory</c><00:03:36.480><c> system</c><00:03:36.799><c> that</c>
+
+00:03:36.869 --> 00:03:36.879 align:start position:0%
+dynamically to the inventory system that
+ 
+
+00:03:36.879 --> 00:03:38.789 align:start position:0%
+dynamically to the inventory system that
+you<00:03:37.120><c> pass</c><00:03:37.440><c> into</c><00:03:37.760><c> it</c><00:03:37.920><c> then</c><00:03:38.159><c> of</c><00:03:38.239><c> course</c><00:03:38.560><c> i</c><00:03:38.640><c> can</c>
+
+00:03:38.789 --> 00:03:38.799 align:start position:0%
+you pass into it then of course i can
+ 
+
+00:03:38.799 --> 00:03:41.030 align:start position:0%
+you pass into it then of course i can
+move<00:03:38.959><c> stuff</c><00:03:39.280><c> out</c><00:03:39.360><c> of</c><00:03:39.440><c> my</c><00:03:39.599><c> backpack</c><00:03:40.239><c> over</c><00:03:40.640><c> into</c>
+
+00:03:41.030 --> 00:03:41.040 align:start position:0%
+move stuff out of my backpack over into
+ 
+
+00:03:41.040 --> 00:03:43.990 align:start position:0%
+move stuff out of my backpack over into
+the<00:03:41.440><c> chest</c><00:03:42.159><c> i</c><00:03:42.319><c> can</c><00:03:42.480><c> take</c><00:03:42.799><c> out</c><00:03:43.120><c> the</c><00:03:43.599><c> ones</c><00:03:43.840><c> from</c>
+
+00:03:43.990 --> 00:03:44.000 align:start position:0%
+the chest i can take out the ones from
+ 
+
+00:03:44.000 --> 00:03:45.990 align:start position:0%
+the chest i can take out the ones from
+my<00:03:44.159><c> heart</c><00:03:44.319><c> bar</c><00:03:44.480><c> and</c><00:03:44.560><c> place</c><00:03:44.799><c> them</c><00:03:44.879><c> in</c><00:03:44.959><c> the</c><00:03:45.120><c> chest</c>
+
+00:03:45.990 --> 00:03:46.000 align:start position:0%
+my heart bar and place them in the chest
+ 
+
+00:03:46.000 --> 00:03:48.149 align:start position:0%
+my heart bar and place them in the chest
+i<00:03:46.159><c> can</c><00:03:46.319><c> come</c><00:03:46.480><c> over</c><00:03:46.640><c> here</c><00:03:46.879><c> and</c><00:03:46.959><c> open</c><00:03:47.200><c> this</c><00:03:47.440><c> chest</c>
+
+00:03:48.149 --> 00:03:48.159 align:start position:0%
+i can come over here and open this chest
+ 
+
+00:03:48.159 --> 00:03:51.030 align:start position:0%
+i can come over here and open this chest
+place<00:03:48.560><c> in</c><00:03:48.720><c> some</c><00:03:49.040><c> potatoes</c><00:03:49.920><c> and</c><00:03:50.159><c> press</c><00:03:50.400><c> escape</c>
+
+00:03:51.030 --> 00:03:51.040 align:start position:0%
+place in some potatoes and press escape
+ 
+
+00:03:51.040 --> 00:03:53.990 align:start position:0%
+place in some potatoes and press escape
+and<00:03:51.280><c> walk</c><00:03:51.519><c> away</c><00:03:51.760><c> from</c><00:03:51.920><c> them</c><00:03:52.640><c> go</c><00:03:52.879><c> back</c><00:03:53.599><c> open</c><00:03:53.920><c> up</c>
+
+00:03:53.990 --> 00:03:54.000 align:start position:0%
+and walk away from them go back open up
+ 
+
+00:03:54.000 --> 00:03:55.990 align:start position:0%
+and walk away from them go back open up
+the<00:03:54.080><c> chest</c><00:03:54.400><c> and</c><00:03:54.480><c> we've</c><00:03:54.640><c> got</c><00:03:54.799><c> our</c><00:03:55.040><c> chest</c><00:03:55.760><c> the</c>
+
+00:03:55.990 --> 00:03:56.000 align:start position:0%
+the chest and we've got our chest the
+ 
+
+00:03:56.000 --> 00:03:57.429 align:start position:0%
+the chest and we've got our chest the
+stuff<00:03:56.159><c> that</c><00:03:56.239><c> we</c><00:03:56.400><c> stored</c><00:03:56.720><c> in</c><00:03:56.799><c> our</c><00:03:56.959><c> chest</c><00:03:57.200><c> here</c>
+
+00:03:57.429 --> 00:03:57.439 align:start position:0%
+stuff that we stored in our chest here
+ 
+
+00:03:57.439 --> 00:03:59.030 align:start position:0%
+stuff that we stored in our chest here
+so<00:03:57.599><c> i</c><00:03:57.680><c> can</c><00:03:57.760><c> take</c><00:03:57.920><c> them</c><00:03:58.080><c> back</c><00:03:58.400><c> out</c><00:03:58.720><c> take</c><00:03:58.879><c> these</c>
+
+00:03:59.030 --> 00:03:59.040 align:start position:0%
+so i can take them back out take these
+ 
+
+00:03:59.040 --> 00:04:01.110 align:start position:0%
+so i can take them back out take these
+potatoes<00:03:59.439><c> out</c><00:03:59.599><c> i</c><00:03:59.680><c> can</c><00:03:59.840><c> even</c><00:04:00.000><c> split</c><00:04:00.319><c> this</c><00:04:00.480><c> stack</c>
+
+00:04:01.110 --> 00:04:01.120 align:start position:0%
+potatoes out i can even split this stack
+ 
+
+00:04:01.120 --> 00:04:03.429 align:start position:0%
+potatoes out i can even split this stack
+place<00:04:01.439><c> it</c><00:04:01.519><c> in</c><00:04:01.680><c> here</c><00:04:02.239><c> put</c><00:04:02.480><c> the</c><00:04:02.799><c> other</c><00:04:03.120><c> part</c><00:04:03.360><c> of</c>
+
+00:04:03.429 --> 00:04:03.439 align:start position:0%
+place it in here put the other part of
+ 
+
+00:04:03.439 --> 00:04:05.589 align:start position:0%
+place it in here put the other part of
+the<00:04:03.519><c> stack</c><00:04:04.000><c> into</c><00:04:04.239><c> this</c><00:04:04.480><c> chest</c>
+
+00:04:05.589 --> 00:04:05.599 align:start position:0%
+the stack into this chest
+ 
+
+00:04:05.599 --> 00:04:07.429 align:start position:0%
+the stack into this chest
+i<00:04:05.760><c> can</c><00:04:05.920><c> open</c><00:04:06.159><c> up</c><00:04:06.239><c> this</c><00:04:06.400><c> chest</c><00:04:06.640><c> take</c><00:04:06.879><c> these</c><00:04:07.120><c> back</c>
+
+00:04:07.429 --> 00:04:07.439 align:start position:0%
+i can open up this chest take these back
+ 
+
+00:04:07.439 --> 00:04:09.110 align:start position:0%
+i can open up this chest take these back
+out
+
+00:04:09.110 --> 00:04:09.120 align:start position:0%
+out
+ 
+
+00:04:09.120 --> 00:04:10.710 align:start position:0%
+out
+and<00:04:09.200><c> then</c><00:04:09.360><c> combine</c><00:04:09.760><c> them</c><00:04:10.000><c> back</c><00:04:10.239><c> into</c><00:04:10.480><c> this</c>
+
+00:04:10.710 --> 00:04:10.720 align:start position:0%
+and then combine them back into this
+ 
+
+00:04:10.720 --> 00:04:12.630 align:start position:0%
+and then combine them back into this
+chest<00:04:10.959><c> so</c><00:04:11.120><c> with</c><00:04:11.280><c> the</c><00:04:11.439><c> all</c><00:04:12.000><c> kind</c><00:04:12.159><c> of</c><00:04:12.239><c> linking</c>
+
+00:04:12.630 --> 00:04:12.640 align:start position:0%
+chest so with the all kind of linking
+ 
+
+00:04:12.640 --> 00:04:14.550 align:start position:0%
+chest so with the all kind of linking
+you<00:04:12.720><c> can</c><00:04:12.799><c> move</c><00:04:13.040><c> stuff</c><00:04:13.280><c> through</c><00:04:13.760><c> dynamically</c>
+
+00:04:14.550 --> 00:04:14.560 align:start position:0%
+you can move stuff through dynamically
+ 
+
+00:04:14.560 --> 00:04:16.469 align:start position:0%
+you can move stuff through dynamically
+the<00:04:14.720><c> way</c><00:04:14.879><c> these</c><00:04:15.120><c> work</c><00:04:15.360><c> is</c><00:04:15.519><c> it's</c><00:04:15.680><c> not</c><00:04:16.079><c> drag</c><00:04:16.320><c> and</c>
+
+00:04:16.469 --> 00:04:16.479 align:start position:0%
+the way these work is it's not drag and
+ 
+
+00:04:16.479 --> 00:04:19.349 align:start position:0%
+the way these work is it's not drag and
+drop<00:04:16.959><c> it's</c><00:04:17.199><c> you</c><00:04:17.359><c> can</c><00:04:17.600><c> click</c><00:04:18.160><c> once</c><00:04:18.560><c> on</c><00:04:18.799><c> a</c><00:04:18.880><c> slot</c>
+
+00:04:19.349 --> 00:04:19.359 align:start position:0%
+drop it's you can click once on a slot
+ 
+
+00:04:19.359 --> 00:04:21.030 align:start position:0%
+drop it's you can click once on a slot
+and<00:04:19.440><c> then</c><00:04:19.600><c> it</c><00:04:19.759><c> follows</c><00:04:20.079><c> the</c><00:04:20.160><c> mouse</c><00:04:20.479><c> round</c><00:04:20.959><c> and</c>
+
+00:04:21.030 --> 00:04:21.040 align:start position:0%
+and then it follows the mouse round and
+ 
+
+00:04:21.040 --> 00:04:22.790 align:start position:0%
+and then it follows the mouse round and
+then<00:04:21.199><c> we</c><00:04:21.280><c> can</c><00:04:21.440><c> click</c><00:04:21.759><c> to</c><00:04:21.840><c> place</c><00:04:22.160><c> it</c><00:04:22.240><c> back</c><00:04:22.560><c> in</c><00:04:22.720><c> a</c>
+
+00:04:22.790 --> 00:04:22.800 align:start position:0%
+then we can click to place it back in a
+ 
+
+00:04:22.800 --> 00:04:24.790 align:start position:0%
+then we can click to place it back in a
+slot<00:04:23.280><c> so</c><00:04:23.680><c> this</c><00:04:23.919><c> is</c><00:04:24.000><c> where</c><00:04:24.160><c> we're</c><00:04:24.320><c> gonna</c><00:04:24.479><c> be</c><00:04:24.720><c> at</c>
+
+00:04:24.790 --> 00:04:24.800 align:start position:0%
+slot so this is where we're gonna be at
+ 
+
+00:04:24.800 --> 00:04:27.590 align:start position:0%
+slot so this is where we're gonna be at
+the<00:04:25.040><c> end</c><00:04:25.440><c> of</c><00:04:25.759><c> episode</c><00:04:26.240><c> seven</c><00:04:26.720><c> and</c><00:04:26.960><c> each</c><00:04:27.360><c> uh</c>
+
+00:04:27.590 --> 00:04:27.600 align:start position:0%
+the end of episode seven and each uh
+ 
+
+00:04:27.600 --> 00:04:28.790 align:start position:0%
+the end of episode seven and each uh
+episode<00:04:27.919><c> is</c><00:04:28.000><c> going</c><00:04:28.080><c> to</c><00:04:28.160><c> cover</c><00:04:28.479><c> a</c><00:04:28.560><c> different</c>
+
+00:04:28.790 --> 00:04:28.800 align:start position:0%
+episode is going to cover a different
+ 
+
+00:04:28.800 --> 00:04:30.469 align:start position:0%
+episode is going to cover a different
+topic<00:04:29.120><c> so</c><00:04:29.360><c> parts</c><00:04:29.680><c> one</c><00:04:29.919><c> and</c><00:04:30.000><c> two</c><00:04:30.240><c> are</c><00:04:30.320><c> going</c><00:04:30.400><c> to</c>
+
+00:04:30.469 --> 00:04:30.479 align:start position:0%
+topic so parts one and two are going to
+ 
+
+00:04:30.479 --> 00:04:32.310 align:start position:0%
+topic so parts one and two are going to
+be<00:04:30.639><c> about</c><00:04:30.880><c> creating</c><00:04:31.360><c> and</c><00:04:31.440><c> finishing</c><00:04:31.919><c> the</c><00:04:32.080><c> back</c>
+
+00:04:32.310 --> 00:04:32.320 align:start position:0%
+be about creating and finishing the back
+ 
+
+00:04:32.320 --> 00:04:34.469 align:start position:0%
+be about creating and finishing the back
+end<00:04:32.639><c> sort</c><00:04:32.880><c> of</c><00:04:33.040><c> code</c><00:04:33.440><c> system</c><00:04:33.919><c> part</c><00:04:34.160><c> three</c><00:04:34.320><c> we're</c>
+
+00:04:34.469 --> 00:04:34.479 align:start position:0%
+end sort of code system part three we're
+ 
+
+00:04:34.479 --> 00:04:36.230 align:start position:0%
+end sort of code system part three we're
+going<00:04:34.639><c> to</c><00:04:34.720><c> create</c><00:04:34.960><c> the</c><00:04:35.040><c> ui</c><00:04:35.440><c> part</c><00:04:35.680><c> four</c><00:04:35.919><c> will</c><00:04:36.080><c> be</c>
+
+00:04:36.230 --> 00:04:36.240 align:start position:0%
+going to create the ui part four will be
+ 
+
+00:04:36.240 --> 00:04:37.510 align:start position:0%
+going to create the ui part four will be
+about<00:04:36.400><c> interacting</c><00:04:36.880><c> with</c><00:04:36.960><c> the</c><00:04:37.040><c> ui</c><00:04:37.280><c> and</c><00:04:37.360><c> be</c>
+
+00:04:37.510 --> 00:04:37.520 align:start position:0%
+about interacting with the ui and be
+ 
+
+00:04:37.520 --> 00:04:39.270 align:start position:0%
+about interacting with the ui and be
+able<00:04:37.600><c> to</c><00:04:37.759><c> click</c><00:04:37.919><c> on</c><00:04:38.080><c> different</c><00:04:38.400><c> slots</c><00:04:38.960><c> part</c>
+
+00:04:39.270 --> 00:04:39.280 align:start position:0%
+able to click on different slots part
+ 
+
+00:04:39.280 --> 00:04:40.550 align:start position:0%
+able to click on different slots part
+five<00:04:39.600><c> we're</c><00:04:39.680><c> going</c><00:04:39.759><c> to</c><00:04:39.840><c> be</c><00:04:40.000><c> splitting</c><00:04:40.479><c> and</c>
+
+00:04:40.550 --> 00:04:40.560 align:start position:0%
+five we're going to be splitting and
+ 
+
+00:04:40.560 --> 00:04:43.670 align:start position:0%
+five we're going to be splitting and
+combining<00:04:41.040><c> the</c><00:04:41.199><c> stacks</c><00:04:42.000><c> part</c><00:04:42.240><c> 5.5</c><00:04:43.280><c> which</c><00:04:43.520><c> will</c>
+
+00:04:43.670 --> 00:04:43.680 align:start position:0%
+combining the stacks part 5.5 which will
+ 
+
+00:04:43.680 --> 00:04:45.749 align:start position:0%
+combining the stacks part 5.5 which will
+come<00:04:43.840><c> out</c><00:04:44.000><c> mid-week</c><00:04:44.400><c> is</c><00:04:44.560><c> a</c><00:04:44.639><c> code</c><00:04:44.880><c> review</c><00:04:45.600><c> just</c>
+
+00:04:45.749 --> 00:04:45.759 align:start position:0%
+come out mid-week is a code review just
+ 
+
+00:04:45.759 --> 00:04:47.909 align:start position:0%
+come out mid-week is a code review just
+to<00:04:45.919><c> go</c><00:04:46.080><c> over</c><00:04:46.240><c> and</c><00:04:46.479><c> make</c><00:04:46.720><c> sure</c><00:04:46.960><c> that</c><00:04:47.360><c> we're</c><00:04:47.680><c> all</c>
+
+00:04:47.909 --> 00:04:47.919 align:start position:0%
+to go over and make sure that we're all
+ 
+
+00:04:47.919 --> 00:04:50.310 align:start position:0%
+to go over and make sure that we're all
+on<00:04:48.160><c> the</c><00:04:48.320><c> same</c><00:04:48.639><c> page</c><00:04:48.880><c> with</c><00:04:49.040><c> the</c><00:04:49.199><c> code</c><00:04:49.680><c> part</c><00:04:50.000><c> six</c>
+
+00:04:50.310 --> 00:04:50.320 align:start position:0%
+on the same page with the code part six
+ 
+
+00:04:50.320 --> 00:04:51.749 align:start position:0%
+on the same page with the code part six
+is<00:04:50.479><c> going</c><00:04:50.560><c> to</c><00:04:50.639><c> be</c><00:04:50.800><c> creating</c><00:04:51.120><c> the</c><00:04:51.280><c> chests</c><00:04:51.680><c> and</c>
+
+00:04:51.749 --> 00:04:51.759 align:start position:0%
+is going to be creating the chests and
+ 
+
+00:04:51.759 --> 00:04:53.350 align:start position:0%
+is going to be creating the chests and
+then<00:04:51.919><c> part</c><00:04:52.160><c> seven</c><00:04:52.479><c> will</c><00:04:52.639><c> be</c><00:04:52.800><c> creating</c><00:04:53.199><c> their</c>
+
+00:04:53.350 --> 00:04:53.360 align:start position:0%
+then part seven will be creating their
+ 
+
+00:04:53.360 --> 00:04:55.189 align:start position:0%
+then part seven will be creating their
+player<00:04:53.680><c> backpack</c><00:04:54.160><c> system</c><00:04:54.560><c> so</c><00:04:54.720><c> with</c><00:04:54.960><c> all</c><00:04:55.040><c> that</c>
+
+00:04:55.189 --> 00:04:55.199 align:start position:0%
+player backpack system so with all that
+ 
+
+00:04:55.199 --> 00:04:56.629 align:start position:0%
+player backpack system so with all that
+said<00:04:55.360><c> i</c><00:04:55.520><c> hope</c><00:04:55.600><c> you</c><00:04:55.759><c> enjoyed</c><00:04:56.080><c> this</c><00:04:56.160><c> series</c>
+
+00:04:56.629 --> 00:04:56.639 align:start position:0%
+said i hope you enjoyed this series
+ 
+
+00:04:56.639 --> 00:04:59.030 align:start position:0%
+said i hope you enjoyed this series
+episode<00:04:56.960><c> one</c><00:04:57.280><c> is</c><00:04:57.440><c> up</c><00:04:57.600><c> now</c><00:04:57.919><c> on</c><00:04:58.320><c> youtube</c><00:04:58.800><c> as</c><00:04:58.960><c> i</c>
+
+00:04:59.030 --> 00:04:59.040 align:start position:0%
+episode one is up now on youtube as i
+ 
+
+00:04:59.040 --> 00:05:00.310 align:start position:0%
+episode one is up now on youtube as i
+said<00:04:59.280><c> the</c><00:04:59.360><c> full</c><00:04:59.520><c> course</c><00:04:59.840><c> is</c><00:05:00.000><c> already</c>
+
+00:05:00.310 --> 00:05:00.320 align:start position:0%
+said the full course is already
+ 
+
+00:05:00.320 --> 00:05:02.150 align:start position:0%
+said the full course is already
+available<00:05:00.800><c> over</c><00:05:01.039><c> on</c><00:05:01.120><c> patreon</c><00:05:01.759><c> and</c><00:05:01.919><c> going</c>
+
+00:05:02.150 --> 00:05:02.160 align:start position:0%
+available over on patreon and going
+ 
+
+00:05:02.160 --> 00:05:03.909 align:start position:0%
+available over on patreon and going
+forward<00:05:02.400><c> here</c><00:05:02.639><c> on</c><00:05:02.720><c> youtube</c><00:05:03.199><c> episode</c><00:05:03.520><c> two</c><00:05:03.759><c> will</c>
+
+00:05:03.909 --> 00:05:03.919 align:start position:0%
+forward here on youtube episode two will
+ 
+
+00:05:03.919 --> 00:05:05.590 align:start position:0%
+forward here on youtube episode two will
+release<00:05:04.320><c> in</c><00:05:04.479><c> a</c><00:05:04.560><c> week</c><00:05:04.880><c> and</c><00:05:04.960><c> then</c><00:05:05.120><c> episode</c><00:05:05.440><c> three</c>
+
+00:05:05.590 --> 00:05:05.600 align:start position:0%
+release in a week and then episode three
+ 
+
+00:05:05.600 --> 00:05:07.670 align:start position:0%
+release in a week and then episode three
+a<00:05:05.680><c> week</c><00:05:05.919><c> after</c><00:05:06.160><c> that</c><00:05:06.320><c> etc</c><00:05:06.960><c> so</c><00:05:07.199><c> make</c><00:05:07.360><c> sure</c><00:05:07.520><c> you</c>
+
+00:05:07.670 --> 00:05:07.680 align:start position:0%
+a week after that etc so make sure you
+ 
+
+00:05:07.680 --> 00:05:09.510 align:start position:0%
+a week after that etc so make sure you
+subscribe<00:05:08.080><c> to</c><00:05:08.240><c> see</c><00:05:08.400><c> them</c><00:05:08.639><c> as</c><00:05:08.800><c> they</c><00:05:08.960><c> go</c><00:05:09.199><c> up</c><00:05:09.360><c> and</c>
+
+00:05:09.510 --> 00:05:09.520 align:start position:0%
+subscribe to see them as they go up and
+ 
+
+00:05:09.520 --> 00:05:10.870 align:start position:0%
+subscribe to see them as they go up and
+in<00:05:09.600><c> the</c><00:05:09.680><c> meantime</c><00:05:10.160><c> thanks</c><00:05:10.400><c> for</c><00:05:10.479><c> watching</c><00:05:10.800><c> and</c>
+
+00:05:10.870 --> 00:05:10.880 align:start position:0%
+in the meantime thanks for watching and
+ 
+
+00:05:10.880 --> 00:05:32.150 align:start position:0%
+in the meantime thanks for watching and
+i'll<00:05:11.039><c> see</c><00:05:11.120><c> you</c><00:05:11.199><c> in</c><00:05:11.280><c> the</c><00:05:11.360><c> next</c><00:05:11.520><c> one</c><00:05:11.840><c> bye</c>
+
+00:05:32.150 --> 00:05:32.160 align:start position:0%
+ 
+ 
+
+00:05:32.160 --> 00:05:34.240 align:start position:0%
+ 
+you
+

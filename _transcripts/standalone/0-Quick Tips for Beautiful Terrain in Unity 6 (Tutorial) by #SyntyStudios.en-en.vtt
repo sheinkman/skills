@@ -1,0 +1,136 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.400 --> 00:00:04.400
+Hello. Today we're in the Polygon Samurai&nbsp;
+Empire pack and I'm going to be showing you&nbsp;&nbsp;
+
+00:00:04.400 --> 00:00:08.080
+a couple of things about setting up and&nbsp;
+using the Unity terrains. First of all,&nbsp;&nbsp;
+
+00:00:08.080 --> 00:00:12.400
+a couple of troubleshooting tips. If your terrain&nbsp;
+is shiny like you see here, then what you need&nbsp;&nbsp;
+
+00:00:12.400 --> 00:00:18.000
+to do is go to the base texture and change the&nbsp;
+compression from high quality to normal quality.&nbsp;&nbsp;
+
+00:00:18.000 --> 00:00:22.720
+And if you've opened up Unity 6 and you've got&nbsp;
+this shadowy bug when you try to paint textures,&nbsp;&nbsp;
+
+00:00:22.720 --> 00:00:27.600
+one of the things you can try to do is go to&nbsp;
+your project settings and change from DX12 to&nbsp;&nbsp;
+
+00:00:27.600 --> 00:00:33.200
+DX11. As for setting up the terrain itself, what&nbsp;
+you want to do is create a 3D object terrain and&nbsp;&nbsp;
+
+00:00:33.200 --> 00:00:38.640
+go to the terrain settings and change the scale&nbsp;
+a lot lower because it's quite big by default,&nbsp;&nbsp;
+
+00:00:38.640 --> 00:00:43.120
+especially the height. Then what I like to do is&nbsp;
+to change the terrain height because by default&nbsp;&nbsp;
+
+00:00:43.120 --> 00:00:46.880
+it is at its lowest point. So what you want&nbsp;
+to do is raise it a little bit and then set&nbsp;&nbsp;
+
+00:00:46.880 --> 00:00:50.880
+height. You can shift click to get a sample of&nbsp;
+what height you want and then just cover the&nbsp;&nbsp;
+
+00:00:50.880 --> 00:00:56.320
+whole terrain. Then as you can see here, you can&nbsp;
+raise the terrain up and also dig down. This is&nbsp;&nbsp;
+
+00:00:56.320 --> 00:01:01.440
+also now a good opportunity to test your maximum&nbsp;
+height and depth and tweak as necessary. Next,&nbsp;&nbsp;
+
+00:01:01.440 --> 00:01:07.200
+we need to add some terrain textures. So, we're&nbsp;
+going to in your project window, create a terrain&nbsp;&nbsp;
+
+00:01:07.200 --> 00:01:13.680
+layer, create a grass, for example, and then just&nbsp;
+select the texture and the normal map. And then&nbsp;&nbsp;
+
+00:01:13.680 --> 00:01:18.880
+we're going to come back to the terrain settings&nbsp;
+and add a new terrain layer. Add any extra layers&nbsp;&nbsp;
+
+00:01:18.880 --> 00:01:23.280
+that you might need. And you can use the&nbsp;
+brushes tab to change how the tool paints&nbsp;&nbsp;
+
+00:01:23.280 --> 00:01:28.000
+onto the terrain. Here I've grabbed a couple of&nbsp;
+buildings from the demo scene. And as you can see,&nbsp;&nbsp;
+
+00:01:28.000 --> 00:01:32.720
+painting on a few different layers of different&nbsp;
+textures really helps set it into the scene. You&nbsp;&nbsp;
+
+00:01:32.720 --> 00:01:37.440
+can very quickly improve the look by adding in&nbsp;
+some ground prefabs like rocks and gravels and&nbsp;&nbsp;
+
+00:01:37.440 --> 00:01:42.560
+tiles to add that 3D element that really sells it&nbsp;
+as part of the world. For trees, you can either&nbsp;&nbsp;
+
+00:01:42.560 --> 00:01:47.280
+manually place the prefabs or you can go to the&nbsp;
+tree tab and add the prefabs and use the terrain&nbsp;&nbsp;
+
+00:01:47.280 --> 00:01:52.160
+tools to quickly paint them in at different scales&nbsp;
+and rotations. For grass, you can either use the&nbsp;&nbsp;
+
+00:01:52.160 --> 00:01:56.800
+same technique if you have prefabs. Uh, in this&nbsp;
+case, I'm using a grass texture and using the&nbsp;&nbsp;
+
+00:01:56.800 --> 00:02:01.680
+builtin Unity terrain grass system. It's best to&nbsp;
+paint a patch of grass first and then modify it&nbsp;&nbsp;
+
+00:02:01.680 --> 00:02:06.400
+from there before continuing to dress the rest of&nbsp;
+the scene. You can also add them as a detail mesh,&nbsp;&nbsp;
+
+00:02:06.400 --> 00:02:11.120
+but it does not support LOD groups, so it can be a&nbsp;
+little heavier. For our maps, we do manually place&nbsp;&nbsp;
+
+00:02:11.120 --> 00:02:15.520
+all of our prefabs just to make sure it is in the&nbsp;
+exact spot that we want it to be. But if you are&nbsp;&nbsp;
+
+00:02:15.520 --> 00:02:20.240
+making a bigger scene, it makes sense to use some&nbsp;
+tools to help speed up the process. Final step to&nbsp;&nbsp;
+
+00:02:20.240 --> 00:02:24.400
+improve the look is to add some camera post&nbsp;
+effects. If you're using the universal render&nbsp;&nbsp;
+
+00:02:24.400 --> 00:02:29.200
+pipeline, you need to add a global volume to your&nbsp;
+scene. And from there, you can add overrides.&nbsp;&nbsp;
+
+00:02:29.200 --> 00:02:35.600
+And I'd recommend a baseline of bloom, color&nbsp;
+adjustments, vignette, and lift gamma gain. That's&nbsp;&nbsp;
+
+00:02:35.600 --> 00:02:39.600
+all for today. I hope you have found this video&nbsp;
+helpful, and good luck with your world creation.
+

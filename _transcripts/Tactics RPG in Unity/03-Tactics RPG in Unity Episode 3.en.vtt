@@ -1,0 +1,1760 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.199 --> 00:00:03.270 align:start position:0%
+ 
+hello<00:00:01.520><c> everyone</c><00:00:01.920><c> my</c><00:00:02.080><c> name</c><00:00:02.240><c> is</c><00:00:02.399><c> greg</c><00:00:02.800><c> and</c><00:00:02.960><c> i</c><00:00:03.040><c> def</c>
+
+00:00:03.270 --> 00:00:03.280 align:start position:0%
+hello everyone my name is greg and i def
+ 
+
+00:00:03.280 --> 00:00:06.150 align:start position:0%
+hello everyone my name is greg and i def
+staff<00:00:03.760><c> welcome</c><00:00:04.160><c> everyone</c><00:00:04.560><c> to</c><00:00:04.720><c> episode</c><00:00:05.200><c> 3</c><00:00:05.920><c> of</c>
+
+00:00:06.150 --> 00:00:06.160 align:start position:0%
+staff welcome everyone to episode 3 of
+ 
+
+00:00:06.160 --> 00:00:09.350 align:start position:0%
+staff welcome everyone to episode 3 of
+the<00:00:06.640><c> tactics</c><00:00:07.200><c> gaming</c><00:00:07.600><c> unity</c><00:00:08.559><c> in</c><00:00:08.720><c> this</c><00:00:08.960><c> episode</c>
+
+00:00:09.350 --> 00:00:09.360 align:start position:0%
+the tactics gaming unity in this episode
+ 
+
+00:00:09.360 --> 00:00:12.709 align:start position:0%
+the tactics gaming unity in this episode
+we<00:00:09.519><c> will</c><00:00:10.080><c> make</c><00:00:10.320><c> some</c><00:00:10.880><c> small</c><00:00:11.120><c> optimization</c><00:00:12.320><c> and</c>
+
+00:00:12.709 --> 00:00:12.719 align:start position:0%
+we will make some small optimization and
+ 
+
+00:00:12.719 --> 00:00:14.549 align:start position:0%
+we will make some small optimization and
+elevation
+
+00:00:14.549 --> 00:00:14.559 align:start position:0%
+elevation
+ 
+
+00:00:14.559 --> 00:00:16.710 align:start position:0%
+elevation
+so<00:00:15.040><c> in</c><00:00:15.200><c> the</c><00:00:15.360><c> last</c><00:00:15.599><c> episode</c><00:00:15.920><c> i</c><00:00:16.080><c> promised</c><00:00:16.480><c> i</c><00:00:16.560><c> will</c>
+
+00:00:16.710 --> 00:00:16.720 align:start position:0%
+so in the last episode i promised i will
+ 
+
+00:00:16.720 --> 00:00:19.189 align:start position:0%
+so in the last episode i promised i will
+explain<00:00:17.279><c> some</c><00:00:18.000><c> some</c><00:00:18.240><c> of</c><00:00:18.320><c> the</c><00:00:18.560><c> problems</c><00:00:19.039><c> with</c>
+
+00:00:19.189 --> 00:00:19.199 align:start position:0%
+explain some some of the problems with
+ 
+
+00:00:19.199 --> 00:00:22.070 align:start position:0%
+explain some some of the problems with
+the<00:00:19.439><c> system</c><00:00:20.320><c> and</c><00:00:20.720><c> in</c><00:00:20.880><c> what</c><00:00:21.199><c> cases</c><00:00:21.600><c> you</c><00:00:21.760><c> want</c><00:00:21.920><c> to</c>
+
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+the system and in what cases you want to
+ 
+
+00:00:22.080 --> 00:00:24.230 align:start position:0%
+the system and in what cases you want to
+keep<00:00:22.320><c> it</c><00:00:22.560><c> as</c><00:00:22.880><c> is</c><00:00:23.279><c> and</c><00:00:23.439><c> when</c><00:00:23.680><c> you</c><00:00:23.840><c> want</c><00:00:24.000><c> to</c>
+
+00:00:24.230 --> 00:00:24.240 align:start position:0%
+keep it as is and when you want to
+ 
+
+00:00:24.240 --> 00:00:25.349 align:start position:0%
+keep it as is and when you want to
+change<00:00:24.560><c> it</c>
+
+00:00:25.349 --> 00:00:25.359 align:start position:0%
+change it
+ 
+
+00:00:25.359 --> 00:00:27.429 align:start position:0%
+change it
+look<00:00:25.599><c> at</c><00:00:25.680><c> this</c><00:00:25.920><c> grid</c><00:00:26.400><c> right</c><00:00:26.640><c> now</c><00:00:26.880><c> this</c><00:00:27.119><c> grid</c>
+
+00:00:27.429 --> 00:00:27.439 align:start position:0%
+look at this grid right now this grid
+ 
+
+00:00:27.439 --> 00:00:29.589 align:start position:0%
+look at this grid right now this grid
+can<00:00:27.680><c> exist</c><00:00:28.000><c> anywhere</c><00:00:28.720><c> i</c><00:00:28.880><c> can</c><00:00:29.039><c> move</c><00:00:29.279><c> it</c><00:00:29.439><c> like</c>
+
+00:00:29.589 --> 00:00:29.599 align:start position:0%
+can exist anywhere i can move it like
+ 
+
+00:00:29.599 --> 00:00:32.470 align:start position:0%
+can exist anywhere i can move it like
+this<00:00:30.240><c> but</c><00:00:30.400><c> the</c><00:00:30.640><c> problem</c><00:00:31.119><c> is</c><00:00:31.519><c> if</c><00:00:31.679><c> you</c><00:00:31.920><c> look</c><00:00:32.160><c> into</c>
+
+00:00:32.470 --> 00:00:32.480 align:start position:0%
+this but the problem is if you look into
+ 
+
+00:00:32.480 --> 00:00:36.310 align:start position:0%
+this but the problem is if you look into
+the<00:00:32.640><c> calculation</c><00:00:34.000><c> of</c><00:00:34.160><c> the</c><00:00:34.399><c> selected</c><00:00:35.040><c> node</c>
+
+00:00:36.310 --> 00:00:36.320 align:start position:0%
+the calculation of the selected node
+ 
+
+00:00:36.320 --> 00:00:39.430 align:start position:0%
+the calculation of the selected node
+it<00:00:36.559><c> has</c><00:00:36.880><c> those</c><00:00:37.280><c> additional</c><00:00:38.000><c> steps</c><00:00:38.719><c> to</c><00:00:38.960><c> take</c>
+
+00:00:39.430 --> 00:00:39.440 align:start position:0%
+it has those additional steps to take
+ 
+
+00:00:39.440 --> 00:00:41.830 align:start position:0%
+it has those additional steps to take
+into<00:00:39.760><c> account</c><00:00:40.320><c> the</c><00:00:40.480><c> position</c>
+
+00:00:41.830 --> 00:00:41.840 align:start position:0%
+into account the position
+ 
+
+00:00:41.840 --> 00:00:44.229 align:start position:0%
+into account the position
+which<00:00:42.079><c> is</c><00:00:42.239><c> not</c><00:00:42.559><c> a</c><00:00:42.640><c> lot</c><00:00:43.040><c> but</c><00:00:43.280><c> will</c><00:00:43.680><c> impact</c><00:00:44.079><c> the</c>
+
+00:00:44.229 --> 00:00:44.239 align:start position:0%
+which is not a lot but will impact the
+ 
+
+00:00:44.239 --> 00:00:47.110 align:start position:0%
+which is not a lot but will impact the
+performance<00:00:45.039><c> unnecessary</c>
+
+00:00:47.110 --> 00:00:47.120 align:start position:0%
+performance unnecessary
+ 
+
+00:00:47.120 --> 00:00:49.190 align:start position:0%
+performance unnecessary
+so<00:00:47.360><c> what</c><00:00:47.520><c> we</c><00:00:47.680><c> want</c><00:00:47.840><c> to</c><00:00:48.000><c> do</c><00:00:48.239><c> is</c><00:00:48.320><c> to</c><00:00:48.559><c> assume</c><00:00:48.879><c> that</c>
+
+00:00:49.190 --> 00:00:49.200 align:start position:0%
+so what we want to do is to assume that
+ 
+
+00:00:49.200 --> 00:00:53.029 align:start position:0%
+so what we want to do is to assume that
+our<00:00:49.680><c> point</c><00:00:50.160><c> of</c><00:00:50.399><c> origin</c><00:00:50.879><c> will</c><00:00:51.199><c> always</c><00:00:51.680><c> be</c><00:00:52.000><c> in</c><00:00:52.160><c> 00</c>
+
+00:00:53.029 --> 00:00:53.039 align:start position:0%
+our point of origin will always be in 00
+ 
+
+00:00:53.039 --> 00:00:55.270 align:start position:0%
+our point of origin will always be in 00
+position
+
+00:00:55.270 --> 00:00:55.280 align:start position:0%
+position
+ 
+
+00:00:55.280 --> 00:00:57.750 align:start position:0%
+position
+but<00:00:55.600><c> in</c><00:00:55.760><c> what</c><00:00:56.000><c> cases</c><00:00:56.399><c> you</c><00:00:56.480><c> don't</c><00:00:56.800><c> want</c><00:00:57.120><c> to</c><00:00:57.440><c> do</c>
+
+00:00:57.750 --> 00:00:57.760 align:start position:0%
+but in what cases you don't want to do
+ 
+
+00:00:57.760 --> 00:00:59.670 align:start position:0%
+but in what cases you don't want to do
+it<00:00:58.399><c> you</c><00:00:58.559><c> may</c><00:00:58.800><c> ask</c>
+
+00:00:59.670 --> 00:00:59.680 align:start position:0%
+it you may ask
+ 
+
+00:00:59.680 --> 00:01:01.510 align:start position:0%
+it you may ask
+in<00:00:59.840><c> cases</c><00:01:00.239><c> where</c><00:01:00.480><c> you</c><00:01:00.640><c> want</c><00:01:00.879><c> to</c><00:01:01.039><c> keep</c><00:01:01.280><c> an</c>
+
+00:01:01.510 --> 00:01:01.520 align:start position:0%
+in cases where you want to keep an
+ 
+
+00:01:01.520 --> 00:01:03.670 align:start position:0%
+in cases where you want to keep an
+ability<00:01:02.000><c> to</c><00:01:02.160><c> move</c><00:01:02.399><c> your</c><00:01:02.640><c> grid</c><00:01:02.960><c> around</c><00:01:03.520><c> and</c>
+
+00:01:03.670 --> 00:01:03.680 align:start position:0%
+ability to move your grid around and
+ 
+
+00:01:03.680 --> 00:01:06.710 align:start position:0%
+ability to move your grid around and
+place<00:01:04.000><c> it</c><00:01:04.239><c> in</c><00:01:04.479><c> any</c><00:01:04.799><c> spot</c><00:01:05.360><c> on</c><00:01:05.519><c> the</c><00:01:05.680><c> scene</c><00:01:06.400><c> here</c>
+
+00:01:06.710 --> 00:01:06.720 align:start position:0%
+place it in any spot on the scene here
+ 
+
+00:01:06.720 --> 00:01:09.750 align:start position:0%
+place it in any spot on the scene here
+is<00:01:06.880><c> hypothetical</c><00:01:07.680><c> example</c><00:01:08.400><c> an</c><00:01:08.720><c> fps</c><00:01:09.360><c> game</c>
+
+00:01:09.750 --> 00:01:09.760 align:start position:0%
+is hypothetical example an fps game
+ 
+
+00:01:09.760 --> 00:01:12.390 align:start position:0%
+is hypothetical example an fps game
+where<00:01:10.000><c> you</c><00:01:10.159><c> find</c><00:01:10.799><c> a</c><00:01:11.040><c> chess</c><00:01:11.360><c> puzzle</c><00:01:12.080><c> in</c><00:01:12.240><c> the</c>
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+where you find a chess puzzle in the
+ 
+
+00:01:12.400 --> 00:01:15.270 align:start position:0%
+where you find a chess puzzle in the
+level<00:01:13.119><c> and</c><00:01:13.280><c> this</c><00:01:13.600><c> chess</c><00:01:13.920><c> puzzle</c><00:01:14.479><c> is</c><00:01:14.720><c> separate</c>
+
+00:01:15.270 --> 00:01:15.280 align:start position:0%
+level and this chess puzzle is separate
+ 
+
+00:01:15.280 --> 00:01:17.590 align:start position:0%
+level and this chess puzzle is separate
+grid<00:01:15.680><c> object</c><00:01:16.159><c> placed</c><00:01:16.560><c> somewhere</c><00:01:17.200><c> in</c><00:01:17.360><c> the</c>
+
+00:01:17.590 --> 00:01:17.600 align:start position:0%
+grid object placed somewhere in the
+ 
+
+00:01:17.600 --> 00:01:19.990 align:start position:0%
+grid object placed somewhere in the
+level<00:01:18.240><c> and</c><00:01:18.479><c> because</c><00:01:18.799><c> we</c><00:01:18.960><c> don't</c><00:01:19.360><c> fix</c><00:01:19.680><c> our</c>
+
+00:01:19.990 --> 00:01:20.000 align:start position:0%
+level and because we don't fix our
+ 
+
+00:01:20.000 --> 00:01:24.070 align:start position:0%
+level and because we don't fix our
+position<00:01:20.799><c> of</c><00:01:21.119><c> origin</c><00:01:21.680><c> to</c><00:01:21.840><c> 000</c><00:01:22.799><c> position</c>
+
+00:01:24.070 --> 00:01:24.080 align:start position:0%
+position of origin to 000 position
+ 
+
+00:01:24.080 --> 00:01:26.390 align:start position:0%
+position of origin to 000 position
+game<00:01:24.320><c> designer</c><00:01:25.040><c> will</c><00:01:25.280><c> be</c><00:01:25.520><c> able</c><00:01:25.759><c> to</c><00:01:25.920><c> move</c><00:01:26.159><c> this</c>
+
+00:01:26.390 --> 00:01:26.400 align:start position:0%
+game designer will be able to move this
+ 
+
+00:01:26.400 --> 00:01:28.870 align:start position:0%
+game designer will be able to move this
+grid<00:01:26.720><c> anymore</c><00:01:27.439><c> on</c><00:01:27.600><c> the</c><00:01:27.840><c> scene</c>
+
+00:01:28.870 --> 00:01:28.880 align:start position:0%
+grid anymore on the scene
+ 
+
+00:01:28.880 --> 00:01:31.670 align:start position:0%
+grid anymore on the scene
+bar<00:01:29.119><c> the</c><00:01:29.280><c> ability</c><00:01:29.759><c> to</c><00:01:30.000><c> rotate</c><00:01:30.400><c> it</c><00:01:30.560><c> around</c><00:01:31.439><c> but</c>
+
+00:01:31.670 --> 00:01:31.680 align:start position:0%
+bar the ability to rotate it around but
+ 
+
+00:01:31.680 --> 00:01:33.749 align:start position:0%
+bar the ability to rotate it around but
+it<00:01:31.920><c> can</c><00:01:32.159><c> be</c><00:01:32.320><c> actually</c><00:01:32.799><c> implemented</c><00:01:33.439><c> if</c><00:01:33.600><c> you</c>
+
+00:01:33.749 --> 00:01:33.759 align:start position:0%
+it can be actually implemented if you
+ 
+
+00:01:33.759 --> 00:01:34.710 align:start position:0%
+it can be actually implemented if you
+want
+
+00:01:34.710 --> 00:01:34.720 align:start position:0%
+want
+ 
+
+00:01:34.720 --> 00:01:37.270 align:start position:0%
+want
+in<00:01:34.960><c> our</c><00:01:35.360><c> case</c><00:01:36.079><c> because</c><00:01:36.560><c> we</c><00:01:36.720><c> are</c><00:01:36.880><c> making</c>
+
+00:01:37.270 --> 00:01:37.280 align:start position:0%
+in our case because we are making
+ 
+
+00:01:37.280 --> 00:01:40.149 align:start position:0%
+in our case because we are making
+tactics<00:01:37.840><c> rpg</c><00:01:38.720><c> we</c><00:01:38.880><c> will</c><00:01:39.119><c> benefit</c><00:01:39.600><c> from</c><00:01:39.840><c> doing</c>
+
+00:01:40.149 --> 00:01:40.159 align:start position:0%
+tactics rpg we will benefit from doing
+ 
+
+00:01:40.159 --> 00:01:42.230 align:start position:0%
+tactics rpg we will benefit from doing
+those<00:01:40.479><c> optimization</c><00:01:41.280><c> steps</c>
+
+00:01:42.230 --> 00:01:42.240 align:start position:0%
+those optimization steps
+ 
+
+00:01:42.240 --> 00:01:45.990 align:start position:0%
+those optimization steps
+while<00:01:42.880><c> small</c><00:01:43.759><c> it</c><00:01:43.920><c> will</c><00:01:44.159><c> adds</c><00:01:44.560><c> up</c><00:01:45.280><c> so</c><00:01:45.439><c> let's</c><00:01:45.759><c> do</c>
+
+00:01:45.990 --> 00:01:46.000 align:start position:0%
+while small it will adds up so let's do
+ 
+
+00:01:46.000 --> 00:01:48.389 align:start position:0%
+while small it will adds up so let's do
+them
+
+00:01:48.389 --> 00:01:48.399 align:start position:0%
+ 
+ 
+
+00:01:48.399 --> 00:01:51.270 align:start position:0%
+ 
+move<00:01:48.640><c> the</c><00:01:48.880><c> map</c><00:01:49.200><c> into</c><00:01:49.439><c> 0</c><00:01:50.079><c> position</c>
+
+00:01:51.270 --> 00:01:51.280 align:start position:0%
+move the map into 0 position
+ 
+
+00:01:51.280 --> 00:01:54.149 align:start position:0%
+move the map into 0 position
+make<00:01:51.520><c> sure</c><00:01:51.840><c> you</c><00:01:52.079><c> are</c><00:01:52.240><c> moving</c><00:01:52.560><c> the</c><00:01:52.720><c> grid</c><00:01:53.119><c> object</c>
+
+00:01:54.149 --> 00:01:54.159 align:start position:0%
+make sure you are moving the grid object
+ 
+
+00:01:54.159 --> 00:02:18.070 align:start position:0%
+make sure you are moving the grid object
+and<00:01:54.399><c> not</c><00:01:54.640><c> the</c><00:01:54.799><c> terrain</c><00:01:55.280><c> object</c>
+
+00:02:18.070 --> 00:02:18.080 align:start position:0%
+ 
+ 
+
+00:02:18.080 --> 00:02:20.309 align:start position:0%
+ 
+reduce<00:02:18.480><c> the</c><00:02:18.560><c> calculation</c><00:02:19.200><c> of</c><00:02:19.360><c> position</c><00:02:20.080><c> with</c>
+
+00:02:20.309 --> 00:02:20.319 align:start position:0%
+reduce the calculation of position with
+ 
+
+00:02:20.319 --> 00:02:22.550 align:start position:0%
+reduce the calculation of position with
+the<00:02:20.480><c> assumption</c><00:02:21.040><c> that</c><00:02:21.360><c> we</c><00:02:21.520><c> will</c><00:02:21.760><c> be</c><00:02:21.920><c> placing</c>
+
+00:02:22.550 --> 00:02:22.560 align:start position:0%
+the assumption that we will be placing
+ 
+
+00:02:22.560 --> 00:02:26.390 align:start position:0%
+the assumption that we will be placing
+our<00:02:22.800><c> grid</c><00:02:23.200><c> in</c><00:02:23.360><c> 00</c><00:02:24.239><c> position</c>
+
+00:02:26.390 --> 00:02:26.400 align:start position:0%
+our grid in 00 position
+ 
+
+00:02:26.400 --> 00:02:28.390 align:start position:0%
+our grid in 00 position
+in<00:02:26.560><c> get</c><00:02:26.800><c> grid</c><00:02:27.120><c> position</c><00:02:27.680><c> we</c><00:02:27.920><c> just</c><00:02:28.160><c> need</c><00:02:28.319><c> to</c>
+
+00:02:28.390 --> 00:02:28.400 align:start position:0%
+in get grid position we just need to
+ 
+
+00:02:28.400 --> 00:02:30.869 align:start position:0%
+in get grid position we just need to
+remove<00:02:28.800><c> the</c><00:02:29.040><c> offset</c><00:02:29.599><c> applied</c><00:02:30.000><c> to</c><00:02:30.160><c> the</c><00:02:30.480><c> past</c>
+
+00:02:30.869 --> 00:02:30.879 align:start position:0%
+remove the offset applied to the past
+ 
+
+00:02:30.879 --> 00:02:32.869 align:start position:0%
+remove the offset applied to the past
+world<00:02:31.280><c> position</c>
+
+00:02:32.869 --> 00:02:32.879 align:start position:0%
+world position
+ 
+
+00:02:32.879 --> 00:02:35.110 align:start position:0%
+world position
+and<00:02:33.040><c> in</c><00:02:33.280><c> get</c><00:02:33.599><c> world</c><00:02:33.920><c> position</c><00:02:34.560><c> remove</c><00:02:34.879><c> the</c>
+
+00:02:35.110 --> 00:02:35.120 align:start position:0%
+and in get world position remove the
+ 
+
+00:02:35.120 --> 00:02:38.070 align:start position:0%
+and in get world position remove the
+transform<00:02:35.760><c> position</c><00:02:36.800><c> which</c><00:02:37.120><c> applies</c><00:02:37.680><c> offset</c>
+
+00:02:38.070 --> 00:02:38.080 align:start position:0%
+transform position which applies offset
+ 
+
+00:02:38.080 --> 00:02:40.150 align:start position:0%
+transform position which applies offset
+to<00:02:38.239><c> the</c><00:02:38.480><c> world</c><00:02:38.800><c> position</c><00:02:39.440><c> based</c><00:02:39.840><c> on</c><00:02:40.000><c> the</c>
+
+00:02:40.150 --> 00:02:40.160 align:start position:0%
+to the world position based on the
+ 
+
+00:02:40.160 --> 00:02:51.030 align:start position:0%
+to the world position based on the
+position<00:02:40.720><c> of</c><00:02:40.879><c> the</c><00:02:41.040><c> grid</c><00:02:41.440><c> in</c><00:02:41.519><c> the</c><00:02:41.680><c> world</c>
+
+00:02:51.030 --> 00:02:51.040 align:start position:0%
+ 
+ 
+
+00:02:51.040 --> 00:02:53.509 align:start position:0%
+ 
+now<00:02:51.360><c> everything</c><00:02:51.840><c> should</c><00:02:52.080><c> work</c><00:02:52.560><c> exactly</c><00:02:53.200><c> as</c><00:02:53.360><c> it</c>
+
+00:02:53.509 --> 00:02:53.519 align:start position:0%
+now everything should work exactly as it
+ 
+
+00:02:53.519 --> 00:03:49.830 align:start position:0%
+now everything should work exactly as it
+used<00:02:53.760><c> to</c><00:02:53.920><c> work</c>
+
+00:03:49.830 --> 00:03:49.840 align:start position:0%
+ 
+ 
+
+00:03:49.840 --> 00:03:51.190 align:start position:0%
+ 
+this<00:03:50.080><c> episode</c><00:03:50.480><c> is</c><00:03:50.560><c> brought</c><00:03:50.720><c> to</c><00:03:50.879><c> you</c><00:03:50.959><c> by</c>
+
+00:03:51.190 --> 00:03:51.200 align:start position:0%
+this episode is brought to you by
+ 
+
+00:03:51.200 --> 00:03:53.190 align:start position:0%
+this episode is brought to you by
+generous<00:03:51.519><c> support</c><00:03:51.920><c> of</c><00:03:52.080><c> people</c><00:03:52.400><c> on</c><00:03:52.560><c> patreon</c>
+
+00:03:53.190 --> 00:03:53.200 align:start position:0%
+generous support of people on patreon
+ 
+
+00:03:53.200 --> 00:03:55.429 align:start position:0%
+generous support of people on patreon
+and<00:03:53.360><c> members</c><00:03:53.920><c> on</c><00:03:54.159><c> youtube</c><00:03:54.799><c> if</c><00:03:54.959><c> you</c><00:03:55.120><c> want</c><00:03:55.280><c> to</c>
+
+00:03:55.429 --> 00:03:55.439 align:start position:0%
+and members on youtube if you want to
+ 
+
+00:03:55.439 --> 00:03:57.350 align:start position:0%
+and members on youtube if you want to
+join<00:03:55.680><c> them</c><00:03:56.080><c> link</c><00:03:56.239><c> to</c><00:03:56.400><c> my</c><00:03:56.560><c> patreon</c><00:03:57.120><c> in</c><00:03:57.280><c> the</c>
+
+00:03:57.350 --> 00:03:57.360 align:start position:0%
+join them link to my patreon in the
+ 
+
+00:03:57.360 --> 00:03:59.830 align:start position:0%
+join them link to my patreon in the
+description<00:03:58.400><c> and</c><00:03:58.640><c> join</c><00:03:58.959><c> button</c><00:03:59.280><c> available</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+description and join button available
+ 
+
+00:03:59.840 --> 00:04:03.190 align:start position:0%
+description and join button available
+right<00:04:00.080><c> now</c><00:04:00.480><c> on</c><00:04:00.640><c> youtube</c>
+
+00:04:03.190 --> 00:04:03.200 align:start position:0%
+ 
+ 
+
+00:04:03.200 --> 00:04:05.750 align:start position:0%
+ 
+good<00:04:03.439><c> now</c><00:04:03.680><c> let's</c><00:04:04.000><c> introduce</c><00:04:04.480><c> an</c><00:04:04.720><c> elevation</c><00:04:05.439><c> of</c>
+
+00:04:05.750 --> 00:04:05.760 align:start position:0%
+good now let's introduce an elevation of
+ 
+
+00:04:05.760 --> 00:04:06.789 align:start position:0%
+good now let's introduce an elevation of
+the<00:04:05.920><c> node</c>
+
+00:04:06.789 --> 00:04:06.799 align:start position:0%
+the node
+ 
+
+00:04:06.799 --> 00:04:09.670 align:start position:0%
+the node
+into<00:04:07.120><c> the</c><00:04:07.280><c> game</c><00:04:08.080><c> so</c><00:04:08.319><c> right</c><00:04:08.560><c> now</c><00:04:08.799><c> each</c><00:04:09.120><c> node</c><00:04:09.360><c> has</c>
+
+00:04:09.670 --> 00:04:09.680 align:start position:0%
+into the game so right now each node has
+ 
+
+00:04:09.680 --> 00:04:12.309 align:start position:0%
+into the game so right now each node has
+same<00:04:10.000><c> elevation</c><00:04:10.640><c> as</c><00:04:10.799><c> any</c><00:04:11.040><c> other</c><00:04:11.439><c> node</c><00:04:12.000><c> what</c><00:04:12.159><c> we</c>
+
+00:04:12.309 --> 00:04:12.319 align:start position:0%
+same elevation as any other node what we
+ 
+
+00:04:12.319 --> 00:04:14.630 align:start position:0%
+same elevation as any other node what we
+want<00:04:12.560><c> to</c><00:04:12.720><c> do</c><00:04:12.959><c> is</c><00:04:13.120><c> to</c><00:04:13.280><c> determine</c><00:04:13.840><c> the</c><00:04:14.000><c> elevation</c>
+
+00:04:14.630 --> 00:04:14.640 align:start position:0%
+want to do is to determine the elevation
+ 
+
+00:04:14.640 --> 00:04:18.710 align:start position:0%
+want to do is to determine the elevation
+of<00:04:14.879><c> each</c><00:04:15.200><c> node</c><00:04:15.680><c> when</c><00:04:15.920><c> this</c><00:04:16.160><c> node</c><00:04:16.479><c> is</c><00:04:16.720><c> created</c>
+
+00:04:18.710 --> 00:04:18.720 align:start position:0%
+of each node when this node is created
+ 
+
+00:04:18.720 --> 00:04:21.670 align:start position:0%
+of each node when this node is created
+so<00:04:18.880><c> let's</c><00:04:19.199><c> create</c><00:04:19.600><c> an</c><00:04:19.840><c> area</c><00:04:20.239><c> to</c><00:04:20.400><c> play</c><00:04:20.639><c> around</c>
+
+00:04:21.670 --> 00:04:21.680 align:start position:0%
+so let's create an area to play around
+ 
+
+00:04:21.680 --> 00:04:25.909 align:start position:0%
+so let's create an area to play around
+create<00:04:22.079><c> an</c><00:04:22.240><c> empty</c><00:04:22.639><c> object</c><00:04:23.280><c> called</c><00:04:23.680><c> terrain</c>
+
+00:04:25.909 --> 00:04:25.919 align:start position:0%
+create an empty object called terrain
+ 
+
+00:04:25.919 --> 00:04:33.430 align:start position:0%
+create an empty object called terrain
+move<00:04:26.160><c> it</c><00:04:26.320><c> to</c><00:04:26.560><c> 000</c><00:04:27.520><c> position</c>
+
+00:04:33.430 --> 00:04:33.440 align:start position:0%
+ 
+ 
+
+00:04:33.440 --> 00:04:35.749 align:start position:0%
+ 
+when<00:04:33.680><c> we</c><00:04:33.919><c> are</c><00:04:34.080><c> creating</c><00:04:34.560><c> the</c><00:04:34.800><c> area</c><00:04:35.199><c> let's</c><00:04:35.440><c> hide</c>
+
+00:04:35.749 --> 00:04:35.759 align:start position:0%
+when we are creating the area let's hide
+ 
+
+00:04:35.759 --> 00:04:38.550 align:start position:0%
+when we are creating the area let's hide
+the<00:04:36.000><c> characters</c><00:04:36.720><c> and</c><00:04:36.880><c> grid</c><00:04:37.600><c> with</c><00:04:37.919><c> obstacles</c>
+
+00:04:38.550 --> 00:04:38.560 align:start position:0%
+the characters and grid with obstacles
+ 
+
+00:04:38.560 --> 00:04:40.710 align:start position:0%
+the characters and grid with obstacles
+by<00:04:38.800><c> pressing</c><00:04:39.199><c> this</c><00:04:39.520><c> log</c><00:04:39.759><c> button</c>
+
+00:04:40.710 --> 00:04:40.720 align:start position:0%
+by pressing this log button
+ 
+
+00:04:40.720 --> 00:04:43.430 align:start position:0%
+by pressing this log button
+this<00:04:41.040><c> way</c><00:04:41.360><c> we</c><00:04:41.520><c> can</c><00:04:41.840><c> concentrate</c><00:04:42.560><c> on</c><00:04:42.880><c> making</c>
+
+00:04:43.430 --> 00:04:43.440 align:start position:0%
+this way we can concentrate on making
+ 
+
+00:04:43.440 --> 00:04:46.550 align:start position:0%
+this way we can concentrate on making
+terrain
+
+00:04:46.550 --> 00:04:46.560 align:start position:0%
+ 
+ 
+
+00:04:46.560 --> 00:05:19.430 align:start position:0%
+ 
+so<00:04:46.720><c> let's</c><00:04:47.280><c> create</c><00:04:47.759><c> two</c><00:04:48.000><c> planes</c>
+
+00:05:19.430 --> 00:05:19.440 align:start position:0%
+ 
+ 
+
+00:05:19.440 --> 00:05:22.070 align:start position:0%
+ 
+actually<00:05:19.919><c> we</c><00:05:20.080><c> need</c><00:05:20.240><c> to</c><00:05:20.400><c> see</c><00:05:20.639><c> the</c><00:05:20.880><c> grid</c><00:05:21.600><c> to</c><00:05:21.759><c> know</c>
+
+00:05:22.070 --> 00:05:22.080 align:start position:0%
+actually we need to see the grid to know
+ 
+
+00:05:22.080 --> 00:05:25.510 align:start position:0%
+actually we need to see the grid to know
+to<00:05:22.320><c> what</c><00:05:22.639><c> scale</c><00:05:23.280><c> are</c><00:05:23.440><c> we</c><00:05:23.600><c> building</c><00:05:24.160><c> our</c><00:05:24.479><c> map</c>
+
+00:05:25.510 --> 00:05:25.520 align:start position:0%
+to what scale are we building our map
+ 
+
+00:05:25.520 --> 00:05:28.310 align:start position:0%
+to what scale are we building our map
+so<00:05:25.759><c> let's</c><00:05:26.000><c> change</c><00:05:26.400><c> grid</c><00:05:26.800><c> gizmos</c>
+
+00:05:28.310 --> 00:05:28.320 align:start position:0%
+so let's change grid gizmos
+ 
+
+00:05:28.320 --> 00:05:30.790 align:start position:0%
+so let's change grid gizmos
+here<00:05:28.800><c> instead</c><00:05:29.120><c> of</c><00:05:29.360><c> exiting</c><00:05:29.919><c> out</c><00:05:30.160><c> of</c><00:05:30.240><c> the</c><00:05:30.400><c> draw</c>
+
+00:05:30.790 --> 00:05:30.800 align:start position:0%
+here instead of exiting out of the draw
+ 
+
+00:05:30.800 --> 00:05:33.909 align:start position:0%
+here instead of exiting out of the draw
+gizmo<00:05:31.280><c> if</c><00:05:31.440><c> the</c><00:05:31.759><c> array</c><00:05:32.240><c> of</c><00:05:32.479><c> node</c><00:05:32.800><c> is</c><00:05:33.039><c> no</c><00:05:33.520><c> we</c><00:05:33.680><c> will</c>
+
+00:05:33.909 --> 00:05:33.919 align:start position:0%
+gizmo if the array of node is no we will
+ 
+
+00:05:33.919 --> 00:05:36.550 align:start position:0%
+gizmo if the array of node is no we will
+only<00:05:34.240><c> draw</c><00:05:34.560><c> the</c><00:05:34.800><c> node</c><00:05:35.600><c> just</c><00:05:35.840><c> for</c><00:05:36.080><c> visual</c>
+
+00:05:36.550 --> 00:05:36.560 align:start position:0%
+only draw the node just for visual
+ 
+
+00:05:36.560 --> 00:06:00.469 align:start position:0%
+only draw the node just for visual
+reference
+
+00:06:00.469 --> 00:06:00.479 align:start position:0%
+ 
+ 
+
+00:06:00.479 --> 00:06:01.350 align:start position:0%
+ 
+good
+
+00:06:01.350 --> 00:06:01.360 align:start position:0%
+good
+ 
+
+00:06:01.360 --> 00:06:04.390 align:start position:0%
+good
+now<00:06:01.759><c> even</c><00:06:02.160><c> in</c><00:06:02.319><c> the</c><00:06:02.479><c> non-play</c><00:06:03.199><c> mode</c><00:06:03.680><c> we</c><00:06:03.840><c> can</c><00:06:04.080><c> see</c>
+
+00:06:04.390 --> 00:06:04.400 align:start position:0%
+now even in the non-play mode we can see
+ 
+
+00:06:04.400 --> 00:06:09.909 align:start position:0%
+now even in the non-play mode we can see
+nodes
+
+00:06:09.909 --> 00:06:09.919 align:start position:0%
+ 
+ 
+
+00:06:09.919 --> 00:06:12.150 align:start position:0%
+ 
+actually<00:06:10.560><c> you</c><00:06:10.800><c> know</c><00:06:11.199><c> let's</c><00:06:11.520><c> use</c><00:06:11.759><c> unity</c>
+
+00:06:12.150 --> 00:06:12.160 align:start position:0%
+actually you know let's use unity
+ 
+
+00:06:12.160 --> 00:06:14.550 align:start position:0%
+actually you know let's use unity
+terrain<00:06:12.639><c> feature</c><00:06:13.360><c> i</c><00:06:13.520><c> think</c><00:06:13.759><c> this</c><00:06:14.080><c> will</c><00:06:14.240><c> be</c><00:06:14.400><c> a</c>
+
+00:06:14.550 --> 00:06:14.560 align:start position:0%
+terrain feature i think this will be a
+ 
+
+00:06:14.560 --> 00:06:16.150 align:start position:0%
+terrain feature i think this will be a
+better<00:06:14.880><c> approach</c>
+
+00:06:16.150 --> 00:06:16.160 align:start position:0%
+better approach
+ 
+
+00:06:16.160 --> 00:06:19.110 align:start position:0%
+better approach
+create<00:06:16.479><c> a</c><00:06:16.560><c> terrain</c><00:06:17.280><c> object</c><00:06:18.160><c> now</c><00:06:18.400><c> let's</c><00:06:18.639><c> start</c>
+
+00:06:19.110 --> 00:06:19.120 align:start position:0%
+create a terrain object now let's start
+ 
+
+00:06:19.120 --> 00:06:21.510 align:start position:0%
+create a terrain object now let's start
+shaping<00:06:19.680><c> our</c><00:06:20.080><c> playing</c><00:06:20.560><c> field</c>
+
+00:06:21.510 --> 00:06:21.520 align:start position:0%
+shaping our playing field
+ 
+
+00:06:21.520 --> 00:06:23.909 align:start position:0%
+shaping our playing field
+make<00:06:21.759><c> the</c><00:06:21.919><c> terrain</c><00:06:22.400><c> smaller</c><00:06:23.199><c> and</c><00:06:23.440><c> let's</c><00:06:23.680><c> make</c>
+
+00:06:23.909 --> 00:06:23.919 align:start position:0%
+make the terrain smaller and let's make
+ 
+
+00:06:23.919 --> 00:06:25.430 align:start position:0%
+make the terrain smaller and let's make
+the<00:06:24.080><c> terrain</c><00:06:24.560><c> green</c>
+
+00:06:25.430 --> 00:06:25.440 align:start position:0%
+the terrain green
+ 
+
+00:06:25.440 --> 00:06:27.590 align:start position:0%
+the terrain green
+this<00:06:25.680><c> is</c><00:06:25.759><c> not</c><00:06:26.000><c> how</c><00:06:26.160><c> you</c><00:06:26.319><c> use</c><00:06:26.560><c> terrain</c><00:06:27.199><c> this</c><00:06:27.440><c> is</c>
+
+00:06:27.590 --> 00:06:27.600 align:start position:0%
+this is not how you use terrain this is
+ 
+
+00:06:27.600 --> 00:06:30.070 align:start position:0%
+this is not how you use terrain this is
+just<00:06:27.759><c> for</c><00:06:28.000><c> demonstration</c><00:06:28.720><c> purposes</c><00:06:29.520><c> we</c><00:06:29.680><c> will</c>
+
+00:06:30.070 --> 00:06:30.080 align:start position:0%
+just for demonstration purposes we will
+ 
+
+00:06:30.080 --> 00:06:32.550 align:start position:0%
+just for demonstration purposes we will
+be<00:06:30.319><c> making</c><00:06:30.720><c> our</c><00:06:31.039><c> scene</c><00:06:31.360><c> looks</c><00:06:31.600><c> better</c><00:06:32.160><c> later</c>
+
+00:06:32.550 --> 00:06:32.560 align:start position:0%
+be making our scene looks better later
+ 
+
+00:06:32.560 --> 00:06:34.790 align:start position:0%
+be making our scene looks better later
+on<00:06:33.120><c> in</c><00:06:33.280><c> this</c><00:06:33.520><c> tutorial</c>
+
+00:06:34.790 --> 00:06:34.800 align:start position:0%
+on in this tutorial
+ 
+
+00:06:34.800 --> 00:06:38.230 align:start position:0%
+on in this tutorial
+and<00:06:35.039><c> yes</c><00:06:35.520><c> the</c><00:06:35.680><c> material</c><00:06:36.319><c> setup</c><00:06:37.039><c> is</c><00:06:37.360><c> incorrect</c>
+
+00:06:38.230 --> 00:06:38.240 align:start position:0%
+and yes the material setup is incorrect
+ 
+
+00:06:38.240 --> 00:06:40.710 align:start position:0%
+and yes the material setup is incorrect
+again<00:06:39.039><c> this</c><00:06:39.280><c> is</c><00:06:39.440><c> just</c><00:06:39.680><c> for</c><00:06:39.919><c> the</c><00:06:40.000><c> demonstration</c>
+
+00:06:40.710 --> 00:06:40.720 align:start position:0%
+again this is just for the demonstration
+ 
+
+00:06:40.720 --> 00:07:28.550 align:start position:0%
+again this is just for the demonstration
+purposes
+
+00:07:28.550 --> 00:07:28.560 align:start position:0%
+ 
+ 
+
+00:07:28.560 --> 00:07:30.790 align:start position:0%
+ 
+so<00:07:28.720><c> let's</c><00:07:29.039><c> rise</c><00:07:29.360><c> the</c><00:07:29.440><c> terrain</c><00:07:30.080><c> and</c><00:07:30.160><c> let's</c><00:07:30.479><c> draw</c>
+
+00:07:30.790 --> 00:07:30.800 align:start position:0%
+so let's rise the terrain and let's draw
+ 
+
+00:07:30.800 --> 00:08:36.070 align:start position:0%
+so let's rise the terrain and let's draw
+one<00:07:31.120><c> place</c><00:07:31.680><c> for</c><00:07:32.000><c> the</c><00:07:32.400><c> river</c><00:07:32.880><c> to</c><00:07:33.039><c> pass</c><00:07:33.360><c> through</c>
+
+00:08:36.070 --> 00:08:36.080 align:start position:0%
+ 
+ 
+
+00:08:36.080 --> 00:08:39.750 align:start position:0%
+ 
+make<00:08:36.399><c> the</c><00:08:36.640><c> plane</c><00:08:37.120><c> object</c><00:08:37.839><c> to</c><00:08:38.000><c> draw</c><00:08:38.479><c> the</c><00:08:39.120><c> water</c>
+
+00:08:39.750 --> 00:08:39.760 align:start position:0%
+make the plane object to draw the water
+ 
+
+00:08:39.760 --> 00:09:31.670 align:start position:0%
+make the plane object to draw the water
+level<00:08:40.560><c> for</c><00:08:40.800><c> the</c><00:08:40.959><c> river</c>
+
+00:09:31.670 --> 00:09:31.680 align:start position:0%
+ 
+ 
+
+00:09:31.680 --> 00:10:23.750 align:start position:0%
+ 
+and<00:09:32.080><c> add</c><00:09:32.399><c> the</c><00:09:32.720><c> box</c><00:09:33.040><c> to</c><00:09:33.200><c> represent</c><00:09:33.680><c> the</c><00:09:33.839><c> bridge</c>
+
+00:10:23.750 --> 00:10:23.760 align:start position:0%
+ 
+ 
+
+00:10:23.760 --> 00:10:37.430 align:start position:0%
+ 
+parent<00:10:24.320><c> all</c><00:10:24.560><c> of</c><00:10:24.800><c> this</c><00:10:25.519><c> to</c><00:10:25.760><c> the</c><00:10:25.920><c> grid</c>
+
+00:10:37.430 --> 00:10:37.440 align:start position:0%
+ 
+ 
+
+00:10:37.440 --> 00:10:39.829 align:start position:0%
+ 
+now<00:10:37.680><c> we</c><00:10:37.839><c> will</c><00:10:38.079><c> determine</c><00:10:38.640><c> the</c><00:10:38.880><c> elevation</c><00:10:39.600><c> of</c>
+
+00:10:39.829 --> 00:10:39.839 align:start position:0%
+now we will determine the elevation of
+ 
+
+00:10:39.839 --> 00:10:41.110 align:start position:0%
+now we will determine the elevation of
+each<00:10:40.240><c> node</c>
+
+00:10:41.110 --> 00:10:41.120 align:start position:0%
+each node
+ 
+
+00:10:41.120 --> 00:10:43.430 align:start position:0%
+each node
+so<00:10:41.440><c> open</c><00:10:41.760><c> the</c><00:10:41.920><c> grid</c><00:10:42.240><c> script</c>
+
+00:10:43.430 --> 00:10:43.440 align:start position:0%
+so open the grid script
+ 
+
+00:10:43.440 --> 00:10:45.990 align:start position:0%
+so open the grid script
+in<00:10:43.600><c> the</c><00:10:43.760><c> generate</c><00:10:44.480><c> grid</c><00:10:45.120><c> create</c><00:10:45.519><c> and</c><00:10:45.680><c> call</c><00:10:45.920><c> a</c>
+
+00:10:45.990 --> 00:10:46.000 align:start position:0%
+in the generate grid create and call a
+ 
+
+00:10:46.000 --> 00:11:07.590 align:start position:0%
+in the generate grid create and call a
+new<00:10:46.240><c> method</c><00:10:46.560><c> called</c><00:10:46.880><c> calculate</c><00:10:47.440><c> elevation</c>
+
+00:11:07.590 --> 00:11:07.600 align:start position:0%
+ 
+ 
+
+00:11:07.600 --> 00:11:10.470 align:start position:0%
+ 
+inside<00:11:08.000><c> this</c><00:11:08.320><c> method</c><00:11:08.800><c> we</c><00:11:09.040><c> want</c><00:11:09.279><c> to</c><00:11:09.519><c> simply</c>
+
+00:11:10.470 --> 00:11:10.480 align:start position:0%
+inside this method we want to simply
+ 
+
+00:11:10.480 --> 00:11:12.230 align:start position:0%
+inside this method we want to simply
+shoot<00:11:10.959><c> array</c><00:11:11.440><c> from</c>
+
+00:11:12.230 --> 00:11:12.240 align:start position:0%
+shoot array from
+ 
+
+00:11:12.240 --> 00:11:15.110 align:start position:0%
+shoot array from
+above<00:11:13.040><c> until</c><00:11:13.440><c> we</c><00:11:13.680><c> hit</c><00:11:13.920><c> the</c><00:11:14.079><c> terrain</c><00:11:14.640><c> from</c><00:11:14.880><c> each</c>
+
+00:11:15.110 --> 00:11:15.120 align:start position:0%
+above until we hit the terrain from each
+ 
+
+00:11:15.120 --> 00:11:17.590 align:start position:0%
+above until we hit the terrain from each
+possible<00:11:15.600><c> position</c><00:11:16.320><c> of</c><00:11:16.480><c> the</c><00:11:16.640><c> node</c>
+
+00:11:17.590 --> 00:11:17.600 align:start position:0%
+possible position of the node
+ 
+
+00:11:17.600 --> 00:11:19.509 align:start position:0%
+possible position of the node
+and<00:11:17.760><c> read</c><00:11:18.000><c> the</c><00:11:18.160><c> position</c><00:11:18.800><c> of</c><00:11:18.880><c> the</c><00:11:19.040><c> collision</c>
+
+00:11:19.509 --> 00:11:19.519 align:start position:0%
+and read the position of the collision
+ 
+
+00:11:19.519 --> 00:11:36.550 align:start position:0%
+and read the position of the collision
+to<00:11:19.680><c> determine</c><00:11:20.240><c> the</c><00:11:20.399><c> elevation</c><00:11:20.959><c> of</c><00:11:21.120><c> the</c><00:11:21.279><c> point</c>
+
+00:11:36.550 --> 00:11:36.560 align:start position:0%
+ 
+ 
+
+00:11:36.560 --> 00:11:39.990 align:start position:0%
+ 
+create<00:11:36.959><c> a</c><00:11:37.120><c> ray</c><00:11:37.760><c> in</c><00:11:37.920><c> the</c><00:11:38.160><c> world</c><00:11:38.560><c> position</c>
+
+00:11:39.990 --> 00:11:40.000 align:start position:0%
+create a ray in the world position
+ 
+
+00:11:40.000 --> 00:12:07.030 align:start position:0%
+create a ray in the world position
+and<00:11:40.399><c> pointing</c><00:11:40.880><c> down</c>
+
+00:12:07.030 --> 00:12:07.040 align:start position:0%
+ 
+ 
+
+00:12:07.040 --> 00:12:47.430 align:start position:0%
+ 
+shoot<00:12:07.360><c> the</c><00:12:07.600><c> ray</c><00:12:08.079><c> using</c><00:12:08.480><c> raycast</c>
+
+00:12:47.430 --> 00:12:47.440 align:start position:0%
+ 
+ 
+
+00:12:47.440 --> 00:12:49.190 align:start position:0%
+ 
+we<00:12:47.600><c> need</c><00:12:47.760><c> to</c><00:12:47.920><c> create</c><00:12:48.240><c> a</c><00:12:48.320><c> new</c><00:12:48.560><c> serialized</c>
+
+00:12:49.190 --> 00:12:49.200 align:start position:0%
+we need to create a new serialized
+ 
+
+00:12:49.200 --> 00:13:10.870 align:start position:0%
+we need to create a new serialized
+variable<00:12:49.680><c> for</c><00:12:49.920><c> train</c><00:12:50.560><c> layer</c>
+
+00:13:10.870 --> 00:13:10.880 align:start position:0%
+ 
+ 
+
+00:13:10.880 --> 00:13:13.990 align:start position:0%
+ 
+and<00:13:11.200><c> after</c><00:13:11.600><c> that</c><00:13:12.079><c> read</c><00:13:12.399><c> hit</c><00:13:12.720><c> point</c><00:13:13.360><c> to</c><00:13:13.519><c> get</c><00:13:13.760><c> the</c>
+
+00:13:13.990 --> 00:13:14.000 align:start position:0%
+and after that read hit point to get the
+ 
+
+00:13:14.000 --> 00:13:16.310 align:start position:0%
+and after that read hit point to get the
+y<00:13:14.240><c> position</c><00:13:15.120><c> which</c><00:13:15.360><c> will</c><00:13:15.600><c> represent</c><00:13:16.160><c> the</c>
+
+00:13:16.310 --> 00:13:16.320 align:start position:0%
+y position which will represent the
+ 
+
+00:13:16.320 --> 00:13:18.790 align:start position:0%
+y position which will represent the
+elevation<00:13:17.120><c> of</c><00:13:17.200><c> the</c><00:13:17.440><c> node</c><00:13:18.240><c> store</c><00:13:18.639><c> the</c>
+
+00:13:18.790 --> 00:13:18.800 align:start position:0%
+elevation of the node store the
+ 
+
+00:13:18.800 --> 00:13:20.949 align:start position:0%
+elevation of the node store the
+elevation<00:13:19.519><c> into</c><00:13:19.760><c> the</c><00:13:20.000><c> node</c><00:13:20.320><c> by</c><00:13:20.480><c> creating</c><00:13:20.880><c> a</c>
+
+00:13:20.949 --> 00:13:20.959 align:start position:0%
+elevation into the node by creating a
+ 
+
+00:13:20.959 --> 00:13:44.629 align:start position:0%
+elevation into the node by creating a
+new<00:13:21.200><c> variable</c><00:13:21.680><c> for</c><00:13:21.920><c> it</c>
+
+00:13:44.629 --> 00:13:44.639 align:start position:0%
+ 
+ 
+
+00:13:44.639 --> 00:13:47.509 align:start position:0%
+ 
+take<00:13:45.040><c> into</c><00:13:45.279><c> the</c><00:13:45.440><c> account</c><00:13:46.079><c> the</c><00:13:46.320><c> elevation</c><00:13:47.040><c> in</c>
+
+00:13:47.509 --> 00:13:47.519 align:start position:0%
+take into the account the elevation in
+ 
+
+00:13:47.519 --> 00:14:01.670 align:start position:0%
+take into the account the elevation in
+get<00:13:47.839><c> world</c><00:13:48.240><c> position</c>
+
+00:14:01.670 --> 00:14:01.680 align:start position:0%
+ 
+ 
+
+00:14:01.680 --> 00:14:04.470 align:start position:0%
+ 
+to<00:14:01.839><c> avoid</c><00:14:02.160><c> potentially</c><00:14:03.040><c> getting</c><00:14:03.600><c> errors</c><00:14:04.240><c> in</c>
+
+00:14:04.470 --> 00:14:04.480 align:start position:0%
+to avoid potentially getting errors in
+ 
+
+00:14:04.480 --> 00:14:06.790 align:start position:0%
+to avoid potentially getting errors in
+the<00:14:04.720><c> editor</c><00:14:05.199><c> because</c><00:14:05.600><c> you</c><00:14:05.760><c> trying</c><00:14:06.160><c> to</c><00:14:06.320><c> access</c>
+
+00:14:06.790 --> 00:14:06.800 align:start position:0%
+the editor because you trying to access
+ 
+
+00:14:06.800 --> 00:14:09.829 align:start position:0%
+the editor because you trying to access
+grid<00:14:07.199><c> without</c><00:14:07.760><c> initiating</c><00:14:08.399><c> it</c><00:14:08.560><c> yet</c><00:14:09.279><c> let's</c><00:14:09.519><c> add</c>
+
+00:14:09.829 --> 00:14:09.839 align:start position:0%
+grid without initiating it yet let's add
+ 
+
+00:14:09.839 --> 00:14:13.590 align:start position:0%
+grid without initiating it yet let's add
+parameters<00:14:11.040><c> called</c><00:14:11.600><c> elevation</c><00:14:12.800><c> into</c><00:14:13.120><c> the</c><00:14:13.279><c> get</c>
+
+00:14:13.590 --> 00:14:13.600 align:start position:0%
+parameters called elevation into the get
+ 
+
+00:14:13.600 --> 00:14:16.710 align:start position:0%
+parameters called elevation into the get
+world<00:14:14.000><c> position</c><00:14:15.040><c> and</c><00:14:15.279><c> in</c><00:14:15.440><c> case</c><00:14:15.839><c> it</c><00:14:16.000><c> is</c><00:14:16.240><c> true</c>
+
+00:14:16.710 --> 00:14:16.720 align:start position:0%
+world position and in case it is true
+ 
+
+00:14:16.720 --> 00:14:33.910 align:start position:0%
+world position and in case it is true
+return<00:14:17.360><c> elevation</c><00:14:18.320><c> otherwise</c><00:14:19.040><c> returns</c><00:14:19.519><c> zero</c>
+
+00:14:33.910 --> 00:14:33.920 align:start position:0%
+ 
+ 
+
+00:14:33.920 --> 00:14:36.550 align:start position:0%
+ 
+set<00:14:34.240><c> the</c><00:14:34.399><c> terrain</c><00:14:34.959><c> layer</c><00:14:35.519><c> field</c><00:14:36.000><c> and</c><00:14:36.160><c> launch</c>
+
+00:14:36.550 --> 00:14:36.560 align:start position:0%
+set the terrain layer field and launch
+ 
+
+00:14:36.560 --> 00:14:50.710 align:start position:0%
+set the terrain layer field and launch
+the<00:14:36.880><c> game</c>
+
+00:14:50.710 --> 00:14:50.720 align:start position:0%
+ 
+ 
+
+00:14:50.720 --> 00:14:53.350 align:start position:0%
+ 
+we<00:14:50.880><c> have</c><00:14:51.120><c> forgotten</c><00:14:51.760><c> to</c><00:14:51.920><c> offset</c><00:14:52.399><c> the</c><00:14:52.639><c> ray</c>
+
+00:14:53.350 --> 00:14:53.360 align:start position:0%
+we have forgotten to offset the ray
+ 
+
+00:14:53.360 --> 00:14:55.030 align:start position:0%
+we have forgotten to offset the ray
+above<00:14:53.680><c> the</c><00:14:53.920><c> ground</c>
+
+00:14:55.030 --> 00:14:55.040 align:start position:0%
+above the ground
+ 
+
+00:14:55.040 --> 00:14:56.710 align:start position:0%
+above the ground
+so<00:14:55.440><c> add</c><00:14:55.760><c> the</c>
+
+00:14:56.710 --> 00:14:56.720 align:start position:0%
+so add the
+ 
+
+00:14:56.720 --> 00:15:00.150 align:start position:0%
+so add the
+vector<00:14:57.279><c> up</c><00:14:57.600><c> multiplied</c><00:14:58.320><c> by</c><00:14:58.480><c> 100</c><00:14:59.360><c> so</c><00:14:59.600><c> you</c><00:14:59.760><c> will</c>
+
+00:15:00.150 --> 00:15:00.160 align:start position:0%
+vector up multiplied by 100 so you will
+ 
+
+00:15:00.160 --> 00:15:03.509 align:start position:0%
+vector up multiplied by 100 so you will
+offset<00:15:00.639><c> the</c><00:15:00.959><c> origin</c><00:15:01.600><c> point</c><00:15:02.160><c> of</c><00:15:02.320><c> your</c><00:15:02.639><c> ray</c>
+
+00:15:03.509 --> 00:15:03.519 align:start position:0%
+offset the origin point of your ray
+ 
+
+00:15:03.519 --> 00:15:06.310 align:start position:0%
+offset the origin point of your ray
+hundred<00:15:04.160><c> points</c><00:15:04.720><c> above</c><00:15:05.120><c> which</c>
+
+00:15:06.310 --> 00:15:06.320 align:start position:0%
+hundred points above which
+ 
+
+00:15:06.320 --> 00:15:15.189 align:start position:0%
+hundred points above which
+generally<00:15:07.040><c> translates</c><00:15:07.680><c> into</c><00:15:08.079><c> hundred</c><00:15:08.480><c> meters</c>
+
+00:15:15.189 --> 00:15:15.199 align:start position:0%
+ 
+ 
+
+00:15:15.199 --> 00:15:16.710 align:start position:0%
+ 
+this<00:15:15.519><c> is</c><00:15:15.760><c> weird</c>
+
+00:15:16.710 --> 00:15:16.720 align:start position:0%
+this is weird
+ 
+
+00:15:16.720 --> 00:15:19.030 align:start position:0%
+this is weird
+for<00:15:16.959><c> some</c><00:15:17.199><c> reason</c><00:15:17.839><c> there</c><00:15:18.160><c> is</c>
+
+00:15:19.030 --> 00:15:19.040 align:start position:0%
+for some reason there is
+ 
+
+00:15:19.040 --> 00:15:21.110 align:start position:0%
+for some reason there is
+nothing<00:15:19.519><c> in</c><00:15:19.680><c> the</c><00:15:19.839><c> elevation</c>
+
+00:15:21.110 --> 00:15:21.120 align:start position:0%
+nothing in the elevation
+ 
+
+00:15:21.120 --> 00:15:22.949 align:start position:0%
+nothing in the elevation
+let's<00:15:21.440><c> debug</c><00:15:21.920><c> together</c>
+
+00:15:22.949 --> 00:15:22.959 align:start position:0%
+let's debug together
+ 
+
+00:15:22.959 --> 00:15:26.389 align:start position:0%
+let's debug together
+what<00:15:23.199><c> we</c><00:15:23.360><c> need</c><00:15:23.519><c> to</c><00:15:23.680><c> do</c><00:15:24.320><c> is</c><00:15:24.639><c> to</c><00:15:25.040><c> read</c><00:15:25.279><c> the</c><00:15:25.440><c> code</c>
+
+00:15:26.389 --> 00:15:26.399 align:start position:0%
+what we need to do is to read the code
+ 
+
+00:15:26.399 --> 00:15:29.110 align:start position:0%
+what we need to do is to read the code
+line<00:15:26.720><c> by</c><00:15:26.959><c> line</c><00:15:27.440><c> from</c><00:15:28.079><c> where</c><00:15:28.320><c> we</c><00:15:28.480><c> begin</c>
+
+00:15:29.110 --> 00:15:29.120 align:start position:0%
+line by line from where we begin
+ 
+
+00:15:29.120 --> 00:15:31.350 align:start position:0%
+line by line from where we begin
+logically<00:15:29.759><c> of</c><00:15:29.920><c> course</c><00:15:30.160><c> we</c><00:15:30.320><c> don't</c><00:15:30.560><c> need</c><00:15:30.800><c> to</c>
+
+00:15:31.350 --> 00:15:31.360 align:start position:0%
+logically of course we don't need to
+ 
+
+00:15:31.360 --> 00:15:33.189 align:start position:0%
+logically of course we don't need to
+look<00:15:31.759><c> into</c><00:15:32.079><c> everything</c>
+
+00:15:33.189 --> 00:15:33.199 align:start position:0%
+look into everything
+ 
+
+00:15:33.199 --> 00:15:33.990 align:start position:0%
+look into everything
+and
+
+00:15:33.990 --> 00:15:34.000 align:start position:0%
+and
+ 
+
+00:15:34.000 --> 00:15:36.949 align:start position:0%
+and
+look<00:15:34.399><c> what</c><00:15:34.800><c> our</c><00:15:35.199><c> code</c><00:15:35.519><c> is</c><00:15:35.680><c> doing</c><00:15:36.240><c> to</c><00:15:36.480><c> try</c><00:15:36.720><c> to</c>
+
+00:15:36.949 --> 00:15:36.959 align:start position:0%
+look what our code is doing to try to
+ 
+
+00:15:36.959 --> 00:15:39.670 align:start position:0%
+look what our code is doing to try to
+find<00:15:37.839><c> where</c><00:15:38.160><c> the</c><00:15:38.480><c> error</c><00:15:38.880><c> is</c>
+
+00:15:39.670 --> 00:15:39.680 align:start position:0%
+find where the error is
+ 
+
+00:15:39.680 --> 00:15:41.350 align:start position:0%
+find where the error is
+so
+
+00:15:41.350 --> 00:15:41.360 align:start position:0%
+so
+ 
+
+00:15:41.360 --> 00:15:43.910 align:start position:0%
+so
+look<00:15:41.600><c> into</c><00:15:41.839><c> the</c><00:15:42.000><c> generated</c><00:15:42.639><c> grid</c><00:15:43.360><c> okay</c><00:15:43.759><c> we</c>
+
+00:15:43.910 --> 00:15:43.920 align:start position:0%
+look into the generated grid okay we
+ 
+
+00:15:43.920 --> 00:15:46.870 align:start position:0%
+look into the generated grid okay we
+initialize<00:15:44.560><c> the</c><00:15:44.720><c> grid</c><00:15:45.120><c> array</c><00:15:45.920><c> good</c><00:15:46.480><c> then</c><00:15:46.720><c> we</c>
+
+00:15:46.870 --> 00:15:46.880 align:start position:0%
+initialize the grid array good then we
+ 
+
+00:15:46.880 --> 00:15:49.749 align:start position:0%
+initialize the grid array good then we
+cycle<00:15:47.279><c> through</c><00:15:47.519><c> the</c><00:15:47.680><c> grid</c><00:15:48.160><c> and</c><00:15:48.320><c> create</c><00:15:48.880><c> nodes</c>
+
+00:15:49.749 --> 00:15:49.759 align:start position:0%
+cycle through the grid and create nodes
+ 
+
+00:15:49.759 --> 00:15:51.110 align:start position:0%
+cycle through the grid and create nodes
+that<00:15:50.000><c> is</c><00:15:50.240><c> good</c>
+
+00:15:51.110 --> 00:15:51.120 align:start position:0%
+that is good
+ 
+
+00:15:51.120 --> 00:15:53.590 align:start position:0%
+that is good
+then<00:15:51.360><c> we</c><00:15:51.519><c> calculate</c><00:15:52.160><c> the</c><00:15:52.240><c> elevations</c>
+
+00:15:53.590 --> 00:15:53.600 align:start position:0%
+then we calculate the elevations
+ 
+
+00:15:53.600 --> 00:15:54.629 align:start position:0%
+then we calculate the elevations
+good
+
+00:15:54.629 --> 00:15:54.639 align:start position:0%
+good
+ 
+
+00:15:54.639 --> 00:15:56.389 align:start position:0%
+good
+and<00:15:54.800><c> then</c><00:15:54.959><c> we</c><00:15:55.120><c> determine</c><00:15:55.680><c> the</c><00:15:55.920><c> possible</c>
+
+00:15:56.389 --> 00:15:56.399 align:start position:0%
+and then we determine the possible
+ 
+
+00:15:56.399 --> 00:15:59.749 align:start position:0%
+and then we determine the possible
+terrain<00:15:57.120><c> where</c><00:15:57.440><c> we</c><00:15:57.920><c> can</c><00:15:58.240><c> pass</c><00:15:58.720><c> or</c><00:15:58.959><c> not</c>
+
+00:15:59.749 --> 00:15:59.759 align:start position:0%
+terrain where we can pass or not
+ 
+
+00:15:59.759 --> 00:16:01.430 align:start position:0%
+terrain where we can pass or not
+and<00:16:00.000><c> here</c><00:16:00.399><c> you</c><00:16:00.480><c> can</c><00:16:00.720><c> see</c><00:16:00.880><c> that</c><00:16:01.120><c> we</c><00:16:01.279><c> are</c>
+
+00:16:01.430 --> 00:16:01.440 align:start position:0%
+and here you can see that we are
+ 
+
+00:16:01.440 --> 00:16:04.069 align:start position:0%
+and here you can see that we are
+rewriting<00:16:02.000><c> the</c><00:16:02.160><c> state</c><00:16:02.480><c> of</c><00:16:02.639><c> the</c><00:16:02.880><c> node</c><00:16:03.759><c> by</c>
+
+00:16:04.069 --> 00:16:04.079 align:start position:0%
+rewriting the state of the node by
+ 
+
+00:16:04.079 --> 00:16:06.310 align:start position:0%
+rewriting the state of the node by
+creating<00:16:04.880><c> it</c><00:16:05.120><c> again</c>
+
+00:16:06.310 --> 00:16:06.320 align:start position:0%
+creating it again
+ 
+
+00:16:06.320 --> 00:16:26.710 align:start position:0%
+creating it again
+and<00:16:06.560><c> this</c><00:16:06.800><c> is</c><00:16:07.040><c> all</c><00:16:07.279><c> culprit</c>
+
+00:16:26.710 --> 00:16:26.720 align:start position:0%
+ 
+ 
+
+00:16:26.720 --> 00:16:28.069 align:start position:0%
+ 
+let's<00:16:26.959><c> test</c><00:16:27.199><c> this</c>
+
+00:16:28.069 --> 00:16:28.079 align:start position:0%
+let's test this
+ 
+
+00:16:28.079 --> 00:16:31.350 align:start position:0%
+let's test this
+good<00:16:28.800><c> now</c><00:16:28.959><c> you</c><00:16:29.120><c> can</c><00:16:29.360><c> see</c><00:16:29.759><c> that</c><00:16:30.160><c> at</c><00:16:30.399><c> run</c><00:16:30.720><c> time</c>
+
+00:16:31.350 --> 00:16:31.360 align:start position:0%
+good now you can see that at run time
+ 
+
+00:16:31.360 --> 00:16:34.150 align:start position:0%
+good now you can see that at run time
+game<00:16:31.680><c> will</c><00:16:31.839><c> determine</c><00:16:32.320><c> the</c><00:16:32.480><c> elevation</c>
+
+00:16:34.150 --> 00:16:34.160 align:start position:0%
+game will determine the elevation
+ 
+
+00:16:34.160 --> 00:16:36.069 align:start position:0%
+game will determine the elevation
+so<00:16:34.399><c> now</c><00:16:34.560><c> let's</c><00:16:34.800><c> talk</c><00:16:35.120><c> a</c><00:16:35.199><c> little</c><00:16:35.519><c> about</c><00:16:35.839><c> the</c>
+
+00:16:36.069 --> 00:16:36.079 align:start position:0%
+so now let's talk a little about the
+ 
+
+00:16:36.079 --> 00:16:38.949 align:start position:0%
+so now let's talk a little about the
+obstacles<00:16:37.120><c> you</c><00:16:37.360><c> see</c><00:16:37.600><c> obstacles</c><00:16:38.399><c> objects</c>
+
+00:16:38.949 --> 00:16:38.959 align:start position:0%
+obstacles you see obstacles objects
+ 
+
+00:16:38.959 --> 00:16:41.110 align:start position:0%
+obstacles you see obstacles objects
+allow<00:16:39.279><c> us</c><00:16:39.440><c> to</c><00:16:39.600><c> block</c><00:16:39.920><c> out</c><00:16:40.160><c> the</c><00:16:40.320><c> possible</c><00:16:40.959><c> and</c>
+
+00:16:41.110 --> 00:16:41.120 align:start position:0%
+allow us to block out the possible and
+ 
+
+00:16:41.120 --> 00:16:44.069 align:start position:0%
+allow us to block out the possible and
+impossible<00:16:41.759><c> terrain</c><00:16:42.480><c> very</c><00:16:42.880><c> quickly</c>
+
+00:16:44.069 --> 00:16:44.079 align:start position:0%
+impossible terrain very quickly
+ 
+
+00:16:44.079 --> 00:16:46.949 align:start position:0%
+impossible terrain very quickly
+just<00:16:44.399><c> set</c><00:16:44.639><c> the</c><00:16:44.880><c> shape</c><00:16:45.279><c> of</c><00:16:45.440><c> the</c><00:16:45.600><c> river</c><00:16:46.480><c> and</c><00:16:46.720><c> this</c>
+
+00:16:46.949 --> 00:16:46.959 align:start position:0%
+just set the shape of the river and this
+ 
+
+00:16:46.959 --> 00:16:49.030 align:start position:0%
+just set the shape of the river and this
+river<00:16:47.519><c> is</c><00:16:47.600><c> going</c><00:16:47.839><c> to</c><00:16:48.000><c> be</c><00:16:48.240><c> marked</c><00:16:48.639><c> as</c>
+
+00:16:49.030 --> 00:16:49.040 align:start position:0%
+river is going to be marked as
+ 
+
+00:16:49.040 --> 00:16:59.509 align:start position:0%
+river is going to be marked as
+impossible<00:16:49.920><c> terrain</c><00:16:50.480><c> for</c><00:16:50.720><c> us</c>
+
+00:16:59.509 --> 00:16:59.519 align:start position:0%
+ 
+ 
+
+00:16:59.519 --> 00:17:00.470 align:start position:0%
+ 
+this
+
+00:17:00.470 --> 00:17:00.480 align:start position:0%
+this
+ 
+
+00:17:00.480 --> 00:17:03.030 align:start position:0%
+this
+will<00:17:00.800><c> allow</c><00:17:01.199><c> you</c><00:17:01.360><c> to</c><00:17:01.600><c> easily</c><00:17:02.160><c> modify</c><00:17:02.880><c> and</c>
+
+00:17:03.030 --> 00:17:03.040 align:start position:0%
+will allow you to easily modify and
+ 
+
+00:17:03.040 --> 00:18:40.150 align:start position:0%
+will allow you to easily modify and
+change<00:17:03.440><c> the</c><00:17:03.600><c> maps</c>
+
+00:18:40.150 --> 00:18:40.160 align:start position:0%
+ 
+ 
+
+00:18:40.160 --> 00:18:41.669 align:start position:0%
+ 
+but<00:18:40.400><c> remember</c>
+
+00:18:41.669 --> 00:18:41.679 align:start position:0%
+but remember
+ 
+
+00:18:41.679 --> 00:18:42.950 align:start position:0%
+but remember
+right<00:18:42.080><c> now</c>
+
+00:18:42.950 --> 00:18:42.960 align:start position:0%
+right now
+ 
+
+00:18:42.960 --> 00:18:46.230 align:start position:0%
+right now
+the<00:18:43.120><c> map</c><00:18:43.679><c> data</c><00:18:44.160><c> is</c><00:18:44.400><c> generated</c><00:18:45.120><c> at</c><00:18:45.360><c> the</c><00:18:45.520><c> start</c>
+
+00:18:46.230 --> 00:18:46.240 align:start position:0%
+the map data is generated at the start
+ 
+
+00:18:46.240 --> 00:18:48.950 align:start position:0%
+the map data is generated at the start
+so<00:18:46.480><c> if</c><00:18:46.640><c> you</c><00:18:46.799><c> move</c><00:18:47.120><c> the</c><00:18:47.360><c> obstacle</c><00:18:48.000><c> at</c><00:18:48.240><c> runtime</c>
+
+00:18:48.950 --> 00:18:48.960 align:start position:0%
+so if you move the obstacle at runtime
+ 
+
+00:18:48.960 --> 00:18:50.789 align:start position:0%
+so if you move the obstacle at runtime
+it<00:18:49.120><c> will</c><00:18:49.360><c> not</c><00:18:49.679><c> change</c><00:18:50.000><c> the</c><00:18:50.160><c> state</c><00:18:50.480><c> of</c><00:18:50.640><c> the</c>
+
+00:18:50.789 --> 00:18:50.799 align:start position:0%
+it will not change the state of the
+ 
+
+00:18:50.799 --> 00:18:54.870 align:start position:0%
+it will not change the state of the
+nodes<00:18:51.280><c> at</c><00:18:51.520><c> runtime</c>
+
+00:18:54.870 --> 00:18:54.880 align:start position:0%
+ 
+ 
+
+00:18:54.880 --> 00:18:56.789 align:start position:0%
+ 
+remember<00:18:55.280><c> that</c><00:18:55.520><c> later</c><00:18:55.919><c> on</c><00:18:56.080><c> we</c><00:18:56.240><c> will</c><00:18:56.400><c> be</c><00:18:56.559><c> able</c>
+
+00:18:56.789 --> 00:18:56.799 align:start position:0%
+remember that later on we will be able
+ 
+
+00:18:56.799 --> 00:18:59.590 align:start position:0%
+remember that later on we will be able
+to<00:18:56.960><c> use</c><00:18:57.200><c> the</c><00:18:57.360><c> exactly</c><00:18:57.919><c> same</c><00:18:58.320><c> systems</c><00:18:58.880><c> for</c><00:18:59.440><c> for</c>
+
+00:18:59.590 --> 00:18:59.600 align:start position:0%
+to use the exactly same systems for for
+ 
+
+00:18:59.600 --> 00:19:02.150 align:start position:0%
+to use the exactly same systems for for
+example<00:19:00.160><c> marking</c><00:19:00.720><c> the</c><00:19:01.200><c> forest</c>
+
+00:19:02.150 --> 00:19:02.160 align:start position:0%
+example marking the forest
+ 
+
+00:19:02.160 --> 00:19:06.390 align:start position:0%
+example marking the forest
+tiles<00:19:02.960><c> or</c><00:19:03.200><c> nodes</c><00:19:04.080><c> or</c><00:19:04.480><c> marking</c><00:19:05.039><c> the</c><00:19:05.840><c> difficult</c>
+
+00:19:06.390 --> 00:19:06.400 align:start position:0%
+tiles or nodes or marking the difficult
+ 
+
+00:19:06.400 --> 00:19:09.510 align:start position:0%
+tiles or nodes or marking the difficult
+terrain<00:19:07.280><c> etc</c><00:19:07.840><c> etc</c>
+
+00:19:09.510 --> 00:19:09.520 align:start position:0%
+terrain etc etc
+ 
+
+00:19:09.520 --> 00:19:11.430 align:start position:0%
+terrain etc etc
+so<00:19:09.679><c> let's</c><00:19:10.000><c> create</c><00:19:10.400><c> another</c><00:19:10.799><c> new</c><00:19:10.960><c> script</c>
+
+00:19:11.430 --> 00:19:11.440 align:start position:0%
+so let's create another new script
+ 
+
+00:19:11.440 --> 00:19:13.510 align:start position:0%
+so let's create another new script
+called<00:19:11.679><c> delete</c><00:19:12.160><c> me</c><00:19:12.480><c> which</c><00:19:12.720><c> will</c><00:19:12.960><c> clear</c><00:19:13.280><c> the</c>
+
+00:19:13.510 --> 00:19:13.520 align:start position:0%
+called delete me which will clear the
+ 
+
+00:19:13.520 --> 00:19:41.750 align:start position:0%
+called delete me which will clear the
+obstacles<00:19:14.240><c> of</c><00:19:14.480><c> the</c><00:19:14.640><c> scene</c><00:19:15.280><c> on</c><00:19:15.520><c> the</c><00:19:15.679><c> start</c>
+
+00:19:41.750 --> 00:19:41.760 align:start position:0%
+ 
+ 
+
+00:19:41.760 --> 00:19:44.549 align:start position:0%
+ 
+and<00:19:42.000><c> this</c><00:19:42.240><c> is</c><00:19:42.640><c> our</c><00:19:43.120><c> implementation</c><00:19:44.240><c> of</c>
+
+00:19:44.549 --> 00:19:44.559 align:start position:0%
+and this is our implementation of
+ 
+
+00:19:44.559 --> 00:19:45.830 align:start position:0%
+and this is our implementation of
+elevation
+
+00:19:45.830 --> 00:19:45.840 align:start position:0%
+elevation
+ 
+
+00:19:45.840 --> 00:19:48.870 align:start position:0%
+elevation
+now<00:19:46.320><c> if</c><00:19:46.480><c> i</c><00:19:46.640><c> do</c><00:19:46.880><c> any</c><00:19:47.120><c> modification</c><00:19:48.000><c> to</c><00:19:48.160><c> terrain</c>
+
+00:19:48.870 --> 00:19:48.880 align:start position:0%
+now if i do any modification to terrain
+ 
+
+00:19:48.880 --> 00:20:14.549 align:start position:0%
+now if i do any modification to terrain
+it<00:19:49.120><c> should</c><00:19:49.440><c> recognize</c><00:19:50.160><c> the</c><00:19:50.400><c> new</c><00:19:50.720><c> elevation</c>
+
+00:20:14.549 --> 00:20:14.559 align:start position:0%
+ 
+ 
+
+00:20:14.559 --> 00:20:17.510 align:start position:0%
+ 
+or<00:20:14.880><c> if</c><00:20:15.039><c> i</c><00:20:15.200><c> create</c><00:20:15.520><c> an</c><00:20:15.760><c> object</c><00:20:16.400><c> and</c><00:20:16.559><c> assign</c><00:20:17.200><c> him</c>
+
+00:20:17.510 --> 00:20:17.520 align:start position:0%
+or if i create an object and assign him
+ 
+
+00:20:17.520 --> 00:20:20.789 align:start position:0%
+or if i create an object and assign him
+to<00:20:17.679><c> the</c><00:20:18.159><c> terrain</c><00:20:18.799><c> layer</c><00:20:19.600><c> it</c><00:20:19.840><c> should</c><00:20:20.159><c> read</c><00:20:20.559><c> and</c>
+
+00:20:20.789 --> 00:20:20.799 align:start position:0%
+to the terrain layer it should read and
+ 
+
+00:20:20.799 --> 00:20:24.310 align:start position:0%
+to the terrain layer it should read and
+recognize<00:20:21.440><c> it</c><00:20:21.679><c> as</c><00:20:22.000><c> terrain</c><00:20:22.799><c> allowing</c><00:20:23.440><c> you</c><00:20:23.679><c> to</c>
+
+00:20:24.310 --> 00:20:24.320 align:start position:0%
+recognize it as terrain allowing you to
+ 
+
+00:20:24.320 --> 00:20:26.710 align:start position:0%
+recognize it as terrain allowing you to
+for<00:20:24.480><c> example</c><00:20:25.039><c> make</c><00:20:25.520><c> fights</c><00:20:26.080><c> on</c><00:20:26.240><c> top</c><00:20:26.480><c> of</c>
+
+00:20:26.710 --> 00:20:26.720 align:start position:0%
+for example make fights on top of
+ 
+
+00:20:26.720 --> 00:20:36.310 align:start position:0%
+for example make fights on top of
+buildings<00:20:27.679><c> or</c><00:20:28.000><c> any</c><00:20:28.320><c> other</c><00:20:28.720><c> objects</c>
+
+00:20:36.310 --> 00:20:36.320 align:start position:0%
+ 
+ 
+
+00:20:36.320 --> 00:20:38.230 align:start position:0%
+ 
+in<00:20:36.559><c> the</c><00:20:36.720><c> next</c><00:20:37.039><c> episode</c><00:20:37.440><c> we</c><00:20:37.600><c> will</c><00:20:37.760><c> be</c><00:20:37.919><c> dealing</c>
+
+00:20:38.230 --> 00:20:38.240 align:start position:0%
+in the next episode we will be dealing
+ 
+
+00:20:38.240 --> 00:20:42.070 align:start position:0%
+in the next episode we will be dealing
+with<00:20:38.880><c> pathfinding</c><00:20:40.080><c> wish</c><00:20:40.320><c> me</c><00:20:40.480><c> luck</c>
+
+00:20:42.070 --> 00:20:42.080 align:start position:0%
+with pathfinding wish me luck
+ 
+
+00:20:42.080 --> 00:20:44.310 align:start position:0%
+with pathfinding wish me luck
+good<00:20:42.240><c> this</c><00:20:42.480><c> is</c><00:20:42.640><c> it</c><00:20:42.720><c> for</c><00:20:42.880><c> this</c><00:20:43.120><c> episode</c><00:20:44.000><c> if</c><00:20:44.159><c> you</c>
+
+00:20:44.310 --> 00:20:44.320 align:start position:0%
+good this is it for this episode if you
+ 
+
+00:20:44.320 --> 00:20:46.710 align:start position:0%
+good this is it for this episode if you
+have<00:20:44.559><c> any</c><00:20:44.799><c> questions</c><00:20:45.280><c> or</c><00:20:45.520><c> any</c><00:20:45.760><c> ideas</c><00:20:46.320><c> about</c>
+
+00:20:46.710 --> 00:20:46.720 align:start position:0%
+have any questions or any ideas about
+ 
+
+00:20:46.720 --> 00:20:49.190 align:start position:0%
+have any questions or any ideas about
+code<00:20:47.120><c> please</c><00:20:47.440><c> leave</c><00:20:47.679><c> your</c><00:20:47.919><c> comment</c><00:20:48.240><c> below</c><00:20:49.039><c> if</c>
+
+00:20:49.190 --> 00:20:49.200 align:start position:0%
+code please leave your comment below if
+ 
+
+00:20:49.200 --> 00:20:50.549 align:start position:0%
+code please leave your comment below if
+you're<00:20:49.440><c> interested</c><00:20:49.919><c> in</c><00:20:50.000><c> seeing</c><00:20:50.240><c> what</c><00:20:50.400><c> will</c>
+
+00:20:50.549 --> 00:20:50.559 align:start position:0%
+you're interested in seeing what will
+ 
+
+00:20:50.559 --> 00:20:52.950 align:start position:0%
+you're interested in seeing what will
+come<00:20:50.799><c> out</c><00:20:51.039><c> of</c><00:20:51.120><c> this</c><00:20:51.520><c> please</c><00:20:51.840><c> subscribe</c>
+
+00:20:52.950 --> 00:20:52.960 align:start position:0%
+come out of this please subscribe
+ 
+
+00:20:52.960 --> 00:20:54.789 align:start position:0%
+come out of this please subscribe
+if<00:20:53.120><c> you</c><00:20:53.200><c> want</c><00:20:53.360><c> to</c><00:20:53.520><c> support</c><00:20:53.919><c> further</c><00:20:54.480><c> you</c><00:20:54.559><c> can</c>
+
+00:20:54.789 --> 00:20:54.799 align:start position:0%
+if you want to support further you can
+ 
+
+00:20:54.799 --> 00:20:57.190 align:start position:0%
+if you want to support further you can
+find<00:20:55.039><c> my</c><00:20:55.200><c> patreon</c><00:20:55.840><c> in</c><00:20:55.919><c> the</c><00:20:56.080><c> description</c>
+
+00:20:57.190 --> 00:20:57.200 align:start position:0%
+find my patreon in the description
+ 
+
+00:20:57.200 --> 00:21:00.070 align:start position:0%
+find my patreon in the description
+special<00:20:57.760><c> thank</c><00:20:58.000><c> you</c><00:20:58.159><c> to</c><00:20:58.320><c> andrew</c><00:20:58.720><c> v</c><00:20:58.960><c> long</c><00:20:59.520><c> and</c>
+
+00:21:00.070 --> 00:21:00.080 align:start position:0%
+special thank you to andrew v long and
+ 
+
+00:21:00.080 --> 00:21:02.470 align:start position:0%
+special thank you to andrew v long and
+this<00:21:00.400><c> old</c><00:21:00.720><c> hash</c><00:21:01.120><c> do</c><00:21:01.440><c> for</c><00:21:01.760><c> their</c><00:21:02.080><c> generous</c>
+
+00:21:02.470 --> 00:21:02.480 align:start position:0%
+this old hash do for their generous
+ 
+
+00:21:02.480 --> 00:21:04.950 align:start position:0%
+this old hash do for their generous
+support<00:21:03.440><c> with</c><00:21:03.679><c> best</c><00:21:03.919><c> regards</c><00:21:04.400><c> see</c><00:21:04.640><c> in</c><00:21:04.799><c> the</c>
+
+00:21:04.950 --> 00:21:04.960 align:start position:0%
+support with best regards see in the
+ 
+
+00:21:04.960 --> 00:21:31.669 align:start position:0%
+support with best regards see in the
+next<00:21:05.280><c> episode</c>
+
+00:21:31.669 --> 00:21:31.679 align:start position:0%
+ 
+ 
+
+00:21:31.679 --> 00:21:33.760 align:start position:0%
+ 
+you
+

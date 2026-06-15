@@ -1,0 +1,4624 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.170 --> 00:00:07.030 align:start position:0%
+ 
+[Music]
+
+00:00:07.030 --> 00:00:07.040 align:start position:0%
+ 
+ 
+
+00:00:07.040 --> 00:00:09.270 align:start position:0%
+ 
+okay<00:00:07.279><c> so</c><00:00:07.440><c> welcome</c><00:00:07.839><c> to</c><00:00:08.000><c> episode</c><00:00:08.480><c> seven</c><00:00:08.880><c> of</c><00:00:09.040><c> the</c>
+
+00:00:09.270 --> 00:00:09.280 align:start position:0%
+okay so welcome to episode seven of the
+ 
+
+00:00:09.280 --> 00:00:11.430 align:start position:0%
+okay so welcome to episode seven of the
+inventory<00:00:09.840><c> tutorial</c><00:00:10.480><c> series</c><00:00:10.880><c> where</c><00:00:11.040><c> we</c><00:00:11.120><c> left</c>
+
+00:00:11.430 --> 00:00:11.440 align:start position:0%
+inventory tutorial series where we left
+ 
+
+00:00:11.440 --> 00:00:13.749 align:start position:0%
+inventory tutorial series where we left
+off<00:00:11.599><c> in</c><00:00:11.679><c> the</c><00:00:11.840><c> last</c><00:00:12.080><c> episode</c><00:00:12.559><c> we</c><00:00:12.719><c> got</c><00:00:13.120><c> chest</c>
+
+00:00:13.749 --> 00:00:13.759 align:start position:0%
+off in the last episode we got chest
+ 
+
+00:00:13.759 --> 00:00:15.669 align:start position:0%
+off in the last episode we got chest
+inventories<00:00:14.320><c> working</c><00:00:14.960><c> so</c><00:00:15.120><c> you</c><00:00:15.200><c> see</c><00:00:15.360><c> that</c><00:00:15.599><c> as</c>
+
+00:00:15.669 --> 00:00:15.679 align:start position:0%
+inventories working so you see that as
+ 
+
+00:00:15.679 --> 00:00:17.430 align:start position:0%
+inventories working so you see that as
+we<00:00:16.160><c> play</c><00:00:16.400><c> the</c><00:00:16.480><c> game</c><00:00:16.720><c> we</c><00:00:16.800><c> can</c><00:00:16.880><c> walk</c><00:00:17.119><c> around</c><00:00:17.359><c> and</c>
+
+00:00:17.430 --> 00:00:17.440 align:start position:0%
+we play the game we can walk around and
+ 
+
+00:00:17.440 --> 00:00:19.349 align:start position:0%
+we play the game we can walk around and
+pick<00:00:17.680><c> up</c><00:00:17.760><c> these</c><00:00:18.080><c> objects</c><00:00:18.640><c> then</c><00:00:18.800><c> we</c><00:00:18.960><c> come</c><00:00:19.199><c> over</c>
+
+00:00:19.349 --> 00:00:19.359 align:start position:0%
+pick up these objects then we come over
+ 
+
+00:00:19.359 --> 00:00:21.349 align:start position:0%
+pick up these objects then we come over
+here<00:00:19.520><c> and</c><00:00:19.680><c> access</c><00:00:20.000><c> our</c><00:00:20.240><c> chests</c><00:00:20.720><c> and</c><00:00:20.880><c> put</c>
+
+00:00:21.349 --> 00:00:21.359 align:start position:0%
+here and access our chests and put
+ 
+
+00:00:21.359 --> 00:00:23.269 align:start position:0%
+here and access our chests and put
+objects<00:00:21.840><c> in</c><00:00:21.920><c> the</c><00:00:22.080><c> chests</c>
+
+00:00:23.269 --> 00:00:23.279 align:start position:0%
+objects in the chests
+ 
+
+00:00:23.279 --> 00:00:24.710 align:start position:0%
+objects in the chests
+we've<00:00:23.439><c> got</c><00:00:23.600><c> all</c><00:00:23.680><c> the</c><00:00:23.840><c> same</c><00:00:24.080><c> functionality</c>
+
+00:00:24.710 --> 00:00:24.720 align:start position:0%
+we've got all the same functionality
+ 
+
+00:00:24.720 --> 00:00:27.349 align:start position:0%
+we've got all the same functionality
+where<00:00:24.960><c> we</c><00:00:25.039><c> can</c><00:00:25.279><c> split</c><00:00:25.680><c> up</c><00:00:25.920><c> all</c><00:00:26.160><c> of</c><00:00:26.320><c> our</c><00:00:26.560><c> items</c>
+
+00:00:27.349 --> 00:00:27.359 align:start position:0%
+where we can split up all of our items
+ 
+
+00:00:27.359 --> 00:00:29.750 align:start position:0%
+where we can split up all of our items
+we<00:00:27.519><c> can</c><00:00:27.840><c> back</c><00:00:28.080><c> out</c><00:00:28.320><c> the</c><00:00:28.400><c> chests</c><00:00:29.119><c> pick</c><00:00:29.359><c> up</c><00:00:29.519><c> some</c>
+
+00:00:29.750 --> 00:00:29.760 align:start position:0%
+we can back out the chests pick up some
+ 
+
+00:00:29.760 --> 00:00:31.109 align:start position:0%
+we can back out the chests pick up some
+more<00:00:30.000><c> stuff</c>
+
+00:00:31.109 --> 00:00:31.119 align:start position:0%
+more stuff
+ 
+
+00:00:31.119 --> 00:00:32.549 align:start position:0%
+more stuff
+go<00:00:31.359><c> over</c><00:00:31.519><c> here</c>
+
+00:00:32.549 --> 00:00:32.559 align:start position:0%
+go over here
+ 
+
+00:00:32.559 --> 00:00:34.790 align:start position:0%
+go over here
+access<00:00:32.960><c> this</c><00:00:33.200><c> chest</c><00:00:33.840><c> put</c><00:00:34.079><c> our</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+access this chest put our
+ 
+
+00:00:34.800 --> 00:00:37.590 align:start position:0%
+access this chest put our
+items<00:00:35.360><c> in</c><00:00:35.520><c> the</c><00:00:36.079><c> chest</c>
+
+00:00:37.590 --> 00:00:37.600 align:start position:0%
+items in the chest
+ 
+
+00:00:37.600 --> 00:00:40.389 align:start position:0%
+items in the chest
+back<00:00:37.840><c> out</c><00:00:38.079><c> walk</c><00:00:38.320><c> away</c><00:00:38.719><c> and</c><00:00:39.280><c> you</c><00:00:39.360><c> know</c><00:00:39.840><c> just</c><00:00:40.160><c> as</c>
+
+00:00:40.389 --> 00:00:40.399 align:start position:0%
+back out walk away and you know just as
+ 
+
+00:00:40.399 --> 00:00:42.150 align:start position:0%
+back out walk away and you know just as
+you'd<00:00:40.640><c> expect</c><00:00:41.040><c> it</c><00:00:41.120><c> to</c><00:00:41.280><c> work</c>
+
+00:00:42.150 --> 00:00:42.160 align:start position:0%
+you'd expect it to work
+ 
+
+00:00:42.160 --> 00:00:43.910 align:start position:0%
+you'd expect it to work
+so<00:00:42.320><c> the</c><00:00:42.399><c> one</c><00:00:42.559><c> thing</c><00:00:42.719><c> that's</c><00:00:42.879><c> missing</c><00:00:43.360><c> really</c>
+
+00:00:43.910 --> 00:00:43.920 align:start position:0%
+so the one thing that's missing really
+ 
+
+00:00:43.920 --> 00:00:46.150 align:start position:0%
+so the one thing that's missing really
+is<00:00:44.239><c> that</c><00:00:44.640><c> the</c><00:00:45.120><c> player</c><00:00:45.520><c> doesn't</c><00:00:45.760><c> have</c><00:00:46.000><c> a</c>
+
+00:00:46.150 --> 00:00:46.160 align:start position:0%
+is that the player doesn't have a
+ 
+
+00:00:46.160 --> 00:00:47.590 align:start position:0%
+is that the player doesn't have a
+backpack
+
+00:00:47.590 --> 00:00:47.600 align:start position:0%
+backpack
+ 
+
+00:00:47.600 --> 00:00:49.110 align:start position:0%
+backpack
+and<00:00:47.840><c> we've</c><00:00:48.000><c> only</c><00:00:48.160><c> got</c><00:00:48.320><c> the</c><00:00:48.399><c> hot</c><00:00:48.640><c> bar</c><00:00:48.879><c> and</c><00:00:48.960><c> then</c>
+
+00:00:49.110 --> 00:00:49.120 align:start position:0%
+and we've only got the hot bar and then
+ 
+
+00:00:49.120 --> 00:00:50.790 align:start position:0%
+and we've only got the hot bar and then
+that's<00:00:49.440><c> it</c><00:00:49.520><c> we</c><00:00:49.680><c> can't</c><00:00:49.920><c> once</c><00:00:50.239><c> the</c><00:00:50.399><c> hot</c><00:00:50.559><c> bar's</c>
+
+00:00:50.790 --> 00:00:50.800 align:start position:0%
+that's it we can't once the hot bar's
+ 
+
+00:00:50.800 --> 00:00:52.790 align:start position:0%
+that's it we can't once the hot bar's
+full<00:00:51.039><c> we</c><00:00:51.120><c> can't</c><00:00:51.360><c> pick</c><00:00:51.600><c> up</c><00:00:51.760><c> any</c><00:00:52.000><c> more</c>
+
+00:00:52.790 --> 00:00:52.800 align:start position:0%
+full we can't pick up any more
+ 
+
+00:00:52.800 --> 00:00:55.110 align:start position:0%
+full we can't pick up any more
+items<00:00:53.520><c> so</c><00:00:53.920><c> the</c><00:00:54.079><c> next</c><00:00:54.320><c> thing</c><00:00:54.559><c> i'm</c><00:00:54.640><c> gonna</c><00:00:54.879><c> work</c>
+
+00:00:55.110 --> 00:00:55.120 align:start position:0%
+items so the next thing i'm gonna work
+ 
+
+00:00:55.120 --> 00:00:56.950 align:start position:0%
+items so the next thing i'm gonna work
+on<00:00:55.360><c> is</c><00:00:55.600><c> giving</c><00:00:55.840><c> the</c><00:00:56.000><c> player</c><00:00:56.239><c> a</c><00:00:56.320><c> backpack</c><00:00:56.800><c> so</c>
+
+00:00:56.950 --> 00:00:56.960 align:start position:0%
+on is giving the player a backpack so
+ 
+
+00:00:56.960 --> 00:00:58.869 align:start position:0%
+on is giving the player a backpack so
+when<00:00:57.120><c> we</c><00:00:57.280><c> press</c><00:00:57.600><c> b</c>
+
+00:00:58.869 --> 00:00:58.879 align:start position:0%
+when we press b
+ 
+
+00:00:58.879 --> 00:01:02.470 align:start position:0%
+when we press b
+a<00:00:59.840><c> similar</c><00:01:00.160><c> panel</c><00:01:00.480><c> to</c><00:01:00.640><c> this</c><00:01:00.800><c> will</c><00:01:00.960><c> pop</c><00:01:01.280><c> up</c>
+
+00:01:02.470 --> 00:01:02.480 align:start position:0%
+a similar panel to this will pop up
+ 
+
+00:01:02.480 --> 00:01:04.229 align:start position:0%
+a similar panel to this will pop up
+so<00:01:02.640><c> we</c><00:01:02.800><c> can</c><00:01:02.960><c> put</c><00:01:03.199><c> things</c><00:01:03.440><c> from</c><00:01:03.600><c> our</c><00:01:03.760><c> hotbar</c>
+
+00:01:04.229 --> 00:01:04.239 align:start position:0%
+so we can put things from our hotbar
+ 
+
+00:01:04.239 --> 00:01:07.590 align:start position:0%
+so we can put things from our hotbar
+into<00:01:04.479><c> our</c><00:01:04.640><c> backpack</c><00:01:05.439><c> and</c><00:01:05.680><c> then</c>
+
+00:01:07.590 --> 00:01:07.600 align:start position:0%
+into our backpack and then
+ 
+
+00:01:07.600 --> 00:01:09.030 align:start position:0%
+into our backpack and then
+walk<00:01:07.840><c> away</c>
+
+00:01:09.030 --> 00:01:09.040 align:start position:0%
+walk away
+ 
+
+00:01:09.040 --> 00:01:10.550 align:start position:0%
+walk away
+and<00:01:09.200><c> close</c><00:01:09.520><c> it</c><00:01:09.600><c> and</c><00:01:09.680><c> carry</c><00:01:09.920><c> on</c><00:01:10.080><c> going</c><00:01:10.320><c> about</c>
+
+00:01:10.550 --> 00:01:10.560 align:start position:0%
+and close it and carry on going about
+ 
+
+00:01:10.560 --> 00:01:11.750 align:start position:0%
+and close it and carry on going about
+our<00:01:10.720><c> business</c>
+
+00:01:11.750 --> 00:01:11.760 align:start position:0%
+our business
+ 
+
+00:01:11.760 --> 00:01:13.750 align:start position:0%
+our business
+and<00:01:11.920><c> one</c><00:01:12.159><c> thing</c><00:01:12.400><c> that</c><00:01:12.479><c> we</c><00:01:12.720><c> i</c><00:01:12.880><c> want</c><00:01:13.040><c> to</c><00:01:13.200><c> add</c><00:01:13.600><c> is</c>
+
+00:01:13.750 --> 00:01:13.760 align:start position:0%
+and one thing that we i want to add is
+ 
+
+00:01:13.760 --> 00:01:15.190 align:start position:0%
+and one thing that we i want to add is
+the<00:01:13.920><c> ability</c><00:01:14.320><c> so</c>
+
+00:01:15.190 --> 00:01:15.200 align:start position:0%
+the ability so
+ 
+
+00:01:15.200 --> 00:01:18.390 align:start position:0%
+the ability so
+now<00:01:15.360><c> once</c><00:01:15.600><c> we</c><00:01:15.759><c> pick</c><00:01:16.000><c> up</c><00:01:16.640><c> inventory</c><00:01:17.280><c> items</c><00:01:18.159><c> and</c>
+
+00:01:18.390 --> 00:01:18.400 align:start position:0%
+now once we pick up inventory items and
+ 
+
+00:01:18.400 --> 00:01:19.910 align:start position:0%
+now once we pick up inventory items and
+it'll<00:01:18.720><c> check</c><00:01:18.880><c> the</c><00:01:18.960><c> hot</c><00:01:19.200><c> bar</c><00:01:19.439><c> first</c><00:01:19.680><c> and</c><00:01:19.840><c> if</c>
+
+00:01:19.910 --> 00:01:19.920 align:start position:0%
+it'll check the hot bar first and if
+ 
+
+00:01:19.920 --> 00:01:21.510 align:start position:0%
+it'll check the hot bar first and if
+this<00:01:20.080><c> is</c><00:01:20.240><c> full</c><00:01:20.560><c> it'll</c><00:01:20.720><c> move</c><00:01:20.960><c> on</c><00:01:21.119><c> and</c><00:01:21.280><c> it'll</c>
+
+00:01:21.510 --> 00:01:21.520 align:start position:0%
+this is full it'll move on and it'll
+ 
+
+00:01:21.520 --> 00:01:23.109 align:start position:0%
+this is full it'll move on and it'll
+check<00:01:21.759><c> for</c><00:01:22.000><c> a</c><00:01:22.159><c> player</c><00:01:22.479><c> inventory</c><00:01:22.960><c> and</c><00:01:23.040><c> then</c>
+
+00:01:23.109 --> 00:01:23.119 align:start position:0%
+check for a player inventory and then
+ 
+
+00:01:23.119 --> 00:01:24.789 align:start position:0%
+check for a player inventory and then
+it'll<00:01:23.360><c> add</c><00:01:23.520><c> themselves</c><00:01:23.920><c> to</c><00:01:24.000><c> that</c><00:01:24.560><c> and</c><00:01:24.640><c> this</c>
+
+00:01:24.789 --> 00:01:24.799 align:start position:0%
+it'll add themselves to that and this
+ 
+
+00:01:24.799 --> 00:01:27.350 align:start position:0%
+it'll add themselves to that and this
+will<00:01:24.960><c> help</c><00:01:25.280><c> solve</c><00:01:25.759><c> another</c><00:01:26.159><c> issue</c><00:01:26.560><c> as</c><00:01:26.799><c> well</c><00:01:27.119><c> so</c>
+
+00:01:27.350 --> 00:01:27.360 align:start position:0%
+will help solve another issue as well so
+ 
+
+00:01:27.360 --> 00:01:28.149 align:start position:0%
+will help solve another issue as well so
+if
+
+00:01:28.149 --> 00:01:28.159 align:start position:0%
+if
+ 
+
+00:01:28.159 --> 00:01:31.350 align:start position:0%
+if
+if<00:01:28.400><c> i</c><00:01:28.479><c> give</c><00:01:29.119><c> this</c><00:01:29.439><c> item</c><00:01:29.920><c> a</c><00:01:30.079><c> rigid</c><00:01:30.400><c> body</c>
+
+00:01:31.350 --> 00:01:31.360 align:start position:0%
+if i give this item a rigid body
+ 
+
+00:01:31.360 --> 00:01:33.270 align:start position:0%
+if i give this item a rigid body
+and<00:01:31.439><c> then</c><00:01:31.680><c> hit</c><00:01:31.840><c> play</c><00:01:32.560><c> all</c><00:01:32.720><c> that's</c><00:01:32.960><c> happening</c>
+
+00:01:33.270 --> 00:01:33.280 align:start position:0%
+and then hit play all that's happening
+ 
+
+00:01:33.280 --> 00:01:34.630 align:start position:0%
+and then hit play all that's happening
+with<00:01:33.360><c> this</c><00:01:33.600><c> pickup</c><00:01:33.920><c> script</c><00:01:34.240><c> is</c><00:01:34.400><c> it's</c><00:01:34.479><c> just</c>
+
+00:01:34.630 --> 00:01:34.640 align:start position:0%
+with this pickup script is it's just
+ 
+
+00:01:34.640 --> 00:01:36.710 align:start position:0%
+with this pickup script is it's just
+looking<00:01:35.040><c> for</c><00:01:35.439><c> an</c><00:01:35.759><c> inventory</c><00:01:36.320><c> holder</c>
+
+00:01:36.710 --> 00:01:36.720 align:start position:0%
+looking for an inventory holder
+ 
+
+00:01:36.720 --> 00:01:39.350 align:start position:0%
+looking for an inventory holder
+component<00:01:37.360><c> it's</c><00:01:37.520><c> not</c><00:01:37.680><c> looking</c><00:01:38.159><c> for</c>
+
+00:01:39.350 --> 00:01:39.360 align:start position:0%
+component it's not looking for
+ 
+
+00:01:39.360 --> 00:01:41.429 align:start position:0%
+component it's not looking for
+specifically<00:01:40.000><c> a</c><00:01:40.159><c> player</c><00:01:40.640><c> it's</c><00:01:40.880><c> just</c><00:01:41.040><c> looking</c>
+
+00:01:41.429 --> 00:01:41.439 align:start position:0%
+specifically a player it's just looking
+ 
+
+00:01:41.439 --> 00:01:42.389 align:start position:0%
+specifically a player it's just looking
+for
+
+00:01:42.389 --> 00:01:42.399 align:start position:0%
+for
+ 
+
+00:01:42.399 --> 00:01:44.550 align:start position:0%
+for
+um<00:01:42.960><c> the</c><00:01:43.119><c> chess</c><00:01:43.759><c> it's</c><00:01:43.920><c> just</c><00:01:44.079><c> looking</c><00:01:44.240><c> for</c><00:01:44.399><c> an</c>
+
+00:01:44.550 --> 00:01:44.560 align:start position:0%
+um the chess it's just looking for an
+ 
+
+00:01:44.560 --> 00:01:46.630 align:start position:0%
+um the chess it's just looking for an
+inventory<00:01:44.880><c> holder</c><00:01:45.200><c> script</c><00:01:45.439><c> which</c><00:01:45.680><c> a</c><00:01:45.840><c> chest</c><00:01:46.320><c> is</c>
+
+00:01:46.630 --> 00:01:46.640 align:start position:0%
+inventory holder script which a chest is
+ 
+
+00:01:46.640 --> 00:01:48.230 align:start position:0%
+inventory holder script which a chest is
+it<00:01:46.799><c> does</c><00:01:46.960><c> have</c><00:01:47.119><c> the</c><00:01:47.280><c> inventory</c><00:01:47.600><c> holder</c><00:01:47.920><c> script</c>
+
+00:01:48.230 --> 00:01:48.240 align:start position:0%
+it does have the inventory holder script
+ 
+
+00:01:48.240 --> 00:01:50.149 align:start position:0%
+it does have the inventory holder script
+on<00:01:48.399><c> it</c><00:01:48.479><c> so</c><00:01:49.040><c> so</c><00:01:49.200><c> if</c><00:01:49.360><c> there</c><00:01:49.520><c> was</c><00:01:49.600><c> a</c><00:01:49.680><c> character</c>
+
+00:01:50.149 --> 00:01:50.159 align:start position:0%
+on it so so if there was a character
+ 
+
+00:01:50.159 --> 00:01:51.429 align:start position:0%
+on it so so if there was a character
+walking<00:01:50.479><c> around</c><00:01:50.720><c> and</c><00:01:50.799><c> they</c><00:01:50.960><c> accidentally</c>
+
+00:01:51.429 --> 00:01:51.439 align:start position:0%
+walking around and they accidentally
+ 
+
+00:01:51.439 --> 00:01:53.109 align:start position:0%
+walking around and they accidentally
+like<00:01:51.600><c> you</c><00:01:51.680><c> know</c><00:01:51.920><c> walked</c><00:01:52.320><c> through</c><00:01:52.560><c> the</c><00:01:52.720><c> item</c>
+
+00:01:53.109 --> 00:01:53.119 align:start position:0%
+like you know walked through the item
+ 
+
+00:01:53.119 --> 00:01:54.870 align:start position:0%
+like you know walked through the item
+they'd<00:01:53.360><c> pick</c><00:01:53.600><c> up</c><00:01:54.000><c> the</c><00:01:54.159><c> item</c><00:01:54.479><c> you</c><00:01:54.560><c> may</c><00:01:54.720><c> only</c>
+
+00:01:54.870 --> 00:01:54.880 align:start position:0%
+they'd pick up the item you may only
+ 
+
+00:01:54.880 --> 00:01:56.310 align:start position:0%
+they'd pick up the item you may only
+want<00:01:55.119><c> it</c><00:01:55.200><c> so</c><00:01:55.360><c> it</c><00:01:55.520><c> picks</c><00:01:55.759><c> up</c><00:01:55.840><c> the</c><00:01:56.000><c> player</c><00:01:56.240><c> and</c>
+
+00:01:56.310 --> 00:01:56.320 align:start position:0%
+want it so it picks up the player and
+ 
+
+00:01:56.320 --> 00:01:58.709 align:start position:0%
+want it so it picks up the player and
+there<00:01:56.399><c> are</c><00:01:56.479><c> a</c><00:01:56.560><c> couple</c><00:01:56.799><c> of</c><00:01:56.880><c> ways</c><00:01:57.200><c> we</c><00:01:57.360><c> can</c>
+
+00:01:58.709 --> 00:01:58.719 align:start position:0%
+there are a couple of ways we can
+ 
+
+00:01:58.719 --> 00:02:00.389 align:start position:0%
+there are a couple of ways we can
+solve<00:01:59.360><c> for</c><00:01:59.600><c> that</c>
+
+00:02:00.389 --> 00:02:00.399 align:start position:0%
+solve for that
+ 
+
+00:02:00.399 --> 00:02:02.389 align:start position:0%
+solve for that
+and<00:02:00.719><c> one</c><00:02:00.880><c> of</c><00:02:00.960><c> those</c><00:02:01.360><c> is</c><00:02:01.520><c> the</c><00:02:01.680><c> fact</c><00:02:01.920><c> that</c><00:02:02.159><c> only</c>
+
+00:02:02.389 --> 00:02:02.399 align:start position:0%
+and one of those is the fact that only
+ 
+
+00:02:02.399 --> 00:02:04.709 align:start position:0%
+and one of those is the fact that only
+the<00:02:02.560><c> player</c><00:02:02.799><c> has</c><00:02:03.040><c> a</c><00:02:03.119><c> rigid</c><00:02:03.439><c> body</c>
+
+00:02:04.709 --> 00:02:04.719 align:start position:0%
+the player has a rigid body
+ 
+
+00:02:04.719 --> 00:02:07.109 align:start position:0%
+the player has a rigid body
+so<00:02:05.280><c> if</c><00:02:05.439><c> they</c><00:02:05.680><c> were</c><00:02:05.840><c> the</c><00:02:06.000><c> only</c><00:02:06.640><c> character</c><00:02:07.040><c> in</c>
+
+00:02:07.109 --> 00:02:07.119 align:start position:0%
+so if they were the only character in
+ 
+
+00:02:07.119 --> 00:02:09.589 align:start position:0%
+so if they were the only character in
+your<00:02:07.360><c> game</c><00:02:07.600><c> to</c><00:02:07.920><c> use</c><00:02:08.239><c> a</c><00:02:08.399><c> rigid</c><00:02:08.720><c> body</c><00:02:09.119><c> then</c><00:02:09.520><c> you</c>
+
+00:02:09.589 --> 00:02:09.599 align:start position:0%
+your game to use a rigid body then you
+ 
+
+00:02:09.599 --> 00:02:11.830 align:start position:0%
+your game to use a rigid body then you
+know<00:02:09.840><c> it</c><00:02:09.920><c> wouldn't</c><00:02:10.239><c> go</c><00:02:10.479><c> over</c><00:02:11.280><c> it</c><00:02:11.440><c> wouldn't</c><00:02:11.680><c> go</c>
+
+00:02:11.830 --> 00:02:11.840 align:start position:0%
+know it wouldn't go over it wouldn't go
+ 
+
+00:02:11.840 --> 00:02:13.350 align:start position:0%
+know it wouldn't go over it wouldn't go
+into<00:02:12.080><c> the</c><00:02:12.160><c> chest</c><00:02:12.480><c> if</c><00:02:12.640><c> something</c><00:02:12.879><c> with</c><00:02:13.040><c> a</c><00:02:13.120><c> rigid</c>
+
+00:02:13.350 --> 00:02:13.360 align:start position:0%
+into the chest if something with a rigid
+ 
+
+00:02:13.360 --> 00:02:15.750 align:start position:0%
+into the chest if something with a rigid
+body<00:02:13.680><c> collided</c><00:02:14.160><c> with</c><00:02:14.319><c> it</c><00:02:14.959><c> whereas</c><00:02:15.440><c> if</c><00:02:15.680><c> it</c>
+
+00:02:15.750 --> 00:02:15.760 align:start position:0%
+body collided with it whereas if it
+ 
+
+00:02:15.760 --> 00:02:17.030 align:start position:0%
+body collided with it whereas if it
+collided<00:02:16.319><c> with</c>
+
+00:02:17.030 --> 00:02:17.040 align:start position:0%
+collided with
+ 
+
+00:02:17.040 --> 00:02:19.030 align:start position:0%
+collided with
+the<00:02:17.280><c> player</c><00:02:17.599><c> it</c><00:02:17.760><c> would</c>
+
+00:02:19.030 --> 00:02:19.040 align:start position:0%
+the player it would
+ 
+
+00:02:19.040 --> 00:02:20.550 align:start position:0%
+the player it would
+we<00:02:19.200><c> could</c><00:02:19.360><c> also</c><00:02:19.680><c> check</c><00:02:19.920><c> to</c><00:02:20.080><c> make</c><00:02:20.239><c> sure</c><00:02:20.400><c> the</c>
+
+00:02:20.550 --> 00:02:20.560 align:start position:0%
+we could also check to make sure the
+ 
+
+00:02:20.560 --> 00:02:23.589 align:start position:0%
+we could also check to make sure the
+thing<00:02:20.959><c> that</c><00:02:21.200><c> hits</c><00:02:21.520><c> us</c><00:02:21.760><c> is</c><00:02:22.160><c> tagged</c><00:02:22.879><c> with</c><00:02:23.360><c> the</c>
+
+00:02:23.589 --> 00:02:23.599 align:start position:0%
+thing that hits us is tagged with the
+ 
+
+00:02:23.599 --> 00:02:26.070 align:start position:0%
+thing that hits us is tagged with the
+player<00:02:24.160><c> um</c><00:02:24.879><c> player</c><00:02:25.120><c> tag</c><00:02:25.440><c> that's</c><00:02:25.599><c> one</c><00:02:25.760><c> way</c><00:02:25.920><c> of</c>
+
+00:02:26.070 --> 00:02:26.080 align:start position:0%
+player um player tag that's one way of
+ 
+
+00:02:26.080 --> 00:02:27.670 align:start position:0%
+player um player tag that's one way of
+doing<00:02:26.319><c> it</c><00:02:26.800><c> but</c><00:02:26.959><c> because</c><00:02:27.200><c> we're</c><00:02:27.360><c> going</c><00:02:27.440><c> to</c><00:02:27.520><c> be</c>
+
+00:02:27.670 --> 00:02:27.680 align:start position:0%
+doing it but because we're going to be
+ 
+
+00:02:27.680 --> 00:02:30.470 align:start position:0%
+doing it but because we're going to be
+doing<00:02:28.000><c> a</c><00:02:28.160><c> player</c><00:02:29.040><c> inventory</c><00:02:29.520><c> holder</c><00:02:29.920><c> anyway</c>
+
+00:02:30.470 --> 00:02:30.480 align:start position:0%
+doing a player inventory holder anyway
+ 
+
+00:02:30.480 --> 00:02:32.630 align:start position:0%
+doing a player inventory holder anyway
+we<00:02:30.640><c> can</c><00:02:30.800><c> just</c><00:02:30.959><c> make</c><00:02:31.200><c> our</c><00:02:31.360><c> item</c><00:02:31.680><c> pickup</c><00:02:32.239><c> look</c>
+
+00:02:32.630 --> 00:02:32.640 align:start position:0%
+we can just make our item pickup look
+ 
+
+00:02:32.640 --> 00:02:34.229 align:start position:0%
+we can just make our item pickup look
+for
+
+00:02:34.229 --> 00:02:34.239 align:start position:0%
+for
+ 
+
+00:02:34.239 --> 00:02:37.030 align:start position:0%
+for
+the<00:02:34.480><c> player</c><00:02:35.200><c> script</c><00:02:35.920><c> not</c><00:02:36.239><c> any</c><00:02:36.480><c> other</c><00:02:36.720><c> kind</c><00:02:36.879><c> of</c>
+
+00:02:37.030 --> 00:02:37.040 align:start position:0%
+the player script not any other kind of
+ 
+
+00:02:37.040 --> 00:02:38.710 align:start position:0%
+the player script not any other kind of
+inventory<00:02:37.440><c> holder</c><00:02:37.760><c> script</c>
+
+00:02:38.710 --> 00:02:38.720 align:start position:0%
+inventory holder script
+ 
+
+00:02:38.720 --> 00:02:40.550 align:start position:0%
+inventory holder script
+so<00:02:38.879><c> let's</c><00:02:39.040><c> just</c><00:02:39.200><c> get</c><00:02:39.440><c> started</c><00:02:39.920><c> on</c><00:02:40.080><c> that</c><00:02:40.319><c> so</c><00:02:40.480><c> the</c>
+
+00:02:40.550 --> 00:02:40.560 align:start position:0%
+so let's just get started on that so the
+ 
+
+00:02:40.560 --> 00:02:41.670 align:start position:0%
+so let's just get started on that so the
+first<00:02:40.720><c> thing</c><00:02:40.879><c> we</c><00:02:40.959><c> want</c><00:02:41.040><c> to</c><00:02:41.120><c> do</c><00:02:41.280><c> is</c><00:02:41.360><c> we</c><00:02:41.519><c> want</c><00:02:41.599><c> to</c>
+
+00:02:41.670 --> 00:02:41.680 align:start position:0%
+first thing we want to do is we want to
+ 
+
+00:02:41.680 --> 00:02:43.670 align:start position:0%
+first thing we want to do is we want to
+come<00:02:41.840><c> over</c><00:02:42.000><c> to</c><00:02:42.160><c> our</c><00:02:42.400><c> inventory</c><00:02:42.879><c> scripts</c><00:02:43.599><c> and</c>
+
+00:02:43.670 --> 00:02:43.680 align:start position:0%
+come over to our inventory scripts and
+ 
+
+00:02:43.680 --> 00:02:46.390 align:start position:0%
+come over to our inventory scripts and
+then<00:02:43.840><c> we</c><00:02:43.920><c> can</c><00:02:44.080><c> right</c><00:02:44.319><c> click</c><00:02:44.959><c> create</c>
+
+00:02:46.390 --> 00:02:46.400 align:start position:0%
+then we can right click create
+ 
+
+00:02:46.400 --> 00:02:47.910 align:start position:0%
+then we can right click create
+c-sharp<00:02:46.879><c> script</c>
+
+00:02:47.910 --> 00:02:47.920 align:start position:0%
+c-sharp script
+ 
+
+00:02:47.920 --> 00:02:50.150 align:start position:0%
+c-sharp script
+and<00:02:48.160><c> we'll</c><00:02:48.319><c> just</c><00:02:48.480><c> call</c><00:02:48.720><c> this</c><00:02:49.280><c> player</c>
+
+00:02:50.150 --> 00:02:50.160 align:start position:0%
+and we'll just call this player
+ 
+
+00:02:50.160 --> 00:02:51.589 align:start position:0%
+and we'll just call this player
+inventory
+
+00:02:51.589 --> 00:02:51.599 align:start position:0%
+inventory
+ 
+
+00:02:51.599 --> 00:02:53.990 align:start position:0%
+inventory
+holder<00:02:52.480><c> so</c><00:02:52.640><c> let's</c><00:02:52.800><c> just</c><00:02:53.040><c> open</c><00:02:53.280><c> up</c><00:02:53.440><c> this</c><00:02:53.599><c> script</c>
+
+00:02:53.990 --> 00:02:54.000 align:start position:0%
+holder so let's just open up this script
+ 
+
+00:02:54.000 --> 00:02:56.390 align:start position:0%
+holder so let's just open up this script
+in<00:02:54.080><c> visual</c><00:02:54.480><c> studio</c><00:02:55.120><c> so</c><00:02:55.360><c> just</c><00:02:55.599><c> like</c><00:02:55.760><c> our</c><00:02:56.080><c> chest</c>
+
+00:02:56.390 --> 00:02:56.400 align:start position:0%
+in visual studio so just like our chest
+ 
+
+00:02:56.400 --> 00:02:57.910 align:start position:0%
+in visual studio so just like our chest
+inventory<00:02:56.800><c> script</c><00:02:57.200><c> this</c><00:02:57.360><c> is</c><00:02:57.519><c> going</c><00:02:57.599><c> to</c>
+
+00:02:57.910 --> 00:02:57.920 align:start position:0%
+inventory script this is going to
+ 
+
+00:02:57.920 --> 00:03:00.229 align:start position:0%
+inventory script this is going to
+inherit<00:02:58.319><c> from</c><00:02:58.720><c> inventory</c><00:02:59.280><c> holder</c><00:02:59.920><c> so</c>
+
+00:03:00.229 --> 00:03:00.239 align:start position:0%
+inherit from inventory holder so
+ 
+
+00:03:00.239 --> 00:03:02.949 align:start position:0%
+inherit from inventory holder so
+inventory<00:03:01.280><c> holder</c><00:03:02.239><c> i'm</c><00:03:02.400><c> going</c><00:03:02.480><c> to</c><00:03:02.560><c> keep</c><00:03:02.800><c> the</c>
+
+00:03:02.949 --> 00:03:02.959 align:start position:0%
+inventory holder i'm going to keep the
+ 
+
+00:03:02.959 --> 00:03:05.509 align:start position:0%
+inventory holder i'm going to keep the
+update<00:03:03.360><c> so</c><00:03:03.599><c> i</c><00:03:03.680><c> can</c><00:03:04.239><c> uh</c><00:03:04.800><c> listen</c><00:03:05.120><c> out</c><00:03:05.280><c> for</c><00:03:05.440><c> a</c>
+
+00:03:05.509 --> 00:03:05.519 align:start position:0%
+update so i can uh listen out for a
+ 
+
+00:03:05.519 --> 00:03:07.670 align:start position:0%
+update so i can uh listen out for a
+keyboard<00:03:06.239><c> press</c>
+
+00:03:07.670 --> 00:03:07.680 align:start position:0%
+keyboard press
+ 
+
+00:03:07.680 --> 00:03:09.670 align:start position:0%
+keyboard press
+um<00:03:08.319><c> and</c><00:03:08.560><c> for</c><00:03:08.720><c> that</c><00:03:08.879><c> i'm</c><00:03:08.959><c> gonna</c><00:03:09.200><c> want</c><00:03:09.360><c> to</c><00:03:09.519><c> use</c>
+
+00:03:09.670 --> 00:03:09.680 align:start position:0%
+um and for that i'm gonna want to use
+ 
+
+00:03:09.680 --> 00:03:12.869 align:start position:0%
+um and for that i'm gonna want to use
+unity<00:03:10.599><c> engine.input</c><00:03:11.599><c> system</c><00:03:12.400><c> and</c><00:03:12.560><c> we'll</c><00:03:12.720><c> look</c>
+
+00:03:12.869 --> 00:03:12.879 align:start position:0%
+unity engine.input system and we'll look
+ 
+
+00:03:12.879 --> 00:03:14.710 align:start position:0%
+unity engine.input system and we'll look
+for<00:03:13.040><c> when</c><00:03:13.280><c> we</c><00:03:13.360><c> press</c><00:03:13.599><c> the</c><00:03:13.760><c> b</c><00:03:14.000><c> key</c><00:03:14.319><c> and</c><00:03:14.480><c> i'll</c><00:03:14.640><c> do</c>
+
+00:03:14.710 --> 00:03:14.720 align:start position:0%
+for when we press the b key and i'll do
+ 
+
+00:03:14.720 --> 00:03:16.630 align:start position:0%
+for when we press the b key and i'll do
+that<00:03:14.879><c> in</c><00:03:15.040><c> just</c><00:03:15.280><c> a</c><00:03:15.360><c> second</c>
+
+00:03:16.630 --> 00:03:16.640 align:start position:0%
+that in just a second
+ 
+
+00:03:16.640 --> 00:03:19.030 align:start position:0%
+that in just a second
+the<00:03:16.800><c> first</c><00:03:16.959><c> thing</c><00:03:17.120><c> we</c><00:03:17.280><c> want</c><00:03:17.440><c> we</c><00:03:17.599><c> want</c><00:03:18.000><c> to</c><00:03:18.720><c> uh</c><00:03:18.879><c> we</c>
+
+00:03:19.030 --> 00:03:19.040 align:start position:0%
+the first thing we want we want to uh we
+ 
+
+00:03:19.040 --> 00:03:20.790 align:start position:0%
+the first thing we want we want to uh we
+can<00:03:19.120><c> get</c><00:03:19.280><c> rid</c><00:03:19.440><c> of</c><00:03:19.519><c> the</c><00:03:19.680><c> start</c><00:03:20.080><c> function</c><00:03:20.560><c> and</c><00:03:20.720><c> we</c>
+
+00:03:20.790 --> 00:03:20.800 align:start position:0%
+can get rid of the start function and we
+ 
+
+00:03:20.800 --> 00:03:23.910 align:start position:0%
+can get rid of the start function and we
+just<00:03:20.959><c> need</c><00:03:21.120><c> to</c><00:03:21.360><c> serialize</c><00:03:22.319><c> uh</c><00:03:22.640><c> field</c>
+
+00:03:23.910 --> 00:03:23.920 align:start position:0%
+just need to serialize uh field
+ 
+
+00:03:23.920 --> 00:03:27.270 align:start position:0%
+just need to serialize uh field
+and<00:03:24.080><c> make</c><00:03:24.239><c> a</c><00:03:24.400><c> protected</c><00:03:25.599><c> int</c><00:03:26.239><c> backpack</c><00:03:26.879><c> size</c>
+
+00:03:27.270 --> 00:03:27.280 align:start position:0%
+and make a protected int backpack size
+ 
+
+00:03:27.280 --> 00:03:29.430 align:start position:0%
+and make a protected int backpack size
+so<00:03:27.760><c> on</c><00:03:28.000><c> our</c><00:03:28.159><c> inventory</c><00:03:28.560><c> holder</c><00:03:28.959><c> script</c><00:03:29.280><c> we've</c>
+
+00:03:29.430 --> 00:03:29.440 align:start position:0%
+so on our inventory holder script we've
+ 
+
+00:03:29.440 --> 00:03:31.750 align:start position:0%
+so on our inventory holder script we've
+got<00:03:29.599><c> our</c><00:03:29.840><c> inventory</c><00:03:30.640><c> system</c><00:03:31.040><c> which</c><00:03:31.200><c> has</c><00:03:31.440><c> an</c>
+
+00:03:31.750 --> 00:03:31.760 align:start position:0%
+got our inventory system which has an
+ 
+
+00:03:31.760 --> 00:03:33.910 align:start position:0%
+got our inventory system which has an
+inventory<00:03:32.480><c> size</c><00:03:32.959><c> and</c><00:03:33.120><c> i</c><00:03:33.200><c> might</c><00:03:33.440><c> actually</c><00:03:33.680><c> want</c>
+
+00:03:33.910 --> 00:03:33.920 align:start position:0%
+inventory size and i might actually want
+ 
+
+00:03:33.920 --> 00:03:35.830 align:start position:0%
+inventory size and i might actually want
+to<00:03:34.000><c> rename</c><00:03:34.480><c> this</c><00:03:34.720><c> i'm</c><00:03:34.879><c> going</c><00:03:34.959><c> to</c><00:03:35.200><c> right</c><00:03:35.440><c> click</c>
+
+00:03:35.830 --> 00:03:35.840 align:start position:0%
+to rename this i'm going to right click
+ 
+
+00:03:35.840 --> 00:03:38.869 align:start position:0%
+to rename this i'm going to right click
+double<00:03:36.159><c> click</c><00:03:36.799><c> right</c><00:03:37.040><c> click</c><00:03:37.360><c> rename</c>
+
+00:03:38.869 --> 00:03:38.879 align:start position:0%
+double click right click rename
+ 
+
+00:03:38.879 --> 00:03:40.949 align:start position:0%
+double click right click rename
+and<00:03:39.040><c> i'm</c><00:03:39.120><c> going</c><00:03:39.200><c> to</c><00:03:39.280><c> call</c><00:03:39.440><c> this</c><00:03:39.680><c> the</c><00:03:40.080><c> private</c>
+
+00:03:40.949 --> 00:03:40.959 align:start position:0%
+and i'm going to call this the private
+ 
+
+00:03:40.959 --> 00:03:46.949 align:start position:0%
+and i'm going to call this the private
+primary<00:03:41.680><c> inventory</c><00:03:42.400><c> system</c>
+
+00:03:46.949 --> 00:03:46.959 align:start position:0%
+ 
+ 
+
+00:03:46.959 --> 00:03:49.509 align:start position:0%
+ 
+i'll<00:03:47.280><c> do</c><00:03:47.440><c> the</c><00:03:47.519><c> same</c><00:03:47.680><c> for</c><00:03:47.840><c> this</c><00:03:48.319><c> rename</c>
+
+00:03:49.509 --> 00:03:49.519 align:start position:0%
+i'll do the same for this rename
+ 
+
+00:03:49.519 --> 00:03:51.910 align:start position:0%
+i'll do the same for this rename
+primary
+
+00:03:51.910 --> 00:03:51.920 align:start position:0%
+primary
+ 
+
+00:03:51.920 --> 00:03:56.789 align:start position:0%
+primary
+inventory<00:03:53.040><c> system</c>
+
+00:03:56.789 --> 00:03:56.799 align:start position:0%
+ 
+ 
+
+00:03:56.799 --> 00:04:03.429 align:start position:0%
+ 
+so<00:03:57.120><c> in</c><00:03:57.519><c> our</c><00:03:58.159><c> player</c><00:03:58.799><c> inventory</c><00:03:59.200><c> holder</c><00:03:59.760><c> script</c>
+
+00:04:03.429 --> 00:04:03.439 align:start position:0%
+ 
+ 
+
+00:04:03.439 --> 00:04:07.110 align:start position:0%
+ 
+i<00:04:03.519><c> can</c><00:04:03.680><c> actually</c><00:04:03.920><c> rename</c><00:04:04.319><c> this</c><00:04:04.560><c> to</c><00:04:05.120><c> secondary</c>
+
+00:04:07.110 --> 00:04:07.120 align:start position:0%
+i can actually rename this to secondary
+ 
+
+00:04:07.120 --> 00:04:11.429 align:start position:0%
+i can actually rename this to secondary
+inventory<00:04:08.159><c> size</c>
+
+00:04:11.429 --> 00:04:11.439 align:start position:0%
+ 
+ 
+
+00:04:11.439 --> 00:04:18.870 align:start position:0%
+ 
+oh
+
+00:04:18.870 --> 00:04:18.880 align:start position:0%
+ 
+ 
+
+00:04:18.880 --> 00:04:21.310 align:start position:0%
+ 
+and<00:04:19.440><c> we</c><00:04:19.680><c> can</c><00:04:19.840><c> have</c><00:04:20.160><c> a</c>
+
+00:04:21.310 --> 00:04:21.320 align:start position:0%
+and we can have a
+ 
+
+00:04:21.320 --> 00:04:26.830 align:start position:0%
+and we can have a
+serialized<00:04:22.320><c> field</c><00:04:22.880><c> protected</c>
+
+00:04:26.830 --> 00:04:26.840 align:start position:0%
+ 
+ 
+
+00:04:26.840 --> 00:04:29.510 align:start position:0%
+ 
+inventory<00:04:28.000><c> system</c>
+
+00:04:29.510 --> 00:04:29.520 align:start position:0%
+inventory system
+ 
+
+00:04:29.520 --> 00:04:31.030 align:start position:0%
+inventory system
+and<00:04:29.759><c> call</c><00:04:29.919><c> this</c><00:04:30.240><c> the</c>
+
+00:04:31.030 --> 00:04:31.040 align:start position:0%
+and call this the
+ 
+
+00:04:31.040 --> 00:04:33.110 align:start position:0%
+and call this the
+secondary
+
+00:04:33.110 --> 00:04:33.120 align:start position:0%
+secondary
+ 
+
+00:04:33.120 --> 00:04:41.030 align:start position:0%
+secondary
+inventory<00:04:34.400><c> system</c>
+
+00:04:41.030 --> 00:04:41.040 align:start position:0%
+ 
+ 
+
+00:04:41.040 --> 00:04:43.030 align:start position:0%
+ 
+and<00:04:41.120><c> then</c><00:04:41.280><c> we</c><00:04:41.440><c> can</c><00:04:41.520><c> have</c><00:04:41.680><c> a</c><00:04:41.759><c> public</c><00:04:42.400><c> inventory</c>
+
+00:04:43.030 --> 00:04:43.040 align:start position:0%
+and then we can have a public inventory
+ 
+
+00:04:43.040 --> 00:04:44.230 align:start position:0%
+and then we can have a public inventory
+system
+
+00:04:44.230 --> 00:04:44.240 align:start position:0%
+system
+ 
+
+00:04:44.240 --> 00:04:49.590 align:start position:0%
+system
+called<00:04:44.720><c> secondary</c><00:04:46.000><c> inventory</c><00:04:46.960><c> system</c>
+
+00:04:49.590 --> 00:04:49.600 align:start position:0%
+ 
+ 
+
+00:04:49.600 --> 00:04:51.990 align:start position:0%
+ 
+which<00:04:49.840><c> just</c><00:04:50.080><c> returns</c><00:04:50.960><c> that</c>
+
+00:04:51.990 --> 00:04:52.000 align:start position:0%
+which just returns that
+ 
+
+00:04:52.000 --> 00:04:54.150 align:start position:0%
+which just returns that
+and<00:04:52.160><c> we</c><00:04:52.320><c> need</c><00:04:52.479><c> to</c><00:04:52.800><c> override</c><00:04:53.440><c> our</c><00:04:53.759><c> awake</c>
+
+00:04:54.150 --> 00:04:54.160 align:start position:0%
+and we need to override our awake
+ 
+
+00:04:54.160 --> 00:04:56.629 align:start position:0%
+and we need to override our awake
+function<00:04:54.960><c> so</c><00:04:55.120><c> we've</c><00:04:55.280><c> got</c><00:04:55.520><c> private</c><00:04:55.840><c> void</c><00:04:56.160><c> awake</c>
+
+00:04:56.629 --> 00:04:56.639 align:start position:0%
+function so we've got private void awake
+ 
+
+00:04:56.639 --> 00:05:02.150 align:start position:0%
+function so we've got private void awake
+let's<00:04:56.800><c> just</c><00:04:57.199><c> change</c><00:04:57.520><c> this</c><00:04:57.840><c> to</c><00:04:58.080><c> a</c><00:04:58.639><c> protected</c>
+
+00:05:02.150 --> 00:05:02.160 align:start position:0%
+ 
+ 
+
+00:05:02.160 --> 00:05:05.510 align:start position:0%
+ 
+virtual<00:05:03.120><c> void</c><00:05:03.440><c> awake</c>
+
+00:05:05.510 --> 00:05:05.520 align:start position:0%
+virtual void awake
+ 
+
+00:05:05.520 --> 00:05:07.350 align:start position:0%
+virtual void awake
+so<00:05:05.759><c> our</c><00:05:06.000><c> protected</c><00:05:06.479><c> virtual</c><00:05:06.880><c> void</c><00:05:07.039><c> awake</c>
+
+00:05:07.350 --> 00:05:07.360 align:start position:0%
+so our protected virtual void awake
+ 
+
+00:05:07.360 --> 00:05:08.790 align:start position:0%
+so our protected virtual void awake
+we're<00:05:07.520><c> going</c><00:05:07.600><c> to</c><00:05:07.680><c> make</c><00:05:07.919><c> our</c><00:05:08.320><c> primary</c>
+
+00:05:08.790 --> 00:05:08.800 align:start position:0%
+we're going to make our primary
+ 
+
+00:05:08.800 --> 00:05:11.270 align:start position:0%
+we're going to make our primary
+inventory<00:05:09.280><c> system</c><00:05:09.840><c> but</c><00:05:10.000><c> on</c><00:05:10.160><c> our</c><00:05:10.479><c> player</c>
+
+00:05:11.270 --> 00:05:11.280 align:start position:0%
+inventory system but on our player
+ 
+
+00:05:11.280 --> 00:05:12.230 align:start position:0%
+inventory system but on our player
+system
+
+00:05:12.230 --> 00:05:12.240 align:start position:0%
+system
+ 
+
+00:05:12.240 --> 00:05:15.590 align:start position:0%
+system
+we<00:05:12.400><c> can</c><00:05:12.479><c> do</c><00:05:12.720><c> protected</c><00:05:13.600><c> override</c>
+
+00:05:15.590 --> 00:05:15.600 align:start position:0%
+we can do protected override
+ 
+
+00:05:15.600 --> 00:05:16.710 align:start position:0%
+we can do protected override
+awake
+
+00:05:16.710 --> 00:05:16.720 align:start position:0%
+awake
+ 
+
+00:05:16.720 --> 00:05:18.469 align:start position:0%
+awake
+which<00:05:17.039><c> calls</c><00:05:17.360><c> the</c><00:05:17.520><c> base</c><00:05:17.759><c> awake</c><00:05:18.080><c> so</c><00:05:18.240><c> that'll</c>
+
+00:05:18.469 --> 00:05:18.479 align:start position:0%
+which calls the base awake so that'll
+ 
+
+00:05:18.479 --> 00:05:21.189 align:start position:0%
+which calls the base awake so that'll
+set<00:05:18.639><c> up</c><00:05:18.800><c> the</c><00:05:19.120><c> primary</c><00:05:19.600><c> inventory</c><00:05:20.000><c> system</c>
+
+00:05:21.189 --> 00:05:21.199 align:start position:0%
+set up the primary inventory system
+ 
+
+00:05:21.199 --> 00:05:23.590 align:start position:0%
+set up the primary inventory system
+and<00:05:21.280><c> then</c><00:05:21.440><c> we</c><00:05:21.600><c> can</c><00:05:21.840><c> say</c><00:05:22.479><c> secondary</c><00:05:23.120><c> inventory</c>
+
+00:05:23.590 --> 00:05:23.600 align:start position:0%
+and then we can say secondary inventory
+ 
+
+00:05:23.600 --> 00:05:26.230 align:start position:0%
+and then we can say secondary inventory
+system<00:05:24.320><c> is</c><00:05:24.479><c> equal</c><00:05:24.880><c> to</c><00:05:25.039><c> a</c><00:05:25.199><c> new</c><00:05:25.759><c> inventory</c>
+
+00:05:26.230 --> 00:05:26.240 align:start position:0%
+system is equal to a new inventory
+ 
+
+00:05:26.240 --> 00:05:29.510 align:start position:0%
+system is equal to a new inventory
+system<00:05:26.880><c> with</c><00:05:27.199><c> our</c><00:05:27.520><c> secondary</c><00:05:28.240><c> inventory</c><00:05:28.880><c> size</c>
+
+00:05:29.510 --> 00:05:29.520 align:start position:0%
+system with our secondary inventory size
+ 
+
+00:05:29.520 --> 00:05:31.350 align:start position:0%
+system with our secondary inventory size
+so<00:05:29.759><c> we're</c><00:05:29.919><c> going</c><00:05:30.080><c> to</c><00:05:30.160><c> use</c><00:05:30.479><c> this</c><00:05:30.720><c> event</c><00:05:30.960><c> this</c><00:05:31.199><c> on</c>
+
+00:05:31.350 --> 00:05:31.360 align:start position:0%
+so we're going to use this event this on
+ 
+
+00:05:31.360 --> 00:05:33.350 align:start position:0%
+so we're going to use this event this on
+dynamic<00:05:31.759><c> inventory</c><00:05:32.080><c> display</c><00:05:32.479><c> requested</c><00:05:33.120><c> just</c>
+
+00:05:33.350 --> 00:05:33.360 align:start position:0%
+dynamic inventory display requested just
+ 
+
+00:05:33.360 --> 00:05:35.590 align:start position:0%
+dynamic inventory display requested just
+like<00:05:33.600><c> our</c><00:05:33.840><c> chest</c><00:05:34.320><c> does</c>
+
+00:05:35.590 --> 00:05:35.600 align:start position:0%
+like our chest does
+ 
+
+00:05:35.600 --> 00:05:37.510 align:start position:0%
+like our chest does
+and<00:05:35.759><c> i'm</c><00:05:35.840><c> going</c><00:05:35.919><c> to</c><00:05:36.160><c> listen</c><00:05:36.479><c> out</c><00:05:36.720><c> for</c><00:05:37.120><c> the</c><00:05:37.280><c> b</c>
+
+00:05:37.510 --> 00:05:37.520 align:start position:0%
+and i'm going to listen out for the b
+ 
+
+00:05:37.520 --> 00:05:42.150 align:start position:0%
+and i'm going to listen out for the b
+key<00:05:37.840><c> so</c><00:05:38.240><c> if</c>
+
+00:05:42.150 --> 00:05:42.160 align:start position:0%
+ 
+ 
+
+00:05:42.160 --> 00:05:47.270 align:start position:0%
+ 
+keyboard<00:05:43.199><c> dot</c><00:05:43.520><c> current</c>
+
+00:05:47.270 --> 00:05:47.280 align:start position:0%
+ 
+ 
+
+00:05:47.280 --> 00:05:49.350 align:start position:0%
+ 
+dot<00:05:47.680><c> b</c><00:05:48.000><c> key</c>
+
+00:05:49.350 --> 00:05:49.360 align:start position:0%
+dot b key
+ 
+
+00:05:49.360 --> 00:05:51.590 align:start position:0%
+dot b key
+was<00:05:49.759><c> pressed</c><00:05:50.240><c> this</c><00:05:50.479><c> frame</c>
+
+00:05:51.590 --> 00:05:51.600 align:start position:0%
+was pressed this frame
+ 
+
+00:05:51.600 --> 00:05:53.110 align:start position:0%
+was pressed this frame
+then<00:05:51.840><c> we'll</c><00:05:52.000><c> just</c><00:05:52.160><c> call</c><00:05:52.320><c> the</c><00:05:52.560><c> on</c><00:05:52.720><c> dynamic</c>
+
+00:05:53.110 --> 00:05:53.120 align:start position:0%
+then we'll just call the on dynamic
+ 
+
+00:05:53.120 --> 00:05:55.749 align:start position:0%
+then we'll just call the on dynamic
+inventory<00:05:53.520><c> display</c><00:05:53.840><c> requested</c>
+
+00:05:55.749 --> 00:05:55.759 align:start position:0%
+inventory display requested
+ 
+
+00:05:55.759 --> 00:05:57.909 align:start position:0%
+inventory display requested
+and<00:05:56.000><c> we'll</c><00:05:56.240><c> invoke</c><00:05:56.720><c> that</c><00:05:56.960><c> and</c><00:05:57.120><c> pass</c><00:05:57.520><c> through</c>
+
+00:05:57.909 --> 00:05:57.919 align:start position:0%
+and we'll invoke that and pass through
+ 
+
+00:05:57.919 --> 00:05:59.990 align:start position:0%
+and we'll invoke that and pass through
+the<00:05:58.240><c> backpack</c><00:05:58.960><c> the</c>
+
+00:05:59.990 --> 00:06:00.000 align:start position:0%
+the backpack the
+ 
+
+00:06:00.000 --> 00:06:02.150 align:start position:0%
+the backpack the
+secondary<00:06:00.800><c> inventory</c>
+
+00:06:02.150 --> 00:06:02.160 align:start position:0%
+secondary inventory
+ 
+
+00:06:02.160 --> 00:06:03.990 align:start position:0%
+secondary inventory
+system
+
+00:06:03.990 --> 00:06:04.000 align:start position:0%
+system
+ 
+
+00:06:04.000 --> 00:06:06.550 align:start position:0%
+system
+so<00:06:04.240><c> let's</c><00:06:04.479><c> just</c><00:06:04.960><c> hit</c><00:06:05.280><c> save</c><00:06:05.680><c> there</c><00:06:06.080><c> and</c><00:06:06.319><c> close</c>
+
+00:06:06.550 --> 00:06:06.560 align:start position:0%
+so let's just hit save there and close
+ 
+
+00:06:06.560 --> 00:06:08.230 align:start position:0%
+so let's just hit save there and close
+this<00:06:06.800><c> down</c><00:06:07.440><c> so</c><00:06:07.600><c> we</c><00:06:07.680><c> can</c><00:06:07.759><c> go</c><00:06:07.840><c> over</c><00:06:08.000><c> to</c><00:06:08.160><c> our</c>
+
+00:06:08.230 --> 00:06:08.240 align:start position:0%
+this down so we can go over to our
+ 
+
+00:06:08.240 --> 00:06:10.230 align:start position:0%
+this down so we can go over to our
+player<00:06:08.639><c> script</c><00:06:09.199><c> and</c><00:06:09.440><c> instead</c><00:06:09.759><c> of</c><00:06:10.000><c> our</c>
+
+00:06:10.230 --> 00:06:10.240 align:start position:0%
+player script and instead of our
+ 
+
+00:06:10.240 --> 00:06:11.990 align:start position:0%
+player script and instead of our
+inventory<00:06:10.720><c> holder</c><00:06:11.039><c> script</c><00:06:11.440><c> let's</c><00:06:11.600><c> remove</c>
+
+00:06:11.990 --> 00:06:12.000 align:start position:0%
+inventory holder script let's remove
+ 
+
+00:06:12.000 --> 00:06:12.790 align:start position:0%
+inventory holder script let's remove
+this
+
+00:06:12.790 --> 00:06:12.800 align:start position:0%
+this
+ 
+
+00:06:12.800 --> 00:06:17.990 align:start position:0%
+this
+and<00:06:12.960><c> let's</c><00:06:13.199><c> add</c><00:06:13.520><c> in</c><00:06:13.680><c> our</c><00:06:13.919><c> new</c><00:06:14.319><c> player</c>
+
+00:06:17.990 --> 00:06:18.000 align:start position:0%
+ 
+ 
+
+00:06:18.000 --> 00:06:21.350 align:start position:0%
+ 
+inventory<00:06:18.840><c> holder</c><00:06:19.840><c> and</c><00:06:19.919><c> we</c><00:06:20.080><c> give</c><00:06:20.319><c> our</c>
+
+00:06:21.350 --> 00:06:21.360 align:start position:0%
+inventory holder and we give our
+ 
+
+00:06:21.360 --> 00:06:23.270 align:start position:0%
+inventory holder and we give our
+primary<00:06:21.840><c> inventory</c><00:06:22.319><c> system</c><00:06:22.720><c> which</c><00:06:22.960><c> is</c><00:06:23.039><c> our</c>
+
+00:06:23.270 --> 00:06:23.280 align:start position:0%
+primary inventory system which is our
+ 
+
+00:06:23.280 --> 00:06:25.430 align:start position:0%
+primary inventory system which is our
+hotbar<00:06:23.840><c> in</c><00:06:23.919><c> this</c><00:06:24.080><c> case</c>
+
+00:06:25.430 --> 00:06:25.440 align:start position:0%
+hotbar in this case
+ 
+
+00:06:25.440 --> 00:06:26.309 align:start position:0%
+hotbar in this case
+uh
+
+00:06:26.309 --> 00:06:26.319 align:start position:0%
+uh
+ 
+
+00:06:26.319 --> 00:06:28.469 align:start position:0%
+uh
+10
+
+00:06:28.469 --> 00:06:28.479 align:start position:0%
+10
+ 
+
+00:06:28.479 --> 00:06:31.430 align:start position:0%
+10
+and<00:06:28.800><c> our</c><00:06:29.199><c> secondary</c><00:06:30.240><c> inventory</c><00:06:30.800><c> system</c><00:06:31.280><c> let's</c>
+
+00:06:31.430 --> 00:06:31.440 align:start position:0%
+and our secondary inventory system let's
+ 
+
+00:06:31.440 --> 00:06:33.830 align:start position:0%
+and our secondary inventory system let's
+give<00:06:31.600><c> it</c><00:06:31.759><c> a</c><00:06:31.840><c> size</c><00:06:32.080><c> of</c><00:06:32.240><c> 30.</c><00:06:33.199><c> let's</c><00:06:33.440><c> just</c><00:06:33.600><c> hit</c>
+
+00:06:33.830 --> 00:06:33.840 align:start position:0%
+give it a size of 30. let's just hit
+ 
+
+00:06:33.840 --> 00:06:41.110 align:start position:0%
+give it a size of 30. let's just hit
+play
+
+00:06:41.110 --> 00:06:41.120 align:start position:0%
+ 
+ 
+
+00:06:41.120 --> 00:06:43.830 align:start position:0%
+ 
+we've<00:06:41.360><c> got</c><00:06:41.600><c> a</c>
+
+00:06:43.830 --> 00:06:43.840 align:start position:0%
+ 
+ 
+
+00:06:43.840 --> 00:06:45.749 align:start position:0%
+ 
+error<00:06:44.160><c> here</c><00:06:44.400><c> and</c><00:06:44.560><c> it's</c><00:06:44.720><c> because</c><00:06:45.039><c> we</c><00:06:45.199><c> need</c><00:06:45.440><c> to</c>
+
+00:06:45.749 --> 00:06:45.759 align:start position:0%
+error here and it's because we need to
+ 
+
+00:06:45.759 --> 00:06:51.830 align:start position:0%
+error here and it's because we need to
+reset<00:06:46.400><c> our</c>
+
+00:06:51.830 --> 00:06:51.840 align:start position:0%
+ 
+ 
+
+00:06:51.840 --> 00:06:53.510 align:start position:0%
+ 
+our<00:06:52.160><c> player</c><00:06:52.400><c> hotbar</c>
+
+00:06:53.510 --> 00:06:53.520 align:start position:0%
+our player hotbar
+ 
+
+00:06:53.520 --> 00:06:55.589 align:start position:0%
+our player hotbar
+needs<00:06:53.840><c> a</c><00:06:54.000><c> reference</c><00:06:54.479><c> to</c><00:06:54.720><c> our</c><00:06:55.039><c> inventory</c>
+
+00:06:55.589 --> 00:06:55.599 align:start position:0%
+needs a reference to our inventory
+ 
+
+00:06:55.599 --> 00:06:56.950 align:start position:0%
+needs a reference to our inventory
+holder
+
+00:06:56.950 --> 00:06:56.960 align:start position:0%
+holder
+ 
+
+00:06:56.960 --> 00:07:00.309 align:start position:0%
+holder
+so<00:06:57.199><c> now</c><00:06:57.360><c> we</c><00:06:57.520><c> hit</c><00:06:57.680><c> play</c>
+
+00:07:00.309 --> 00:07:00.319 align:start position:0%
+ 
+ 
+
+00:07:00.319 --> 00:07:01.909 align:start position:0%
+ 
+that's<00:07:00.560><c> all</c><00:07:00.720><c> working</c><00:07:01.039><c> we've</c><00:07:01.199><c> got</c><00:07:01.280><c> our</c><00:07:01.360><c> hotbar</c>
+
+00:07:01.909 --> 00:07:01.919 align:start position:0%
+that's all working we've got our hotbar
+ 
+
+00:07:01.919 --> 00:07:04.230 align:start position:0%
+that's all working we've got our hotbar
+that<00:07:02.160><c> works</c><00:07:02.720><c> we</c><00:07:02.880><c> can</c><00:07:03.120><c> press</c><00:07:03.360><c> b</c><00:07:03.680><c> and</c><00:07:03.840><c> it'll</c><00:07:04.080><c> open</c>
+
+00:07:04.230 --> 00:07:04.240 align:start position:0%
+that works we can press b and it'll open
+ 
+
+00:07:04.240 --> 00:07:06.710 align:start position:0%
+that works we can press b and it'll open
+up<00:07:04.400><c> our</c><00:07:04.639><c> backpack</c>
+
+00:07:06.710 --> 00:07:06.720 align:start position:0%
+up our backpack
+ 
+
+00:07:06.720 --> 00:07:10.790 align:start position:0%
+up our backpack
+we<00:07:06.880><c> could</c><00:07:07.039><c> pick</c><00:07:07.280><c> up</c><00:07:07.440><c> some</c><00:07:07.759><c> more</c><00:07:08.160><c> items</c>
+
+00:07:10.790 --> 00:07:10.800 align:start position:0%
+ 
+ 
+
+00:07:10.800 --> 00:07:12.870 align:start position:0%
+ 
+so<00:07:10.960><c> you</c><00:07:11.039><c> see</c><00:07:11.280><c> at</c><00:07:11.440><c> the</c><00:07:11.520><c> moment</c><00:07:12.080><c> as</c><00:07:12.240><c> we</c><00:07:12.400><c> go</c><00:07:12.560><c> over</c>
+
+00:07:12.870 --> 00:07:12.880 align:start position:0%
+so you see at the moment as we go over
+ 
+
+00:07:12.880 --> 00:07:15.830 align:start position:0%
+so you see at the moment as we go over
+it<00:07:13.520><c> the</c><00:07:13.680><c> items</c><00:07:14.080><c> aren't</c><00:07:14.240><c> adding</c><00:07:14.479><c> themselves</c><00:07:15.120><c> to</c>
+
+00:07:15.830 --> 00:07:15.840 align:start position:0%
+it the items aren't adding themselves to
+ 
+
+00:07:15.840 --> 00:07:18.870 align:start position:0%
+it the items aren't adding themselves to
+our<00:07:16.160><c> inventory</c><00:07:16.639><c> backpack</c>
+
+00:07:18.870 --> 00:07:18.880 align:start position:0%
+our inventory backpack
+ 
+
+00:07:18.880 --> 00:07:20.870 align:start position:0%
+our inventory backpack
+they're<00:07:19.120><c> staying</c><00:07:19.440><c> on</c><00:07:19.599><c> the</c><00:07:19.680><c> ground</c>
+
+00:07:20.870 --> 00:07:20.880 align:start position:0%
+they're staying on the ground
+ 
+
+00:07:20.880 --> 00:07:23.670 align:start position:0%
+they're staying on the ground
+so<00:07:21.199><c> that'll</c><00:07:21.520><c> be</c><00:07:21.599><c> the</c><00:07:21.759><c> next</c><00:07:22.000><c> thing</c><00:07:22.479><c> we</c><00:07:22.639><c> work</c><00:07:22.960><c> on</c>
+
+00:07:23.670 --> 00:07:23.680 align:start position:0%
+so that'll be the next thing we work on
+ 
+
+00:07:23.680 --> 00:07:26.150 align:start position:0%
+so that'll be the next thing we work on
+so<00:07:23.840><c> let's</c><00:07:24.080><c> go</c><00:07:24.160><c> back</c><00:07:24.400><c> over</c><00:07:24.639><c> to</c><00:07:25.039><c> our</c><00:07:25.360><c> imagery</c>
+
+00:07:26.150 --> 00:07:26.160 align:start position:0%
+so let's go back over to our imagery
+ 
+
+00:07:26.160 --> 00:07:28.070 align:start position:0%
+so let's go back over to our imagery
+system<00:07:26.800><c> script</c>
+
+00:07:28.070 --> 00:07:28.080 align:start position:0%
+system script
+ 
+
+00:07:28.080 --> 00:07:30.070 align:start position:0%
+system script
+and<00:07:28.560><c> back</c><00:07:28.800><c> over</c><00:07:28.960><c> to</c><00:07:29.199><c> our</c><00:07:29.360><c> inventory</c><00:07:29.759><c> holder</c>
+
+00:07:30.070 --> 00:07:30.080 align:start position:0%
+and back over to our inventory holder
+ 
+
+00:07:30.080 --> 00:07:31.189 align:start position:0%
+and back over to our inventory holder
+script
+
+00:07:31.189 --> 00:07:31.199 align:start position:0%
+script
+ 
+
+00:07:31.199 --> 00:07:34.150 align:start position:0%
+script
+so<00:07:31.520><c> in</c><00:07:31.759><c> here</c><00:07:32.240><c> on</c><00:07:32.400><c> our</c><00:07:32.560><c> player</c><00:07:32.880><c> imagery</c><00:07:33.280><c> holder</c>
+
+00:07:34.150 --> 00:07:34.160 align:start position:0%
+so in here on our player imagery holder
+ 
+
+00:07:34.160 --> 00:07:37.270 align:start position:0%
+so in here on our player imagery holder
+similar<00:07:34.639><c> to</c><00:07:35.039><c> our</c><00:07:35.280><c> imagery</c><00:07:35.840><c> system</c><00:07:36.800><c> script</c>
+
+00:07:37.270 --> 00:07:37.280 align:start position:0%
+similar to our imagery system script
+ 
+
+00:07:37.280 --> 00:07:39.270 align:start position:0%
+similar to our imagery system script
+we're<00:07:37.440><c> going</c><00:07:37.599><c> to</c><00:07:37.680><c> want</c><00:07:37.919><c> a</c><00:07:38.160><c> public</c>
+
+00:07:39.270 --> 00:07:39.280 align:start position:0%
+we're going to want a public
+ 
+
+00:07:39.280 --> 00:07:40.950 align:start position:0%
+we're going to want a public
+ball
+
+00:07:40.950 --> 00:07:40.960 align:start position:0%
+ball
+ 
+
+00:07:40.960 --> 00:07:43.670 align:start position:0%
+ball
+add<00:07:41.360><c> to</c><00:07:42.000><c> inventory</c><00:07:43.120><c> and</c><00:07:43.199><c> this</c><00:07:43.440><c> is</c><00:07:43.520><c> going</c><00:07:43.599><c> to</c>
+
+00:07:43.670 --> 00:07:43.680 align:start position:0%
+add to inventory and this is going to
+ 
+
+00:07:43.680 --> 00:07:46.150 align:start position:0%
+add to inventory and this is going to
+take<00:07:43.919><c> in</c><00:07:44.000><c> the</c><00:07:44.080><c> same</c><00:07:44.240><c> parameters</c><00:07:44.879><c> as</c><00:07:45.120><c> our</c>
+
+00:07:46.150 --> 00:07:46.160 align:start position:0%
+take in the same parameters as our
+ 
+
+00:07:46.160 --> 00:07:50.629 align:start position:0%
+take in the same parameters as our
+inventory<00:07:46.639><c> systems</c><00:07:47.039><c> up</c><00:07:47.199><c> to</c><00:07:47.440><c> inventory</c>
+
+00:07:50.629 --> 00:07:50.639 align:start position:0%
+ 
+ 
+
+00:07:50.639 --> 00:07:52.150 align:start position:0%
+ 
+method<00:07:51.039><c> so</c><00:07:51.280><c> this</c><00:07:51.440><c> is</c><00:07:51.520><c> going</c><00:07:51.520><c> to</c><00:07:51.599><c> take</c><00:07:51.840><c> in</c><00:07:52.000><c> an</c>
+
+00:07:52.150 --> 00:07:52.160 align:start position:0%
+method so this is going to take in an
+ 
+
+00:07:52.160 --> 00:07:54.950 align:start position:0%
+method so this is going to take in an
+inventory<00:07:53.039><c> item</c><00:07:53.520><c> data</c>
+
+00:07:54.950 --> 00:07:54.960 align:start position:0%
+inventory item data
+ 
+
+00:07:54.960 --> 00:07:58.950 align:start position:0%
+inventory item data
+called<00:07:55.280><c> data</c><00:07:55.919><c> and</c><00:07:56.160><c> an</c><00:07:56.319><c> amount</c>
+
+00:07:58.950 --> 00:07:58.960 align:start position:0%
+called data and an amount
+ 
+
+00:07:58.960 --> 00:08:01.029 align:start position:0%
+called data and an amount
+so<00:07:59.199><c> the</c><00:07:59.360><c> first</c><00:07:59.599><c> thing</c><00:07:59.919><c> we'll</c><00:08:00.080><c> do</c><00:08:00.319><c> is</c><00:08:00.479><c> when</c><00:08:00.639><c> we</c>
+
+00:08:01.029 --> 00:08:01.039 align:start position:0%
+so the first thing we'll do is when we
+ 
+
+00:08:01.039 --> 00:08:02.710 align:start position:0%
+so the first thing we'll do is when we
+pick<00:08:01.280><c> up</c><00:08:01.440><c> an</c><00:08:01.599><c> item</c>
+
+00:08:02.710 --> 00:08:02.720 align:start position:0%
+pick up an item
+ 
+
+00:08:02.720 --> 00:08:07.510 align:start position:0%
+pick up an item
+we'll<00:08:02.960><c> add</c><00:08:03.199><c> it</c><00:08:03.599><c> to</c><00:08:04.080><c> our</c><00:08:04.560><c> um</c>
+
+00:08:07.510 --> 00:08:07.520 align:start position:0%
+ 
+ 
+
+00:08:07.520 --> 00:08:09.589 align:start position:0%
+ 
+primary<00:08:08.319><c> inventory</c><00:08:08.879><c> system</c><00:08:09.199><c> which</c><00:08:09.360><c> is</c><00:08:09.520><c> our</c>
+
+00:08:09.589 --> 00:08:09.599 align:start position:0%
+primary inventory system which is our
+ 
+
+00:08:09.599 --> 00:08:13.670 align:start position:0%
+primary inventory system which is our
+hot<00:08:09.840><c> bar</c><00:08:10.080><c> in</c><00:08:10.160><c> this</c><00:08:10.319><c> case</c><00:08:10.639><c> so</c><00:08:10.879><c> add</c><00:08:11.360><c> to</c><00:08:11.680><c> inventory</c>
+
+00:08:13.670 --> 00:08:13.680 align:start position:0%
+hot bar in this case so add to inventory
+ 
+
+00:08:13.680 --> 00:08:16.869 align:start position:0%
+hot bar in this case so add to inventory
+and<00:08:13.840><c> pass</c><00:08:14.160><c> in</c><00:08:14.319><c> the</c><00:08:14.479><c> data</c><00:08:15.120><c> and</c><00:08:15.360><c> the</c><00:08:15.599><c> amount</c>
+
+00:08:16.869 --> 00:08:16.879 align:start position:0%
+and pass in the data and the amount
+ 
+
+00:08:16.879 --> 00:08:18.790 align:start position:0%
+and pass in the data and the amount
+remember<00:08:17.199><c> this</c><00:08:17.360><c> returns</c><00:08:17.919><c> true</c><00:08:18.240><c> or</c><00:08:18.400><c> false</c>
+
+00:08:18.790 --> 00:08:18.800 align:start position:0%
+remember this returns true or false
+ 
+
+00:08:18.800 --> 00:08:20.629 align:start position:0%
+remember this returns true or false
+depending<00:08:19.280><c> on</c><00:08:19.360><c> whether</c><00:08:19.759><c> it</c><00:08:19.840><c> was</c><00:08:20.000><c> successful</c>
+
+00:08:20.629 --> 00:08:20.639 align:start position:0%
+depending on whether it was successful
+ 
+
+00:08:20.639 --> 00:08:23.110 align:start position:0%
+depending on whether it was successful
+in<00:08:20.800><c> adding</c><00:08:21.199><c> it</c><00:08:21.280><c> to</c><00:08:21.520><c> it</c>
+
+00:08:23.110 --> 00:08:23.120 align:start position:0%
+in adding it to it
+ 
+
+00:08:23.120 --> 00:08:24.830 align:start position:0%
+in adding it to it
+so<00:08:23.360><c> if</c><00:08:23.599><c> it</c><00:08:23.759><c> was</c>
+
+00:08:24.830 --> 00:08:24.840 align:start position:0%
+so if it was
+ 
+
+00:08:24.840 --> 00:08:29.990 align:start position:0%
+so if it was
+successful<00:08:25.919><c> then</c><00:08:26.080><c> let's</c><00:08:26.319><c> just</c><00:08:26.800><c> return</c>
+
+00:08:29.990 --> 00:08:30.000 align:start position:0%
+ 
+ 
+
+00:08:30.000 --> 00:08:31.670 align:start position:0%
+ 
+true
+
+00:08:31.670 --> 00:08:31.680 align:start position:0%
+true
+ 
+
+00:08:31.680 --> 00:08:33.430 align:start position:0%
+true
+because<00:08:32.000><c> it</c><00:08:32.159><c> was</c><00:08:32.240><c> successfully</c><00:08:32.880><c> added</c><00:08:33.120><c> to</c><00:08:33.279><c> our</c>
+
+00:08:33.430 --> 00:08:33.440 align:start position:0%
+because it was successfully added to our
+ 
+
+00:08:33.440 --> 00:08:36.389 align:start position:0%
+because it was successfully added to our
+hotbar<00:08:34.399><c> if</c><00:08:34.560><c> it</c><00:08:34.640><c> returns</c><00:08:35.120><c> false</c><00:08:36.000><c> then</c><00:08:36.159><c> let's</c>
+
+00:08:36.389 --> 00:08:36.399 align:start position:0%
+hotbar if it returns false then let's
+ 
+
+00:08:36.399 --> 00:08:38.630 align:start position:0%
+hotbar if it returns false then let's
+try<00:08:36.560><c> and</c><00:08:36.719><c> add</c><00:08:36.880><c> it</c><00:08:37.039><c> to</c><00:08:37.519><c> our</c>
+
+00:08:38.630 --> 00:08:38.640 align:start position:0%
+try and add it to our
+ 
+
+00:08:38.640 --> 00:08:44.310 align:start position:0%
+try and add it to our
+secondary<00:08:39.200><c> inventory</c><00:08:39.599><c> system</c>
+
+00:08:44.310 --> 00:08:44.320 align:start position:0%
+ 
+ 
+
+00:08:44.320 --> 00:08:50.870 align:start position:0%
+ 
+passing<00:08:44.720><c> in</c><00:08:44.880><c> the</c><00:08:45.200><c> data</c><00:08:45.760><c> and</c><00:08:45.920><c> the</c><00:08:46.240><c> amount</c>
+
+00:08:50.870 --> 00:08:50.880 align:start position:0%
+ 
+ 
+
+00:08:50.880 --> 00:08:53.269 align:start position:0%
+ 
+and<00:08:51.040><c> we</c><00:08:51.200><c> can</c><00:08:51.279><c> just</c><00:08:51.440><c> return</c><00:08:52.320><c> true</c><00:08:53.040><c> if</c><00:08:53.200><c> it</c>
+
+00:08:53.269 --> 00:08:53.279 align:start position:0%
+and we can just return true if it
+ 
+
+00:08:53.279 --> 00:08:56.310 align:start position:0%
+and we can just return true if it
+manages<00:08:53.680><c> to</c><00:08:53.760><c> go</c><00:08:53.920><c> into</c><00:08:54.160><c> our</c><00:08:54.320><c> backpack</c>
+
+00:08:56.310 --> 00:08:56.320 align:start position:0%
+manages to go into our backpack
+ 
+
+00:08:56.320 --> 00:08:59.670 align:start position:0%
+manages to go into our backpack
+and<00:08:56.480><c> then</c><00:08:56.640><c> we</c><00:08:56.800><c> can</c><00:08:57.040><c> just</c><00:08:57.440><c> return</c><00:08:58.320><c> false</c>
+
+00:08:59.670 --> 00:08:59.680 align:start position:0%
+and then we can just return false
+ 
+
+00:08:59.680 --> 00:09:02.150 align:start position:0%
+and then we can just return false
+if<00:08:59.760><c> that</c><00:08:59.920><c> wasn't</c><00:09:00.320><c> successful</c><00:09:01.360><c> so</c><00:09:01.760><c> let's</c><00:09:01.920><c> go</c>
+
+00:09:02.150 --> 00:09:02.160 align:start position:0%
+if that wasn't successful so let's go
+ 
+
+00:09:02.160 --> 00:09:05.269 align:start position:0%
+if that wasn't successful so let's go
+back<00:09:02.399><c> over</c><00:09:02.720><c> to</c><00:09:03.200><c> our</c><00:09:03.920><c> script</c><00:09:04.320><c> here</c>
+
+00:09:05.269 --> 00:09:05.279 align:start position:0%
+back over to our script here
+ 
+
+00:09:05.279 --> 00:09:06.550 align:start position:0%
+back over to our script here
+and<00:09:05.360><c> what</c><00:09:05.519><c> we're</c><00:09:05.680><c> going</c><00:09:05.760><c> to</c><00:09:05.839><c> need</c><00:09:06.000><c> to</c><00:09:06.080><c> do</c><00:09:06.320><c> now</c>
+
+00:09:06.550 --> 00:09:06.560 align:start position:0%
+and what we're going to need to do now
+ 
+
+00:09:06.560 --> 00:09:09.350 align:start position:0%
+and what we're going to need to do now
+is<00:09:06.640><c> we</c><00:09:06.800><c> need</c><00:09:06.959><c> to</c><00:09:07.120><c> refactor</c><00:09:08.160><c> very</c><00:09:08.399><c> slightly</c><00:09:08.959><c> the</c>
+
+00:09:09.350 --> 00:09:09.360 align:start position:0%
+is we need to refactor very slightly the
+ 
+
+00:09:09.360 --> 00:09:11.670 align:start position:0%
+is we need to refactor very slightly the
+item<00:09:09.680><c> script</c><00:09:10.000><c> so</c><00:09:10.240><c> let's</c><00:09:10.640><c> choose</c><00:09:10.880><c> an</c><00:09:11.040><c> item</c><00:09:11.600><c> and</c>
+
+00:09:11.670 --> 00:09:11.680 align:start position:0%
+item script so let's choose an item and
+ 
+
+00:09:11.680 --> 00:09:14.150 align:start position:0%
+item script so let's choose an item and
+we'll<00:09:11.920><c> open</c><00:09:12.160><c> up</c><00:09:12.320><c> our</c><00:09:12.560><c> item</c><00:09:12.880><c> pickup</c><00:09:13.279><c> script</c><00:09:13.920><c> so</c>
+
+00:09:14.150 --> 00:09:14.160 align:start position:0%
+we'll open up our item pickup script so
+ 
+
+00:09:14.160 --> 00:09:17.030 align:start position:0%
+we'll open up our item pickup script so
+here<00:09:14.720><c> instead</c><00:09:14.959><c> of</c><00:09:15.120><c> saying</c><00:09:15.519><c> um</c>
+
+00:09:17.030 --> 00:09:17.040 align:start position:0%
+here instead of saying um
+ 
+
+00:09:17.040 --> 00:09:19.269 align:start position:0%
+here instead of saying um
+get<00:09:17.279><c> component</c><00:09:17.839><c> inventory</c><00:09:18.240><c> holder</c><00:09:19.040><c> we</c><00:09:19.200><c> can</c>
+
+00:09:19.269 --> 00:09:19.279 align:start position:0%
+get component inventory holder we can
+ 
+
+00:09:19.279 --> 00:09:21.190 align:start position:0%
+get component inventory holder we can
+just<00:09:19.519><c> get</c><00:09:19.760><c> component</c>
+
+00:09:21.190 --> 00:09:21.200 align:start position:0%
+just get component
+ 
+
+00:09:21.200 --> 00:09:24.550 align:start position:0%
+just get component
+uh<00:09:22.000><c> player</c><00:09:22.399><c> inventory</c><00:09:22.880><c> holder</c>
+
+00:09:24.550 --> 00:09:24.560 align:start position:0%
+uh player inventory holder
+ 
+
+00:09:24.560 --> 00:09:26.310 align:start position:0%
+uh player inventory holder
+because<00:09:24.800><c> this</c><00:09:25.040><c> is</c><00:09:25.120><c> a</c><00:09:25.279><c> var</c><00:09:25.760><c> it</c><00:09:25.839><c> doesn't</c><00:09:26.080><c> matter</c>
+
+00:09:26.310 --> 00:09:26.320 align:start position:0%
+because this is a var it doesn't matter
+ 
+
+00:09:26.320 --> 00:09:28.630 align:start position:0%
+because this is a var it doesn't matter
+we<00:09:26.399><c> don't</c><00:09:26.560><c> need</c><00:09:26.720><c> to</c><00:09:27.279><c> uh</c>
+
+00:09:28.630 --> 00:09:28.640 align:start position:0%
+we don't need to uh
+ 
+
+00:09:28.640 --> 00:09:32.150 align:start position:0%
+we don't need to uh
+make<00:09:28.800><c> a</c><00:09:28.880><c> new</c><00:09:29.040><c> type</c><00:09:29.360><c> this</c><00:09:29.680><c> this</c><00:09:29.839><c> still</c><00:09:30.080><c> works</c>
+
+00:09:32.150 --> 00:09:32.160 align:start position:0%
+make a new type this this still works
+ 
+
+00:09:32.160 --> 00:09:33.430 align:start position:0%
+make a new type this this still works
+and<00:09:32.240><c> then</c><00:09:32.399><c> instead</c><00:09:32.640><c> of</c><00:09:32.720><c> saying</c><00:09:33.040><c> primary</c>
+
+00:09:33.430 --> 00:09:33.440 align:start position:0%
+and then instead of saying primary
+ 
+
+00:09:33.440 --> 00:09:35.350 align:start position:0%
+and then instead of saying primary
+inventory<00:09:33.839><c> system</c><00:09:34.240><c> don't</c><00:09:34.399><c> add</c><00:09:34.640><c> to</c><00:09:34.800><c> inventory</c>
+
+00:09:35.350 --> 00:09:35.360 align:start position:0%
+inventory system don't add to inventory
+ 
+
+00:09:35.360 --> 00:09:36.870 align:start position:0%
+inventory system don't add to inventory
+we<00:09:35.519><c> can</c><00:09:35.680><c> just</c><00:09:35.839><c> call</c><00:09:36.080><c> add</c><00:09:36.240><c> to</c><00:09:36.399><c> inventory</c>
+
+00:09:36.870 --> 00:09:36.880 align:start position:0%
+we can just call add to inventory
+ 
+
+00:09:36.880 --> 00:09:40.310 align:start position:0%
+we can just call add to inventory
+directly<00:09:37.440><c> on</c><00:09:37.600><c> our</c><00:09:37.760><c> inventory</c><00:09:38.160><c> holder</c>
+
+00:09:40.310 --> 00:09:40.320 align:start position:0%
+directly on our inventory holder
+ 
+
+00:09:40.320 --> 00:09:42.470 align:start position:0%
+directly on our inventory holder
+and<00:09:40.399><c> that</c><00:09:40.640><c> should</c><00:09:40.880><c> just</c><00:09:41.120><c> work</c><00:09:41.519><c> as</c><00:09:41.680><c> is</c><00:09:41.920><c> so</c><00:09:42.240><c> let's</c>
+
+00:09:42.470 --> 00:09:42.480 align:start position:0%
+and that should just work as is so let's
+ 
+
+00:09:42.480 --> 00:09:44.790 align:start position:0%
+and that should just work as is so let's
+go<00:09:42.640><c> back</c><00:09:42.880><c> into</c><00:09:43.519><c> unity</c>
+
+00:09:44.790 --> 00:09:44.800 align:start position:0%
+go back into unity
+ 
+
+00:09:44.800 --> 00:09:47.430 align:start position:0%
+go back into unity
+and<00:09:44.959><c> we'll</c><00:09:45.120><c> hit</c><00:09:45.360><c> play</c>
+
+00:09:47.430 --> 00:09:47.440 align:start position:0%
+and we'll hit play
+ 
+
+00:09:47.440 --> 00:09:49.030 align:start position:0%
+and we'll hit play
+so<00:09:47.600><c> now</c><00:09:47.839><c> as</c><00:09:48.000><c> we</c><00:09:48.160><c> go</c><00:09:48.320><c> over</c><00:09:48.560><c> we'll</c><00:09:48.720><c> see</c><00:09:48.959><c> our</c>
+
+00:09:49.030 --> 00:09:49.040 align:start position:0%
+so now as we go over we'll see our
+ 
+
+00:09:49.040 --> 00:09:51.350 align:start position:0%
+so now as we go over we'll see our
+backpack<00:09:49.519><c> fills</c><00:09:49.760><c> up</c><00:09:49.920><c> with</c><00:09:50.160><c> potato</c><00:09:50.959><c> our</c><00:09:51.120><c> hot</c>
+
+00:09:51.350 --> 00:09:51.360 align:start position:0%
+backpack fills up with potato our hot
+ 
+
+00:09:51.360 --> 00:09:53.190 align:start position:0%
+backpack fills up with potato our hot
+bar<00:09:51.600><c> fills</c><00:09:51.839><c> up</c><00:09:51.920><c> with</c><00:09:52.000><c> a</c><00:09:52.080><c> potato</c>
+
+00:09:53.190 --> 00:09:53.200 align:start position:0%
+bar fills up with a potato
+ 
+
+00:09:53.200 --> 00:09:55.030 align:start position:0%
+bar fills up with a potato
+and<00:09:53.279><c> then</c><00:09:53.440><c> they</c><00:09:53.600><c> start</c><00:09:53.839><c> to</c><00:09:53.920><c> go</c><00:09:54.160><c> into</c><00:09:54.640><c> our</c>
+
+00:09:55.030 --> 00:09:55.040 align:start position:0%
+and then they start to go into our
+ 
+
+00:09:55.040 --> 00:09:56.630 align:start position:0%
+and then they start to go into our
+inventory
+
+00:09:56.630 --> 00:09:56.640 align:start position:0%
+inventory
+ 
+
+00:09:56.640 --> 00:09:58.680 align:start position:0%
+inventory
+you'll<00:09:56.880><c> notice</c><00:09:57.120><c> though</c><00:09:57.279><c> that</c><00:09:57.440><c> they</c><00:09:57.680><c> don't</c><00:09:58.240><c> um</c>
+
+00:09:58.680 --> 00:09:58.690 align:start position:0%
+you'll notice though that they don't um
+ 
+
+00:09:58.690 --> 00:09:59.829 align:start position:0%
+you'll notice though that they don't um
+[Music]
+
+00:09:59.829 --> 00:09:59.839 align:start position:0%
+[Music]
+ 
+
+00:09:59.839 --> 00:10:01.350 align:start position:0%
+[Music]
+refresh<00:10:00.399><c> while</c><00:10:00.560><c> we</c><00:10:00.720><c> go</c><00:10:00.800><c> over</c><00:10:00.959><c> it</c><00:10:01.040><c> we</c><00:10:01.120><c> have</c><00:10:01.279><c> to</c>
+
+00:10:01.350 --> 00:10:01.360 align:start position:0%
+refresh while we go over it we have to
+ 
+
+00:10:01.360 --> 00:10:03.910 align:start position:0%
+refresh while we go over it we have to
+open<00:10:01.600><c> up</c><00:10:01.760><c> our</c><00:10:02.000><c> backpack</c><00:10:02.480><c> again</c><00:10:02.720><c> so</c><00:10:02.959><c> let's</c>
+
+00:10:03.910 --> 00:10:03.920 align:start position:0%
+open up our backpack again so let's
+ 
+
+00:10:03.920 --> 00:10:06.389 align:start position:0%
+open up our backpack again so let's
+solve<00:10:04.240><c> that</c><00:10:04.800><c> next</c><00:10:05.440><c> to</c><00:10:05.600><c> do</c><00:10:05.760><c> that</c><00:10:05.920><c> let's</c><00:10:06.160><c> just</c><00:10:06.320><c> go</c>
+
+00:10:06.389 --> 00:10:06.399 align:start position:0%
+solve that next to do that let's just go
+ 
+
+00:10:06.399 --> 00:10:08.310 align:start position:0%
+solve that next to do that let's just go
+back<00:10:06.640><c> over</c><00:10:06.880><c> to</c><00:10:07.040><c> our</c><00:10:07.279><c> dynamic</c><00:10:07.839><c> inventory</c>
+
+00:10:08.310 --> 00:10:08.320 align:start position:0%
+back over to our dynamic inventory
+ 
+
+00:10:08.320 --> 00:10:10.230 align:start position:0%
+back over to our dynamic inventory
+display<00:10:09.200><c> and</c><00:10:09.360><c> because</c><00:10:09.600><c> this</c><00:10:09.760><c> works</c><00:10:10.079><c> in</c><00:10:10.160><c> the</c>
+
+00:10:10.230 --> 00:10:10.240 align:start position:0%
+display and because this works in the
+ 
+
+00:10:10.240 --> 00:10:11.990 align:start position:0%
+display and because this works in the
+same<00:10:10.399><c> way</c><00:10:10.560><c> as</c><00:10:10.640><c> our</c><00:10:10.800><c> static</c><00:10:11.200><c> inventory</c><00:10:11.600><c> display</c>
+
+00:10:11.990 --> 00:10:12.000 align:start position:0%
+same way as our static inventory display
+ 
+
+00:10:12.000 --> 00:10:13.670 align:start position:0%
+same way as our static inventory display
+though<00:10:12.320><c> where</c><00:10:12.560><c> we</c><00:10:12.720><c> make</c><00:10:12.959><c> a</c><00:10:13.040><c> new</c><00:10:13.200><c> dictionary</c>
+
+00:10:13.670 --> 00:10:13.680 align:start position:0%
+though where we make a new dictionary
+ 
+
+00:10:13.680 --> 00:10:15.670 align:start position:0%
+though where we make a new dictionary
+and<00:10:13.839><c> pair</c><00:10:14.160><c> up</c><00:10:14.320><c> a</c><00:10:14.399><c> ui</c><00:10:14.880><c> slot</c><00:10:15.120><c> with</c><00:10:15.279><c> one</c><00:10:15.440><c> of</c><00:10:15.600><c> our</c>
+
+00:10:15.670 --> 00:10:15.680 align:start position:0%
+and pair up a ui slot with one of our
+ 
+
+00:10:15.680 --> 00:10:18.069 align:start position:0%
+and pair up a ui slot with one of our
+system<00:10:16.160><c> slots</c>
+
+00:10:18.069 --> 00:10:18.079 align:start position:0%
+system slots
+ 
+
+00:10:18.079 --> 00:10:21.110 align:start position:0%
+system slots
+we<00:10:18.240><c> can</c><00:10:18.399><c> subscribe</c><00:10:19.120><c> to</c><00:10:19.519><c> our</c>
+
+00:10:21.110 --> 00:10:21.120 align:start position:0%
+we can subscribe to our
+ 
+
+00:10:21.120 --> 00:10:23.990 align:start position:0%
+we can subscribe to our
+inventory<00:10:21.760><c> system</c>
+
+00:10:23.990 --> 00:10:24.000 align:start position:0%
+inventory system
+ 
+
+00:10:24.000 --> 00:10:26.069 align:start position:0%
+inventory system
+method<00:10:24.480><c> uh</c>
+
+00:10:26.069 --> 00:10:26.079 align:start position:0%
+method uh
+ 
+
+00:10:26.079 --> 00:10:29.590 align:start position:0%
+method uh
+event<00:10:26.560><c> on</c><00:10:27.040><c> inventory</c><00:10:27.519><c> slot</c><00:10:27.839><c> changed</c>
+
+00:10:29.590 --> 00:10:29.600 align:start position:0%
+event on inventory slot changed
+ 
+
+00:10:29.600 --> 00:10:31.829 align:start position:0%
+event on inventory slot changed
+and<00:10:29.760><c> where</c><00:10:29.920><c> we</c><00:10:30.000><c> want</c><00:10:30.160><c> to</c><00:10:30.240><c> do</c><00:10:30.480><c> that</c><00:10:30.959><c> is</c><00:10:31.200><c> we</c><00:10:31.440><c> can</c>
+
+00:10:31.829 --> 00:10:31.839 align:start position:0%
+and where we want to do that is we can
+ 
+
+00:10:31.839 --> 00:10:34.389 align:start position:0%
+and where we want to do that is we can
+subscribe<00:10:32.320><c> to</c><00:10:32.480><c> it</c><00:10:32.640><c> in</c><00:10:32.880><c> our</c><00:10:33.600><c> assign</c><00:10:34.079><c> slot</c>
+
+00:10:34.389 --> 00:10:34.399 align:start position:0%
+subscribe to it in our assign slot
+ 
+
+00:10:34.399 --> 00:10:36.230 align:start position:0%
+subscribe to it in our assign slot
+function<00:10:35.040><c> so</c>
+
+00:10:36.230 --> 00:10:36.240 align:start position:0%
+function so
+ 
+
+00:10:36.240 --> 00:10:40.949 align:start position:0%
+function so
+underneath<00:10:36.720><c> inventory</c><00:10:37.279><c> to</c><00:10:37.519><c> display</c>
+
+00:10:40.949 --> 00:10:40.959 align:start position:0%
+ 
+ 
+
+00:10:40.959 --> 00:10:42.310 align:start position:0%
+ 
+essentially<00:10:41.440><c> we</c><00:10:41.519><c> can</c><00:10:41.600><c> do</c><00:10:41.760><c> that</c><00:10:41.920><c> in</c><00:10:42.079><c> the</c>
+
+00:10:42.310 --> 00:10:42.320 align:start position:0%
+essentially we can do that in the
+ 
+
+00:10:42.320 --> 00:10:43.829 align:start position:0%
+essentially we can do that in the
+refresh<00:10:42.720><c> dynamic</c><00:10:43.120><c> inventory</c><00:10:43.440><c> where</c><00:10:43.600><c> we</c>
+
+00:10:43.829 --> 00:10:43.839 align:start position:0%
+refresh dynamic inventory where we
+ 
+
+00:10:43.839 --> 00:10:46.389 align:start position:0%
+refresh dynamic inventory where we
+assign<00:10:44.320><c> our</c><00:10:44.640><c> inventory</c><00:10:45.120><c> system</c><00:10:45.519><c> here</c>
+
+00:10:46.389 --> 00:10:46.399 align:start position:0%
+assign our inventory system here
+ 
+
+00:10:46.399 --> 00:10:48.630 align:start position:0%
+assign our inventory system here
+what<00:10:46.560><c> we</c><00:10:46.640><c> can</c><00:10:46.800><c> then</c><00:10:46.959><c> say</c><00:10:47.200><c> is</c><00:10:47.360><c> inventory</c><00:10:47.839><c> system</c>
+
+00:10:48.630 --> 00:10:48.640 align:start position:0%
+what we can then say is inventory system
+ 
+
+00:10:48.640 --> 00:10:49.590 align:start position:0%
+what we can then say is inventory system
+dot
+
+00:10:49.590 --> 00:10:49.600 align:start position:0%
+dot
+ 
+
+00:10:49.600 --> 00:10:51.509 align:start position:0%
+dot
+on<00:10:49.760><c> inventory</c><00:10:50.160><c> slot</c><00:10:50.480><c> changed</c><00:10:50.959><c> and</c><00:10:51.040><c> then</c><00:10:51.279><c> just</c>
+
+00:10:51.509 --> 00:10:51.519 align:start position:0%
+on inventory slot changed and then just
+ 
+
+00:10:51.519 --> 00:10:54.949 align:start position:0%
+on inventory slot changed and then just
+subscribe<00:10:52.240><c> our</c><00:10:52.640><c> update</c>
+
+00:10:54.949 --> 00:10:54.959 align:start position:0%
+subscribe our update
+ 
+
+00:10:54.959 --> 00:10:56.069 align:start position:0%
+subscribe our update
+slot
+
+00:10:56.069 --> 00:10:56.079 align:start position:0%
+slot
+ 
+
+00:10:56.079 --> 00:10:58.389 align:start position:0%
+slot
+method<00:10:56.560><c> to</c><00:10:56.800><c> it</c>
+
+00:10:58.389 --> 00:10:58.399 align:start position:0%
+method to it
+ 
+
+00:10:58.399 --> 00:11:00.230 align:start position:0%
+method to it
+and<00:10:58.480><c> just</c><00:10:58.800><c> remind</c><00:10:59.120><c> ourselves</c><00:10:59.600><c> when</c><00:10:59.920><c> that's</c>
+
+00:11:00.230 --> 00:11:00.240 align:start position:0%
+and just remind ourselves when that's
+ 
+
+00:11:00.240 --> 00:11:01.590 align:start position:0%
+and just remind ourselves when that's
+called<00:11:00.560><c> it'll</c><00:11:00.800><c> look</c><00:11:01.040><c> through</c><00:11:01.200><c> the</c><00:11:01.279><c> slot</c>
+
+00:11:01.590 --> 00:11:01.600 align:start position:0%
+called it'll look through the slot
+ 
+
+00:11:01.600 --> 00:11:02.870 align:start position:0%
+called it'll look through the slot
+dictionary
+
+00:11:02.870 --> 00:11:02.880 align:start position:0%
+dictionary
+ 
+
+00:11:02.880 --> 00:11:06.150 align:start position:0%
+dictionary
+and<00:11:03.120><c> if</c><00:11:03.440><c> the</c><00:11:03.760><c> system</c><00:11:04.560><c> slot</c>
+
+00:11:06.150 --> 00:11:06.160 align:start position:0%
+and if the system slot
+ 
+
+00:11:06.160 --> 00:11:09.430 align:start position:0%
+and if the system slot
+exists<00:11:07.120><c> then</c><00:11:07.279><c> we'll</c><00:11:07.519><c> update</c><00:11:07.839><c> the</c><00:11:07.920><c> ui</c><00:11:08.399><c> slot</c><00:11:09.200><c> for</c>
+
+00:11:09.430 --> 00:11:09.440 align:start position:0%
+exists then we'll update the ui slot for
+ 
+
+00:11:09.440 --> 00:11:12.069 align:start position:0%
+exists then we'll update the ui slot for
+that<00:11:09.680><c> ui</c><00:11:10.399><c> element</c><00:11:10.800><c> so</c><00:11:10.959><c> we</c><00:11:11.120><c> can</c><00:11:11.360><c> come</c><00:11:11.600><c> back</c><00:11:11.839><c> over</c>
+
+00:11:12.069 --> 00:11:12.079 align:start position:0%
+that ui element so we can come back over
+ 
+
+00:11:12.079 --> 00:11:15.350 align:start position:0%
+that ui element so we can come back over
+to<00:11:12.240><c> our</c><00:11:12.320><c> dynamic</c><00:11:12.720><c> inventory</c><00:11:13.040><c> display</c>
+
+00:11:15.350 --> 00:11:15.360 align:start position:0%
+to our dynamic inventory display
+ 
+
+00:11:15.360 --> 00:11:17.430 align:start position:0%
+to our dynamic inventory display
+and<00:11:15.600><c> we</c><00:11:15.760><c> just</c><00:11:15.839><c> want</c><00:11:16.000><c> to</c><00:11:16.079><c> make</c><00:11:16.399><c> sure</c><00:11:17.040><c> that</c><00:11:17.200><c> this</c>
+
+00:11:17.430 --> 00:11:17.440 align:start position:0%
+and we just want to make sure that this
+ 
+
+00:11:17.440 --> 00:11:19.990 align:start position:0%
+and we just want to make sure that this
+is<00:11:17.680><c> valid</c><00:11:18.240><c> first</c><00:11:18.560><c> otherwise</c><00:11:18.959><c> we</c><00:11:19.519><c> may</c><00:11:19.680><c> get</c><00:11:19.839><c> an</c>
+
+00:11:19.990 --> 00:11:20.000 align:start position:0%
+is valid first otherwise we may get an
+ 
+
+00:11:20.000 --> 00:11:21.829 align:start position:0%
+is valid first otherwise we may get an
+error<00:11:20.240><c> so</c><00:11:20.399><c> we</c><00:11:20.480><c> can</c><00:11:20.560><c> just</c><00:11:20.720><c> say</c><00:11:20.959><c> if</c><00:11:21.440><c> inventory</c>
+
+00:11:21.829 --> 00:11:21.839 align:start position:0%
+error so we can just say if inventory
+ 
+
+00:11:21.839 --> 00:11:23.829 align:start position:0%
+error so we can just say if inventory
+system
+
+00:11:23.829 --> 00:11:23.839 align:start position:0%
+system
+ 
+
+00:11:23.839 --> 00:11:25.990 align:start position:0%
+system
+is<00:11:24.079><c> not</c><00:11:24.320><c> equal</c><00:11:24.880><c> to</c><00:11:25.200><c> null</c>
+
+00:11:25.990 --> 00:11:26.000 align:start position:0%
+is not equal to null
+ 
+
+00:11:26.000 --> 00:11:28.069 align:start position:0%
+is not equal to null
+then<00:11:26.560><c> let's</c><00:11:26.800><c> subscribe</c><00:11:27.440><c> to</c><00:11:27.680><c> it's</c><00:11:27.920><c> on</c>
+
+00:11:28.069 --> 00:11:28.079 align:start position:0%
+then let's subscribe to it's on
+ 
+
+00:11:28.079 --> 00:11:29.829 align:start position:0%
+then let's subscribe to it's on
+inventory<00:11:28.480><c> slot</c><00:11:28.800><c> changed</c>
+
+00:11:29.829 --> 00:11:29.839 align:start position:0%
+inventory slot changed
+ 
+
+00:11:29.839 --> 00:11:31.590 align:start position:0%
+inventory slot changed
+event
+
+00:11:31.590 --> 00:11:31.600 align:start position:0%
+event
+ 
+
+00:11:31.600 --> 00:11:34.069 align:start position:0%
+event
+let's<00:11:31.839><c> just</c><00:11:32.000><c> copy</c><00:11:32.320><c> this</c>
+
+00:11:34.069 --> 00:11:34.079 align:start position:0%
+let's just copy this
+ 
+
+00:11:34.079 --> 00:11:36.310 align:start position:0%
+let's just copy this
+and<00:11:34.240><c> then</c><00:11:34.320><c> when</c><00:11:34.480><c> we</c><00:11:34.720><c> close</c><00:11:35.120><c> the</c><00:11:35.279><c> panel</c>
+
+00:11:36.310 --> 00:11:36.320 align:start position:0%
+and then when we close the panel
+ 
+
+00:11:36.320 --> 00:11:38.310 align:start position:0%
+and then when we close the panel
+with<00:11:36.480><c> the</c><00:11:36.640><c> escape</c><00:11:37.120><c> key</c><00:11:37.519><c> we</c><00:11:37.680><c> can</c><00:11:37.839><c> call</c><00:11:38.160><c> on</c>
+
+00:11:38.310 --> 00:11:38.320 align:start position:0%
+with the escape key we can call on
+ 
+
+00:11:38.320 --> 00:11:42.470 align:start position:0%
+with the escape key we can call on
+disable
+
+00:11:42.470 --> 00:11:42.480 align:start position:0%
+ 
+ 
+
+00:11:42.480 --> 00:11:44.710 align:start position:0%
+ 
+and<00:11:42.720><c> we</c><00:11:42.880><c> can</c><00:11:43.120><c> just</c><00:11:43.519><c> unsubscribe</c><00:11:44.480><c> from</c><00:11:44.640><c> the</c>
+
+00:11:44.710 --> 00:11:44.720 align:start position:0%
+and we can just unsubscribe from the
+ 
+
+00:11:44.720 --> 00:11:47.430 align:start position:0%
+and we can just unsubscribe from the
+event<00:11:45.040><c> so</c><00:11:45.279><c> let's</c><00:11:46.000><c> hit</c><00:11:46.320><c> save</c><00:11:46.800><c> go</c><00:11:46.959><c> back</c><00:11:47.120><c> over</c><00:11:47.360><c> to</c>
+
+00:11:47.430 --> 00:11:47.440 align:start position:0%
+event so let's hit save go back over to
+ 
+
+00:11:47.440 --> 00:11:54.069 align:start position:0%
+event so let's hit save go back over to
+unity
+
+00:11:54.069 --> 00:11:54.079 align:start position:0%
+ 
+ 
+
+00:11:54.079 --> 00:11:56.790 align:start position:0%
+ 
+so<00:11:54.240><c> we</c><00:11:54.320><c> can</c><00:11:54.480><c> pick</c><00:11:54.639><c> up</c><00:11:54.800><c> all</c><00:11:54.880><c> these</c><00:11:55.040><c> potatoes</c>
+
+00:11:56.790 --> 00:11:56.800 align:start position:0%
+so we can pick up all these potatoes
+ 
+
+00:11:56.800 --> 00:11:58.550 align:start position:0%
+so we can pick up all these potatoes
+and<00:11:56.959><c> you'll</c><00:11:57.040><c> see</c><00:11:57.200><c> that</c><00:11:57.440><c> as</c><00:11:57.680><c> they</c><00:11:58.160><c> start</c><00:11:58.399><c> to</c><00:11:58.480><c> go</c>
+
+00:11:58.550 --> 00:11:58.560 align:start position:0%
+and you'll see that as they start to go
+ 
+
+00:11:58.560 --> 00:11:59.829 align:start position:0%
+and you'll see that as they start to go
+into<00:11:58.720><c> the</c><00:11:58.800><c> inventory</c>
+
+00:11:59.829 --> 00:11:59.839 align:start position:0%
+into the inventory
+ 
+
+00:11:59.839 --> 00:12:01.350 align:start position:0%
+into the inventory
+they<00:12:00.079><c> get</c>
+
+00:12:01.350 --> 00:12:01.360 align:start position:0%
+they get
+ 
+
+00:12:01.360 --> 00:12:03.190 align:start position:0%
+they get
+as<00:12:01.600><c> if</c><00:12:01.839><c> it's</c><00:12:01.920><c> open</c><00:12:02.240><c> while</c><00:12:02.399><c> we</c><00:12:02.480><c> walk</c><00:12:02.720><c> over</c><00:12:02.959><c> them</c>
+
+00:12:03.190 --> 00:12:03.200 align:start position:0%
+as if it's open while we walk over them
+ 
+
+00:12:03.200 --> 00:12:05.110 align:start position:0%
+as if it's open while we walk over them
+it<00:12:03.360><c> fills</c><00:12:03.680><c> up</c><00:12:03.760><c> the</c><00:12:03.920><c> inventory</c>
+
+00:12:05.110 --> 00:12:05.120 align:start position:0%
+it fills up the inventory
+ 
+
+00:12:05.120 --> 00:12:07.430 align:start position:0%
+it fills up the inventory
+and<00:12:05.279><c> press</c><00:12:05.519><c> escape</c><00:12:05.920><c> and</c><00:12:06.000><c> close</c><00:12:06.320><c> that</c>
+
+00:12:07.430 --> 00:12:07.440 align:start position:0%
+and press escape and close that
+ 
+
+00:12:07.440 --> 00:12:12.470 align:start position:0%
+and press escape and close that
+come<00:12:07.680><c> over</c><00:12:07.920><c> to</c><00:12:08.240><c> our</c><00:12:08.800><c> chest</c>
+
+00:12:12.470 --> 00:12:12.480 align:start position:0%
+ 
+ 
+
+00:12:12.480 --> 00:12:14.790 align:start position:0%
+ 
+put<00:12:12.720><c> in</c><00:12:13.040><c> the</c><00:12:13.360><c> potatoes</c>
+
+00:12:14.790 --> 00:12:14.800 align:start position:0%
+put in the potatoes
+ 
+
+00:12:14.800 --> 00:12:16.790 align:start position:0%
+put in the potatoes
+and<00:12:14.959><c> pick</c><00:12:15.200><c> up</c><00:12:15.279><c> some</c><00:12:15.519><c> tomatoes</c><00:12:16.240><c> put</c><00:12:16.480><c> them</c><00:12:16.639><c> in</c>
+
+00:12:16.790 --> 00:12:16.800 align:start position:0%
+and pick up some tomatoes put them in
+ 
+
+00:12:16.800 --> 00:12:18.870 align:start position:0%
+and pick up some tomatoes put them in
+there
+
+00:12:18.870 --> 00:12:18.880 align:start position:0%
+there
+ 
+
+00:12:18.880 --> 00:12:25.190 align:start position:0%
+there
+and<00:12:19.040><c> close</c><00:12:19.440><c> that</c>
+
+00:12:25.190 --> 00:12:25.200 align:start position:0%
+ 
+ 
+
+00:12:25.200 --> 00:12:26.710 align:start position:0%
+ 
+you<00:12:25.360><c> see</c><00:12:25.519><c> they're</c><00:12:25.760><c> all</c><00:12:26.000><c> still</c><00:12:26.240><c> there</c><00:12:26.560><c> we</c>
+
+00:12:26.710 --> 00:12:26.720 align:start position:0%
+you see they're all still there we
+ 
+
+00:12:26.720 --> 00:12:28.790 align:start position:0%
+you see they're all still there we
+haven't<00:12:26.959><c> got</c><00:12:27.200><c> any</c><00:12:27.440><c> errors</c><00:12:27.839><c> in</c><00:12:28.000><c> our</c><00:12:28.320><c> console</c>
+
+00:12:28.790 --> 00:12:28.800 align:start position:0%
+haven't got any errors in our console
+ 
+
+00:12:28.800 --> 00:12:29.590 align:start position:0%
+haven't got any errors in our console
+log
+
+00:12:29.590 --> 00:12:29.600 align:start position:0%
+log
+ 
+
+00:12:29.600 --> 00:12:31.030 align:start position:0%
+log
+and<00:12:29.680><c> that's</c><00:12:29.920><c> not</c><00:12:30.160><c> filling</c><00:12:30.480><c> up</c><00:12:30.639><c> this</c><00:12:30.800><c> panel</c>
+
+00:12:31.030 --> 00:12:31.040 align:start position:0%
+and that's not filling up this panel
+ 
+
+00:12:31.040 --> 00:12:32.310 align:start position:0%
+and that's not filling up this panel
+because<00:12:31.200><c> this</c><00:12:31.440><c> is</c><00:12:31.519><c> a</c><00:12:31.600><c> different</c><00:12:31.920><c> inventory</c>
+
+00:12:32.310 --> 00:12:32.320 align:start position:0%
+because this is a different inventory
+ 
+
+00:12:32.320 --> 00:12:34.150 align:start position:0%
+because this is a different inventory
+system<00:12:32.720><c> so</c><00:12:32.800><c> we</c><00:12:32.959><c> can</c><00:12:33.120><c> close</c><00:12:33.360><c> that</c><00:12:33.600><c> open</c><00:12:33.839><c> up</c><00:12:34.000><c> our</c>
+
+00:12:34.150 --> 00:12:34.160 align:start position:0%
+system so we can close that open up our
+ 
+
+00:12:34.160 --> 00:12:35.990 align:start position:0%
+system so we can close that open up our
+bag<00:12:34.399><c> and</c><00:12:34.480><c> there's</c><00:12:34.720><c> the</c><00:12:34.880><c> tomato</c><00:12:35.279><c> that</c><00:12:35.600><c> just</c><00:12:35.839><c> got</c>
+
+00:12:35.990 --> 00:12:36.000 align:start position:0%
+bag and there's the tomato that just got
+ 
+
+00:12:36.000 --> 00:12:37.750 align:start position:0%
+bag and there's the tomato that just got
+picked<00:12:36.320><c> up</c>
+
+00:12:37.750 --> 00:12:37.760 align:start position:0%
+picked up
+ 
+
+00:12:37.760 --> 00:12:39.269 align:start position:0%
+picked up
+so<00:12:37.839><c> that</c><00:12:38.000><c> was</c><00:12:38.160><c> all</c><00:12:38.320><c> working</c><00:12:38.560><c> that's</c><00:12:38.800><c> a</c><00:12:38.959><c> very</c>
+
+00:12:39.269 --> 00:12:39.279 align:start position:0%
+so that was all working that's a very
+ 
+
+00:12:39.279 --> 00:12:41.509 align:start position:0%
+so that was all working that's a very
+simple<00:12:40.000><c> little</c><00:12:40.320><c> change</c><00:12:40.639><c> but</c><00:12:40.800><c> that</c><00:12:40.880><c> allows</c><00:12:41.279><c> you</c>
+
+00:12:41.509 --> 00:12:41.519 align:start position:0%
+simple little change but that allows you
+ 
+
+00:12:41.519 --> 00:12:42.790 align:start position:0%
+simple little change but that allows you
+to<00:12:41.839><c> kind</c><00:12:42.000><c> of</c>
+
+00:12:42.790 --> 00:12:42.800 align:start position:0%
+to kind of
+ 
+
+00:12:42.800 --> 00:12:44.150 align:start position:0%
+to kind of
+carry<00:12:43.120><c> and</c><00:12:43.200><c> walk</c><00:12:43.440><c> around</c><00:12:43.600><c> with</c><00:12:43.760><c> your</c><00:12:43.839><c> bags</c>
+
+00:12:44.150 --> 00:12:44.160 align:start position:0%
+carry and walk around with your bags
+ 
+
+00:12:44.160 --> 00:12:46.230 align:start position:0%
+carry and walk around with your bags
+open<00:12:44.880><c> so</c><00:12:45.040><c> instead</c><00:12:45.279><c> of</c><00:12:45.360><c> having</c><00:12:45.680><c> the</c><00:12:45.760><c> backpack</c>
+
+00:12:46.230 --> 00:12:46.240 align:start position:0%
+open so instead of having the backpack
+ 
+
+00:12:46.240 --> 00:12:48.150 align:start position:0%
+open so instead of having the backpack
+be<00:12:46.399><c> a</c><00:12:46.480><c> dynamic</c><00:12:46.959><c> inventory</c><00:12:47.360><c> system</c><00:12:47.760><c> you</c><00:12:47.920><c> could</c>
+
+00:12:48.150 --> 00:12:48.160 align:start position:0%
+be a dynamic inventory system you could
+ 
+
+00:12:48.160 --> 00:12:51.430 align:start position:0%
+be a dynamic inventory system you could
+set<00:12:48.399><c> it</c><00:12:48.560><c> up</c><00:12:49.200><c> as</c><00:12:49.360><c> a</c><00:12:49.519><c> static</c><00:12:50.079><c> inventory</c><00:12:50.560><c> system</c>
+
+00:12:51.430 --> 00:12:51.440 align:start position:0%
+set it up as a static inventory system
+ 
+
+00:12:51.440 --> 00:12:53.269 align:start position:0%
+set it up as a static inventory system
+if<00:12:51.600><c> you</c><00:12:51.680><c> know</c><00:12:51.839><c> that</c><00:12:52.000><c> your</c><00:12:52.639><c> backpack's</c><00:12:53.120><c> never</c>
+
+00:12:53.269 --> 00:12:53.279 align:start position:0%
+if you know that your backpack's never
+ 
+
+00:12:53.279 --> 00:12:56.230 align:start position:0%
+if you know that your backpack's never
+going<00:12:53.440><c> to</c><00:12:53.519><c> change</c><00:12:54.000><c> throughout</c><00:12:54.320><c> the</c><00:12:54.480><c> game</c>
+
+00:12:56.230 --> 00:12:56.240 align:start position:0%
+going to change throughout the game
+ 
+
+00:12:56.240 --> 00:12:58.150 align:start position:0%
+going to change throughout the game
+in<00:12:56.399><c> terms</c><00:12:56.720><c> of</c><00:12:56.880><c> size</c><00:12:57.279><c> you</c><00:12:57.440><c> could</c><00:12:57.600><c> set</c><00:12:57.839><c> it</c><00:12:57.920><c> up</c>
+
+00:12:58.150 --> 00:12:58.160 align:start position:0%
+in terms of size you could set it up
+ 
+
+00:12:58.160 --> 00:13:00.949 align:start position:0%
+in terms of size you could set it up
+obviously<00:12:58.560><c> as</c><00:12:58.800><c> a</c><00:12:59.040><c> static</c><00:12:59.839><c> um</c>
+
+00:13:00.949 --> 00:13:00.959 align:start position:0%
+obviously as a static um
+ 
+
+00:13:00.959 --> 00:13:03.030 align:start position:0%
+obviously as a static um
+system<00:13:01.360><c> just</c><00:13:01.519><c> like</c><00:13:01.680><c> the</c><00:13:01.839><c> player</c><00:13:02.079><c> hotbar</c><00:13:02.880><c> and</c>
+
+00:13:03.030 --> 00:13:03.040 align:start position:0%
+system just like the player hotbar and
+ 
+
+00:13:03.040 --> 00:13:05.190 align:start position:0%
+system just like the player hotbar and
+then<00:13:03.200><c> that</c><00:13:03.440><c> would</c><00:13:03.760><c> allow</c><00:13:04.320><c> for</c>
+
+00:13:05.190 --> 00:13:05.200 align:start position:0%
+then that would allow for
+ 
+
+00:13:05.200 --> 00:13:07.030 align:start position:0%
+then that would allow for
+you<00:13:05.279><c> know</c><00:13:05.519><c> positioning</c><00:13:06.160><c> say</c><00:13:06.320><c> your</c><00:13:06.480><c> backpack</c>
+
+00:13:07.030 --> 00:13:07.040 align:start position:0%
+you know positioning say your backpack
+ 
+
+00:13:07.040 --> 00:13:08.870 align:start position:0%
+you know positioning say your backpack
+up<00:13:07.120><c> here</c><00:13:07.360><c> then</c><00:13:07.519><c> you</c><00:13:07.600><c> could</c><00:13:07.839><c> redesign</c><00:13:08.560><c> the</c>
+
+00:13:08.870 --> 00:13:08.880 align:start position:0%
+up here then you could redesign the
+ 
+
+00:13:08.880 --> 00:13:11.350 align:start position:0%
+up here then you could redesign the
+inventory<00:13:09.440><c> the</c><00:13:09.600><c> chest</c><00:13:10.079><c> system</c><00:13:10.560><c> to</c><00:13:10.880><c> come</c><00:13:11.120><c> over</c>
+
+00:13:11.350 --> 00:13:11.360 align:start position:0%
+inventory the chest system to come over
+ 
+
+00:13:11.360 --> 00:13:13.269 align:start position:0%
+inventory the chest system to come over
+here<00:13:12.000><c> and</c><00:13:12.079><c> you</c><00:13:12.240><c> may</c><00:13:12.399><c> want</c><00:13:12.560><c> to</c><00:13:12.639><c> move</c><00:13:12.880><c> stuff</c><00:13:13.120><c> from</c>
+
+00:13:13.269 --> 00:13:13.279 align:start position:0%
+here and you may want to move stuff from
+ 
+
+00:13:13.279 --> 00:13:15.030 align:start position:0%
+here and you may want to move stuff from
+your<00:13:13.440><c> backpack</c><00:13:13.920><c> over</c><00:13:14.240><c> to</c><00:13:14.399><c> your</c><00:13:14.639><c> inventory</c>
+
+00:13:15.030 --> 00:13:15.040 align:start position:0%
+your backpack over to your inventory
+ 
+
+00:13:15.040 --> 00:13:17.509 align:start position:0%
+your backpack over to your inventory
+system<00:13:15.920><c> so</c><00:13:16.160><c> what</c><00:13:16.320><c> you</c><00:13:16.480><c> could</c><00:13:16.720><c> do</c><00:13:16.959><c> there</c><00:13:17.200><c> is</c><00:13:17.360><c> if</c>
+
+00:13:17.509 --> 00:13:17.519 align:start position:0%
+system so what you could do there is if
+ 
+
+00:13:17.519 --> 00:13:19.910 align:start position:0%
+system so what you could do there is if
+we<00:13:17.839><c> go</c><00:13:18.079><c> over</c><00:13:18.320><c> to</c><00:13:18.639><c> our</c><00:13:18.880><c> dynamic</c><00:13:19.440><c> inventory</c>
+
+00:13:19.910 --> 00:13:19.920 align:start position:0%
+we go over to our dynamic inventory
+ 
+
+00:13:19.920 --> 00:13:23.350 align:start position:0%
+we go over to our dynamic inventory
+display
+
+00:13:23.350 --> 00:13:23.360 align:start position:0%
+ 
+ 
+
+00:13:23.360 --> 00:13:25.910 align:start position:0%
+ 
+and<00:13:23.440><c> then</c><00:13:23.600><c> let's</c><00:13:23.920><c> set</c><00:13:24.560><c> the</c><00:13:24.959><c> constraint</c><00:13:25.519><c> count</c>
+
+00:13:25.910 --> 00:13:25.920 align:start position:0%
+and then let's set the constraint count
+ 
+
+00:13:25.920 --> 00:13:28.230 align:start position:0%
+and then let's set the constraint count
+to<00:13:26.320><c> five</c><00:13:26.639><c> columns</c><00:13:27.200><c> instead</c><00:13:27.519><c> of</c><00:13:27.680><c> ten</c><00:13:27.920><c> so</c><00:13:28.079><c> it's</c>
+
+00:13:28.230 --> 00:13:28.240 align:start position:0%
+to five columns instead of ten so it's
+ 
+
+00:13:28.240 --> 00:13:31.190 align:start position:0%
+to five columns instead of ten so it's
+not<00:13:28.399><c> as</c><00:13:28.560><c> long</c><00:13:29.200><c> it's</c><00:13:29.440><c> like</c><00:13:29.680><c> half</c><00:13:30.000><c> the</c><00:13:30.160><c> width</c><00:13:30.800><c> and</c>
+
+00:13:31.190 --> 00:13:31.200 align:start position:0%
+not as long it's like half the width and
+ 
+
+00:13:31.200 --> 00:13:33.509 align:start position:0%
+not as long it's like half the width and
+let's<00:13:31.600><c> anchor</c><00:13:32.000><c> it</c><00:13:32.240><c> to</c><00:13:32.480><c> the</c><00:13:32.639><c> right</c><00:13:33.040><c> side</c><00:13:33.360><c> of</c><00:13:33.440><c> the</c>
+
+00:13:33.509 --> 00:13:33.519 align:start position:0%
+let's anchor it to the right side of the
+ 
+
+00:13:33.519 --> 00:13:35.670 align:start position:0%
+let's anchor it to the right side of the
+screen
+
+00:13:35.670 --> 00:13:35.680 align:start position:0%
+screen
+ 
+
+00:13:35.680 --> 00:13:38.230 align:start position:0%
+screen
+and<00:13:35.839><c> we</c><00:13:36.000><c> can</c><00:13:36.079><c> drag</c><00:13:36.320><c> over</c><00:13:36.560><c> the</c><00:13:37.279><c> x</c><00:13:37.680><c> column</c><00:13:38.079><c> so</c>
+
+00:13:38.230 --> 00:13:38.240 align:start position:0%
+and we can drag over the x column so
+ 
+
+00:13:38.240 --> 00:13:40.069 align:start position:0%
+and we can drag over the x column so
+it's<00:13:38.480><c> positioned</c><00:13:39.040><c> kind</c><00:13:39.199><c> of</c><00:13:39.360><c> over</c><00:13:39.600><c> here</c><00:13:39.839><c> on</c><00:13:39.920><c> the</c>
+
+00:13:40.069 --> 00:13:40.079 align:start position:0%
+it's positioned kind of over here on the
+ 
+
+00:13:40.079 --> 00:13:43.829 align:start position:0%
+it's positioned kind of over here on the
+right<00:13:40.240><c> hand</c><00:13:40.480><c> side</c>
+
+00:13:43.829 --> 00:13:43.839 align:start position:0%
+ 
+ 
+
+00:13:43.839 --> 00:13:46.470 align:start position:0%
+ 
+let's<00:13:44.079><c> do</c><00:13:44.399><c> 450</c><00:13:45.360><c> why</c><00:13:45.600><c> not</c>
+
+00:13:46.470 --> 00:13:46.480 align:start position:0%
+let's do 450 why not
+ 
+
+00:13:46.480 --> 00:13:48.230 align:start position:0%
+let's do 450 why not
+so<00:13:46.639><c> we</c><00:13:46.800><c> know</c><00:13:46.959><c> this</c><00:13:47.199><c> is</c><00:13:47.279><c> going</c><00:13:47.440><c> to</c><00:13:47.519><c> be</c><00:13:47.760><c> the</c><00:13:47.920><c> width</c>
+
+00:13:48.230 --> 00:13:48.240 align:start position:0%
+so we know this is going to be the width
+ 
+
+00:13:48.240 --> 00:13:49.509 align:start position:0%
+so we know this is going to be the width
+of<00:13:48.399><c> it</c>
+
+00:13:49.509 --> 00:13:49.519 align:start position:0%
+of it
+ 
+
+00:13:49.519 --> 00:13:51.189 align:start position:0%
+of it
+so<00:13:49.760><c> let's</c><00:13:49.920><c> just</c><00:13:50.320><c> see</c><00:13:50.480><c> what</c><00:13:50.560><c> that</c><00:13:50.720><c> looks</c><00:13:50.959><c> like</c>
+
+00:13:51.189 --> 00:13:51.199 align:start position:0%
+so let's just see what that looks like
+ 
+
+00:13:51.199 --> 00:13:53.829 align:start position:0%
+so let's just see what that looks like
+when<00:13:51.360><c> we</c><00:13:51.519><c> actually</c><00:13:52.000><c> open</c><00:13:52.320><c> it</c><00:13:52.480><c> up</c>
+
+00:13:53.829 --> 00:13:53.839 align:start position:0%
+when we actually open it up
+ 
+
+00:13:53.839 --> 00:13:55.110 align:start position:0%
+when we actually open it up
+so<00:13:54.000><c> we've</c><00:13:54.160><c> got</c><00:13:54.399><c> our</c>
+
+00:13:55.110 --> 00:13:55.120 align:start position:0%
+so we've got our
+ 
+
+00:13:55.120 --> 00:13:57.750 align:start position:0%
+so we've got our
+dynamic<00:13:55.600><c> inventory</c><00:13:56.160><c> displayed</c><00:13:56.800><c> there</c><00:13:57.600><c> that</c>
+
+00:13:57.750 --> 00:13:57.760 align:start position:0%
+dynamic inventory displayed there that
+ 
+
+00:13:57.760 --> 00:13:59.269 align:start position:0%
+dynamic inventory displayed there that
+was<00:13:57.920><c> when</c><00:13:58.079><c> i</c><00:13:58.160><c> pressed</c><00:13:58.399><c> b</c><00:13:58.560><c> on</c><00:13:58.639><c> the</c><00:13:58.720><c> keyboard</c><00:13:59.120><c> it</c>
+
+00:13:59.269 --> 00:13:59.279 align:start position:0%
+was when i pressed b on the keyboard it
+ 
+
+00:13:59.279 --> 00:14:04.389 align:start position:0%
+was when i pressed b on the keyboard it
+opened<00:13:59.760><c> up</c><00:14:00.079><c> that</c>
+
+00:14:04.389 --> 00:14:04.399 align:start position:0%
+ 
+ 
+
+00:14:04.399 --> 00:14:06.069 align:start position:0%
+ 
+we<00:14:04.480><c> could</c><00:14:04.639><c> probably</c><00:14:04.959><c> move</c><00:14:05.120><c> it</c><00:14:05.279><c> up</c><00:14:05.440><c> a</c><00:14:05.600><c> bit</c><00:14:05.920><c> as</c>
+
+00:14:06.069 --> 00:14:06.079 align:start position:0%
+we could probably move it up a bit as
+ 
+
+00:14:06.079 --> 00:14:07.910 align:start position:0%
+we could probably move it up a bit as
+well
+
+00:14:07.910 --> 00:14:07.920 align:start position:0%
+well
+ 
+
+00:14:07.920 --> 00:14:10.069 align:start position:0%
+well
+so<00:14:08.079><c> now</c><00:14:08.240><c> let's</c><00:14:08.399><c> just</c><00:14:08.800><c> ctrl</c><00:14:09.279><c> d</c><00:14:09.440><c> and</c><00:14:09.600><c> copy</c><00:14:09.839><c> this</c>
+
+00:14:10.069 --> 00:14:10.079 align:start position:0%
+so now let's just ctrl d and copy this
+ 
+
+00:14:10.079 --> 00:14:12.389 align:start position:0%
+so now let's just ctrl d and copy this
+dynamic<00:14:10.480><c> inventory</c><00:14:11.279><c> and</c><00:14:11.360><c> let's</c><00:14:11.600><c> rename</c><00:14:12.079><c> this</c>
+
+00:14:12.389 --> 00:14:12.399 align:start position:0%
+dynamic inventory and let's rename this
+ 
+
+00:14:12.399 --> 00:14:16.949 align:start position:0%
+dynamic inventory and let's rename this
+to<00:14:12.880><c> player</c><00:14:13.920><c> backpack</c>
+
+00:14:16.949 --> 00:14:16.959 align:start position:0%
+ 
+ 
+
+00:14:16.959 --> 00:14:18.949 align:start position:0%
+ 
+and<00:14:17.120><c> again</c><00:14:17.440><c> make</c><00:14:17.600><c> sure</c><00:14:17.839><c> mouse</c><00:14:18.160><c> object</c><00:14:18.639><c> is</c><00:14:18.800><c> at</c>
+
+00:14:18.949 --> 00:14:18.959 align:start position:0%
+and again make sure mouse object is at
+ 
+
+00:14:18.959 --> 00:14:20.310 align:start position:0%
+and again make sure mouse object is at
+the<00:14:19.040><c> bottom</c><00:14:19.360><c> of</c><00:14:19.440><c> the</c><00:14:19.519><c> hierarchy</c><00:14:20.079><c> so</c><00:14:20.240><c> it</c>
+
+00:14:20.310 --> 00:14:20.320 align:start position:0%
+the bottom of the hierarchy so it
+ 
+
+00:14:20.320 --> 00:14:22.710 align:start position:0%
+the bottom of the hierarchy so it
+appears<00:14:20.639><c> above</c><00:14:21.040><c> all</c><00:14:21.199><c> of</c><00:14:21.279><c> the</c><00:14:21.519><c> elements</c>
+
+00:14:22.710 --> 00:14:22.720 align:start position:0%
+appears above all of the elements
+ 
+
+00:14:22.720 --> 00:14:24.550 align:start position:0%
+appears above all of the elements
+and<00:14:22.800><c> let's</c><00:14:22.959><c> go</c><00:14:23.120><c> over</c><00:14:23.279><c> to</c><00:14:23.440><c> our</c><00:14:23.600><c> inventory</c><00:14:24.079><c> ui</c>
+
+00:14:24.550 --> 00:14:24.560 align:start position:0%
+and let's go over to our inventory ui
+ 
+
+00:14:24.560 --> 00:14:27.750 align:start position:0%
+and let's go over to our inventory ui
+controller<00:14:25.040><c> and</c><00:14:25.199><c> open</c><00:14:25.440><c> up</c><00:14:25.600><c> this</c>
+
+00:14:27.750 --> 00:14:27.760 align:start position:0%
+controller and open up this
+ 
+
+00:14:27.760 --> 00:14:31.030 align:start position:0%
+controller and open up this
+and<00:14:27.839><c> we</c><00:14:28.000><c> need</c><00:14:28.160><c> to</c><00:14:28.480><c> copy</c><00:14:28.800><c> this</c>
+
+00:14:31.030 --> 00:14:31.040 align:start position:0%
+and we need to copy this
+ 
+
+00:14:31.040 --> 00:14:32.870 align:start position:0%
+and we need to copy this
+and<00:14:31.279><c> rename</c><00:14:31.760><c> it</c><00:14:31.920><c> to</c>
+
+00:14:32.870 --> 00:14:32.880 align:start position:0%
+and rename it to
+ 
+
+00:14:32.880 --> 00:14:34.949 align:start position:0%
+and rename it to
+my<00:14:33.199><c> player</c>
+
+00:14:34.949 --> 00:14:34.959 align:start position:0%
+my player
+ 
+
+00:14:34.959 --> 00:14:36.389 align:start position:0%
+my player
+backpack
+
+00:14:36.389 --> 00:14:36.399 align:start position:0%
+backpack
+ 
+
+00:14:36.399 --> 00:14:38.870 align:start position:0%
+backpack
+panel
+
+00:14:38.870 --> 00:14:38.880 align:start position:0%
+ 
+ 
+
+00:14:38.880 --> 00:14:41.590 align:start position:0%
+ 
+we<00:14:39.040><c> can</c><00:14:39.199><c> just</c><00:14:39.360><c> call</c><00:14:39.600><c> this</c><00:14:39.839><c> the</c><00:14:40.320><c> chest</c><00:14:41.040><c> panel</c>
+
+00:14:41.590 --> 00:14:41.600 align:start position:0%
+we can just call this the chest panel
+ 
+
+00:14:41.600 --> 00:14:43.990 align:start position:0%
+we can just call this the chest panel
+instead
+
+00:14:43.990 --> 00:14:44.000 align:start position:0%
+instead
+ 
+
+00:14:44.000 --> 00:14:45.990 align:start position:0%
+instead
+actually<00:14:44.320><c> i'll</c><00:14:44.720><c> right</c><00:14:44.959><c> click</c><00:14:45.199><c> rename</c><00:14:45.680><c> so</c><00:14:45.839><c> it</c>
+
+00:14:45.990 --> 00:14:46.000 align:start position:0%
+actually i'll right click rename so it
+ 
+
+00:14:46.000 --> 00:14:47.829 align:start position:0%
+actually i'll right click rename so it
+changes<00:14:46.480><c> throughout</c><00:14:46.800><c> the</c><00:14:46.880><c> code</c><00:14:47.120><c> so</c><00:14:47.440><c> chest</c>
+
+00:14:47.829 --> 00:14:47.839 align:start position:0%
+changes throughout the code so chest
+ 
+
+00:14:47.839 --> 00:14:48.870 align:start position:0%
+changes throughout the code so chest
+panel
+
+00:14:48.870 --> 00:14:48.880 align:start position:0%
+panel
+ 
+
+00:14:48.880 --> 00:14:49.990 align:start position:0%
+panel
+and<00:14:48.959><c> then</c><00:14:49.120><c> what</c><00:14:49.360><c> i'm</c><00:14:49.440><c> going</c><00:14:49.519><c> to</c><00:14:49.600><c> do</c><00:14:49.760><c> is</c><00:14:49.920><c> i'm</c>
+
+00:14:49.990 --> 00:14:50.000 align:start position:0%
+and then what i'm going to do is i'm
+ 
+
+00:14:50.000 --> 00:14:51.509 align:start position:0%
+and then what i'm going to do is i'm
+going<00:14:50.079><c> to</c><00:14:50.160><c> go</c><00:14:50.240><c> over</c><00:14:50.399><c> to</c><00:14:50.560><c> our</c><00:14:50.800><c> player</c><00:14:51.120><c> inventory</c>
+
+00:14:51.509 --> 00:14:51.519 align:start position:0%
+going to go over to our player inventory
+ 
+
+00:14:51.519 --> 00:14:53.430 align:start position:0%
+going to go over to our player inventory
+holder<00:14:52.240><c> script</c>
+
+00:14:53.430 --> 00:14:53.440 align:start position:0%
+holder script
+ 
+
+00:14:53.440 --> 00:14:54.629 align:start position:0%
+holder script
+and<00:14:53.519><c> then</c><00:14:53.760><c> go</c><00:14:53.920><c> through</c><00:14:54.079><c> to</c><00:14:54.240><c> our</c><00:14:54.320><c> inventory</c>
+
+00:14:54.629 --> 00:14:54.639 align:start position:0%
+and then go through to our inventory
+ 
+
+00:14:54.639 --> 00:14:56.470 align:start position:0%
+and then go through to our inventory
+holder<00:14:54.959><c> script</c><00:14:55.360><c> and</c><00:14:55.440><c> i'm</c><00:14:55.519><c> just</c><00:14:55.680><c> going</c><00:14:55.760><c> to</c><00:14:55.839><c> copy</c>
+
+00:14:56.470 --> 00:14:56.480 align:start position:0%
+holder script and i'm just going to copy
+ 
+
+00:14:56.480 --> 00:14:58.870 align:start position:0%
+holder script and i'm just going to copy
+this<00:14:56.959><c> action</c>
+
+00:14:58.870 --> 00:14:58.880 align:start position:0%
+this action
+ 
+
+00:14:58.880 --> 00:15:00.310 align:start position:0%
+this action
+and<00:14:58.959><c> go</c><00:14:59.120><c> back</c><00:14:59.360><c> to</c><00:14:59.519><c> our</c><00:14:59.680><c> player</c><00:14:59.920><c> in</c><00:15:00.079><c> the</c><00:15:00.160><c> tree</c>
+
+00:15:00.310 --> 00:15:00.320 align:start position:0%
+and go back to our player in the tree
+ 
+
+00:15:00.320 --> 00:15:01.990 align:start position:0%
+and go back to our player in the tree
+holder<00:15:00.639><c> script</c>
+
+00:15:01.990 --> 00:15:02.000 align:start position:0%
+holder script
+ 
+
+00:15:02.000 --> 00:15:04.790 align:start position:0%
+holder script
+and<00:15:02.079><c> then</c><00:15:02.320><c> down</c><00:15:02.560><c> here</c>
+
+00:15:04.790 --> 00:15:04.800 align:start position:0%
+and then down here
+ 
+
+00:15:04.800 --> 00:15:05.910 align:start position:0%
+and then down here
+let's<00:15:05.120><c> just</c>
+
+00:15:05.910 --> 00:15:05.920 align:start position:0%
+let's just
+ 
+
+00:15:05.920 --> 00:15:07.430 align:start position:0%
+let's just
+say<00:15:06.399><c> using</c>
+
+00:15:07.430 --> 00:15:07.440 align:start position:0%
+say using
+ 
+
+00:15:07.440 --> 00:15:08.629 align:start position:0%
+say using
+unity
+
+00:15:08.629 --> 00:15:08.639 align:start position:0%
+unity
+ 
+
+00:15:08.639 --> 00:15:10.629 align:start position:0%
+unity
+engine<00:15:09.040><c> dot</c><00:15:09.440><c> events</c>
+
+00:15:10.629 --> 00:15:10.639 align:start position:0%
+engine dot events
+ 
+
+00:15:10.639 --> 00:15:12.310 align:start position:0%
+engine dot events
+so<00:15:10.800><c> we</c><00:15:10.959><c> can</c><00:15:11.040><c> get</c><00:15:11.120><c> a</c><00:15:11.199><c> unity</c><00:15:11.519><c> action</c><00:15:11.839><c> that</c><00:15:11.920><c> passes</c>
+
+00:15:12.310 --> 00:15:12.320 align:start position:0%
+so we can get a unity action that passes
+ 
+
+00:15:12.320 --> 00:15:14.310 align:start position:0%
+so we can get a unity action that passes
+in<00:15:12.480><c> an</c><00:15:12.639><c> inventory</c><00:15:13.040><c> system</c><00:15:13.839><c> and</c><00:15:14.000><c> i'm</c><00:15:14.079><c> going</c><00:15:14.240><c> to</c>
+
+00:15:14.310 --> 00:15:14.320 align:start position:0%
+in an inventory system and i'm going to
+ 
+
+00:15:14.320 --> 00:15:15.590 align:start position:0%
+in an inventory system and i'm going to
+say<00:15:14.639><c> on</c>
+
+00:15:15.590 --> 00:15:15.600 align:start position:0%
+say on
+ 
+
+00:15:15.600 --> 00:15:16.949 align:start position:0%
+say on
+um
+
+00:15:16.949 --> 00:15:16.959 align:start position:0%
+um
+ 
+
+00:15:16.959 --> 00:15:19.670 align:start position:0%
+um
+player<00:15:17.279><c> backpack</c><00:15:17.920><c> display</c><00:15:18.320><c> requested</c><00:15:18.880><c> so</c><00:15:19.199><c> on</c>
+
+00:15:19.670 --> 00:15:19.680 align:start position:0%
+player backpack display requested so on
+ 
+
+00:15:19.680 --> 00:15:20.870 align:start position:0%
+player backpack display requested so on
+player
+
+00:15:20.870 --> 00:15:20.880 align:start position:0%
+player
+ 
+
+00:15:20.880 --> 00:15:21.990 align:start position:0%
+player
+backpack
+
+00:15:21.990 --> 00:15:22.000 align:start position:0%
+backpack
+ 
+
+00:15:22.000 --> 00:15:24.150 align:start position:0%
+backpack
+display<00:15:22.480><c> requested</c><00:15:23.440><c> so</c><00:15:23.680><c> it's</c><00:15:23.760><c> a</c><00:15:23.839><c> public</c>
+
+00:15:24.150 --> 00:15:24.160 align:start position:0%
+display requested so it's a public
+ 
+
+00:15:24.160 --> 00:15:26.230 align:start position:0%
+display requested so it's a public
+static<00:15:24.480><c> unity</c><00:15:24.880><c> action</c><00:15:25.360><c> passes</c><00:15:25.760><c> an</c><00:15:25.839><c> inventory</c>
+
+00:15:26.230 --> 00:15:26.240 align:start position:0%
+static unity action passes an inventory
+ 
+
+00:15:26.240 --> 00:15:27.509 align:start position:0%
+static unity action passes an inventory
+system<00:15:26.560><c> and</c><00:15:26.639><c> it's</c><00:15:26.800><c> called</c><00:15:27.040><c> on</c><00:15:27.279><c> player</c>
+
+00:15:27.509 --> 00:15:27.519 align:start position:0%
+system and it's called on player
+ 
+
+00:15:27.519 --> 00:15:31.110 align:start position:0%
+system and it's called on player
+backpack<00:15:28.000><c> display</c><00:15:28.399><c> requested</c>
+
+00:15:31.110 --> 00:15:31.120 align:start position:0%
+ 
+ 
+
+00:15:31.120 --> 00:15:33.030 align:start position:0%
+ 
+and<00:15:31.279><c> i'll</c><00:15:31.519><c> copy</c><00:15:31.839><c> this</c>
+
+00:15:33.030 --> 00:15:33.040 align:start position:0%
+and i'll copy this
+ 
+
+00:15:33.040 --> 00:15:34.870 align:start position:0%
+and i'll copy this
+and<00:15:33.199><c> i'll</c><00:15:33.279><c> just</c><00:15:33.519><c> swap</c><00:15:33.839><c> out</c>
+
+00:15:34.870 --> 00:15:34.880 align:start position:0%
+and i'll just swap out
+ 
+
+00:15:34.880 --> 00:15:36.870 align:start position:0%
+and i'll just swap out
+that<00:15:35.040><c> event</c><00:15:35.360><c> the</c><00:15:35.600><c> on</c><00:15:35.680><c> dynamic</c><00:15:36.160><c> display</c><00:15:36.560><c> to</c><00:15:36.720><c> the</c>
+
+00:15:36.870 --> 00:15:36.880 align:start position:0%
+that event the on dynamic display to the
+ 
+
+00:15:36.880 --> 00:15:39.829 align:start position:0%
+that event the on dynamic display to the
+on<00:15:37.440><c> player</c><00:15:37.759><c> backpack</c><00:15:38.320><c> display</c><00:15:38.720><c> requested</c><00:15:39.680><c> and</c>
+
+00:15:39.829 --> 00:15:39.839 align:start position:0%
+on player backpack display requested and
+ 
+
+00:15:39.839 --> 00:15:41.509 align:start position:0%
+on player backpack display requested and
+we'll<00:15:40.000><c> go</c><00:15:40.079><c> back</c><00:15:40.240><c> over</c><00:15:40.399><c> to</c><00:15:40.560><c> our</c><00:15:40.720><c> inventory</c><00:15:41.120><c> ui</c>
+
+00:15:41.509 --> 00:15:41.519 align:start position:0%
+we'll go back over to our inventory ui
+ 
+
+00:15:41.519 --> 00:15:43.430 align:start position:0%
+we'll go back over to our inventory ui
+controller
+
+00:15:43.430 --> 00:15:43.440 align:start position:0%
+controller
+ 
+
+00:15:43.440 --> 00:15:45.670 align:start position:0%
+controller
+and<00:15:43.600><c> here</c><00:15:43.920><c> we</c><00:15:44.079><c> can</c><00:15:44.160><c> say</c><00:15:44.399><c> player</c><00:15:44.880><c> inventory</c>
+
+00:15:45.670 --> 00:15:45.680 align:start position:0%
+and here we can say player inventory
+ 
+
+00:15:45.680 --> 00:15:46.629 align:start position:0%
+and here we can say player inventory
+holder
+
+00:15:46.629 --> 00:15:46.639 align:start position:0%
+holder
+ 
+
+00:15:46.639 --> 00:15:48.389 align:start position:0%
+holder
+dot<00:15:47.040><c> on</c>
+
+00:15:48.389 --> 00:15:48.399 align:start position:0%
+dot on
+ 
+
+00:15:48.399 --> 00:15:51.670 align:start position:0%
+dot on
+player<00:15:48.880><c> backpack</c><00:15:49.600><c> requested</c>
+
+00:15:51.670 --> 00:15:51.680 align:start position:0%
+player backpack requested
+ 
+
+00:15:51.680 --> 00:15:53.590 align:start position:0%
+player backpack requested
+and<00:15:51.839><c> we</c><00:15:52.000><c> can</c><00:15:52.160><c> plus</c><00:15:52.560><c> equal</c><00:15:52.959><c> and</c><00:15:53.120><c> i'll</c><00:15:53.279><c> say</c>
+
+00:15:53.590 --> 00:15:53.600 align:start position:0%
+and we can plus equal and i'll say
+ 
+
+00:15:53.600 --> 00:15:55.030 align:start position:0%
+and we can plus equal and i'll say
+display
+
+00:15:55.030 --> 00:15:55.040 align:start position:0%
+display
+ 
+
+00:15:55.040 --> 00:16:00.389 align:start position:0%
+display
+player<00:15:55.839><c> backpack</c>
+
+00:16:00.389 --> 00:16:00.399 align:start position:0%
+ 
+ 
+
+00:16:00.399 --> 00:16:02.310 align:start position:0%
+ 
+copy<00:16:00.720><c> that</c>
+
+00:16:02.310 --> 00:16:02.320 align:start position:0%
+copy that
+ 
+
+00:16:02.320 --> 00:16:04.550 align:start position:0%
+copy that
+unsubscribe<00:16:02.959><c> for</c><00:16:03.199><c> it</c><00:16:03.360><c> on</c><00:16:03.519><c> the</c><00:16:03.759><c> on</c><00:16:04.000><c> disable</c>
+
+00:16:04.550 --> 00:16:04.560 align:start position:0%
+unsubscribe for it on the on disable
+ 
+
+00:16:04.560 --> 00:16:08.710 align:start position:0%
+unsubscribe for it on the on disable
+function
+
+00:16:08.710 --> 00:16:08.720 align:start position:0%
+ 
+ 
+
+00:16:08.720 --> 00:16:09.670 align:start position:0%
+ 
+let's<00:16:09.360><c> um</c>
+
+00:16:09.670 --> 00:16:09.680 align:start position:0%
+let's um
+ 
+
+00:16:09.680 --> 00:16:13.110 align:start position:0%
+let's um
+[Music]
+
+00:16:13.110 --> 00:16:13.120 align:start position:0%
+ 
+ 
+
+00:16:13.120 --> 00:16:15.670 align:start position:0%
+ 
+copy<00:16:13.839><c> this</c><00:16:14.079><c> method</c>
+
+00:16:15.670 --> 00:16:15.680 align:start position:0%
+copy this method
+ 
+
+00:16:15.680 --> 00:16:21.350 align:start position:0%
+copy this method
+and<00:16:15.839><c> we'll</c><00:16:16.000><c> say</c><00:16:16.240><c> display</c>
+
+00:16:21.350 --> 00:16:21.360 align:start position:0%
+ 
+ 
+
+00:16:21.360 --> 00:16:25.509 align:start position:0%
+ 
+player
+
+00:16:25.509 --> 00:16:25.519 align:start position:0%
+ 
+ 
+
+00:16:25.519 --> 00:16:27.189 align:start position:0%
+ 
+backpack<00:16:26.320><c> and</c><00:16:26.399><c> what</c><00:16:26.560><c> i've</c><00:16:26.639><c> done</c><00:16:26.800><c> here</c><00:16:26.959><c> is</c><00:16:27.040><c> i've</c>
+
+00:16:27.189 --> 00:16:27.199 align:start position:0%
+backpack and what i've done here is i've
+ 
+
+00:16:27.199 --> 00:16:29.430 align:start position:0%
+backpack and what i've done here is i've
+said<00:16:27.440><c> this</c><00:16:27.839><c> player</c><00:16:28.079><c> player</c><00:16:28.720><c> backpack</c><00:16:29.279><c> which</c>
+
+00:16:29.430 --> 00:16:29.440 align:start position:0%
+said this player player backpack which
+ 
+
+00:16:29.440 --> 00:16:30.790 align:start position:0%
+said this player player backpack which
+isn't<00:16:29.680><c> what</c><00:16:29.839><c> we</c><00:16:29.920><c> want</c><00:16:30.079><c> so</c><00:16:30.240><c> let's</c><00:16:30.399><c> just</c><00:16:30.560><c> copy</c>
+
+00:16:30.790 --> 00:16:30.800 align:start position:0%
+isn't what we want so let's just copy
+ 
+
+00:16:30.800 --> 00:16:32.790 align:start position:0%
+isn't what we want so let's just copy
+this<00:16:31.040><c> back</c><00:16:31.360><c> up</c><00:16:31.519><c> so</c><00:16:31.680><c> it's</c><00:16:32.000><c> spelled</c><00:16:32.320><c> exactly</c><00:16:32.720><c> the</c>
+
+00:16:32.790 --> 00:16:32.800 align:start position:0%
+this back up so it's spelled exactly the
+ 
+
+00:16:32.800 --> 00:16:37.350 align:start position:0%
+this back up so it's spelled exactly the
+same
+
+00:16:37.350 --> 00:16:37.360 align:start position:0%
+ 
+ 
+
+00:16:37.360 --> 00:16:39.269 align:start position:0%
+ 
+and<00:16:37.519><c> it's</c><00:16:37.680><c> the</c><00:16:37.920><c> chest</c><00:16:38.320><c> panel</c><00:16:38.800><c> this</c><00:16:39.040><c> is</c><00:16:39.199><c> going</c>
+
+00:16:39.269 --> 00:16:39.279 align:start position:0%
+and it's the chest panel this is going
+ 
+
+00:16:39.279 --> 00:16:43.030 align:start position:0%
+and it's the chest panel this is going
+to<00:16:39.440><c> set</c><00:16:39.680><c> the</c>
+
+00:16:43.030 --> 00:16:43.040 align:start position:0%
+ 
+ 
+
+00:16:43.040 --> 00:16:45.189 align:start position:0%
+ 
+player<00:16:43.360><c> backpack</c><00:16:44.320><c> panel</c>
+
+00:16:45.189 --> 00:16:45.199 align:start position:0%
+player backpack panel
+ 
+
+00:16:45.199 --> 00:16:51.030 align:start position:0%
+player backpack panel
+player<00:16:45.839><c> backpack</c><00:16:46.399><c> panel</c>
+
+00:16:51.030 --> 00:16:51.040 align:start position:0%
+ 
+ 
+
+00:16:51.040 --> 00:16:57.350 align:start position:0%
+ 
+and<00:16:51.120><c> then</c><00:16:51.519><c> again</c><00:16:51.839><c> we</c><00:16:52.000><c> can</c><00:16:52.240><c> copy</c><00:16:52.959><c> this</c>
+
+00:16:57.350 --> 00:16:57.360 align:start position:0%
+ 
+ 
+
+00:16:57.360 --> 00:16:58.470 align:start position:0%
+ 
+and<00:16:57.600><c> say</c>
+
+00:16:58.470 --> 00:16:58.480 align:start position:0%
+and say
+ 
+
+00:16:58.480 --> 00:17:01.110 align:start position:0%
+and say
+play<00:16:58.720><c> a</c><00:16:58.800><c> backpack</c><00:16:59.279><c> panel</c>
+
+00:17:01.110 --> 00:17:01.120 align:start position:0%
+play a backpack panel
+ 
+
+00:17:01.120 --> 00:17:02.790 align:start position:0%
+play a backpack panel
+so<00:17:01.279><c> we'll</c><00:17:01.519><c> close</c><00:17:01.680><c> it</c><00:17:01.839><c> if</c><00:17:01.920><c> we</c><00:17:02.000><c> press</c><00:17:02.240><c> the</c><00:17:02.399><c> escape</c>
+
+00:17:02.790 --> 00:17:02.800 align:start position:0%
+so we'll close it if we press the escape
+ 
+
+00:17:02.800 --> 00:17:04.710 align:start position:0%
+so we'll close it if we press the escape
+key<00:17:03.519><c> so</c><00:17:03.680><c> let's</c>
+
+00:17:04.710 --> 00:17:04.720 align:start position:0%
+key so let's
+ 
+
+00:17:04.720 --> 00:17:06.470 align:start position:0%
+key so let's
+now
+
+00:17:06.470 --> 00:17:06.480 align:start position:0%
+now
+ 
+
+00:17:06.480 --> 00:17:09.350 align:start position:0%
+now
+minimize<00:17:06.959><c> this</c><00:17:07.120><c> and</c><00:17:07.199><c> go</c><00:17:07.360><c> back</c><00:17:07.520><c> into</c><00:17:07.760><c> unity</c>
+
+00:17:09.350 --> 00:17:09.360 align:start position:0%
+minimize this and go back into unity
+ 
+
+00:17:09.360 --> 00:17:11.510 align:start position:0%
+minimize this and go back into unity
+we've<00:17:09.520><c> got</c><00:17:09.679><c> our</c><00:17:09.919><c> player</c><00:17:10.160><c> backpack</c><00:17:10.640><c> which</c><00:17:10.880><c> is</c>
+
+00:17:11.510 --> 00:17:11.520 align:start position:0%
+we've got our player backpack which is
+ 
+
+00:17:11.520 --> 00:17:13.270 align:start position:0%
+we've got our player backpack which is
+in<00:17:11.600><c> the</c><00:17:11.760><c> exact</c><00:17:12.000><c> same</c><00:17:12.240><c> place</c><00:17:12.480><c> as</c><00:17:12.640><c> our</c><00:17:12.799><c> dynamic</c>
+
+00:17:13.270 --> 00:17:13.280 align:start position:0%
+in the exact same place as our dynamic
+ 
+
+00:17:13.280 --> 00:17:15.669 align:start position:0%
+in the exact same place as our dynamic
+backpack<00:17:13.679><c> so</c><00:17:13.839><c> let's</c><00:17:14.079><c> now</c><00:17:14.720><c> snap</c><00:17:15.039><c> this</c><00:17:15.280><c> over</c><00:17:15.439><c> to</c>
+
+00:17:15.669 --> 00:17:15.679 align:start position:0%
+backpack so let's now snap this over to
+ 
+
+00:17:15.679 --> 00:17:18.630 align:start position:0%
+backpack so let's now snap this over to
+the<00:17:15.839><c> left</c><00:17:16.079><c> hand</c><00:17:16.319><c> side</c>
+
+00:17:18.630 --> 00:17:18.640 align:start position:0%
+the left hand side
+ 
+
+00:17:18.640 --> 00:17:19.990 align:start position:0%
+the left hand side
+put<00:17:18.880><c> the</c><00:17:18.959><c> anchor</c><00:17:19.199><c> over</c><00:17:19.360><c> the</c><00:17:19.439><c> left</c><00:17:19.600><c> hand</c><00:17:19.760><c> side</c>
+
+00:17:19.990 --> 00:17:20.000 align:start position:0%
+put the anchor over the left hand side
+ 
+
+00:17:20.000 --> 00:17:21.750 align:start position:0%
+put the anchor over the left hand side
+and<00:17:20.079><c> we'll</c><00:17:20.240><c> drag</c><00:17:20.480><c> this</c><00:17:20.799><c> across</c><00:17:21.199><c> to</c><00:17:21.360><c> the</c><00:17:21.520><c> left</c>
+
+00:17:21.750 --> 00:17:21.760 align:start position:0%
+and we'll drag this across to the left
+ 
+
+00:17:21.760 --> 00:17:23.429 align:start position:0%
+and we'll drag this across to the left
+of<00:17:21.839><c> the</c><00:17:22.000><c> screen</c>
+
+00:17:23.429 --> 00:17:23.439 align:start position:0%
+of the screen
+ 
+
+00:17:23.439 --> 00:17:26.870 align:start position:0%
+of the screen
+and<00:17:23.600><c> i'll</c><00:17:23.760><c> mirror</c><00:17:24.160><c> the</c><00:17:24.799><c> y-axis</c><00:17:25.600><c> so</c>
+
+00:17:26.870 --> 00:17:26.880 align:start position:0%
+and i'll mirror the y-axis so
+ 
+
+00:17:26.880 --> 00:17:28.549 align:start position:0%
+and i'll mirror the y-axis so
+we'll<00:17:27.039><c> just</c><00:17:27.439><c> completely</c><00:17:27.839><c> mirror</c><00:17:28.079><c> this</c><00:17:28.240><c> so</c>
+
+00:17:28.549 --> 00:17:28.559 align:start position:0%
+we'll just completely mirror this so
+ 
+
+00:17:28.559 --> 00:17:31.430 align:start position:0%
+we'll just completely mirror this so
+minus<00:17:28.960><c> 450</c><00:17:30.080><c> and</c><00:17:30.160><c> then</c><00:17:30.400><c> our</c><00:17:30.559><c> dynamic</c><00:17:30.960><c> inventory</c>
+
+00:17:31.430 --> 00:17:31.440 align:start position:0%
+minus 450 and then our dynamic inventory
+ 
+
+00:17:31.440 --> 00:17:32.630 align:start position:0%
+minus 450 and then our dynamic inventory
+is<00:17:31.600><c> it</c>
+
+00:17:32.630 --> 00:17:32.640 align:start position:0%
+is it
+ 
+
+00:17:32.640 --> 00:17:33.830 align:start position:0%
+is it
+um
+
+00:17:33.830 --> 00:17:33.840 align:start position:0%
+um
+ 
+
+00:17:33.840 --> 00:17:35.990 align:start position:0%
+um
+i'll<00:17:34.080><c> say</c><00:17:34.320><c> 115.</c>
+
+00:17:35.990 --> 00:17:36.000 align:start position:0%
+i'll say 115.
+ 
+
+00:17:36.000 --> 00:17:38.070 align:start position:0%
+i'll say 115.
+play<00:17:36.240><c> backpack</c><00:17:36.799><c> 115.</c><00:17:37.440><c> so</c><00:17:37.600><c> they're</c><00:17:37.840><c> at</c><00:17:38.000><c> the</c>
+
+00:17:38.070 --> 00:17:38.080 align:start position:0%
+play backpack 115. so they're at the
+ 
+
+00:17:38.080 --> 00:17:40.789 align:start position:0%
+play backpack 115. so they're at the
+same<00:17:38.400><c> sort</c><00:17:38.559><c> of</c><00:17:38.880><c> size</c><00:17:39.200><c> and</c><00:17:39.360><c> height</c><00:17:39.600><c> now</c><00:17:40.320><c> so</c><00:17:40.559><c> we</c>
+
+00:17:40.789 --> 00:17:40.799 align:start position:0%
+same sort of size and height now so we
+ 
+
+00:17:40.799 --> 00:17:46.230 align:start position:0%
+same sort of size and height now so we
+press<00:17:41.200><c> play</c><00:17:41.520><c> now</c>
+
+00:17:46.230 --> 00:17:46.240 align:start position:0%
+ 
+ 
+
+00:17:46.240 --> 00:17:47.990 align:start position:0%
+ 
+nothing<00:17:46.720><c> happens</c><00:17:47.280><c> and</c><00:17:47.440><c> i</c><00:17:47.520><c> think</c><00:17:47.760><c> that's</c>
+
+00:17:47.990 --> 00:17:48.000 align:start position:0%
+nothing happens and i think that's
+ 
+
+00:17:48.000 --> 00:17:49.990 align:start position:0%
+nothing happens and i think that's
+because<00:17:48.559><c> we</c><00:17:48.720><c> need</c><00:17:48.880><c> to</c><00:17:48.960><c> go</c><00:17:49.039><c> to</c><00:17:49.200><c> our</c><00:17:49.360><c> image</c><00:17:49.679><c> ui</c>
+
+00:17:49.990 --> 00:17:50.000 align:start position:0%
+because we need to go to our image ui
+ 
+
+00:17:50.000 --> 00:17:51.190 align:start position:0%
+because we need to go to our image ui
+controller
+
+00:17:51.190 --> 00:17:51.200 align:start position:0%
+controller
+ 
+
+00:17:51.200 --> 00:17:53.669 align:start position:0%
+controller
+and<00:17:51.280><c> drag</c><00:17:51.600><c> in</c><00:17:51.840><c> our</c><00:17:52.240><c> backpacks</c>
+
+00:17:53.669 --> 00:17:53.679 align:start position:0%
+and drag in our backpacks
+ 
+
+00:17:53.679 --> 00:17:55.669 align:start position:0%
+and drag in our backpacks
+so<00:17:53.919><c> player</c><00:17:54.160><c> backpack</c><00:17:54.640><c> panel</c><00:17:54.960><c> goes</c><00:17:55.120><c> into</c><00:17:55.360><c> the</c>
+
+00:17:55.669 --> 00:17:55.679 align:start position:0%
+so player backpack panel goes into the
+ 
+
+00:17:55.679 --> 00:17:57.909 align:start position:0%
+so player backpack panel goes into the
+backpack<00:17:56.080><c> panel</c><00:17:56.880><c> dynamic</c><00:17:57.280><c> imagery</c><00:17:57.679><c> can</c><00:17:57.840><c> go</c>
+
+00:17:57.909 --> 00:17:57.919 align:start position:0%
+backpack panel dynamic imagery can go
+ 
+
+00:17:57.919 --> 00:18:00.310 align:start position:0%
+backpack panel dynamic imagery can go
+into<00:17:58.160><c> the</c><00:17:58.240><c> chest</c><00:17:58.640><c> panel</c>
+
+00:18:00.310 --> 00:18:00.320 align:start position:0%
+into the chest panel
+ 
+
+00:18:00.320 --> 00:18:02.390 align:start position:0%
+into the chest panel
+is<00:18:00.480><c> that</c><00:18:00.559><c> what</c><00:18:00.720><c> the</c><00:18:00.880><c> issue</c><00:18:01.200><c> was</c>
+
+00:18:02.390 --> 00:18:02.400 align:start position:0%
+is that what the issue was
+ 
+
+00:18:02.400 --> 00:18:04.310 align:start position:0%
+is that what the issue was
+object<00:18:02.799><c> reference</c><00:18:03.280><c> not</c><00:18:03.520><c> set</c>
+
+00:18:04.310 --> 00:18:04.320 align:start position:0%
+object reference not set
+ 
+
+00:18:04.320 --> 00:18:06.150 align:start position:0%
+object reference not set
+yeah
+
+00:18:06.150 --> 00:18:06.160 align:start position:0%
+yeah
+ 
+
+00:18:06.160 --> 00:18:09.029 align:start position:0%
+yeah
+and<00:18:06.320><c> actually</c><00:18:06.640><c> let's</c><00:18:06.799><c> duplicate</c><00:18:07.600><c> um</c>
+
+00:18:09.029 --> 00:18:09.039 align:start position:0%
+and actually let's duplicate um
+ 
+
+00:18:09.039 --> 00:18:11.350 align:start position:0%
+and actually let's duplicate um
+this<00:18:09.520><c> and</c><00:18:09.600><c> we'll</c><00:18:09.760><c> do</c><00:18:09.919><c> the</c><00:18:10.080><c> same</c><00:18:10.559><c> we'll</c><00:18:10.799><c> close</c>
+
+00:18:11.350 --> 00:18:11.360 align:start position:0%
+this and we'll do the same we'll close
+ 
+
+00:18:11.360 --> 00:18:16.150 align:start position:0%
+this and we'll do the same we'll close
+the<00:18:11.919><c> player</c><00:18:12.160><c> backpack</c><00:18:12.559><c> panel</c><00:18:12.960><c> as</c><00:18:13.039><c> well</c>
+
+00:18:16.150 --> 00:18:16.160 align:start position:0%
+ 
+ 
+
+00:18:16.160 --> 00:18:19.029 align:start position:0%
+ 
+and<00:18:16.240><c> we</c><00:18:16.400><c> hit</c><00:18:16.640><c> play</c>
+
+00:18:19.029 --> 00:18:19.039 align:start position:0%
+and we hit play
+ 
+
+00:18:19.039 --> 00:18:20.549 align:start position:0%
+and we hit play
+see<00:18:19.200><c> now</c><00:18:19.440><c> we</c><00:18:19.520><c> can</c><00:18:19.600><c> open</c><00:18:19.840><c> our</c><00:18:20.000><c> bags</c><00:18:20.320><c> that's</c>
+
+00:18:20.549 --> 00:18:20.559 align:start position:0%
+see now we can open our bags that's
+ 
+
+00:18:20.559 --> 00:18:22.789 align:start position:0%
+see now we can open our bags that's
+going<00:18:20.640><c> to</c><00:18:20.720><c> come</c><00:18:20.880><c> up</c><00:18:21.039><c> on</c><00:18:21.200><c> the</c><00:18:21.280><c> left</c><00:18:21.520><c> hand</c><00:18:21.760><c> side</c>
+
+00:18:22.789 --> 00:18:22.799 align:start position:0%
+going to come up on the left hand side
+ 
+
+00:18:22.799 --> 00:18:24.950 align:start position:0%
+going to come up on the left hand side
+we<00:18:22.960><c> can</c><00:18:23.200><c> pick</c><00:18:23.440><c> up</c><00:18:23.760><c> all</c><00:18:23.919><c> of</c><00:18:24.080><c> our</c><00:18:24.240><c> items</c><00:18:24.799><c> they'll</c>
+
+00:18:24.950 --> 00:18:24.960 align:start position:0%
+we can pick up all of our items they'll
+ 
+
+00:18:24.960 --> 00:18:27.590 align:start position:0%
+we can pick up all of our items they'll
+go<00:18:25.120><c> into</c><00:18:25.280><c> the</c><00:18:25.440><c> player</c><00:18:25.679><c> backpack</c>
+
+00:18:27.590 --> 00:18:27.600 align:start position:0%
+go into the player backpack
+ 
+
+00:18:27.600 --> 00:18:29.430 align:start position:0%
+go into the player backpack
+and<00:18:27.760><c> we</c><00:18:27.919><c> can</c><00:18:28.000><c> come</c><00:18:28.240><c> over</c><00:18:28.480><c> here</c><00:18:29.039><c> and</c><00:18:29.120><c> we</c><00:18:29.280><c> can</c>
+
+00:18:29.430 --> 00:18:29.440 align:start position:0%
+and we can come over here and we can
+ 
+
+00:18:29.440 --> 00:18:32.070 align:start position:0%
+and we can come over here and we can
+open<00:18:29.679><c> up</c><00:18:29.840><c> a</c><00:18:30.000><c> chest</c><00:18:30.720><c> panel</c>
+
+00:18:32.070 --> 00:18:32.080 align:start position:0%
+open up a chest panel
+ 
+
+00:18:32.080 --> 00:18:33.430 align:start position:0%
+open up a chest panel
+so<00:18:32.240><c> these</c><00:18:32.480><c> are</c><00:18:32.559><c> the</c><00:18:32.640><c> two</c><00:18:32.880><c> different</c><00:18:33.120><c> chest</c>
+
+00:18:33.430 --> 00:18:33.440 align:start position:0%
+so these are the two different chest
+ 
+
+00:18:33.440 --> 00:18:35.350 align:start position:0%
+so these are the two different chest
+panels<00:18:33.919><c> and</c><00:18:34.080><c> our</c><00:18:34.240><c> backpacks</c><00:18:34.720><c> are</c><00:18:34.799><c> still</c><00:18:35.039><c> open</c>
+
+00:18:35.350 --> 00:18:35.360 align:start position:0%
+panels and our backpacks are still open
+ 
+
+00:18:35.360 --> 00:18:37.029 align:start position:0%
+panels and our backpacks are still open
+and<00:18:35.440><c> we</c><00:18:35.520><c> can</c><00:18:35.679><c> move</c><00:18:35.919><c> stuff</c><00:18:36.160><c> from</c><00:18:36.400><c> our</c><00:18:36.480><c> backpack</c>
+
+00:18:37.029 --> 00:18:37.039 align:start position:0%
+and we can move stuff from our backpack
+ 
+
+00:18:37.039 --> 00:18:39.750 align:start position:0%
+and we can move stuff from our backpack
+into<00:18:37.280><c> the</c><00:18:37.520><c> chests</c><00:18:38.400><c> and</c><00:18:38.640><c> we</c><00:18:38.799><c> can</c><00:18:39.200><c> close</c><00:18:39.440><c> out</c><00:18:39.600><c> of</c>
+
+00:18:39.750 --> 00:18:39.760 align:start position:0%
+into the chests and we can close out of
+ 
+
+00:18:39.760 --> 00:18:41.510 align:start position:0%
+into the chests and we can close out of
+them<00:18:40.160><c> go</c><00:18:40.320><c> back</c><00:18:40.480><c> into</c><00:18:40.720><c> the</c><00:18:40.799><c> game</c><00:18:41.039><c> we</c><00:18:41.120><c> can</c><00:18:41.280><c> pick</c>
+
+00:18:41.510 --> 00:18:41.520 align:start position:0%
+them go back into the game we can pick
+ 
+
+00:18:41.520 --> 00:18:43.110 align:start position:0%
+them go back into the game we can pick
+up<00:18:41.840><c> the</c>
+
+00:18:43.110 --> 00:18:43.120 align:start position:0%
+up the
+ 
+
+00:18:43.120 --> 00:18:47.350 align:start position:0%
+up the
+tomatoes<00:18:43.760><c> off</c><00:18:43.919><c> the</c><00:18:44.000><c> ground</c>
+
+00:18:47.350 --> 00:18:47.360 align:start position:0%
+ 
+ 
+
+00:18:47.360 --> 00:18:49.430 align:start position:0%
+ 
+they've<00:18:47.679><c> of</c><00:18:47.760><c> course</c><00:18:48.080><c> gone</c><00:18:48.320><c> into</c><00:18:48.640><c> our</c><00:18:48.880><c> backpack</c>
+
+00:18:49.430 --> 00:18:49.440 align:start position:0%
+they've of course gone into our backpack
+ 
+
+00:18:49.440 --> 00:18:50.789 align:start position:0%
+they've of course gone into our backpack
+and<00:18:49.600><c> then</c><00:18:49.760><c> we</c><00:18:49.840><c> can</c><00:18:49.919><c> come</c><00:18:50.160><c> over</c><00:18:50.320><c> we</c><00:18:50.480><c> can</c><00:18:50.559><c> open</c>
+
+00:18:50.789 --> 00:18:50.799 align:start position:0%
+and then we can come over we can open
+ 
+
+00:18:50.799 --> 00:18:53.510 align:start position:0%
+and then we can come over we can open
+our<00:18:50.960><c> chests</c><00:18:51.280><c> we</c><00:18:51.440><c> can</c><00:18:51.600><c> combine</c><00:18:52.000><c> these</c><00:18:52.320><c> items</c>
+
+00:18:53.510 --> 00:18:53.520 align:start position:0%
+our chests we can combine these items
+ 
+
+00:18:53.520 --> 00:18:55.350 align:start position:0%
+our chests we can combine these items
+we<00:18:53.679><c> can</c><00:18:53.919><c> split</c><00:18:54.240><c> the</c><00:18:54.400><c> stack</c><00:18:54.720><c> actually</c><00:18:55.039><c> and</c><00:18:55.120><c> take</c>
+
+00:18:55.350 --> 00:18:55.360 align:start position:0%
+we can split the stack actually and take
+ 
+
+00:18:55.360 --> 00:18:57.510 align:start position:0%
+we can split the stack actually and take
+two<00:18:55.600><c> back</c><00:18:55.840><c> out</c><00:18:56.160><c> come</c><00:18:56.400><c> over</c><00:18:56.559><c> here</c>
+
+00:18:57.510 --> 00:18:57.520 align:start position:0%
+two back out come over here
+ 
+
+00:18:57.520 --> 00:19:02.630 align:start position:0%
+two back out come over here
+open<00:18:57.760><c> up</c><00:18:58.000><c> this</c><00:18:58.240><c> next</c><00:18:58.559><c> panel</c>
+
+00:19:02.630 --> 00:19:02.640 align:start position:0%
+ 
+ 
+
+00:19:02.640 --> 00:19:06.070 align:start position:0%
+ 
+bring<00:19:03.039><c> in</c><00:19:03.360><c> our</c><00:19:04.160><c> tomatoes</c><00:19:04.720><c> here</c><00:19:05.520><c> take</c><00:19:05.760><c> a</c><00:19:05.840><c> couple</c>
+
+00:19:06.070 --> 00:19:06.080 align:start position:0%
+bring in our tomatoes here take a couple
+ 
+
+00:19:06.080 --> 00:19:08.230 align:start position:0%
+bring in our tomatoes here take a couple
+of<00:19:06.240><c> tomatoes</c><00:19:06.720><c> for</c><00:19:07.120><c> potatoes</c><00:19:07.760><c> from</c><00:19:07.919><c> our</c><00:19:08.000><c> hot</c>
+
+00:19:08.230 --> 00:19:08.240 align:start position:0%
+of tomatoes for potatoes from our hot
+ 
+
+00:19:08.240 --> 00:19:11.510 align:start position:0%
+of tomatoes for potatoes from our hot
+bar<00:19:08.400><c> put</c><00:19:08.559><c> them</c><00:19:08.720><c> in</c><00:19:08.799><c> the</c><00:19:08.960><c> small</c><00:19:09.200><c> chest</c><00:19:10.000><c> exit</c><00:19:10.400><c> out</c>
+
+00:19:11.510 --> 00:19:11.520 align:start position:0%
+bar put them in the small chest exit out
+ 
+
+00:19:11.520 --> 00:19:13.029 align:start position:0%
+bar put them in the small chest exit out
+you<00:19:11.600><c> know</c><00:19:11.919><c> take</c><00:19:12.080><c> more</c><00:19:12.400><c> out</c><00:19:12.480><c> so</c><00:19:12.640><c> that's</c><00:19:12.880><c> all</c>
+
+00:19:13.029 --> 00:19:13.039 align:start position:0%
+you know take more out so that's all
+ 
+
+00:19:13.039 --> 00:19:15.510 align:start position:0%
+you know take more out so that's all
+working<00:19:13.520><c> kind</c><00:19:13.679><c> of</c><00:19:14.160><c> as</c><00:19:14.480><c> intended</c>
+
+00:19:15.510 --> 00:19:15.520 align:start position:0%
+working kind of as intended
+ 
+
+00:19:15.520 --> 00:19:17.669 align:start position:0%
+working kind of as intended
+so<00:19:15.679><c> that's</c><00:19:15.919><c> going</c><00:19:16.000><c> to</c><00:19:16.080><c> be</c><00:19:16.240><c> it</c><00:19:16.400><c> for</c><00:19:16.559><c> this</c><00:19:17.039><c> uh</c><00:19:17.520><c> for</c>
+
+00:19:17.669 --> 00:19:17.679 align:start position:0%
+so that's going to be it for this uh for
+ 
+
+00:19:17.679 --> 00:19:19.270 align:start position:0%
+so that's going to be it for this uh for
+the<00:19:17.760><c> initial</c><00:19:18.080><c> kind</c><00:19:18.240><c> of</c><00:19:18.320><c> batch</c><00:19:18.640><c> of</c><00:19:18.720><c> videos</c><00:19:19.120><c> of</c>
+
+00:19:19.270 --> 00:19:19.280 align:start position:0%
+the initial kind of batch of videos of
+ 
+
+00:19:19.280 --> 00:19:20.549 align:start position:0%
+the initial kind of batch of videos of
+this<00:19:19.520><c> series</c>
+
+00:19:20.549 --> 00:19:20.559 align:start position:0%
+this series
+ 
+
+00:19:20.559 --> 00:19:22.630 align:start position:0%
+this series
+if<00:19:20.720><c> the</c><00:19:20.799><c> series</c><00:19:21.200><c> does</c><00:19:21.440><c> well</c><00:19:21.679><c> and</c><00:19:21.840><c> it</c><00:19:22.240><c> has</c><00:19:22.400><c> a</c><00:19:22.480><c> lot</c>
+
+00:19:22.630 --> 00:19:22.640 align:start position:0%
+if the series does well and it has a lot
+ 
+
+00:19:22.640 --> 00:19:24.070 align:start position:0%
+if the series does well and it has a lot
+of<00:19:22.720><c> interest</c><00:19:23.120><c> and</c><00:19:23.200><c> people</c><00:19:23.440><c> actually</c><00:19:23.679><c> watch</c><00:19:23.919><c> it</c>
+
+00:19:24.070 --> 00:19:24.080 align:start position:0%
+of interest and people actually watch it
+ 
+
+00:19:24.080 --> 00:19:26.070 align:start position:0%
+of interest and people actually watch it
+and<00:19:24.160><c> want</c><00:19:24.320><c> to</c><00:19:24.480><c> see</c><00:19:24.720><c> more</c><00:19:25.120><c> i</c><00:19:25.280><c> do</c><00:19:25.520><c> have</c><00:19:25.840><c> some</c>
+
+00:19:26.070 --> 00:19:26.080 align:start position:0%
+and want to see more i do have some
+ 
+
+00:19:26.080 --> 00:19:28.549 align:start position:0%
+and want to see more i do have some
+ideas<00:19:26.559><c> of</c><00:19:26.799><c> where</c><00:19:27.039><c> i'd</c><00:19:27.200><c> like</c><00:19:27.360><c> to</c><00:19:27.520><c> take</c><00:19:27.840><c> it</c>
+
+00:19:28.549 --> 00:19:28.559 align:start position:0%
+ideas of where i'd like to take it
+ 
+
+00:19:28.559 --> 00:19:31.270 align:start position:0%
+ideas of where i'd like to take it
+i'd<00:19:28.799><c> like</c><00:19:28.960><c> to</c><00:19:29.120><c> introduce</c><00:19:29.760><c> um</c><00:19:30.400><c> an</c><00:19:30.559><c> npc</c><00:19:31.039><c> that</c><00:19:31.200><c> you</c>
+
+00:19:31.270 --> 00:19:31.280 align:start position:0%
+i'd like to introduce um an npc that you
+ 
+
+00:19:31.280 --> 00:19:33.590 align:start position:0%
+i'd like to introduce um an npc that you
+can<00:19:31.520><c> sell</c><00:19:31.840><c> items</c><00:19:32.240><c> to</c><00:19:32.480><c> from</c><00:19:32.640><c> your</c><00:19:32.799><c> backpack</c>
+
+00:19:33.590 --> 00:19:33.600 align:start position:0%
+can sell items to from your backpack
+ 
+
+00:19:33.600 --> 00:19:35.029 align:start position:0%
+can sell items to from your backpack
+because<00:19:33.840><c> obviously</c><00:19:34.080><c> the</c><00:19:34.240><c> mpc</c><00:19:34.640><c> will</c><00:19:34.880><c> need</c>
+
+00:19:35.029 --> 00:19:35.039 align:start position:0%
+because obviously the mpc will need
+ 
+
+00:19:35.039 --> 00:19:37.830 align:start position:0%
+because obviously the mpc will need
+their<00:19:35.280><c> own</c><00:19:35.520><c> inventory</c><00:19:36.000><c> system</c><00:19:36.880><c> with</c><00:19:37.120><c> a</c><00:19:37.520><c> sell</c>
+
+00:19:37.830 --> 00:19:37.840 align:start position:0%
+their own inventory system with a sell
+ 
+
+00:19:37.840 --> 00:19:39.830 align:start position:0%
+their own inventory system with a sell
+button<00:19:38.480><c> that</c><00:19:38.880><c> um</c>
+
+00:19:39.830 --> 00:19:39.840 align:start position:0%
+button that um
+ 
+
+00:19:39.840 --> 00:19:41.590 align:start position:0%
+button that um
+you<00:19:39.919><c> know</c><00:19:40.240><c> it'll</c><00:19:40.480><c> com</c><00:19:40.799><c> it'll</c><00:19:41.039><c> check</c><00:19:41.280><c> all</c><00:19:41.440><c> the</c>
+
+00:19:41.590 --> 00:19:41.600 align:start position:0%
+you know it'll com it'll check all the
+ 
+
+00:19:41.600 --> 00:19:42.950 align:start position:0%
+you know it'll com it'll check all the
+value<00:19:42.000><c> of</c><00:19:42.080><c> everything</c><00:19:42.480><c> that</c><00:19:42.559><c> you're</c><00:19:42.799><c> trying</c>
+
+00:19:42.950 --> 00:19:42.960 align:start position:0%
+value of everything that you're trying
+ 
+
+00:19:42.960 --> 00:19:44.390 align:start position:0%
+value of everything that you're trying
+to<00:19:43.120><c> sell</c><00:19:43.360><c> them</c>
+
+00:19:44.390 --> 00:19:44.400 align:start position:0%
+to sell them
+ 
+
+00:19:44.400 --> 00:19:45.830 align:start position:0%
+to sell them
+and<00:19:44.480><c> then</c><00:19:44.720><c> it'll</c><00:19:44.960><c> give</c><00:19:45.200><c> you</c><00:19:45.280><c> that</c><00:19:45.520><c> amount</c><00:19:45.760><c> of</c>
+
+00:19:45.830 --> 00:19:45.840 align:start position:0%
+and then it'll give you that amount of
+ 
+
+00:19:45.840 --> 00:19:47.510 align:start position:0%
+and then it'll give you that amount of
+gold<00:19:46.160><c> back</c><00:19:46.400><c> so</c><00:19:46.559><c> that's</c><00:19:46.720><c> something</c><00:19:47.039><c> i'd</c><00:19:47.200><c> like</c>
+
+00:19:47.510 --> 00:19:47.520 align:start position:0%
+gold back so that's something i'd like
+ 
+
+00:19:47.520 --> 00:19:49.590 align:start position:0%
+gold back so that's something i'd like
+to<00:19:47.760><c> kind</c><00:19:47.919><c> of</c><00:19:48.080><c> do</c><00:19:48.240><c> in</c><00:19:48.400><c> the</c><00:19:48.480><c> future</c><00:19:48.799><c> if</c><00:19:48.960><c> this</c><00:19:49.440><c> if</c>
+
+00:19:49.590 --> 00:19:49.600 align:start position:0%
+to kind of do in the future if this if
+ 
+
+00:19:49.600 --> 00:19:50.950 align:start position:0%
+to kind of do in the future if this if
+this<00:19:49.760><c> series</c><00:19:50.240><c> works</c><00:19:50.559><c> and</c><00:19:50.640><c> it's</c><00:19:50.799><c> well</c>
+
+00:19:50.950 --> 00:19:50.960 align:start position:0%
+this series works and it's well
+ 
+
+00:19:50.960 --> 00:19:53.750 align:start position:0%
+this series works and it's well
+responded<00:19:51.520><c> to</c><00:19:51.919><c> i'm</c><00:19:52.080><c> currently</c><00:19:52.480><c> looking</c><00:19:52.960><c> into</c>
+
+00:19:53.750 --> 00:19:53.760 align:start position:0%
+responded to i'm currently looking into
+ 
+
+00:19:53.760 --> 00:19:55.669 align:start position:0%
+responded to i'm currently looking into
+kind<00:19:53.919><c> of</c><00:19:54.000><c> the</c><00:19:54.160><c> best</c><00:19:54.400><c> method</c><00:19:54.960><c> to</c><00:19:55.200><c> save</c><00:19:55.520><c> the</c>
+
+00:19:55.669 --> 00:19:55.679 align:start position:0%
+kind of the best method to save the
+ 
+
+00:19:55.679 --> 00:19:57.510 align:start position:0%
+kind of the best method to save the
+backpack<00:19:56.160><c> system</c>
+
+00:19:57.510 --> 00:19:57.520 align:start position:0%
+backpack system
+ 
+
+00:19:57.520 --> 00:19:58.950 align:start position:0%
+backpack system
+obviously<00:19:57.919><c> this</c><00:19:58.080><c> video</c><00:19:58.320><c> doesn't</c><00:19:58.559><c> tell</c><00:19:58.799><c> you</c>
+
+00:19:58.950 --> 00:19:58.960 align:start position:0%
+obviously this video doesn't tell you
+ 
+
+00:19:58.960 --> 00:20:00.630 align:start position:0%
+obviously this video doesn't tell you
+how<00:19:59.120><c> to</c><00:19:59.280><c> save</c><00:19:59.520><c> and</c><00:19:59.600><c> load</c><00:19:59.840><c> so</c><00:20:00.000><c> if</c><00:20:00.080><c> we</c><00:20:00.160><c> go</c><00:20:00.320><c> back</c>
+
+00:20:00.630 --> 00:20:00.640 align:start position:0%
+how to save and load so if we go back
+ 
+
+00:20:00.640 --> 00:20:02.390 align:start position:0%
+how to save and load so if we go back
+and<00:20:00.799><c> hit</c><00:20:00.960><c> play</c><00:20:01.200><c> obviously</c><00:20:01.520><c> everything</c>
+
+00:20:02.390 --> 00:20:02.400 align:start position:0%
+and hit play obviously everything
+ 
+
+00:20:02.400 --> 00:20:04.830 align:start position:0%
+and hit play obviously everything
+everything
+
+00:20:04.830 --> 00:20:04.840 align:start position:0%
+everything
+ 
+
+00:20:04.840 --> 00:20:08.310 align:start position:0%
+everything
+resets<00:20:05.919><c> so</c><00:20:06.080><c> i'm</c><00:20:06.240><c> currently</c><00:20:06.559><c> prototyping</c><00:20:07.360><c> how</c>
+
+00:20:08.310 --> 00:20:08.320 align:start position:0%
+resets so i'm currently prototyping how
+ 
+
+00:20:08.320 --> 00:20:10.070 align:start position:0%
+resets so i'm currently prototyping how
+i<00:20:08.480><c> personally</c><00:20:08.880><c> go</c><00:20:09.039><c> about</c><00:20:09.360><c> saving</c><00:20:09.760><c> this</c>
+
+00:20:10.070 --> 00:20:10.080 align:start position:0%
+i personally go about saving this
+ 
+
+00:20:10.080 --> 00:20:12.149 align:start position:0%
+i personally go about saving this
+inventory<00:20:10.480><c> using</c><00:20:10.799><c> json</c><00:20:11.360><c> so</c><00:20:11.600><c> that'll</c><00:20:11.840><c> be</c><00:20:12.000><c> kind</c>
+
+00:20:12.149 --> 00:20:12.159 align:start position:0%
+inventory using json so that'll be kind
+ 
+
+00:20:12.159 --> 00:20:14.549 align:start position:0%
+inventory using json so that'll be kind
+of<00:20:12.480><c> an</c><00:20:12.640><c> update</c><00:20:13.440><c> to</c><00:20:13.600><c> the</c><00:20:13.679><c> series</c><00:20:14.080><c> as</c><00:20:14.159><c> well</c><00:20:14.320><c> down</c>
+
+00:20:14.549 --> 00:20:14.559 align:start position:0%
+of an update to the series as well down
+ 
+
+00:20:14.559 --> 00:20:16.549 align:start position:0%
+of an update to the series as well down
+the<00:20:14.640><c> line</c><00:20:14.960><c> if</c><00:20:15.440><c> if</c><00:20:15.600><c> i</c><00:20:15.679><c> can</c><00:20:15.840><c> figure</c><00:20:16.159><c> out</c><00:20:16.240><c> that</c><00:20:16.400><c> and</c>
+
+00:20:16.549 --> 00:20:16.559 align:start position:0%
+the line if if i can figure out that and
+ 
+
+00:20:16.559 --> 00:20:18.230 align:start position:0%
+the line if if i can figure out that and
+get<00:20:16.720><c> it</c><00:20:16.880><c> in</c><00:20:17.039><c> a</c>
+
+00:20:18.230 --> 00:20:18.240 align:start position:0%
+get it in a
+ 
+
+00:20:18.240 --> 00:20:21.029 align:start position:0%
+get it in a
+concise<00:20:18.880><c> way</c><00:20:19.200><c> to</c><00:20:19.440><c> pass</c><00:20:19.679><c> that</c><00:20:20.000><c> over</c>
+
+00:20:21.029 --> 00:20:21.039 align:start position:0%
+concise way to pass that over
+ 
+
+00:20:21.039 --> 00:20:23.190 align:start position:0%
+concise way to pass that over
+one<00:20:21.360><c> very</c><00:20:21.679><c> simple</c><00:20:22.080><c> and</c><00:20:22.159><c> easy</c><00:20:22.400><c> way</c><00:20:22.640><c> to</c><00:20:22.720><c> do</c><00:20:22.960><c> that</c>
+
+00:20:23.190 --> 00:20:23.200 align:start position:0%
+one very simple and easy way to do that
+ 
+
+00:20:23.200 --> 00:20:25.750 align:start position:0%
+one very simple and easy way to do that
+is<00:20:23.360><c> instead</c><00:20:23.600><c> of</c><00:20:24.159><c> our</c><00:20:24.240><c> inventory</c><00:20:24.799><c> system</c>
+
+00:20:25.750 --> 00:20:25.760 align:start position:0%
+is instead of our inventory system
+ 
+
+00:20:25.760 --> 00:20:27.909 align:start position:0%
+is instead of our inventory system
+just<00:20:26.000><c> being</c><00:20:26.240><c> a</c><00:20:26.320><c> normal</c><00:20:26.640><c> class</c><00:20:27.039><c> this</c><00:20:27.280><c> could</c><00:20:27.600><c> be</c>
+
+00:20:27.909 --> 00:20:27.919 align:start position:0%
+just being a normal class this could be
+ 
+
+00:20:27.919 --> 00:20:29.750 align:start position:0%
+just being a normal class this could be
+a<00:20:28.000><c> scriptable</c><00:20:28.640><c> object</c>
+
+00:20:29.750 --> 00:20:29.760 align:start position:0%
+a scriptable object
+ 
+
+00:20:29.760 --> 00:20:32.149 align:start position:0%
+a scriptable object
+so<00:20:29.919><c> instead</c><00:20:30.159><c> of</c><00:20:30.320><c> adding</c><00:20:30.960><c> um</c>
+
+00:20:32.149 --> 00:20:32.159 align:start position:0%
+so instead of adding um
+ 
+
+00:20:32.159 --> 00:20:37.350 align:start position:0%
+so instead of adding um
+on<00:20:32.240><c> the</c><00:20:32.400><c> inventory</c><00:20:32.960><c> holder</c>
+
+00:20:37.350 --> 00:20:37.360 align:start position:0%
+ 
+ 
+
+00:20:37.360 --> 00:20:39.350 align:start position:0%
+ 
+creating<00:20:37.760><c> a</c><00:20:37.840><c> new</c><00:20:38.000><c> inventory</c><00:20:38.400><c> system</c><00:20:38.880><c> here</c>
+
+00:20:39.350 --> 00:20:39.360 align:start position:0%
+creating a new inventory system here
+ 
+
+00:20:39.360 --> 00:20:41.510 align:start position:0%
+creating a new inventory system here
+what<00:20:39.520><c> we</c><00:20:39.679><c> could</c><00:20:40.000><c> do</c><00:20:40.400><c> is</c><00:20:40.720><c> if</c><00:20:40.960><c> the</c><00:20:41.120><c> inventory</c>
+
+00:20:41.510 --> 00:20:41.520 align:start position:0%
+what we could do is if the inventory
+ 
+
+00:20:41.520 --> 00:20:43.590 align:start position:0%
+what we could do is if the inventory
+system<00:20:41.840><c> was</c><00:20:42.000><c> a</c><00:20:42.080><c> scriptable</c><00:20:42.559><c> object</c><00:20:42.960><c> like</c><00:20:43.200><c> our</c>
+
+00:20:43.590 --> 00:20:43.600 align:start position:0%
+system was a scriptable object like our
+ 
+
+00:20:43.600 --> 00:20:46.470 align:start position:0%
+system was a scriptable object like our
+items
+
+00:20:46.470 --> 00:20:46.480 align:start position:0%
+ 
+ 
+
+00:20:46.480 --> 00:20:47.669 align:start position:0%
+ 
+you<00:20:46.640><c> could</c><00:20:46.799><c> have</c><00:20:46.960><c> it</c><00:20:47.039><c> so</c><00:20:47.120><c> you</c><00:20:47.200><c> could</c><00:20:47.440><c> right</c>
+
+00:20:47.669 --> 00:20:47.679 align:start position:0%
+you could have it so you could right
+ 
+
+00:20:47.679 --> 00:20:50.230 align:start position:0%
+you could have it so you could right
+click<00:20:48.159><c> create</c><00:20:49.120><c> inventory</c><00:20:49.600><c> system</c><00:20:49.919><c> and</c><00:20:50.000><c> then</c>
+
+00:20:50.230 --> 00:20:50.240 align:start position:0%
+click create inventory system and then
+ 
+
+00:20:50.240 --> 00:20:51.669 align:start position:0%
+click create inventory system and then
+instead<00:20:50.559><c> of</c><00:20:50.640><c> inventory</c><00:20:51.120><c> item</c><00:20:51.360><c> you</c><00:20:51.440><c> could</c><00:20:51.600><c> have</c>
+
+00:20:51.669 --> 00:20:51.679 align:start position:0%
+instead of inventory item you could have
+ 
+
+00:20:51.679 --> 00:20:54.070 align:start position:0%
+instead of inventory item you could have
+an<00:20:51.840><c> inventory</c><00:20:52.720><c> like</c><00:20:52.960><c> underneath</c><00:20:53.520><c> it</c><00:20:54.000><c> you</c>
+
+00:20:54.070 --> 00:20:54.080 align:start position:0%
+an inventory like underneath it you
+ 
+
+00:20:54.080 --> 00:20:55.830 align:start position:0%
+an inventory like underneath it you
+could<00:20:54.240><c> create</c><00:20:54.400><c> an</c><00:20:54.559><c> inventory</c><00:20:55.039><c> put</c><00:20:55.280><c> its</c><00:20:55.440><c> size</c>
+
+00:20:55.830 --> 00:20:55.840 align:start position:0%
+could create an inventory put its size
+ 
+
+00:20:55.840 --> 00:20:58.470 align:start position:0%
+could create an inventory put its size
+in<00:20:56.000><c> and</c><00:20:56.159><c> then</c><00:20:56.320><c> assign</c><00:20:56.720><c> that</c><00:20:57.039><c> in</c><00:20:57.200><c> our</c><00:20:57.600><c> um</c>
+
+00:20:58.470 --> 00:20:58.480 align:start position:0%
+in and then assign that in our um
+ 
+
+00:20:58.480 --> 00:21:01.270 align:start position:0%
+in and then assign that in our um
+player<00:20:58.799><c> holder</c><00:20:59.200><c> script</c>
+
+00:21:01.270 --> 00:21:01.280 align:start position:0%
+player holder script
+ 
+
+00:21:01.280 --> 00:21:04.149 align:start position:0%
+player holder script
+because<00:21:02.000><c> um</c>
+
+00:21:04.149 --> 00:21:04.159 align:start position:0%
+because um
+ 
+
+00:21:04.159 --> 00:21:06.789 align:start position:0%
+because um
+the<00:21:04.320><c> data</c><00:21:04.720><c> in</c><00:21:04.799><c> a</c><00:21:04.880><c> scriptable</c><00:21:05.440><c> object</c>
+
+00:21:06.789 --> 00:21:06.799 align:start position:0%
+the data in a scriptable object
+ 
+
+00:21:06.799 --> 00:21:08.630 align:start position:0%
+the data in a scriptable object
+if<00:21:06.960><c> you</c><00:21:07.120><c> change</c><00:21:07.440><c> it</c><00:21:07.600><c> that's</c><00:21:07.840><c> just</c><00:21:08.080><c> how</c><00:21:08.320><c> it</c><00:21:08.480><c> is</c>
+
+00:21:08.630 --> 00:21:08.640 align:start position:0%
+if you change it that's just how it is
+ 
+
+00:21:08.640 --> 00:21:13.510 align:start position:0%
+if you change it that's just how it is
+it<00:21:08.799><c> doesn't</c><00:21:09.120><c> reset</c><00:21:09.600><c> so</c><00:21:09.760><c> if</c><00:21:10.000><c> i</c><00:21:10.320><c> if</c><00:21:10.480><c> i</c><00:21:10.559><c> hit</c><00:21:10.799><c> play</c>
+
+00:21:13.510 --> 00:21:13.520 align:start position:0%
+ 
+ 
+
+00:21:13.520 --> 00:21:15.270 align:start position:0%
+ 
+and<00:21:13.760><c> if</c><00:21:13.919><c> i</c><00:21:14.000><c> come</c><00:21:14.159><c> over</c><00:21:14.320><c> to</c><00:21:14.559><c> the</c><00:21:14.640><c> potato</c><00:21:15.120><c> and</c><00:21:15.200><c> i</c>
+
+00:21:15.270 --> 00:21:15.280 align:start position:0%
+and if i come over to the potato and i
+ 
+
+00:21:15.280 --> 00:21:17.669 align:start position:0%
+and if i come over to the potato and i
+set<00:21:15.440><c> its</c><00:21:15.679><c> goal</c><00:21:16.000><c> size</c><00:21:16.320><c> to</c><00:21:16.480><c> 10.</c>
+
+00:21:17.669 --> 00:21:17.679 align:start position:0%
+set its goal size to 10.
+ 
+
+00:21:17.679 --> 00:21:19.270 align:start position:0%
+set its goal size to 10.
+so<00:21:17.919><c> for</c><00:21:18.000><c> example</c><00:21:18.320><c> if</c><00:21:18.400><c> this</c><00:21:18.559><c> was</c><00:21:18.720><c> a</c><00:21:18.799><c> scriptable</c>
+
+00:21:19.270 --> 00:21:19.280 align:start position:0%
+so for example if this was a scriptable
+ 
+
+00:21:19.280 --> 00:21:21.430 align:start position:0%
+so for example if this was a scriptable
+object<00:21:19.760><c> and</c><00:21:19.840><c> it</c><00:21:19.919><c> was</c><00:21:20.080><c> an</c><00:21:20.159><c> inventory</c><00:21:20.640><c> system</c>
+
+00:21:21.430 --> 00:21:21.440 align:start position:0%
+object and it was an inventory system
+ 
+
+00:21:21.440 --> 00:21:23.909 align:start position:0%
+object and it was an inventory system
+and<00:21:21.679><c> i</c><00:21:21.840><c> had</c><00:21:22.159><c> loads</c><00:21:22.400><c> of</c><00:21:22.559><c> inventory</c><00:21:23.280><c> items</c><00:21:23.679><c> and</c><00:21:23.840><c> i</c>
+
+00:21:23.909 --> 00:21:23.919 align:start position:0%
+and i had loads of inventory items and i
+ 
+
+00:21:23.919 --> 00:21:26.230 align:start position:0%
+and i had loads of inventory items and i
+changed<00:21:24.320><c> how</c><00:21:24.480><c> many</c><00:21:24.720><c> i</c><00:21:24.799><c> had</c><00:21:25.440><c> when</c><00:21:25.679><c> you</c><00:21:25.840><c> stop</c>
+
+00:21:26.230 --> 00:21:26.240 align:start position:0%
+changed how many i had when you stop
+ 
+
+00:21:26.240 --> 00:21:27.830 align:start position:0%
+changed how many i had when you stop
+playing
+
+00:21:27.830 --> 00:21:27.840 align:start position:0%
+playing
+ 
+
+00:21:27.840 --> 00:21:30.390 align:start position:0%
+playing
+this<00:21:28.159><c> data</c><00:21:28.559><c> stays</c><00:21:28.960><c> the</c><00:21:29.120><c> same</c><00:21:29.600><c> and</c><00:21:29.679><c> that</c><00:21:30.159><c> that</c>
+
+00:21:30.390 --> 00:21:30.400 align:start position:0%
+this data stays the same and that that
+ 
+
+00:21:30.400 --> 00:21:32.230 align:start position:0%
+this data stays the same and that that
+works<00:21:30.720><c> even</c><00:21:30.880><c> when</c><00:21:31.039><c> you</c><00:21:31.120><c> build</c><00:21:31.440><c> the</c><00:21:31.600><c> project</c><00:21:32.080><c> as</c>
+
+00:21:32.230 --> 00:21:32.240 align:start position:0%
+works even when you build the project as
+ 
+
+00:21:32.240 --> 00:21:33.350 align:start position:0%
+works even when you build the project as
+well<00:21:32.480><c> so</c>
+
+00:21:33.350 --> 00:21:33.360 align:start position:0%
+well so
+ 
+
+00:21:33.360 --> 00:21:36.950 align:start position:0%
+well so
+um<00:21:33.840><c> a</c><00:21:34.080><c> kind</c><00:21:34.240><c> of</c><00:21:34.480><c> easy-ish</c><00:21:35.440><c> way</c><00:21:35.679><c> of</c><00:21:35.919><c> saving</c>
+
+00:21:36.950 --> 00:21:36.960 align:start position:0%
+um a kind of easy-ish way of saving
+ 
+
+00:21:36.960 --> 00:21:39.590 align:start position:0%
+um a kind of easy-ish way of saving
+your<00:21:37.120><c> inventory</c><00:21:37.520><c> systems</c><00:21:38.080><c> is</c><00:21:38.320><c> to</c><00:21:38.960><c> use</c><00:21:39.120><c> this</c><00:21:39.440><c> go</c>
+
+00:21:39.590 --> 00:21:39.600 align:start position:0%
+your inventory systems is to use this go
+ 
+
+00:21:39.600 --> 00:21:41.750 align:start position:0%
+your inventory systems is to use this go
+the<00:21:39.760><c> scriptable</c><00:21:40.240><c> object</c><00:21:40.640><c> route</c><00:21:41.280><c> but</c><00:21:41.520><c> because</c>
+
+00:21:41.750 --> 00:21:41.760 align:start position:0%
+the scriptable object route but because
+ 
+
+00:21:41.760 --> 00:21:44.870 align:start position:0%
+the scriptable object route but because
+i<00:21:41.919><c> know</c><00:21:42.080><c> i</c><00:21:42.240><c> do</c><00:21:42.400><c> want</c><00:21:42.640><c> to</c><00:21:42.799><c> build</c><00:21:43.200><c> a</c><00:21:44.320><c> safe</c><00:21:44.640><c> load</c>
+
+00:21:44.870 --> 00:21:44.880 align:start position:0%
+i know i do want to build a safe load
+ 
+
+00:21:44.880 --> 00:21:47.350 align:start position:0%
+i know i do want to build a safe load
+system<00:21:45.440><c> anyway</c><00:21:46.000><c> i've</c><00:21:46.240><c> gone</c><00:21:46.559><c> for</c>
+
+00:21:47.350 --> 00:21:47.360 align:start position:0%
+system anyway i've gone for
+ 
+
+00:21:47.360 --> 00:21:49.350 align:start position:0%
+system anyway i've gone for
+the<00:21:47.520><c> kind</c><00:21:47.679><c> of</c><00:21:47.760><c> normal</c><00:21:48.240><c> classroom</c><00:21:48.960><c> so</c><00:21:49.120><c> that'll</c>
+
+00:21:49.350 --> 00:21:49.360 align:start position:0%
+the kind of normal classroom so that'll
+ 
+
+00:21:49.360 --> 00:21:50.950 align:start position:0%
+the kind of normal classroom so that'll
+be<00:21:49.520><c> kind</c><00:21:49.679><c> of</c><00:21:49.840><c> a</c>
+
+00:21:50.950 --> 00:21:50.960 align:start position:0%
+be kind of a
+ 
+
+00:21:50.960 --> 00:21:53.190 align:start position:0%
+be kind of a
+an<00:21:51.120><c> expansion</c><00:21:51.840><c> if</c><00:21:51.919><c> you</c><00:21:52.080><c> will</c><00:21:52.320><c> to</c><00:21:52.480><c> this</c><00:21:52.720><c> series</c>
+
+00:21:53.190 --> 00:21:53.200 align:start position:0%
+an expansion if you will to this series
+ 
+
+00:21:53.200 --> 00:21:54.710 align:start position:0%
+an expansion if you will to this series
+if<00:21:53.520><c> if</c><00:21:53.600><c> that's</c><00:21:53.840><c> what</c><00:21:54.000><c> people</c><00:21:54.240><c> want</c><00:21:54.480><c> if</c><00:21:54.559><c> there's</c>
+
+00:21:54.710 --> 00:21:54.720 align:start position:0%
+if if that's what people want if there's
+ 
+
+00:21:54.720 --> 00:21:56.390 align:start position:0%
+if if that's what people want if there's
+anything<00:21:55.039><c> else</c><00:21:55.280><c> specific</c><00:21:55.760><c> that</c><00:21:55.919><c> you</c><00:21:56.000><c> want</c><00:21:56.240><c> to</c>
+
+00:21:56.390 --> 00:21:56.400 align:start position:0%
+anything else specific that you want to
+ 
+
+00:21:56.400 --> 00:21:58.230 align:start position:0%
+anything else specific that you want to
+see<00:21:56.720><c> in</c><00:21:56.960><c> an</c><00:21:57.120><c> expansion</c><00:21:57.520><c> to</c><00:21:57.600><c> this</c><00:21:57.760><c> course</c><00:21:58.080><c> let</c>
+
+00:21:58.230 --> 00:21:58.240 align:start position:0%
+see in an expansion to this course let
+ 
+
+00:21:58.240 --> 00:21:59.510 align:start position:0%
+see in an expansion to this course let
+me<00:21:58.320><c> know</c><00:21:58.480><c> in</c><00:21:58.559><c> the</c><00:21:58.640><c> comments</c><00:21:59.039><c> there's</c><00:21:59.200><c> always</c>
+
+00:21:59.510 --> 00:21:59.520 align:start position:0%
+me know in the comments there's always
+ 
+
+00:21:59.520 --> 00:22:01.990 align:start position:0%
+me know in the comments there's always
+the<00:21:59.840><c> project</c><00:22:00.240><c> files</c><00:22:00.640><c> for</c><00:22:00.880><c> this</c><00:22:01.200><c> entire</c><00:22:01.600><c> course</c>
+
+00:22:01.990 --> 00:22:02.000 align:start position:0%
+the project files for this entire course
+ 
+
+00:22:02.000 --> 00:22:04.710 align:start position:0%
+the project files for this entire course
+including<00:22:02.640><c> all</c><00:22:02.799><c> of</c><00:22:02.880><c> the</c><00:22:03.039><c> scripts</c><00:22:03.600><c> from</c><00:22:03.919><c> each</c>
+
+00:22:04.710 --> 00:22:04.720 align:start position:0%
+including all of the scripts from each
+ 
+
+00:22:04.720 --> 00:22:07.430 align:start position:0%
+including all of the scripts from each
+individual<00:22:05.760><c> episode</c><00:22:06.159><c> i've</c><00:22:06.320><c> exported</c><00:22:07.200><c> each</c>
+
+00:22:07.430 --> 00:22:07.440 align:start position:0%
+individual episode i've exported each
+ 
+
+00:22:07.440 --> 00:22:08.870 align:start position:0%
+individual episode i've exported each
+episode's<00:22:07.919><c> script</c><00:22:08.240><c> at</c><00:22:08.320><c> the</c><00:22:08.400><c> end</c><00:22:08.559><c> of</c><00:22:08.640><c> that</c>
+
+00:22:08.870 --> 00:22:08.880 align:start position:0%
+episode's script at the end of that
+ 
+
+00:22:08.880 --> 00:22:09.909 align:start position:0%
+episode's script at the end of that
+episode
+
+00:22:09.909 --> 00:22:09.919 align:start position:0%
+episode
+ 
+
+00:22:09.919 --> 00:22:12.310 align:start position:0%
+episode
+and<00:22:10.480><c> if</c><00:22:10.640><c> you</c><00:22:10.720><c> want</c><00:22:10.880><c> to</c><00:22:10.960><c> compare</c><00:22:11.360><c> your</c><00:22:11.600><c> script</c>
+
+00:22:12.310 --> 00:22:12.320 align:start position:0%
+and if you want to compare your script
+ 
+
+00:22:12.320 --> 00:22:15.149 align:start position:0%
+and if you want to compare your script
+to<00:22:12.960><c> what</c><00:22:13.120><c> i've</c><00:22:13.280><c> done</c><00:22:13.440><c> then</c><00:22:13.600><c> come</c><00:22:13.760><c> over</c><00:22:14.000><c> to</c>
+
+00:22:15.149 --> 00:22:15.159 align:start position:0%
+to what i've done then come over to
+ 
+
+00:22:15.159 --> 00:22:17.270 align:start position:0%
+to what i've done then come over to
+patreon.com<00:22:16.240><c> and</c><00:22:16.320><c> you</c><00:22:16.480><c> can</c><00:22:16.559><c> get</c><00:22:16.720><c> access</c><00:22:17.120><c> to</c>
+
+00:22:17.270 --> 00:22:17.280 align:start position:0%
+patreon.com and you can get access to
+ 
+
+00:22:17.280 --> 00:22:19.270 align:start position:0%
+patreon.com and you can get access to
+them<00:22:17.440><c> there</c><00:22:17.760><c> if</c><00:22:17.919><c> you</c><00:22:18.080><c> support</c><00:22:18.480><c> me</c><00:22:18.640><c> on</c><00:22:18.799><c> patreon</c>
+
+00:22:19.270 --> 00:22:19.280 align:start position:0%
+them there if you support me on patreon
+ 
+
+00:22:19.280 --> 00:22:20.710 align:start position:0%
+them there if you support me on patreon
+if<00:22:19.360><c> you</c><00:22:19.440><c> want</c><00:22:19.600><c> to</c><00:22:19.679><c> discuss</c><00:22:20.080><c> the</c><00:22:20.159><c> course</c><00:22:20.400><c> or</c><00:22:20.559><c> get</c>
+
+00:22:20.710 --> 00:22:20.720 align:start position:0%
+if you want to discuss the course or get
+ 
+
+00:22:20.720 --> 00:22:22.310 align:start position:0%
+if you want to discuss the course or get
+help<00:22:20.960><c> with</c><00:22:21.200><c> any</c><00:22:21.440><c> kind</c><00:22:21.600><c> of</c><00:22:21.679><c> elements</c><00:22:22.080><c> of</c><00:22:22.159><c> this</c>
+
+00:22:22.310 --> 00:22:22.320 align:start position:0%
+help with any kind of elements of this
+ 
+
+00:22:22.320 --> 00:22:24.310 align:start position:0%
+help with any kind of elements of this
+course<00:22:22.640><c> or</c><00:22:22.720><c> this</c><00:22:23.280><c> episode</c><00:22:23.679><c> in</c><00:22:23.760><c> particular</c>
+
+00:22:24.310 --> 00:22:24.320 align:start position:0%
+course or this episode in particular
+ 
+
+00:22:24.320 --> 00:22:26.630 align:start position:0%
+course or this episode in particular
+then<00:22:24.640><c> again</c><00:22:24.960><c> leave</c><00:22:25.200><c> a</c><00:22:25.280><c> comment</c><00:22:25.600><c> below</c><00:22:26.000><c> or</c><00:22:26.400><c> join</c>
+
+00:22:26.630 --> 00:22:26.640 align:start position:0%
+then again leave a comment below or join
+ 
+
+00:22:26.640 --> 00:22:27.990 align:start position:0%
+then again leave a comment below or join
+the<00:22:26.799><c> discord</c><00:22:27.200><c> server</c><00:22:27.440><c> which</c><00:22:27.600><c> is</c><00:22:27.679><c> linked</c><00:22:27.919><c> in</c>
+
+00:22:27.990 --> 00:22:28.000 align:start position:0%
+the discord server which is linked in
+ 
+
+00:22:28.000 --> 00:22:29.430 align:start position:0%
+the discord server which is linked in
+the<00:22:28.080><c> description</c>
+
+00:22:29.430 --> 00:22:29.440 align:start position:0%
+the description
+ 
+
+00:22:29.440 --> 00:22:31.029 align:start position:0%
+the description
+but<00:22:29.679><c> in</c><00:22:29.760><c> the</c><00:22:29.840><c> meantime</c><00:22:30.400><c> thanks</c><00:22:30.640><c> for</c><00:22:30.720><c> watching</c>
+
+00:22:31.029 --> 00:22:31.039 align:start position:0%
+but in the meantime thanks for watching
+ 
+
+00:22:31.039 --> 00:22:52.470 align:start position:0%
+but in the meantime thanks for watching
+and<00:22:31.200><c> i'll</c><00:22:31.280><c> see</c><00:22:31.440><c> you</c><00:22:31.520><c> in</c><00:22:31.600><c> the</c><00:22:31.679><c> next</c><00:22:31.919><c> one</c><00:22:32.159><c> bye</c>
+
+00:22:52.470 --> 00:22:52.480 align:start position:0%
+ 
+ 
+
+00:22:52.480 --> 00:22:54.559 align:start position:0%
+ 
+you
+
