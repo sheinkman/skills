@@ -67,7 +67,7 @@ Write-Host ""
 $ans = Read-Host "Push these transcripts back to the branch so Claude can read them? (y/N)"
 if ($ans -eq "y" -or $ans -eq "Y") {
     git add $work
-    git commit -m "Add downloaded YouTube transcripts for nogrid-tactics-combat"
+    git commit -m "Add downloaded YouTube transcripts for crpg-tactical-combat"
     git push -u origin claude/optimistic-euler-u43gc8
     Write-Host "Pushed. Now tell Claude: 'transcripts are pushed, continue.'"
 } else {

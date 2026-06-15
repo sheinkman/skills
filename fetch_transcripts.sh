@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# fetch_transcripts.sh — download YouTube captions for the nogrid-tactics-combat skill.
+# fetch_transcripts.sh — download YouTube captions for the crpg-tactical-combat skill.
 #
 # WHY THIS EXISTS:
 #   The cloud environment Claude runs in blocks YouTube, so Claude can't pull the
@@ -31,7 +31,7 @@ WORK_DIR="_transcripts"
 mkdir -p "$WORK_DIR"
 
 echo "============================================================"
-echo " nogrid-tactics-combat — transcript downloader"
+echo " crpg-tactical-combat — transcript downloader"
 echo "============================================================"
 
 # ---- Step 0: make sure yt-dlp is available ----------------------------------
@@ -116,7 +116,7 @@ echo "------------------------------------------------------------"
 read -r -p "Push these transcripts back to the branch so Claude can read them? [y/N] " ans
 if [[ "$ans" =~ ^[Yy]$ ]]; then
   git add "$WORK_DIR"
-  git commit -m "Add downloaded YouTube transcripts for nogrid-tactics-combat"
+  git commit -m "Add downloaded YouTube transcripts for crpg-tactical-combat"
   git push -u origin claude/optimistic-euler-u43gc8
   echo "Pushed. You can now tell Claude: 'transcripts are on the branch, continue.'"
 else
