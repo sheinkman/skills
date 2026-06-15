@@ -62,7 +62,7 @@ public sealed class ActionResult
 
 Two design choices keep this honest:
 - **State in, state + result out.** Either mutate a passed-in mutable state and emit the result, or (cleaner for AI/replay) treat `CombatState` as immutable and return a new state. Immutable-with-structural-sharing makes "clone and simulate" free for the AI.
-- **No engine types leak in.** The pipeline shouldn't import `UnityEngine`. Pathing/LoS, which need Unity, sit behind injected interfaces so the resolver stays testable. (The dedicated treatment is `engine-independent-core.md` once added; this reference establishes *why* the boundary exists.)
+- **No engine types leak in.** The pipeline shouldn't import `UnityEngine`. Pathing/LoS, which need Unity, sit behind injected interfaces so the resolver stays testable. (The dedicated treatment is `engine-independent-core.md`; this reference establishes *why* the boundary exists.)
 
 ## Actions as data: the action/effect model
 
@@ -85,7 +85,7 @@ The tutorials converge on a clean, pure damage model — emulate it (it has almo
 3. **Mitigation by damage type:** a `DamageType` (e.g. Physical/Magical) selects Armor or Resistance to subtract.
 4. **Floor:** clamp to a minimum (the tutorials use 1) so every hit does something.
 
-Derive offense/defense from attributes through single-source getters (`GetDamage(type)`, `GetDefense(type)`) rather than scattering formulas. Keep the **RNG injectable and seeded** (passed in, stored in state) — never `UnityEngine.Random` static — so the same encounter replays identically and tests are deterministic. The detailed determinism rationale belongs in `testing-and-determinism.md` once added; the rule to follow now is: *all randomness flows through a seed held in the combat state.*
+Derive offense/defense from attributes through single-source getters (`GetDamage(type)`, `GetDefense(type)`) rather than scattering formulas. Keep the **RNG injectable and seeded** (passed in, stored in state) — never `UnityEngine.Random` static — so the same encounter replays identically and tests are deterministic. The detailed determinism rationale is in `testing-and-determinism.md`; the rule to follow now is: *all randomness flows through a seed held in the combat state.*
 
 ## Status effects
 

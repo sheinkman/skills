@@ -41,7 +41,7 @@ Multi-step look-ahead is the same idea recursed (simulate my action, then the op
 
 ## Why this needs the pure core
 
-If resolution were entangled with animation/coroutines (the tutorials' model), step 2 would be impossible — you can't "play the attack animation on a hypothetical copy" to find out the damage. The cloneable, synchronous resolver is precisely what makes simulation-based AI tractable. This dependency is why `testing-and-determinism.md` (once added) and this file are linked: the property that makes the rules unit-testable is the same one that makes the AI able to plan. Keep the AI's scoring deterministic given a seed, too, so enemy behavior is reproducible in tests and replays.
+If resolution were entangled with animation/coroutines (the tutorials' model), step 2 would be impossible — you can't "play the attack animation on a hypothetical copy" to find out the damage. The cloneable, synchronous resolver is precisely what makes simulation-based AI tractable. **`Simulate` therefore depends directly on the cloneable, engine-independent core** described in `engine-independent-core.md` and `testing-and-determinism.md`: the property that makes the rules unit-testable is the same one that makes the AI able to plan. Keep the AI's scoring deterministic given a seed, too, so enemy behavior is reproducible in tests and replays.
 
 ## Difficulty knobs
 

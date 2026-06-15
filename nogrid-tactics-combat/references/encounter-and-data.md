@@ -52,7 +52,7 @@ The shop/merchant economy from the sources is **out of scope** for combat. Two i
 For a single-player CRPG, `JsonUtility` is sufficient and the sources' approach is sound:
 
 - Convert runtime state into plain **`[System.Serializable]` DTOs** — no MonoBehaviour, no SO references. Items become `{ stableId, amount }`. Resolve IDs back to definitions via the `ItemDatabase` on load.
-- **Nest DTOs** to build the save graph: a `UnitSaveData` contains its `InventorySaveData`; an `EncounterSaveData` contains unit positions, HP/AP, cooldowns, status lists, the initiative order, **and the RNG seed/stream position**. Serializing the seed is what lets a battle replay or resume deterministically (see `turn-and-resolution.md`, and `testing-and-determinism.md` once added).
+- **Nest DTOs** to build the save graph: a `UnitSaveData` contains its `InventorySaveData`; an `EncounterSaveData` contains unit positions, HP/AP, cooldowns, status lists, the initiative order, **and the RNG seed/stream position**. Serializing the seed is what lets a battle replay or resume deterministically (see `turn-and-resolution.md` and `testing-and-determinism.md`).
 - Persist to `Application.persistentDataPath` with `File.WriteAllText`/`ReadAllText`. Avoid the deprecated `BinaryFormatter`.
 - Identify stateful world objects (chests, defeated enemies, levers, encounter flags) by a **stable GUID** via a `UniqueId` component, keyed in a central save dictionary. (`JsonUtility` can't serialize a `Dictionary` directly — use a `[Serializable]` wrapper with parallel key/value lists via `ISerializationCallbackReceiver`.)
 - A static save/load broker exposing `OnSave`/`OnLoad` events lets each system serialize itself without a central object knowing all of them.

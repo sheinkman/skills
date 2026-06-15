@@ -37,7 +37,7 @@ public static bool CanReach(Vector3 from, Vector3 dest, float budgetMeters, out 
 
 Notes:
 - **Difficult terrain** (the tutorials' forest = 2× cost) maps to **NavMesh area costs** (`NavMesh.SetAreaCost` / per-area cost in the agent settings). The path length already reflects them, so the budget check stays the same.
-- Keep this as a plain service, not a `MonoBehaviour`, so the pure rules layer can call it. (See `engine-independent-core.md` once it exists — pathing is the one place the "pure core" legitimately consults a Unity service; isolate it behind an interface.)
+- Keep this as a plain service, not a `MonoBehaviour`, so the pure rules layer can call it. (See `engine-independent-core.md` — pathing is one of the few places the "pure core" legitimately consults a Unity service; isolate it behind an injected interface.)
 - "Snap a clicked point onto the walkable surface" is `NavMesh.SamplePosition(worldPoint, out hit, maxDist, areaMask)` — the replacement for "world hit → grid cell".
 
 ## Reachability and its visualization

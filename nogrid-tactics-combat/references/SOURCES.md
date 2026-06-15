@@ -66,3 +66,19 @@ Playlist (environments): https://www.youtube.com/playlist?list=PLsg5Z44PDzwTF9Bo
 - **How I Learned Procedural Generation:** procedural mesh + Perlin height — referenced only for height-sampling/NavMesh-baking context.
 - **Build a beautiful 3D open world in 5 minutes (Unity 6); Quick Tips for Beautiful Terrain (Synty):** terrain sculpting + asset import + URP post-fx — referenced only for terrain-surface/camera context.
 - **How to Create Isometric 2D Game Assets; Using AI to Generate Game Assets For Free:** art/asset generation — no combat technique folded in.
+
+## Engine-independent core (architecture sources)
+
+Sources for `engine-independent-core.md` and `testing-and-determinism.md`. **Ingestion status is noted honestly per source**, per the no-fabrication rule.
+
+YouTube (architecture):
+- **Code Monkey — Turn-Based Strategy course overview** (https://www.youtube.com/watch?v=QDr_pjzedv0): *not yet ingested as captions* (needs a download pass from a network-enabled machine). The Action-architecture it teaches overlaps the already-ingested "I made XCOM in 25 HOURS!" (https://www.youtube.com/watch?v=ezlkGhFBrmg), which informed the action pipeline and the clone-and-simulate framing.
+- **git-amend — state machine / command / service-locator videos** (channel: https://www.youtube.com/@git-amend): *not yet ingested as captions*. These standard pattern explainers reinforce material the skill already covers (command dispatch in `turn-and-resolution.md`; the service-locator-style `StageManager` in `encounter-and-data.md`). To be folded in once downloaded via `fetch_core_sources.ps1`.
+
+Web reference pages (bucket B) — **none were fetched live: all 9 were blocked by the build environment's network policy** (`host_not_allowed`). They are canonical, stable references, so the patterns were distilled from established knowledge; no page-specific text or wording is reproduced, and no page-specific claims are asserted.
+- *Game Programming Patterns* — Command & State chapters (https://gameprogrammingpatterns.com/): the canonical Command and State pattern treatment behind the action/command and turn-state modeling.
+- *The Liquid Fire* — Tactics RPG series (https://theliquidfire.com/2015/05/04/tactics-rpg-series-intro/): a deep grid-based tactics-RPG architecture series; grid/MonoBehaviour-coupled, so taken for FSM/command/turn-flow ideas only.
+- Outscal — Turn-based game architecture (https://outscal.com/blog/turn-based-game-architecture): FSM + Command + data-driven combat structure.
+- Unity — State programming pattern (https://unity.com/how-to/develop-modular-flexible-codebase-state-programming-pattern) and Habrador patterns (https://www.habrador.com/tutorials/programming-patterns/): state/command pattern guidance.
+- Unity Learn / Embrace — Assembly Definitions (https://learn.unity.com/tutorial/working-with-assembly-definitions, https://embrace.io/blog/getting-started-with-assembly-definitions-in-unity/): the `.asmdef` mechanics behind the compiler-enforced core/engine boundary.
+- Unity — Automated tests with the Test Framework (https://unity.com/how-to/automated-tests-unity-test-framework) and Edit vs Play Mode tests (https://docs.unity3d.com/6000.4/Documentation/Manual/test-framework/edit-mode-vs-play-mode-tests.html): the Edit Mode / NUnit testing approach for the pure core.
