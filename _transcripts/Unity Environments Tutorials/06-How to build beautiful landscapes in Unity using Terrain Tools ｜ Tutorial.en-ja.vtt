@@ -1,0 +1,750 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.190 --> 00:00:01.310
+In this video, we'll look at how to build terrain using the
+
+00:00:01.310 --> 00:00:03.780
+Unity Terrain Tools package and the
+
+00:00:03.780 --> 00:00:05.870
+Universal Render Pipeline. The
+
+00:00:05.870 --> 00:00:08.320
+
+
+00:00:08.320 --> 00:00:10.850
+Terrain Tools are an excellent way to create high-performance worlds for many platforms with exceptional flexibility and
+
+00:00:10.850 --> 00:00:13.772
+creative freedom. They work in
+
+00:00:13.772 --> 00:00:16.870
+
+
+00:00:16.870 --> 00:00:18.953
+conjunction with other Unity systems and serve as an entry point
+
+00:00:18.953 --> 00:00:22.448
+to creating various types of games and simulations.
+
+00:00:22.448 --> 00:00:24.910
+
+
+00:00:24.910 --> 00:00:27.970
+Once you're familiar with the Terrain Tools, you'll see that it's a
+
+00:00:27.970 --> 00:00:32.077
+fantastic way to build worlds. It
+
+00:00:32.077 --> 00:00:33.918
+
+
+00:00:33.918 --> 00:00:35.537
+
+
+00:00:35.537 --> 00:00:36.620
+
+
+00:00:36.620 --> 00:00:38.600
+provides many features to define your project style and create highly polished scenes. To get started with the
+
+00:00:38.600 --> 00:00:41.205
+latest Terrain Tools in Unity 2020.1, you
+
+00:00:41.205 --> 00:00:43.240
+
+
+00:00:43.240 --> 00:00:45.214
+
+
+00:00:45.214 --> 00:00:48.580
+need to make sure your Package Manager is set to enable preview packages. This is under
+
+00:00:48.580 --> 00:00:53.580
+[Project Settings] &gt; [Package
+Manager] &gt; [Advanced Settings]. In
+
+00:00:53.580 --> 00:00:54.793
+this demo, we'll also install several other
+
+00:00:54.793 --> 00:00:57.820
+free terrain assets from the Asset Store.
+
+00:00:57.820 --> 00:00:59.240
+
+
+00:00:59.240 --> 00:01:03.110
+Check the description for a list of these packages. Once you've
+
+00:01:03.110 --> 00:01:05.176
+installed the Terrain Tools, you can
+
+00:01:05.176 --> 00:01:07.530
+start building terrain.
+
+00:01:07.530 --> 00:01:11.500
+Select [Window] &gt; [Terrain] &gt; [TerrainToolbox].
+
+00:01:11.500 --> 00:01:13.090
+Dock the Terrain Toolbox and
+
+00:01:13.090 --> 00:01:16.270
+go to the [Create New Terrain] tab. The
+
+00:01:16.270 --> 00:01:19.750
+tab shows you setting options such as size, height, and starting position. Let's
+
+00:01:19.750 --> 00:01:22.750
+
+
+00:01:22.750 --> 00:01:26.760
+create one terrain with all the default settings at the
+
+00:01:26.760 --> 00:01:28.620
+bottom of the window.
+
+00:01:28.620 --> 00:01:29.950
+Clicking [Create] will
+
+00:01:29.950 --> 00:01:33.280
+display a new terrain in your scene Raising and
+
+00:01:33.280 --> 00:01:35.030
+lowering the terrain is the most important component for editing it
+
+00:01:35.030 --> 00:01:38.780
+using the terrain mesh selected in the Hierarchy window
+
+00:01:38.780 --> 00:01:41.960
+
+
+00:01:41.960 --> 00:01:44.320
+Make sure the Inspector is displayed
+
+00:01:44.320 --> 00:01:46.390
+At the top of the terrain component you will see
+
+00:01:46.390 --> 00:01:48.800
+several icons The
+
+00:01:48.800 --> 00:01:51.170
+brush icon allows you to
+
+00:01:51.170 --> 00:01:55.490
+directly edit the terrain geometry texture
+
+00:01:55.490 --> 00:01:57.150
+Below the row of icons
+
+00:01:57.150 --> 00:02:01.060
+Click the dropdown and select [Raise or
+Lower Terrain]
+
+00:02:01.060 --> 00:02:03.460
+Select a simple round brush mask
+
+00:02:03.460 --> 00:02:06.110
+Now you are ready to modify the mesh Let's
+
+00:02:06.110 --> 00:02:09.850
+create some basic hills and raised areas Without
+
+00:02:09.850 --> 00:02:11.850
+obvious steps To
+
+00:02:11.850 --> 00:02:13.880
+create more detailed terrain The
+
+00:02:13.880 --> 00:02:17.660
+terrain tool supports 16-bit depth brushes
+
+00:02:17.660 --> 00:02:18.782
+Many of them are
+
+00:02:18.782 --> 00:02:22.240
+included in the terrain tool sample asset pack
+
+00:02:22.240 --> 00:02:24.760
+Links are provided in the description
+
+00:02:24.760 --> 00:02:27.830
+Here is an example of a working brush
+
+00:02:27.830 --> 00:02:30.046
+Holding down A on your keyboard
+
+00:02:30.046 --> 00:02:32.820
+adjusts the strength of the sculpt brush
+
+00:02:32.820 --> 00:02:37.610
+S changes the size of the brush D rotates the brush Holding down
+
+00:02:37.610 --> 00:02:38.780
+Shift
+
+00:02:38.780 --> 00:02:41.330
+changes the brush's behavior to smoothing Holding down
+
+00:02:41.330 --> 00:02:44.170
+Ctrl inverts the brush Let's
+
+00:02:44.170 --> 00:02:47.600
+lower the terrain with a brush mask instead of raising it
+
+00:02:47.600 --> 00:02:50.160
+If you want to change these keybindings, you can
+
+00:02:50.160 --> 00:02:53.783
+use Unity's shortcut manager to rebound
+
+00:02:56.730 --> 00:02:58.820
+Using a noise brush  You can
+
+00:02:58.820 --> 00:03:01.740
+create a lot of high-frequency detail across the terrain. You can
+
+00:03:01.740 --> 00:03:04.593
+add a little randomness to the terrain mesh. The
+
+00:03:07.730 --> 00:03:10.352
+latest terrain tools also include an erosion brush that
+
+00:03:10.352 --> 00:03:13.087
+can simulate the effects of wind, water, and heat changes on the mesh. When
+
+00:03:13.087 --> 00:03:16.163
+
+
+00:03:18.030 --> 00:03:20.710
+used in combination with other brush parameters, you
+
+00:03:20.710 --> 00:03:23.803
+can create a lot of very realistic effects.
+
+00:03:25.830 --> 00:03:27.730
+Digging further into the tools,
+
+00:03:27.730 --> 00:03:30.030
+we polished the mask filters.
+
+00:03:30.030 --> 00:03:32.273
+These powerful brush filters allow you to
+
+00:03:32.273 --> 00:03:34.917
+parameterize strokes and
+
+00:03:34.917 --> 00:03:39.003
+create multi-layer inputs that make it easy to create dynamic effects.
+
+00:03:42.170 --> 00:03:43.257
+
+
+00:03:43.257 --> 00:03:46.460
+Once you have the terrain and feel that the rough placement of the features is right, let's
+
+00:03:46.460 --> 00:03:48.670
+move on to texturing.
+
+00:03:48.670 --> 00:03:51.570
+One of the great things about the Unity terrain workflow is that once you have a
+
+00:03:51.570 --> 00:03:54.300
+good understanding of the texture system, you can
+
+00:03:54.300 --> 00:03:58.230
+easily iterate, adjust, and improve any part of the mesh at any time. You can
+
+00:03:58.230 --> 00:04:01.000
+
+
+00:04:01.000 --> 00:04:02.570
+then start refining and bring your
+
+00:04:02.570 --> 00:04:04.373
+scene to life.
+
+00:04:06.940 --> 00:04:10.300
+Creating a palette of terrain materials in the Layers tab
+
+00:04:10.300 --> 00:04:13.190
+greatly simplifies painting the terrain.
+
+00:04:13.190 --> 00:04:14.630
+"Experience speaks for itself," but it is important to understand that the
+
+00:04:14.630 --> 00:04:17.438
+order of textures can be easily changed.
+
+00:04:17.438 --> 00:04:19.510
+
+
+00:04:19.510 --> 00:04:21.874
+However, if the
+
+00:04:21.874 --> 00:04:24.467
+order of terrain meshes is changed after you have started texturing, you may encounter
+
+00:04:24.467 --> 00:04:27.430
+visual problems.
+
+00:04:27.430 --> 00:04:29.460
+Having a palette prepared in advance
+
+00:04:29.460 --> 00:04:32.080
+allows you to easily revert materials. In
+
+00:04:32.080 --> 00:04:34.400
+case you make a mistake,
+
+00:04:34.400 --> 00:04:36.352
+keep the order of materials in mind.
+
+00:04:36.352 --> 00:04:39.283
+When painting textures, you need to understand that you are actually painting weighted indices
+
+00:04:39.283 --> 00:04:43.340
+onto a splatmap.
+
+00:04:43.340 --> 00:04:45.400
+URP's terrain shader
+
+00:04:45.400 --> 00:04:48.710
+can blend between an unlimited number of terrain layers;
+
+00:04:48.710 --> 00:04:51.650
+however, with height-based blending enabled,
+
+00:04:51.650 --> 00:04:55.930
+Unity supports four terrain layers and one splatmap. You can
+
+00:04:55.930 --> 00:04:58.473
+save texture palettes as presets to
+
+00:04:58.473 --> 00:05:00.610
+
+
+00:05:00.610 --> 00:05:03.023
+easily set up terrain meshes with similar biomes and features. The
+
+00:05:04.000 --> 00:05:06.168
+terrain material itself is a
+
+00:05:06.168 --> 00:05:09.938
+
+
+00:05:09.938 --> 00:05:14.370
+custom material type that supports albedo, normal mapping, and a special mask texture with multiple features. The
+
+00:05:14.370 --> 00:05:15.920
+mask texture supports metallic
+
+00:05:15.920 --> 00:05:18.360
+values ​​in the red channel,
+
+00:05:18.360 --> 00:05:21.810
+ambient occlusion values ​​in the green channel,
+
+00:05:21.810 --> 00:05:24.060
+height values ​​which greatly improve material blending in the
+
+00:05:24.060 --> 00:05:26.620
+blue channel, and
+
+00:05:26.620 --> 00:05:30.190
+smoothness values ​​in the alpha channel.
+
+00:05:30.190 --> 00:05:32.740
+If you choose not to include a mask channel, there are
+
+00:05:32.740 --> 00:05:35.330
+metallic and smoothness overrides for the entire material. The
+
+00:05:35.330 --> 00:05:36.730
+
+
+00:05:36.730 --> 00:05:39.716
+height value only affects the material if height-based blending is enabled.
+
+00:05:39.716 --> 00:05:41.470
+
+
+00:05:41.470 --> 00:05:44.980
+Crucial to the appearance of the material is the tiling setting, which
+
+00:05:44.980 --> 00:05:47.497
+includes texture size and offset, offset based on a
+
+00:05:47.497 --> 00:05:50.504
+scalar amount related to texture size.
+
+00:05:50.504 --> 00:05:52.103
+
+
+00:05:53.000 --> 00:05:54.970
+Once the basic setup is complete, you can
+
+00:05:54.970 --> 00:05:57.240
+start defining features. In
+
+00:05:57.240 --> 00:05:59.480
+this example, we are creating a temperate forest,
+
+00:05:59.480 --> 00:06:04.450
+set on a gentle hill with clearly defined paths.  There's
+
+00:06:04.450 --> 00:06:08.230
+greenwash to define areas that are mainly covered in trees, and also
+
+00:06:08.230 --> 00:06:09.970
+areas that are covered in moss. For
+
+00:06:09.970 --> 00:06:13.020
+the darkest and wettest parts of the scene, there are
+
+00:06:13.020 --> 00:06:15.133
+
+
+00:06:15.133 --> 00:06:17.350
+rocky patches that gather at the bottom of a watershed, cliff patches for more vertical sections of
+
+00:06:17.350 --> 00:06:20.580
+terrain where grass and moss are less likely to grow,
+
+00:06:20.580 --> 00:06:23.800
+
+
+00:06:23.800 --> 00:06:25.980
+and some muddy and soily materials.
+
+00:06:25.980 --> 00:06:27.317
+
+
+00:06:27.317 --> 00:06:30.100
+For sections with more foot movement, such as people and wildlife, there are
+
+00:06:30.100 --> 00:06:32.770
+damp and depressions at the edges and
+
+00:06:32.770 --> 00:06:35.886
+dry and cracked textures in the middle.
+
+00:06:35.886 --> 00:06:38.644
+Whatever type of scene you are creating, you want to
+
+00:06:38.644 --> 00:06:40.230
+think like nature and
+
+00:06:40.230 --> 00:06:43.332
+
+
+00:06:43.332 --> 00:06:45.172
+take into account how the basic elements interact with the terrain. Ask yourself where
+
+00:06:45.172 --> 00:06:48.553
+the sun hits, where the water flows, where the rocks roll.
+
+00:06:48.553 --> 00:06:51.260
+
+
+00:06:51.260 --> 00:06:53.710
+Combined with quality references, you can really begin to understand the
+
+00:06:53.710 --> 00:06:56.210
+logical and harmonious relationships between the scene elements. The
+
+00:06:56.210 --> 00:06:59.633
+
+
+00:07:00.560 --> 00:07:04.350
+
+
+00:07:04.350 --> 00:07:07.712
+next step to make the scene more believable, with the terrain together with the textures underneath, is to
+
+00:07:07.712 --> 00:07:11.320
+add trees and other vegetation to the terrain. In the
+
+00:07:11.320 --> 00:07:13.162
+terrain component,
+
+00:07:13.162 --> 00:07:16.750
+here we go from the brush palette to the tree palette.
+
+00:07:16.750 --> 00:07:19.400
+First click [Edit Trees].
+
+00:07:19.400 --> 00:07:22.080
+Add some speed trees. There
+
+00:07:22.080 --> 00:07:24.230
+is also a link in the description box.
+
+00:07:24.230 --> 00:07:26.730
+Since we are building this scene for the desktop
+
+00:07:26.730 --> 00:07:28.420
+
+
+00:07:28.420 --> 00:07:32.720
+Select the Broadleaf and Conifer desktops as source models.
+
+00:07:32.720 --> 00:07:34.210
+Before placing the trees,
+
+00:07:34.210 --> 00:07:36.550
+increase the random size range and
+
+00:07:36.550 --> 00:07:39.058
+uncheck the lock width and height to add
+
+00:07:39.058 --> 00:07:42.900
+more variation to the tree silhouettes. Make sure to
+
+00:07:42.900 --> 00:07:45.900
+keep the values ​​within a reasonable range
+
+00:07:45.900 --> 00:07:48.287
+so you don't notice any unnatural deformations of the trunks and branches.
+
+00:07:48.287 --> 00:07:50.430
+
+
+00:07:50.430 --> 00:07:52.003
+Next,
+
+00:07:52.003 --> 00:07:53.800
+select the broadleaf tree prefab from the tree palette.
+
+00:07:53.800 --> 00:07:56.372
+Click the Mass Place Trees button and
+
+00:07:56.372 --> 00:07:58.800
+quickly add it to the terrain. A
+
+00:07:58.800 --> 00:08:00.970
+
+
+00:08:00.970 --> 00:08:03.560
+dialog box will appear with the number of trees for a 250,000 cubic meter zone.
+
+00:08:03.560 --> 00:08:05.863
+1,500 to 2,000 trees is
+
+00:08:05.863 --> 00:08:10.830
+roughly the right number for a healthy forest in this vast area. If you use the primary directional light with the
+
+00:08:10.830 --> 00:08:13.140
+first tree type added, the
+
+00:08:13.140 --> 00:08:15.770
+
+
+00:08:15.770 --> 00:08:19.250
+trees will have very strong black shadows, which is
+
+00:08:19.250 --> 00:08:21.580
+usually undesirable visually.
+
+00:08:21.580 --> 00:08:24.575
+This
+
+00:08:24.575 --> 00:08:28.120
+happens because the URP does not support global illumination or reflection probes for trees. To mitigate this, add some directional bounce lights
+
+00:08:29.778 --> 00:08:32.210
+as children of the primary directional light.
+
+00:08:32.210 --> 00:08:35.230
+
+
+00:08:35.230 --> 00:08:38.210
+These will help reduce the obvious strong shadows and
+
+00:08:38.210 --> 00:08:42.290
+enhance the shapes beneath the trees.
+
+00:08:42.290 --> 00:08:45.900
+
+
+00:08:45.900 --> 00:08:49.113
+Make sure the overall value of the light tone is low to match the overall color of the terrain. Make some changes
+
+00:08:51.080 --> 00:08:53.297
+to the size and density of the tree brush.
+
+00:08:53.297 --> 00:08:55.120
+
+
+00:08:55.120 --> 00:08:57.260
+Then you can move around within the terrain mesh,
+
+00:08:57.260 --> 00:08:59.905
+rearrange the trees, and control your clicks to remove trees
+
+00:08:59.905 --> 00:09:01.590
+from undesirable locations. You can
+
+00:09:01.590 --> 00:09:03.740
+
+
+00:09:03.740 --> 00:09:06.003
+use normal click strokes to
+
+00:09:06.003 --> 00:09:08.660
+add trees where they weren't before.
+
+00:09:08.660 --> 00:09:11.580
+Once you have the deciduous trees arranged as you like, you can
+
+00:09:11.580 --> 00:09:13.380
+select conifers and add variety to your forest
+
+00:09:13.380 --> 00:09:14.688
+with this combination of shapes. In
+
+00:09:14.688 --> 00:09:17.920
+
+
+00:09:17.920 --> 00:09:19.210
+your own work, you might
+
+00:09:19.210 --> 00:09:20.602
+
+
+00:09:20.602 --> 00:09:23.530
+want to experiment with different tree combinations at various stages of maturity, but even just
+
+00:09:23.530 --> 00:09:25.368
+these two variations will
+
+00:09:25.368 --> 00:09:26.803
+give you a nice look. Once the
+
+00:09:28.170 --> 00:09:31.330
+trees are done and the area around the path is neatly shaped, you
+
+00:09:31.330 --> 00:09:35.440
+can move on to the grass system for the final touches. In the
+
+00:09:35.440 --> 00:09:37.690
+demo, we'll keep it simple and
+
+00:09:37.690 --> 00:09:41.120
+use billboards of grass and flower textures.
+
+00:09:41.120 --> 00:09:42.423
+Add them to the palette, and once that's
+
+00:09:44.880 --> 00:09:46.120
+done, the
+
+00:09:46.120 --> 00:09:49.240
+workflow is similar to painting the tree arrangement.
+
+00:09:49.240 --> 00:09:54.160
+Variety is important so you don't make sections too dense. You need enough vegetation to
+
+00:09:54.160 --> 00:09:55.493
+break up the tree trunks and bring the
+
+00:09:55.493 --> 00:09:58.170
+shape of the hills to life. Even
+
+00:09:58.170 --> 00:10:00.670
+
+
+00:10:00.670 --> 00:10:02.178
+pops of color with flowers or
+
+00:10:02.178 --> 00:10:04.073
+drier-colored grass will make the
+
+00:10:04.073 --> 00:10:06.055
+
+
+00:10:06.055 --> 00:10:09.010
+whole scene much more vibrant without much overhead.
+
+00:10:09.010 --> 00:10:11.420
+This is where references from photographs and paintings help
+
+00:10:11.420 --> 00:10:13.330
+guide your arrangement and
+
+00:10:13.330 --> 00:10:15.345
+
+
+00:10:15.345 --> 00:10:19.090
+find the best places to densely place the billboards.
+
+00:10:19.090 --> 00:10:21.490
+Unity also supports detail meshes,
+
+00:10:21.490 --> 00:10:23.662
+so you can create
+
+00:10:23.662 --> 00:10:28.662
+fully 3D leaves and rocks in a very dynamic way.  You can add other items to the terrain. Once
+
+00:10:28.750 --> 00:10:32.773
+all the setup is complete and the basic form is finished, you can now spend some time actually moving around in the scene using all the tools we've introduced to
+
+00:10:32.773 --> 00:10:34.827
+polish the scene to a higher level and
+
+00:10:34.827 --> 00:10:37.743
+start testing potential gameplay. Once
+
+00:10:37.743 --> 00:10:40.380
+
+
+00:10:40.380 --> 00:10:43.743
+
+
+00:10:45.700 --> 00:10:47.010
+the world is set up, you
+
+00:10:47.010 --> 00:10:48.690
+
+
+00:10:48.690 --> 00:10:51.060
+can quickly add a wind zone to bring the trees to life.
+
+00:10:51.060 --> 00:10:52.980
+Keep the settings low,
+
+00:10:52.980 --> 00:10:55.961
+otherwise it will look like a hurricane simulation.
+
+00:10:55.961 --> 00:10:58.393
+Detail can be very impressive.
+
+00:11:02.860 --> 00:11:06.120
+
+
+00:11:06.120 --> 00:11:08.480
+Add similarly detailed post-processing to improve the final image quality and
+
+00:11:08.480 --> 00:11:10.680
+ensure you get the mood you want.
+
+00:11:10.680 --> 00:11:13.548
+Take some time to look around your creation in play mode and evaluate
+
+00:11:13.548 --> 00:11:16.870
+what you've been able to create using the terrain tools. For more
+
+00:11:16.870 --> 00:11:18.500
+
+
+00:11:18.500 --> 00:11:21.040
+information about terrain tools, please
+
+00:11:21.040 --> 00:11:22.430
+see the link below.
+
+00:11:22.430 --> 00:11:23.473
+Thank you for watching.
+
