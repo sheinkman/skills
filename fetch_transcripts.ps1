@@ -36,7 +36,11 @@ $urls = @(
 
 $ytArgs = @(
     "--write-auto-subs", "--write-subs", "--sub-langs", "en.*",
-    "--skip-download", "--convert-subs", "srt", "--ignore-errors",
+    "--skip-download", "--ignore-errors",
+    # Rate-limit protection so YouTube stops returning 429 Too Many Requests.
+    # (Dropped --convert-subs srt: it needs ffmpeg and .vtt is fine to read.)
+    "--sleep-requests", "1", "--sleep-subtitles", "1",
+    "--retries", "10", "--extractor-retries", "5",
     "-o", "$work/%(playlist_title|standalone)s/%(playlist_index|0)02d-%(title)s.%(ext)s"
 )
 
@@ -47,7 +51,7 @@ foreach ($u in $urls) {
 }
 
 # ---- report -----------------------------------------------------------------
-$srt = Get-ChildItem -Recurse -Path $work -Filter *.srt -ErrorAction SilentlyContinue
+$srt = Get-ChildItem -Recurse -Path $work -Include *.vtt,*.srt -ErrorAction SilentlyContinue
 Write-Host ""
 Write-Host "============================================================"
 Write-Host (" Downloaded {0} transcript files:" -f $srt.Count)
