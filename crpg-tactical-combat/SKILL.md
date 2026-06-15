@@ -1,5 +1,5 @@
 ---
-name: nogrid-tactics-combat
+name: crpg-tactical-combat
 description: Use this skill to build turn-based tactical combat with NO grid — free positioning in continuous 3D space — for a Unity 6 CRPG on the Anime 5E ruleset. Covers movement as NavMesh path-length budgets, world-space range/area targeting, raycast line-of-sight and cover, elevation, initiative and action economy, the pure ActionResult resolution pipeline, status effects, enemy AI that simulates outcomes, combat forecast UI, encounter setup, save/load, and architecting the rules as a deterministic, engine-independent C# core (own .asmdef, no UnityEngine) so combat is unit-testable and replayable. Trigger on tactical/turn-based combat, initiative, action economy, movement range, line of sight, cover, area of effect, ability resolution, damage roll, enemy AI, NavMesh movement budget, ActionResult, combat forecast, XCOM-like, Fire Emblem-like, adapting grid/tile tactics tutorials to free movement, combat architecture, determinism, seeded RNG, Edit Mode tests, and combat save/load. Targets Unity 6 + URP.
 ---
 
